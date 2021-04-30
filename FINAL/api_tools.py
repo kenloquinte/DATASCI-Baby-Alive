@@ -229,7 +229,7 @@ def search_metroLyrics(artist, track):
 def get_lyrics(track_name, artist_name, delay):    
     track_name = clean_song_title(track_name)
     artist_name = clean_artist_names(artist_name)
-    
+    """
     order = random.randint(1, 2)
     
     if (order == 1):
@@ -259,8 +259,11 @@ def get_lyrics(track_name, artist_name, delay):
         if (lyrics == None):
             lyrics = search_genius(artist_name, track_name)
 
-        # if (lyrics == None):
-            # lyrics = search_metroLyrics(artist_name, track_name)
+        if (lyrics == None):
+            lyrics = search_metroLyrics(artist_name, track_name)
+    """
+    
+    lyrics = search_azLyrics(artist_name, track_name)
                 
     time.sleep(delay)
     return lyrics
@@ -277,7 +280,7 @@ def get_genre_songs(genre_json, genre_collection, currindex=0):
     nolyrics = 0
     
     for song in genre_collection['genre_tracks'][currindex:]:
-        delay = random.randint(3, 7)
+        delay = random.randint(7, 15)
         currindex += 1
         
         print(genre_collection['genre_name'])
@@ -304,7 +307,7 @@ def get_genre_songs(genre_json, genre_collection, currindex=0):
             index = genre_df[genre_df['track_id'] == details['track_id']].index
         else: index = []
              
-        if ((len(index) == 0) or (genre_json[index[0]]['lyrics'] == None)):
+        if ((len(index) == 0) or (genre_json[index[0]]['lyrics'] != None)):
             lyrics = get_lyrics(details['track_name'], details['artist_name'], delay)
             
             if (lyrics == None):
