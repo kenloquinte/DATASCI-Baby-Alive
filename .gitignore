@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 FINAL/api_keys.py
+FINAL/data collection.ipynb
