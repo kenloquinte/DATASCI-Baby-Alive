@@ -307,7 +307,7 @@ def get_genre_songs(genre_json, genre_collection, currindex=0):
             index = genre_df[genre_df['track_id'] == details['track_id']].index
         else: index = []
              
-        if ((len(index) == 0) or (genre_json[index[0]]['lyrics'] != None)):
+        if ((len(index) == 0) or (genre_json[index[0]]['lyrics'] == None)):
             lyrics = get_lyrics(details['track_name'], details['artist_name'], delay)
             
             if (lyrics == None):
