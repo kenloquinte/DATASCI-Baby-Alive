@@ -1,5 +1,19 @@
-,track_id,track_name,artist_name,genre_id,genre_names,lyrics
-0,182569161,Lykkelig (Acoustic),D.Sound,"[1066, 1057, 15]","['New Acoustic', 'Downtempo', 'R&B/Soul']",
+,track_id,track_name,artist_name,genre_id,genre_names,lyrics,lyrics_source
+0,182569161,Lykkelig (Acoustic),D.Sound,"[1066, 1057, 15]","['New Acoustic', 'Downtempo', 'R&B/Soul']","Pag sapit ng dilim
+Iiwanan ang mga alalahanin
+Maghahanap, magtatawag ng kasama
+Walang pakialam
+Sa sasabihin ng iba
+Konting-konti na lang
+At ako'y iindak nanaman
+
+Mukhang handang-handa nang
+Magpakawala
+Hindi mapipigilang magsaya
+Ating malilimutan, mga hinaharap
+...
+
+",MusixMatch
 1,159046130,Sa Susunod Na Lang,PDL feat. Skusta Clee & Yuri,[15],['R&B/Soul'],"Ha! Gusto ko lang naman makausap ka eh.
 You know, you know, I just wanna talk.huh
 
@@ -50,8 +64,45 @@ Ako'y uuwi nalang, sa susunod nalang
 Ayaw kitang pilitin kung 'di ka pa handa
 Sa susunod nalang, sa susunod nalang
 Ayaw kong nabibitin kaya mabuti pang
-Ako'y uuwi nalang, sa susunod nalang"
-2,43600153,Bespren,Coach Jungee feat. Yeng Constantino,[15],['R&B/Soul'],
+Ako'y uuwi nalang, sa susunod nalang",
+2,43600153,Bespren,Coach Jungee feat. Yeng Constantino,[15],['R&B/Soul'],"Bestfriend (Bespren)
+Ang hirap mong hanapin (Ang Hirap mong hanapin)
+Buti na lang (Buti na lang)
+Mabutina lang (Mabuti na lang)
+Yeng C. (Yeng C.) ahh...
+Coach Jungee (Coach Jungee)
+That's me (yeah)
+One love (one love)
+Here we go! (Here we go!) ah haha
+
+Nung una ang akala ko ay kaya ko
+Maneobrahin ang buhay ko, hay naku!
+Eh ang yabang-yabang ko naman, naman kasi
+Parang bang ang kapalaran ay inaapi
+Kakayanin ba naman kaya ng powers?
+Kahit na ilang gallon dugo at pawis
+Di ba sabi nga nila ang greatest love of all
+Mahalin mo ang sarili mo oks na yun tol
+
+Oops! Oops! Preno teka muna
+Buti pa tumabi, pumarada
+OOps, oops! Pihit manibela
+May lubak sa gitna ng kalsada
+Deadma pa ba? Kung halos ay ngarag na
+Wooh, panu nga ba?
+Papano kung wala ka?
+
+Mabuti na lang ikaw ang bespren
+Syang matalik kung kaibigan
+Mabuti na lang, mabuti na lang
+Palagi ka na lang andiyan
+Mabuti na lang ikaw ang bespren
+Syang matalik kung kaibigan
+Mabuti na lang, mabuti na lang
+Palagi ka na lang nandyan
+...
+
+",MusixMatch
 3,189995224,Exchange Gift,ALLMO$T,[15],['R&B/Soul'],"Naaalala mo pa ba ko
 Oh, pwede bang bati na tayo oh
 Kalimutan mo na yung mga nakaraan
@@ -173,7 +224,7 @@ Isa't isa
 Ngayong pasko ay magbigayan
 Kung may galit magpatawad
 'Yan lang ang mahalaga
-'Yan lang ang mahalaga"
+'Yan lang ang mahalaga",
 4,157573520,Rubberband,ALLMO$T feat. FTD,"[15, 18]","['R&B/Soul', 'Hip Hop/Rap']","'Di ba sabi mo noon
 Walang bibitaw saating dalawa
 Pinangako mo pa yun
@@ -301,10 +352,63 @@ Ngayo'y nag babalik
 Ikaw ba ay nananabik?
 Sakin o sadyang wala ka lang matakbuhan?
 Ano ang katotohanan ng ating kamustahan
-Nanjan kapag may kailangan tapos ako'y tatalikuran"
-5,148559015,Paano Na,JP Bacallan feat. Because,[15],['R&B/Soul'],
-6,151396250,All I See,Because,[15],['R&B/Soul'],
-7,151396239,Intro,Because,[15],['R&B/Soul'],
+Nanjan kapag may kailangan tapos ako'y tatalikuran",
+5,148559015,Paano Na,JP Bacallan feat. Because,[15],['R&B/Soul'],"Binigay kong lahat sayo
+Inubos ko lahat ng pagod ko
+Lintik na pag ibig to
+Bulag kahit gising ang diwa
+Iniwan mo ko sa dilim
+Na para bang wala lang
+Ngayon ako'y nagdurusa
+Ang puso wala na
+Minahal kita ng todo ngayon ako'y litong lito
+Yeah
+Yeah
+Yeah
+Yeah
+Alam mong mali na bakit mas pinili mo pa
+Ang desisyon na alam mong ikaw lang ang liligaya yeah
+Ngayon pa'no na pa'no na
+...
+
+",MusixMatch
+6,151396250,All I See,Because,[15],['R&B/Soul'],"Lalakbay na para bang kanina lang nangyari
+Naalaala ko pa na para bang kanina lang nangyare
+Teka yuh teka yuhhh teka yuhhh para bang kanina lang nangyari
+
+Nakahigat mag uumaga na di makatulog
+Kasabay ng buwan aking mata sa pag lubog
+Binuksan aking telepono at baka may mag dulot ahhh
+Litrato mo agad ang sumalubong
+Biruin mo nga naman ulo koy mainitin
+Pikon agad sa mangyari kahit di bagong gising
+Di pansin sa pag kagat na merong nakatagong sili
+Sana hinayaan ang mata na nakapiring
+Pero di nag sisi naalala ang lahat
+Pinaka nag paiyak saakin sya rin pinaka nag pasaya
+Utak hinahatak pabalik sayo na parang talangka
+Binuhay ang ugat ng bulaklak na nalanta
+
+Ngayon napaisip parang sa loob loob merong gustong sabihin
+...
+
+",MusixMatch
+7,151396239,Intro,Because,[15],['R&B/Soul'],"Aking dibdib ay puno na ng sugat
+Aking pagpikit kasabay ng aray
+Ang tamis sa akin na nagmulat
+Karanasan ko ang laging gabay
+Sa mga binuo ko na sulat
+Maraming beses akong nadapa
+Bagong matutong, bawal makupad
+Ang dami pang nagbubulungan
+Sabing
+
+'La daw 'kong makakamit
+Ngayon sila ay bilib
+Lahat ng aming pinaghirapan
+...
+
+",MusixMatch
 8,191256191,Isang Gabi (feat. Jom),Soulstice,[15],['R&B/Soul'],"Sino bang may diperensya sa ating dalawa
 Tingnan mo muna ang sarili mo bago manghusga
 Isang gabing puro usapan kung bakit ka nang-iwan
@@ -373,7 +477,7 @@ Ano ang dahilan? Ano ang dahilan? Woah
 Sino bang may diperensya sa ating dalawa
 Tingnan mo muna ang sarili mo bago manghusga
 Isang gabing puro usapan kung bakit ka nang-iwan
-Ano ang dahilan? Ano ang dahilan? Woah"
+Ano ang dahilan? Ano ang dahilan? Woah",
 9,200451461,Uuwian,Emman,[15],['R&B/Soul'],"
 
 Babalik at tatabi
@@ -443,10 +547,69 @@ Ikaw lang ang uuwian
 Ikaw lang ang uuwian
 Ikaw lang ang uuwian
 Magulo man ang daan
-"
-10,174873138,Drunk Call,NEXXFRIDAY feat. John Roa,[15],['R&B/Soul'],
-11,151396249,Hanap,Because,[15],['R&B/Soul'],
-12,124637884,Isang Numero,Kris Lawrence,[15],['R&B/Soul'],
+",
+10,174873138,Drunk Call,NEXXFRIDAY feat. John Roa,[15],['R&B/Soul'],"Hello?
+
+Uy sorry tulog kanaba?
+
+Sorry hah napatawag Lang ako Ng madaling araw
+Ano Kasi eh
+Wala ano
+May gusto Lang sanang tanong tanong sayo eh
+Ano eh
+
+Talaga bang wala Ka Ng nararamdaman
+...
+
+",MusixMatch
+11,151396249,Hanap,Because,[15],['R&B/Soul'],"Naaalala ko pa nga
+Usapan nung huli tayong nagkita ta-ta-tapos????
+Sabi mo kailangan mong ng time na matagal Para lang makahinga
+Eh pinanganak nung 1999 at
+Malamang ikaw ay legal na
+Ikaw ay matanda na ngayon para malaman
+Ano ba talaga
+Ang 'yong nararamdaman
+Dahil alam ko naman na ako'y mahal mo pa
+Na — tumaba at — kung pumayat
+Di na 'yon mahalaga
+Ilan bang kalabasa ang kailangan para luminaw ang mata
+Para makita mo na
+Para makita mo ng ako kailangan mo ngayon yeah yeah
+Di mo pa malimot ang noon yeah yeah
+Marami pa sayong mga tanong
+Alam mo naman na aking yakap ang sagot
+Hindi ka naman magt-text ng wala lang
+Tatawag alas tres ng gabi ng wala lang
+Alam ko namang nas-stress ka na rin
+Ako lang ang hinahanap mo pa rin
+Hinahanap mo pa rin
+Kaya come see me for once
+Kung iyong gusto ay banggitin mo lang
+Alam ko namang nagtitiis ka lang
+Kung ano ang meron ka ngayo'y hindi sapat
+———
+...
+
+",MusixMatch
+12,124637884,Isang Numero,Kris Lawrence,[15],['R&B/Soul'],"Isang numero, nalang ang kailangan ko
+Isang numero, sa hawak na telepono
+Di malimutan ang ganda ng iyong mukha
+Nahulog ba ako sa'yo ng di sinasadya?
+Isang numero, Isang numero
+Tatawag ba sa'yo?, Tatawag ba sa'yo?
+Isang numero, Isang numero
+Tatawag ba sa'yo?, Tatawag ba sa'yo?
+Di ko alam ang nararamdaman
+Isip at puso'y naguguluhan
+Di ko alam ang nararamdaman
+Di ba't bagong kakilala ka lang?
+Sarili ba ay dapat na pagbigyan?
+Di ba't bagong kakilala ka lang?
+Sarili ba ay dapat na pagbigyan?
+...
+
+",MusixMatch
 13,117958564,Isang Saglit,Future Thug feat. Skusta Clee & Leslie,[15],['R&B/Soul'],"Isang saglit
 Isang saglit lang
 Isang saglit
@@ -522,7 +685,7 @@ Isang saglit lang
 isa lang ang kailangan
 isa lang ang kailangan
 
-(end)"
+(end)",
 14,151396243,Sandali,Because,"[18, 15]","['Hip Hop/Rap', 'R&B/Soul']","Gusto kita na mapasakin, kahit na mali
 Katabi ka ng matagal at di lang ngayong gabi
 Hiling ko sanay matupad ako'y di na mapakali
@@ -577,7 +740,7 @@ Gawin nating lagi nakaw nating sandali
 Gusto kita na mapasakin, kahit na mali
 Katabi ka ng matagal at di lang ngayong gabi
 Hiling ko sanay matupad ako'y di na mapakali
-Gawin nating lagi nakaw nating sandali, wooh"
+Gawin nating lagi nakaw nating sandali, wooh",
 15,194281028,Teka Lang,Emman,[15],['R&B/Soul'],"Sobrang saya dahil
 Nandito ka na kahit
 Mamaya lang
@@ -626,7 +789,7 @@ Dahan dahan lang
 Ohhh pwede bang magpahinga muna saglit
 Dahan dahan lang
 Ohhh pwede bang magpahinga muna saglit
-Dahan dahan lang"
+Dahan dahan lang",
 16,125649396,Pahinga,Al James,"[34, 15]","['Music', 'R&B/Soul']","Pahinga ka muna, pahinga ka muna
 At dadalhin kita, sa may alapaap
 Mga pasakit sa mundo, napapagod ang puso
@@ -685,7 +848,7 @@ Alak o usok akong bahala sayo
 Pahinga ka muna, pahinga ka muna
 At dadalhin kita, sa may alapaap
 Mga pasakit sa mundo, napapagod ang puso
-Alak o usok akong bahala sayo"
+Alak o usok akong bahala sayo",
 17,195191771,Kung Pwede Lang,Emman,[15],['R&B/Soul'],"'Di na kita nararamdaman
 Totoo bang nandiyan ka lang o sinabi mo lang?
 Para nga naman gumaan mararamdaman ko sa 'yo
@@ -727,7 +890,7 @@ Kung pwede lang, magparamdam ka naman (Kung pwede lang)
 Kung pwede lang
 Kung pwede lang
 Kung pwede lang
-Kung pwede lang"
+Kung pwede lang",
 18,168033572,Nandyan Agad Ako,Ex Battalion feat. Flow G,[15],['R&B/Soul'],"Yeah
 Oh woah oh oh
 Na na na na
@@ -853,7 +1016,7 @@ Nandyan agad ako
 Oo, seryoso
 Mas mabilis pa sa alas kwatro
 Darating ako
-'Pag gusto mo kasama mo 'ko"
+'Pag gusto mo kasama mo 'ko",
 19,150662562,Ako Nalang,Kris Lawrence,[15],['R&B/Soul'],"Lagi nakikita ko
 Ang 'yong pagdadalamhati
 'Di mo parin matanggap na
@@ -902,7 +1065,7 @@ Damayan ka
 Samahan ka
 Sa kalungkutan mo
 Kapag 'yong kailanga'y naririto
-Para sa'yo"
+Para sa'yo",
 20,155020901,Pauwi Nako,"PDL feat. Skusta Clee, Jnske, Bullet D, Yuri Dope & Flow-G",[15],['R&B/Soul'],"Hey, miss na kita
 Baby, hindi ko na kaya
 Sobrang saya ko na muli tayong magsasama
@@ -1061,7 +1224,7 @@ Baby, pauwi na'ko
 Pauwi na'ko, whoa oh
 'Di ka na malulungkot, yeah
 Hindi ka na malulungkot, malapit na'ko
-Baby, pauwi na'ko"
+Baby, pauwi na'ko",
 21,178349517,Zebbiana,Skusta Clee,[15],['R&B/Soul'],"Flip-D on the beat
 Panty Droppaz League
 
@@ -1123,8 +1286,35 @@ Sa'kin ikaw pa rin ang baby ko, ang baby ko (ang baby ko)
 Kahit wala ka na sa piling ko, sa piling ko
 Pangakong ipagdarasal pa rin kita, ipagdarasal pa rin kita
 (ayy, no, no, no, ohh)
-Hey!"
-22,192059156,Baliw Sayo,Nik Makino,[15],['R&B/Soul'],
+Hey!",
+22,192059156,Baliw Sayo,Nik Makino,[15],['R&B/Soul'],"Yay, yay yay yaaaaah
+Yay, yay yay yaaaaah
+Cheese,
+Ah,
+
+N I to the motha-f*cking K
+
+Sayo pagibig ko, sayo pagibig ko
+Kase nga ako'y baliw sayo oh
+Amoy ng buhok mo hinahanap ko
+Kase nga ako'y baliw sayo oh
+
+Sayo pagibig ko, sayo pagibig ko
+Kase nga ako'y baliw sayo oh,
+Halik at Yakap mo hinahanap
+Kase nga ako'y baliw sayo oh
+
+Sa t'wing nakahiga ako nakatulala
+Sa alapaap binibilang mga tala
+Naalala ko palagi ang iyong mukha
+Mapula-pula mong labi singkit mong mata
+
+'Di ko kaya pa
+Namimiss kana
+'Di ko na kaya pa
+...
+
+",MusixMatch
 23,151396240,Otw,Because,"[18, 15]","['Hip Hop/Rap', 'R&B/Soul']","
 
 Papunta na, Papunta na, Papunta na, Papunta na
@@ -1176,7 +1366,7 @@ Papunta na, Papunta na, Papunta na, Papunta na
 Papunta na ko sa lagi nating tagpuan, atat na ko't wag na mo ng ipabukas
 Papunta na, Papunta na, Papunta na, Papunta na
 Sulitin natin ang ibinigay satin na oras, kamay ng orasan ating iposas
-"
+",
 24,151396242,Marlboro Black,Because,"[18, 15]","['Hip Hop/Rap', 'R&B/Soul']","
 
 ""Masama ka sakin, masaya ako sayo.
@@ -1239,8 +1429,36 @@ Ibigay anong nararapat sayo, mahal kita, pero tama na
 Dahil, hindi mo kayang maging kung sinong gusto ko
 Ibigay kung anong gusto ko
 Ibigay anong nararapat saatin dahil di na natin kaya
-"
-25,151396247,Halili,Because,[15],['R&B/Soul'],
+",
+25,151396247,Halili,Because,[15],['R&B/Soul'],"Alam ko agad, pagtingin mo
+Sa una pa lang naengkwentro
+Wala pang bibig na bumubuka
+Pero para bang ang dami mo nang kuwento (woah)
+
+Alam mo naman, tayo ay terno (woah)
+Masyadong nag-iinit, parang thermos (ha)
+Masyado pang mainit sa impiyerno
+Walang tama o mali sa mundo nating inimbento (woah)
+
+'Di mo na kailangan pang sabihin
+'Di mo na kailangan pang sabihin
+Alam ko agad sa 'yong pagtitig
+Na nilalaman ng mata mo ay tunay na pag-ibig (ha)
+
+'Di mo na kailangan pang sabihin
+'Di mo na kailangan pang sabihin
+Ang aking mundo, 'yong pinatigil
+Dahil ikaw lang ang lilingunin ko, walang halili, woh
+
+'Yong igiling, para bang Halili
+'Kaw na ang napiling lakambini
+Ayaw nang pumikit habang hawak
+Ang katawan mo na dati'y nakikita lang sa TV (uh)
+
+Katawa'y mainit, parang sun
+...
+
+",MusixMatch
 26,190482739,Ivana,Soulstice,[15],['R&B/Soul'],"Look at you girl, ang ganda ganda mo
 The way you smile, makes me high parang Ivana to
 Ivana, nararamdaman
@@ -1328,7 +1546,7 @@ Ivana, nararamdaman
 You're the best girl I've ever seen
 Kapansin-pansin ang iyong mga tingin
 Ivana, nararamdaman
-Ivana, nararamdaman"
+Ivana, nararamdaman",
 27,129007998,Shinobi,Just Hush,[15],['R&B/Soul'],"Meron lang nagsabi
 Nasaktan ka daw ng grabe
 Sa pag-babaka sakali
@@ -1372,7 +1590,7 @@ Sasamahan kita
 Pumunta kahit saan
 At papakinggan
 Ang lahat ng nilalaman
-Ng isip mo"
+Ng isip mo",
 28,189299396,AMFEE,Alex Gonzaga,[15],['R&B/Soul'],"AG from the East! Yo!
 Feeling sikat
 Come on!
@@ -1465,10 +1683,39 @@ Amfee, amfee, amfeeling
 Amfee, amfee, amfeeling
 'Wag kang, 'wag kang mag-feeling
 Amfee, amfee, amfeeling
-(Amfeeling nito)"
-29,145783851,Uri Mwiza,King James,[15],['R&B/Soul'],
-30,194908186,Happy Pill,Soulthrll,[15],['R&B/Soul'],
-31,78840916,Ikaw Lang Ang Mamahalin,Jay R,"[14, 15]","['Pop', 'R&B/Soul']",
+(Amfeeling nito)",
+29,145783851,Uri Mwiza,King James,[15],['R&B/Soul'],"Inenge nabyemeza ntayo ugira
+Bizi njye wahiriwe no kukugira
+Kuba mugituza cyawe, Bizamura ibineza neza murijye
+Bityo umubiri wawe simwiza gusa uraduhuza
+
+Akandi karusho inyuma uri mwiza imbere ukaba imfura... iyo
+...
+
+",MusixMatch
+30,194908186,Happy Pill,Soulthrll,[15],['R&B/Soul'],"Okay cutie ikaw ang tambal sa akong mga problema
+Ikaw ray naka-ayo and wala nay lain pa
+Ikaw akong kalipay, kung mu smile, makalanay
+Ikaw ang bulawan, kanunay nakong ampingan
+Aye halakaaaa ikaw ang babae na tambal sa akong kalaay
+Aye halakaaaa ikaw ang klasi nga bae na di makaduda aye
+
+Okay cutie yea asa naman ka murag ko ga daot and ga alingasa
+...
+
+",MusixMatch
+31,78840916,Ikaw Lang Ang Mamahalin,Jay R,"[14, 15]","['Pop', 'R&B/Soul']","Sa bawat pag-ikot
+Ng ating buhay
+May oras na tayo
+Na maghiwalay
+Puso lumaban man
+Walang magagawa
+Saan pa
+Kailan ka muling mahahagkan
+Magkulang man satin
+...
+
+",MusixMatch
 32,190482190,"Halika, Sinta",Kevin Yadao,[15],['R&B/Soul'],"Halika, Sinta - Kevin Yadao
 
 [Verse 1]
@@ -1527,8 +1774,46 @@ Tila, sinta, halika...
 Halika sinta, sige na sabihin mo na
 Halika sinta, puwede bang akin ka na
 Halika sinta, magtiwala ka
-Halika sinta, sumama ka na"
-33,198814897,"Filipina Aye (feat. DRO, Lennoj & Nck Deezy)",Je,[15],['R&B/Soul'],
+Halika sinta, sumama ka na",
+33,198814897,"Filipina Aye (feat. DRO, Lennoj & Nck Deezy)",Je,[15],['R&B/Soul'],"Woah oh oh
+Woah oh
+Oh
+Yeah
+
+Filipina na singkit, Aye!
+Marikit, Yo!
+Matalinong mabait at makulit
+Lakas ng iyong dating, lahat napapailing
+Mga matang singkit na ang lakas pa maka-akit
+
+Ang ganda ganda mo
+Walang makapantay sayo
+Ang lakas ng amats ko, Aye!
+Sa dilag na tulad mo
+
+Nabighani mo ako sa first look pa lang
+Agad kitang pinagkait sa aking mga kaibigan
+Kasi natuklasan kakaibang babae
+Nababalot ng ganda
+Parang yung mga tipo ko
+
+Sa aking pantasya
+Nang malapitan ka bigla akong nauutal utal
+Gusto ko lang sabihin na
+Girl ikaw na pinakamaganda sa lahat (Aye)
+You got me hooked sa mala anghel na ugali mo
+
+Hinahanap ng lahat ang katangiang nasayo
+Wag ka sana magbago ha
+'Di mo na kelangan magpaganda pa
+Hhh hh yeahh
+
+Binibining kay ganda
+Agaw pansin sa king mata
+'Di ko alam anong meron sayong kakaiba
+...
+
+",MusixMatch
 34,91056748,Milagro,Jason Dy,[15],['R&B/Soul'],"Alas tres ng umaga tila tulala nagising naalimpungatan
 Pabulong sa bituing makinang hiniling ko sa buwan at baka lang pagbigyan
 Masama ba namang pangarapin na tayong dalawa ang magkatuluyan
@@ -1576,12 +1861,81 @@ Parang may nangyaring milagro
 Madalas madulas, mailap, mabigat tanggapin ang katotohanan
 Na ikaw at ako ay iba malamang ang damdaming nararamdaman
 Madalas, madulas, mailap, mabigat tanggapin ang katotohanan
-Na ikaw at ako ay iba malamang ang damdaming nararamdaman"
-35,115302723,Pano Na Lang Ako,Jason Dy,[15],['R&B/Soul'],
-36,72362773,Paano Nga Kaya,Freestyle,[15],['R&B/Soul'],
-37,183183921,Kung Pwede Lang,Disktrack feat. Cedrick,[15],['R&B/Soul'],
-38,166515174,Kung Maibabalik Ko Lang,Budakhel,[15],['R&B/Soul'],
-39,142038732,Ako'y Di Para Sa'yo,Dello feat. Kithara,[15],['R&B/Soul'],
+Na ikaw at ako ay iba malamang ang damdaming nararamdaman",
+35,115302723,Pano Na Lang Ako,Jason Dy,[15],['R&B/Soul'],"Pano mo malalaman
+Sa tuwing ika'y na aalala
+Pag-ibig Kong nadarama
+At lihim, lihim ko sa tuwina
+At hanggang kailan man
+Aaminin itong damdamin
+
+Pano ba sabihin pa
+Damdamin di na kaya,
+Sa tuwing ika'y kasama
+...
+
+",MusixMatch
+36,72362773,Paano Nga Kaya,Freestyle,[15],['R&B/Soul'],"Ang noon natin sariwa pa,
+Tila'y kahapon lamang
+May mga pagkakamaling sana noy naayos nalang
+Ngunit lumisan dahil di nais ng isang may muling masaktan
+
+Sayo'y naghintay lamang ngunit ang pusoy labis ang pagdaramdam
+
+Pano nga kaya kung tayo pa rin ngaun
+Kung maibabalik lang ang panahon
+...
+
+",MusixMatch
+37,183183921,Kung Pwede Lang,Disktrack feat. Cedrick,[15],['R&B/Soul'],"Kapag hindi kita nakikita
+Palagi na gulong gulo
+Gusto kang tanungin ano ng balita
+Tanda mo pa ba yung ako
+
+Na laging na andyan kapag kailangan
+(Mo ng sasalo kapag malapit ng matumba)
+Kamay ng orasan na di umiikot
+Patay lang ang oras kung sana
+
+Kung pwede lang hindi ka umalis
+Kung pwede lang lagi kang katabi
+Kung pwede lang, kung pwede lang na
+Araw araw, araw araw kang katabi
+Kung pwede lang hindi ka umalis
+Kung pwede lang lagi kang katabi
+Kung pwede lang, kung pwede lang na
+...
+
+",MusixMatch
+38,166515174,Kung Maibabalik Ko Lang,Budakhel,[15],['R&B/Soul'],"Sayang ang mga sandaling pinalipas ko
+Nar'on ka na, bakit pa humanap ng iba
+Ngayon ikaw ang pinapangarap
+Pinanang-hihinayangan ko ang lahat
+Bakit ba ang pag-sisisi laging nasa huli
+Ang mga lumipas ay di na maaaring balikan
+
+Sayang bakit ako nag-alinlangan pa
+Tuloy ngayo'y lumuluha at nang-hihinayang
+Kung maibabalik ko lang
+Ang dati mong pagmamahal
+...
+
+",MusixMatch
+39,142038732,Ako'y Di Para Sa'yo,Dello feat. Kithara,[15],['R&B/Soul'],"Minsan napapagod ang puso
+At hindi pinapakinggan
+Ng isang taong pilit mong pinaglaban
+Kulang pa
+Hindi parin sapat
+Hanggang dumating ang araw
+Na wala ka ng maramdaman
+Hanggang dumating ang araw
+Nag iisa ka nalang
+Isipin mo
+Hindi sya para sayo
+Kayanin mo
+...
+
+",MusixMatch
 40,188655186,Rap Game,Aziatik,[15],['R&B/Soul'],"(Yeah Aziatik, 3rd iii, Proud Action)
 First things first let me come correct
 Kalewete nga ako boy but I never left
@@ -1656,8 +2010,36 @@ Wala parin kayong mukhang maiharap
 Pano nyo masasabi na hindi nyo ko kailangan
 Eh, ganto parin ang hiphop pare ng aking iniwan
 (3rd iii, Aziatik 2020 Apolaki We're here Sun God)
-(I never heard anyone ever say it like that)"
-41,88214125,Who's Loving You,The Well,[15],['R&B/Soul'],
+(I never heard anyone ever say it like that)",
+41,88214125,Who's Loving You,The Well,[15],['R&B/Soul'],"Hindi ko
+Mawari kung bakit ba
+Sa tuwing naiisip ko
+Saya sa ngiti mo
+Nung umpisa na tayong dalawa ay
+Pinagtagpo ng tadhana
+Ang kagalakan ko ay
+Hindi ko maipaliwanag
+Basta ang alam ko lang
+Sa pagmamahal mo
+Panatag ang puso ko
+Kahit na minsan ay
+Hindi tayo magkasundo
+Ay nandyan ka parin
+Hindi ka nagbago
+Sinamahan mo ako
+Sa lungkot man o saya
+Lagi mong pinapadama
+Walang katumbas na pag-ibig mo
+
+Hindi ko alam
+Kung ano ba
+Ang dapat na sabihin ko
+Ang alam ko lang
+Basta nandyan ka mahal ko
+Lahat ay kakayanin
+...
+
+",MusixMatch
 42,148878317,Isang Gabi,JP Bacallan feat. Kris Delano,[15],['R&B/Soul'],"Nakita ko sayong mata
 Nagsabi ka ng halina
 Naramdaman ang init mo
@@ -1702,7 +2084,7 @@ Yeah!
 Isang gabi lang
 Isang gabi lang
 Isang gabi lang
-Isang gabi lang"
+Isang gabi lang",
 43,132244223,Kabilang Dako,Jay R,[15],['R&B/Soul'],"
 
 Di na 'ko ang napapansin
@@ -1758,8 +2140,17 @@ Sa kabilang dako dako-o-o-o-o-o-oh
 Sa kabilang dako dako-o-o-o-o-o-oh
 Sa kabilang dako dako-o-o-o-o-o-oh
 Ako'y maghihintay
-"
-44,133297288,Kaliwa't Kanan,Julian Sean feat. Smugglaz,[15],['R&B/Soul'],
+",
+44,133297288,Kaliwa't Kanan,Julian Sean feat. Smugglaz,[15],['R&B/Soul'],"Mga simpleng puso na nagkasundo
+""Di na papipigil saan mang bagyo
+Hayaang sakupin ka ng aking mundo
+
+Wag mong ipipilit, Wag kang pumilipit
+Pag-ibig ay ganyan talaga
+Hindi to perpekto, Hindi rin sarado
+...
+
+",MusixMatch
 45,150174324,Kamusta Ka,Jay R,[15],['R&B/Soul'],"
 
 Kamusta ka
@@ -1848,7 +2239,7 @@ Eh di sana'y nasa piling ka hanggang sa ngayon
 Kamusta ka
 Kamusta ka
 Kamusta ka na
-"
+",
 46,188385129,Pahina (feat. Gloc 9 & JP Bacallan),Pricetagg,[15],['R&B/Soul'],"
 
 Naranasan mo na ba sa buhay ay malasin
@@ -1932,7 +2323,7 @@ Kahit maubusan pa 'ko
 Susulatan ko lahat ng mga blangkong pahina
 Maubusan man ng hininga
 Di na para ako ay tumigil pa
-"
+",
 47,192199925,Halaga,Alisson Shore,[15],['R&B/Soul'],"Totoo nga ang balita
 Nung una ay ayoko pa na maniwala'ng
 Ikaw raw ay may bago na't, masaya
@@ -2005,7 +2396,7 @@ Siguro, saka lang natauhan 'tong
 Gagong di mapagtantong
 Kelanma'y di ka na gagawing mundo
 ‘di ka na akin
-‘di ka na akin"
+‘di ka na akin",
 48,192598300,Cutie Uyyy,Soulthrll,[15],['R&B/Soul'],"Woah, aye
 Hala ka
 Yea yea, aye
@@ -2079,7 +2470,7 @@ Cutie going na
 Ana siya, gimingaw lang siya
 Gimingaw lang siya
 Ana siya, gimingaw lang siya
-Gimingaw lang siya"
+Gimingaw lang siya",
 49,170925232,Bahala Na,Mayo,[15],['R&B/Soul'],"Verse 1:
 Pinipilit ang sarili
 Na sumaya na kahit minsan
@@ -2125,7 +2516,7 @@ Isipin na lang, na may darating
 Na ako'y mas mahalin
 Bahala na, kung san mapunta
 Isipin na lang, sa tamang panahon
-Ako'y lilimot din"
+Ako'y lilimot din",
 50,198907621,"Polaroid (feat. Ki-Yo, No$ia & Leslie)",Alisson Shore,[15],['R&B/Soul'],"I (Alisson Shore)
 Parang panaginip, tayong dalawa
 At ayoko ng, magising, mahimbing na
@@ -2176,7 +2567,7 @@ Ang lahat ng ito ay isang kalokohan lang
 Bawat oras iniisip kang makasama at
 Pero lahat ng ito ay aking mga mahika
 Lahat ng alaala nating dalawa
-Alaalang ako lang ang nakadarama"
+Alaalang ako lang ang nakadarama",
 51,206314305,Sana'y Pang Habang Buhay Ka Na (feat. DaivJstn & Krisostomo),Aziatik,[15],['R&B/Soul'],"Palagi nalang magisa
 Buhay nawalan ng sigla
 Pero nung araw na nakita kita
@@ -2256,8 +2647,26 @@ Lahat nawala parang himala
 Sige sige na, sige sige na, sige sige na
 Sana’y pang habang buhay kana
 Sige sige na, sige sige na, sige sige na
-Sana’y pang habang buhay kana oooh"
-52,188073575,Sayo Natuto,RC,[15],['R&B/Soul'],
+Sana’y pang habang buhay kana oooh",
+52,188073575,Sayo Natuto,RC,[15],['R&B/Soul'],"Para bang nasa ulap
+Pag ika'y kayakap
+Dama ang ligaya, dahil alam ko na ikay sakin.
+Ikaw ang pangarap
+Kaytagal hinanap
+Di akalain, na ikaw na ang para sakin.
+
+Nagpunta ng malayo, hinanap ang tinig
+Dinayo ang dulo, Pumwesto sa gilid
+Ikaw pala'y nasa tabi lang
+Katabi ko lang
+Nagpunta ng malayo, hinanap ang tinig
+Dinayo ang dulo, Pumwesto sa gilid
+Ikaw pala'y nasa tabi lang
+Katabi ko lang
+
+...
+
+",MusixMatch
 53,34759420,When I Can't Sing (내가 노래를 못해도),SE7EN,"[15, 14]","['R&B/Soul', 'Pop']","Maega modeunkeol irheodo nae ingiga tteoreojyeodo
 Deo isang norael mothago dareun jikeobeul kajyeodo
 Naraneun iyumaneuro nal kyesok saranghae jul su inni
@@ -2281,8 +2690,33 @@ Nae eokkaega cheojimyeonseo (eokkaega cheojigo)
 Kogaega tteolkwojil ttae (keuttaedo) nae yeope (nae yeope) niga seo isseulleonji
 Naega modeunkeol irheodo nae ingiga tteoreojyeodo
 Deo isang norael mothago dareun jikeobeul kajyeodo
-Naraneun iyumaneuro nae yeope isseojul su itkenni mudko shipeo"
-54,200341802,Tipo Mo,Pinkbarney,[15],['R&B/Soul'],
+Naraneun iyumaneuro nae yeope isseojul su itkenni mudko shipeo",
+54,200341802,Tipo Mo,Pinkbarney,[15],['R&B/Soul'],"Nasasayangan ako para saiyo
+Baket ba kase ganyan ang pinipili mo
+Sa dami ng lalake bat siya pa ang gusto mo
+Bakit ba kase
+Bakit ba kase
+
+Iwanan mo na kaya di yon magbabago
+Pag hinabol mo pa yan ewan ko nalang sayo
+Bat ganyan ang tipo mo ohh
+Bat ganyan ang tipo mo ohh
+
+Iwanan mo na kaya di yon magbabago
+Pag hinabol mo pa yan ewan ko nalang sayo
+Bat ganyan ang tipo mo ohh
+Bat ganyan ang tipo mo ohh
+
+Sayang na sayang dalagang katulad mo
+Nagpapaloko lang lagi sa mga gago na to
+Pagkatapos makuha ang kanyang mga gusto
+Inaabuso ka parati parang walang kayo
+
+You know that its wrong
+Shawty don't play dumb
+...
+
+",MusixMatch
 55,144544111,Bakit?,Ysanygo,[15],['R&B/Soul'],"Sabihin mo sa akin, kung may natitira pa
 Kasi hindi ko alam, hindi ko nararamdaman
 Bigla kang nawala kung kailan masaya na ang lahat
@@ -2313,9 +2747,36 @@ Bakit wala kang masabi
 
 Bakit
 Bakit
-Bakit"
-56,164837204,Hanap Ka,Julian Sean,"[34, 15]","['Music', 'R&B/Soul']",
-57,204727570,Magkano Kaluluwa?,Earl Generao feat. Pappel,[15],['R&B/Soul'],
+Bakit",
+56,164837204,Hanap Ka,Julian Sean,"[34, 15]","['Music', 'R&B/Soul']","Ikaw ako tayong dalawa
+Sa piling ng bawat isa tayo ay masaya oh oh oh sa piling mo ako ay masaya
+Sa bawat sandaling ikaw ang kasama
+Walang oras na hindi kita pinagmasdan ang iyong ganda oh oh oh ako'y nabibighani sa'yong ganda
+
+Mawala ka lang sa paningin ako'y di na napapakali
+Puso ko'y di na makatiis kahit sandaling di nasisilayan
+Sa iyong labing napakatamis hina hanap hanap hanap ka
+Pwede bang wag ka ng mawala sa aking paningin
+
+Hinahanap ng puso ko ang puso mo
+Hinahanap ang labi at yakap mo
+Hinahanap hanap hanap ka
+...
+
+",MusixMatch
+57,204727570,Magkano Kaluluwa?,Earl Generao feat. Pappel,[15],['R&B/Soul'],"Oooh, oooh, oooh, oooh
+
+Kailan pa ba naging larawan ng pag-ibig?
+Ang pagtikom ng iyong isipan
+Na para bang may dambuhalang kinakatakutan ng manguha
+
+Oooh, oooh, oooh, oooh
+
+Nililinang ang panlilinlang
+Sa isipang natutunghayan nagtatagisan
+...
+
+",MusixMatch
 58,84201898,Kung Mahal Mo Siya,Jay R,[15],['R&B/Soul'],"di ko kayang mag isa
 dahil kailanman ay laging ikaw ang syang iibigin ko sa tuwina
 di mo man sabihin
@@ -2347,15 +2808,152 @@ mkita n hindi ko kaya
 kung mahal mo sya
 di mo mririnig sa akin
 ang mga hikbi
-dahil mahal kita"
-59,164404811,Ikaw,JP Bacallan,[15],['R&B/Soul'],
-60,148558849,Pangarap,JP Bacallan,[15],['R&B/Soul'],
-61,205829214,F You,Eris Justin,[15],['R&B/Soul'],
-62,205829213,Intro,Eris Justin,[15],['R&B/Soul'],
-63,198121996,Alapaap (feat. Liaah & Jobe Derick),VIN,[15],['R&B/Soul'],
-64,205829215,Magdamagan,Eris Justin,[15],['R&B/Soul'],
-65,151339273,Bwisit Ka Magisip,Pino G feat. Zjay,[15],['R&B/Soul'],
-66,203165675,Salamin,Eris Justin,[15],['R&B/Soul'],
+dahil mahal kita",
+59,164404811,Ikaw,JP Bacallan,[15],['R&B/Soul'],"Alas dos ng umaga
+Di makatulog
+Sa aking kama
+Hinihintay ang aking tama
+Sa isip ko ikaw ang gustong makasama
+Unti unting nagbago ang mundo ko
+Nung dumating ka sa buhay ko
+Init mong taglay ang gusto ko
+Walang iba
+Kung di ikaw
+Kung di ikaw
+Mas pipiliin kong mag isa
+Kung di ikaw
+Kung di ikaw
+Walang saysay ang buhay ko kapag nag iisa
+Kung di ikaw
+...
+
+",MusixMatch
+60,148558849,Pangarap,JP Bacallan,[15],['R&B/Soul'],"Binuksan ko aking mata
+Sabay bumangon saking kama
+Araw araw tinatanong ang sarili Kung ano ba
+
+Ang dapat na gawin upang aking makamit ang mithiin
+Na makuha ko ang dapat na alam kong para sakin ooooh
+
+Panay pagtataka
+Oras ko ba'y mauubos na?
+Kikilos nat baka akoy maunahan pa
+Nang takot,
+Baka di ko pa magawa mga pinako
+Sa sarili at sa pamilyang nakapalibot
+
+...
+
+",MusixMatch
+61,205829214,F You,Eris Justin,[15],['R&B/Soul'],"Puro parinig sa Facebook, 'di pa ba sawa riyan?
+Mga shared post mo alam kong ako lang ang dahilan
+Manhid na ako sa 'yo sa sobrang mong kalamigan
+Alam kong chine-check mo kung story'y natignan
+
+'Wag ka nang magmaang-maangan pa
+Alam kong gusto mo pa, lolokohin ang sarili
+Parangap pa rin ay libre
+Pa'no mo nasabing bawal na magkamali?
+
+...
+
+",MusixMatch
+62,205829213,Intro,Eris Justin,[15],['R&B/Soul'],"Yeah, yeah, yeah, yeah
+
+Hanggang kaibigan lang
+Hanggang kaibigan lang
+Hanggang kaibigan lang, lang
+
+...
+
+",MusixMatch
+63,198121996,Alapaap (feat. Liaah & Jobe Derick),VIN,[15],['R&B/Soul'],"Halika na sa alapaap
+Di mo na kailangan mag alinlangan pa
+Pagka kuha mo sa kanan
+Sulitin ang tsansa
+Hayaan mo lang na maramdaman mo
+Inhale and blow that smoke
+Halika na sa alapaap
+Di mo na kailangan mag alinlangan pa
+Pagka kuha mo sa kanan
+Sulitin ang tsansa
+Hayaan mo lang na maramdaman mo
+Them eyes are getting low
+
+Napasarap kwentohan nating dalawa
+Napapakapit ka
+Mga kamay onti onting lumibot mula itaas paibaba
+Mga matang mababa'y hinayaan nang pumikit ugh
+Walang mang aabala
+Atin ang gabi
+Kahit pa abotin ng umaga ohhh
+Lemme switch the flow
+I'll go fast to slow
+...
+
+",MusixMatch
+64,205829215,Magdamagan,Eris Justin,[15],['R&B/Soul'],"Halika ano pa bang hinihintay mo o sinta
+Lika na kanina pa gustong maihatid ka
+Papunta, pataas sa himpapawid
+Sasabay kita hanggang tayo'y makatawid
+Dun sa alapaap
+Wag ka magsasama
+Di ka bibitinin basta ako nang bahala
+Di ka magsisisi basta ika'y magtiwala
+Pagpaliban mo na muna
+Kung may lakad ka
+
+Di ka magsasawa pangako ko
+Ika'y liligaya sa tabi ko
+Ooh ohh
+...
+
+",MusixMatch
+65,151339273,Bwisit Ka Magisip,Pino G feat. Zjay,[15],['R&B/Soul'],"Ano ba ang nagawa ko sayo
+Pwede pa nga ba akong mag tanong
+Di na ba maaaring magbago ang isip mo
+Parang ang bilis ng pangyayare
+Gusto mo na agad umalis
+Lagi na lang akong nayayare
+Di ka pa ba sawang mainis
+Wala naman talagang ginagawa
+Bakit ang hilig mong mangbintang
+
+Ba't ako aamin sa bagay na di ko ginawa
+Tanga na ba ako o lubos ka lang na masama
+
+Bwisit na pagiisip yan
+Bwisit ka magisip
+Bwisit na pagiisip yan
+Bwisit ka magisip
+
+Sobra mong lupet
+Pwede ka ng writer
+Galing mong gumawa ng istorya
+Pwede kang director
+...
+
+",MusixMatch
+66,203165675,Salamin,Eris Justin,[15],['R&B/Soul'],"Ang lakas ng loob na manlait
+Kahit na walang laman kanyang wallet
+Nakatago sa palda ng nanay
+Sumbong kay tatay 'pag may kaaway
+
+Singkwenta mil kung mag abot sa magulang
+Kahit na kung minsan may pagkukulang
+'Di takot kumayod para sa pamilya
+Kaya kayo sa baba nanghihila
+
+Hindi naman gusto
+Na ako ay magyabang
+Pero sa tono ng iyong
+Pananalita
+
+Parang wala kayong salamin
+Walang kita
+...
+
+",MusixMatch
 67,188966327,Black Sheep,Aziatik,[15],['R&B/Soul'],"Tae! Yeah Yeah
 Hmmm Hmmm
 Azi 3rd iii 3rd iii
@@ -2401,9 +2999,48 @@ La man pera ang bulsa maangas parin umasta
 Bagong J’s fresh ang tee barra lang ang klasiko ya
 Ako ang blacksheep
 Ako ang blacksheep
-Ako ang blacksheep"
-68,165469526,Halikana,JP Bacallan feat. Pricetagg,[15],['R&B/Soul'],
-69,173173534,Ako Nalang,JeffreYumol feat. Aundrea Faye,[15],['R&B/Soul'],
+Ako ang blacksheep",
+68,165469526,Halikana,JP Bacallan feat. Pricetagg,[15],['R&B/Soul'],"Sinubukan ko namang ibigay ang ligaya mo
+Nung mga oras na madilim ang paligid ko
+Nakita mo kung pano ko pinaghirapan to
+Pero bakit nung panahong malubha mas pinili mong iwan ako.
+
+Kung may balak bumalik di na ako nasasabik
+Wala na rin dating payakap yakap mo't halik
+Kung may balak bumalik, di na ako nasasabik
+Wala na rin dating payakap yakap mo't halik.
+
+Kung may balak bumalik di na ako nasasabik
+Wala na rin dating payakap yakap mo't halik
+Kung may balak bumalik, di na ako nasasabik
+Wala na rin dating payakap yakap mo't halik.
+
+Pasensiya ka na kasi di na 'to tulad ng dati
+Tulad ng dati, tulad ng dati
+Pasensiya ka na kasi di na 'to tulad ng dati
+Tulad ng dati, tulad ng dati
+...
+
+",MusixMatch
+69,173173534,Ako Nalang,JeffreYumol feat. Aundrea Faye,[15],['R&B/Soul'],"Nasan ka na ba? Ako'y sabik na sa mga yakap mo
+Naririnig mo ba dalangin at sigaw ng puso ko?
+Di ko na alam kung san pa tutungo ang tulad ko
+Wala na bang pag-asa pang bumalik ang isang katulad mo?
+
+Nalimot mo na ba mga pangako na binitawan mo?
+Sa ilalim ng mga bituin, ngayon ika'y lumalayo
+'Kala ko ang kulay ng pag-ibig nati'y nagtagpo
+Mapait na alaala, sa'kin ay sumusundo
+
+Di ba sabi mo sa akin, hindi mo ko iiwan?
+Di ba sabi mo sa akin, ako lang ang tahanan?
+Bakit mo sinayang ang pag-ibig na inalay ko?
+Sabihin mo lang sa'kin. Ako na ang kusang lalayo
+Kusang lalayo
+Kusang lalayo
+...
+
+",MusixMatch
 70,83391783,Hahanap-Hanapin Ka,Rita Daniela,[15],['R&B/Soul'],"Dahan-dahan kang pababayaan
 Hahayaan ang nararamdaman
 Lalo lang masasaktan
@@ -2434,8 +3071,35 @@ Kahit na alam kong wala akong babalikan
 
 Whooo... hoooh... ooooh...
 Dadalaw-dalawin ka
-Kahit na wala akong babalikan"
-71,84302732,Sabi-Sabi,Kris Angelica,[15],['R&B/Soul'],
+Kahit na wala akong babalikan",
+71,84302732,Sabi-Sabi,Kris Angelica,[15],['R&B/Soul'],"O kahit anong puna't pintas ang lumabas sa kanilang bibig
+Di mangangamba
+Di padadala
+Di makikinig
+Sa mga sabe-sabe, sabe sabe eh eh
+Sabe sabe, sabe sabe eh eh
+
+Ilang ulit na ring hindi napapansin
+Minsan tuloy iniisip ko kung may mararating
+Di ka artistahin, di kaputian
+Nangagaling sa mga naturingan tinitingala ko, kaibigan kamo pero sa likod ko'y pinagsasabihan na ko
+Pangit at baduy sayo'y wala nang bago (oh) pag lumaban ka sa tv malamang ay matatalo
+
+Gusto ko lang umawit kahit minsa'y sintunado, abutin mga pangarap kahit di pa sigurado.
+
+Pag may laging gumagatong (Oh lalong natutupok) Ngunit dahil don ay lalong, (Nagiinit na sumubok)
+
+O kahit anong puna't pintas ang lumabas sa kanilang bibig
+Di mangangamba
+Di padadala
+Di makikinig
+Sa mga sabe-sabe, sabe sabe eh eh
+Sabe sabe, sabe sabe eh eh
+Di mangangamba
+Di padadala
+...
+
+",MusixMatch
 72,169464439,Feelings,Panty Droppaz League,[15],['R&B/Soul'],"[Intro]
 Panty Droppaz League
 
@@ -2566,7 +3230,7 @@ Kung alam mo lang
 Hindi mo lang nababatid
 Kung alam mo lang
 Na ikaw pala itong manhid
-Kasi kung alam mo lang..."
+Kasi kung alam mo lang...",
 73,160868983,Pananlandian (STRIPPED),esseca,"[34, 15]","['Music', 'R&B/Soul']","Hindi ito ang ating huling pagkikita
 Wag nang mag alala; hindi na dadalhin sa kama
 Magkatabi't magkaharap ang ating mga mukha
@@ -2652,9 +3316,46 @@ Kahit pa ano ang sabihin ng iba
 Basta akin ka
 Wala na problema
 Wala na problema
-Basta akin ka"
-74,162688757,Akala Ko Lang,Psvlm,[15],['R&B/Soul'],
-75,171674640,Lakbay,Jet Paz,[15],['R&B/Soul'],
+Basta akin ka",
+74,162688757,Akala Ko Lang,Psvlm,[15],['R&B/Soul'],"Na aalala ko na sa atin pa ang gabi
+Na sinabi mo na walang lumbay ang yong daigdig
+Pag kasama mo ako
+Sabay hatid at sundo
+Sa akin parang nalimot mo na pasakit sayo
+
+Pag nakita kong mga ngiti ang dulot nitong
+Pagsasama na tila lang tulad dito sa mundo
+Ang sabi mo ako na
+Di ko binalewala
+Pinanghawakan gang sabihin mong handa kana
+
+Kaya
+Hindi alam kung pano ito nangyari na sya parin ang may ari ng yong damdamin
+Hindi parin sapat ang lahat kong inalay sayo
+
+Akala ko'y Ikaw
+...
+
+",MusixMatch
+75,171674640,Lakbay,Jet Paz,[15],['R&B/Soul'],"Lakbay
+
+Sa tuwing ako'y natatahimik nakikita ng aking isipan
+Ako'y nakayapak sa mabubog na daan
+Nag-iingat sa pag-hakbang, baka mali ang madaanan
+Sige lang diretso lang baka may mapulot sa maling daan-
+
+Makakabalik naman sa ruta ng-
+Ruta ng paroroonan-
+
+Nakangiting naglalakad sa minsang marikit at magaspang na daang
+Tinatahak ng aking buhay na punong-puno ng saysay
+Damang-dama'ng mga tinik
+Nangingiliti sa'king talampakan habang ako'y naglalakbay
+Tungo sa pinapangarap kong buhay
+
+...
+
+",MusixMatch
 76,158054434,Akin Ka Nalang,Lipip,[15],['R&B/Soul'],"Wag kang umalis
 Dito ka nalang
 Sa aking tabi
@@ -2716,9 +3417,56 @@ Wag kang umalis
 Dito ka nalang
 Sa aking tabi
 Kung san ika'y nakangiti
-Yeah, aye, yeah, aye"
-77,149849638,Wala Na,Muffin feat. Clien,[15],['R&B/Soul'],
-78,91056752,Walang Iwanan,Jason Dy,[15],['R&B/Soul'],
+Yeah, aye, yeah, aye",
+77,149849638,Wala Na,Muffin feat. Clien,[15],['R&B/Soul'],"Di ko to matatanggap
+Di ko to matatanggap
+Simula nung una pa nakita ka
+Bakit ba lumaya ka ng mag isa
+Bigla ka nalang umalis
+At naghanap pa rin ng iba
+
+Ikaw pa rin ang gusto ko
+Wag kang mag alala
+Ikaw pa rin ang pipiliin kasi walang iba
+Walang iba sino pa ba mahal na kita
+Sa puntong mapapasakin ka na hanggang sa makasama ka na
+
+Pwede bang sumama ka nalang
+Bakit ba hindi ako ang iyong minahal
+Walang napala sa ating dalawa
+Walang magagawa
+Wala na talagang pag asa pa
+
+Tayong dalawa bahala na
+Sabi ko'y sulitin na dito habang nandyan ka pa
+Nasaan ka na? Bakit ba?
+Ano bang magagawa ko ngayong wala ka na?
+...
+
+",MusixMatch
+78,91056752,Walang Iwanan,Jason Dy,[15],['R&B/Soul'],"Di ba't kayganda-ganda ng
+Pagsasama natin
+Di ko maintindihan kung anong
+Nangyari sa atin
+Bakit ba kinakailangan pang
+Maghiwalay
+Dahil lang sa mailiit na bagay
+At walang kakuwenta-kuwentang
+Away
+Sinubuk-subukan mong humanap ng
+Iba
+Ang akala ko naman ay kaya ko
+Ang mag-isa
+Wag na nating pahirapan ang sarili
+Tama na ang pagkukunwari
+Amining hanap mo ako't hanap ka
+Rin
+Magmula ngayon...
+Walang iwanan
+Tayo'y para sa isa't-isa
+...
+
+",MusixMatch
 79,154012360,Tinyembeti,Zamo,"[1178, 15]","['Afro-Pop', 'R&B/Soul']","Tinyembeti tami, tiyosulwa ngubani?
 Lobuhlungu lobu, buyopholiswa ngubani?
 Ungenti ngatsi awuboni, ungiphul'inhlitiyo
@@ -2747,13 +3495,130 @@ Sala kahle I'm gone, I'm gone.
 Tinyembeti tami, tiyosulwa ngubani?
 Lobuhlungu lobu, buyopholiswa ngubani?
 Ungenti ngatsi awuboni, ungiphul'inhlitiyo
-Yewena ungenti ngatsi awuboni, ungiphul'inhlitiyo."
-80,83391779,Di Lang Ikaw,Rita Daniela,[15],['R&B/Soul'],
-81,198514240,Naunahan,Zo Zo,[15],['R&B/Soul'],
-82,152776885,Us,JP Bacallan,[15],['R&B/Soul'],
-83,155829945,Momol,kula$ feat. esseca & Lipip,[15],['R&B/Soul'],
-84,206225818,Pagkukulang,Loysie,[15],['R&B/Soul'],
-85,189430373,Funk-Ibig (feat. Pxrple & Prince Ben),Jong,[15],['R&B/Soul'],
+Yewena ungenti ngatsi awuboni, ungiphul'inhlitiyo.",
+80,83391779,Di Lang Ikaw,Rita Daniela,[15],['R&B/Soul'],"Ah one, two, three, hey!
+Di lang ikaw... ang... naghahanap ng kayakap sa gabi
+Di lang ikaw... ang... may minamahal
+Di lang ikaw... ang naghihintay sa tunay na pag-ibig
+Giliw, ako itong nagmamahal ng tapat
+At tila ba ay ikaw lamang ang nilalang sa mundo
+Ako ay iyong napapangiti
+Tumitibok tibok ang puso ko
+Sa piling mo ako ay parang nasa langit
+Di lang ikaw... ang nakakadama ng ganito
+Tuwing magkahawak... ang ating mga kamay
+...
+
+",MusixMatch
+81,198514240,Naunahan,Zo Zo,[15],['R&B/Soul'],"Meron akong binabalak
+Walang halong alak
+Pero lasing sa amoy mong kay bango
+
+Kusa kang sumama
+Tinadhana ata
+Parang napanaginipin ko na to
+Di ko maiwasan ang
+Tingin ng yong mga matang
+
+Ako ay pinagmamasdan ayayayayay
+
+Para kang nag-aabang
+Sayo ako'y nahihibang
+Tama ba ang aking iniisip
+(Ah yeah ah yeah)
+
+Naunahan
+Naunahan mo akong halikan
+Di ko 'to
+Di ko 'to inaasahan
+...
+
+",MusixMatch
+82,152776885,Us,JP Bacallan,[15],['R&B/Soul'],"Sulitin ang gabi itinakda. (
+Yeah yeah) Tumingin ka sa aking mata (
+Uh uh) Tayo dalawa tinadhana, saksi ang mga tala,
+Ikaw lang ang gusto ko kasama Sa umaga hanggang gabi (
+Yeah) ipaparamdam ang init na totoong pagmamahal sayo halika at
+Pasukin ang mundo na tayo lang nandoon. (ohhhhh yeah ikaw at ako.
+Ohhhhh) Chorus: Hayaan mo, dito ka lang sa aking tabi.
+...
+
+",MusixMatch
+83,155829945,Momol,kula$ feat. esseca & Lipip,[15],['R&B/Soul'],"Hali ka na dito sa aking tabi
+'Wag ka ng umalis di ako mapakali
+Bilisan mo dahil ako'y mainipin
+'Wag sana tayong mabitin
+
+Pumarito ka na kaya ng ating masimulan
+Simulan nating ito ng dahan dahan
+'Di nakakasawa ang iyong mukha
+Momol sa gabi, momol sa umaga
+
+Anong oras na baby bat di ka pa umuuwi
+Bilisan mo naman ganina pa kong sinding sindi
+Tila ba ako'y atat na parang asong ulol
+Nangungulila sayo at laging naghahabol
+
+Pag uwi mo dito sa aking bahay deretso tayo sa kama
+Ibibigay ko sayo ang mga masasarap nating alaala
+Dahan dahan kong hahalikan ang iyong matamis na leeg
+Pababa kung saan hahawakan ko ang bawal na parte
+
+Hali ka na dito sa aking tabi
+'Wag ka ng umalis di ako mapakali
+Bilisan mo dahil ako'y mainipin
+'Wag sana tayong mabitin
+
+Pumarito ka na kaya ng ating masimulan
+Simulan nating ito ng dahan dahan
+'Di nakakasawa ang iyong mukha
+Momol sa gabi, momol sa umaga
+
+...
+
+",MusixMatch
+84,206225818,Pagkukulang,Loysie,[15],['R&B/Soul'],"Pakinggan mo ang tibok ng aking puso
+Hindi mo ba ito nararamdaman?
+Ang tanging hiling ko ay maalala mo
+Dahil ang puso ko'y nasusugatan
+
+Kahapon lang ay puno pa ito ng pag-ibig
+Ngunit bakit sa isang iglap ay naglaho?
+Mahal parin kita, wala nang iba
+Ngunit ako ba'y mahal mo pa ba?
+
+Sana lang hindi mo malimutan
+Na ang pag-ibig ko ay wagas
+Ito ay hindi magwawakas
+
+Hindi ko alam kung saan nagkulang
+Hindi ko naman sinasadya
+
+...
+
+",MusixMatch
+85,189430373,Funk-Ibig (feat. Pxrple & Prince Ben),Jong,[15],['R&B/Soul'],"Sa muling pagkikita
+Sana ay makayanan ko nang tumingin
+Sa iyong mata
+Sa tuwing magkasama
+Nanginginig ang labi
+Damdamin 'di masabi sa'yo
+Paano ba 'to?
+
+Di ko man lang naisip na
+Baka ikaw ay mawala
+
+Sawa na ako na itago ang damdaming ito
+Di na ako mapakali kasi nais ko sanang
+Marinig ang matamis mong oo, oo, oo, oo
+Ang matamis mong oo, oo, oo
+
+Pagdating ng Lunes
+Papasok na ganado kasi may sasabihin ako
+Sa iyo. (sabihin sa'yo)
+...
+
+",MusixMatch
 86,176388541,Hindi tayo talaga,Austin Barrios,[15],['R&B/Soul'],"Simula ng makita ko yong mga mata
 Nakatulala sa ilalim ng buwan
 Pinilit kong hingin ang iyong mga Palad
@@ -2785,9 +3650,52 @@ Akapin mo ako hindi na ako sayo
 Ngayon ako'y bigo pano ako aahon
 Sa mundo, pinilit kong magbago para
 Sa iyong pagbabago ginawa mo ang
-Puso ko prang tangang umaasa sayo"
-87,197118934,Walang Iba Pero Di Na Ikaw,JenCee,"[15, 18]","['R&B/Soul', 'Hip Hop/Rap']",
-88,193058967,Isa Lang Ang Sagot,Kunnns,[15],['R&B/Soul'],
+Puso ko prang tangang umaasa sayo",
+87,197118934,Walang Iba Pero Di Na Ikaw,JenCee,"[15, 18]","['R&B/Soul', 'Hip Hop/Rap']","Lumipas ang ilang taon
+Ngunit bakit nagkaganon
+Mga masasayang taon
+Pinagkait na ng kahapon
+Hindi naman ito pinagsinadya
+Nagkataon lang na biglang nawala
+Bigla nalang nawala
+Pinilit mo kong binaon
+Sa limot at iyong kahapon
+Pinaramdam mo sa 'kin nun
+Parang basurang biglang tinapon
+Alam ko naman na may punto ka dun
+Kasi may kasalanan din naman ako sayo noon
+Pinabayaan din kita
+
+Walang iba pero 'di na ikaw
+Ang aking mamahalin
+At aking lalambingin
+Hindi na sapat ang ikaw at ako
+Hindi na maramdaman
+Pagmamahal noon lang naranasan
+...
+
+",MusixMatch
+88,193058967,Isa Lang Ang Sagot,Kunnns,[15],['R&B/Soul'],"Ang dami kong tanong iisa lang sagot.
+Handa akong magsilbi sa ugali mong pagod.
+Gagawin lahat para ikaw ay mapasakin
+Huwag kang sumama jan baka ikay kanyang lokohin
+
+Hindi mo lang alam na ikaw ang tipo ko
+Mahilig mag basa at di mahilig mag tampo
+Kailangan ko pa bang mag paliwanag sa iyo oh
+Isang tingin mo palang nabihag mo ako. Prrrr!
+
+Umaayos ang paligid pag dating sayo
+Nag iiba ang ikot ng mundo dahil sayo
+Hagisan mo naman ako ng isang tingin
+Para ok na ako.
+
+Ang dami kong tanong iisa lang sagot.
+Handa akong magsilbi sa ugali mong pagod.
+Gagawin lahat para ikaw ay mapasakin
+...
+
+",MusixMatch
 89,167449074,Ending,Jom feat. Jjay,[15],['R&B/Soul'],"
 
 Talagang sa una lang masaya
@@ -2824,7 +3732,7 @@ Bat pa ko kakapit kung naka bitaw ka na
 Pano ako papasok kung pinag sarhan mo na
 Pano kita sasaluhin kung nahulog kana sa iba?
 ...
-"
+",
 90,150906191,Di Kita Baby,Kenjhons feat. Tim Sawyer,[15],['R&B/Soul'],"Sumakay ka lang
 ako na ang bahala
 Buong gabi salubungin ang umaga
@@ -2846,12 +3754,101 @@ papunta sa condo
 napasakay sa kotse
 simulan na ang gabe
 magkano ba yan?
-ilabas ang bote"
-91,34542094,Paano Na Ang Puso Ko,Zacariah,[15],['R&B/Soul'],
-92,160280609,Dahan-Dahan,Rob & the Hitmen,[15],['R&B/Soul'],
-93,152718218,Por Ti Loco Me Vuelvo,Carlos Garcilazo,[15],['R&B/Soul'],
-94,199671266,Simple,Jrldm,[15],['R&B/Soul'],
-95,190288366,Regalo,Nobrvnd,[15],['R&B/Soul'],
+ilabas ang bote",
+91,34542094,Paano Na Ang Puso Ko,Zacariah,[15],['R&B/Soul'],"Di ko alam anung gagawin
+Kung puso ko ay susundin
+Natatakot na di mo pansinin
+
+Kay hirap sabihin na
+Minamahal kita sinta
+Ngayong nakikitang mayron ka nang iba
+
+Sana'y pagbigyan,
+Pagbigyan ng pagkakataon
+Ang tanong sa isip ko
+Nasasaktan ang puso ko
+
+Paano na ang puso ko na umiibig sa yo
+Ngayon ikaw ay mayron nang ibang gusto
+Sana noon pa sinabi ko na
+Na minamahal kita
+...
+
+",MusixMatch
+92,160280609,Dahan-Dahan,Rob & the Hitmen,[15],['R&B/Soul'],"Teka lang
+Teka lang
+Saglit lang para lang dahan-dahan
+Ano to?
+Di sanay
+Di sanay
+Sa nararamdaman, naninibago
+Ano to?
+Di naman kailangan na magmadali
+Unti unting subukan ang baka sakali
+Darating ang panahon
+Kung para satin to
+Ngayon hayaan muna natin umikot ang mundo
+
+Dahan dahan lang
+Daanan muna natin ang lahat ng
+Kailangan na tahakin upang di tayo
+Magkamali sa dulo
+Upang makarating rin tayo sa pupuntahan
+...
+
+",MusixMatch
+93,152718218,Por Ti Loco Me Vuelvo,Carlos Garcilazo,[15],['R&B/Soul'],"Sa pagising ko tila himig mo ang bungad na araw ko pag
+Mulat ng mata jusko eto may muta pa ako teka ano na nga ba?
+San naba papunta?
+Lungkot ng buhay ko dala ng grabe na
+Hanggang saan ba aabot ang panaginip ko sa isang babaeng umaalon ang
+Kanyang buhok para bang gusto konang tumakas talaga sa isang
+...
+
+",MusixMatch
+94,199671266,Simple,Jrldm,[15],['R&B/Soul'],"Simple lang ang buhay
+Sindihan ang gulay
+Magpalutang lutang
+Habang pumupungay
+Sa daming mga kulay
+Berde lang tunay
+Kapayapaan
+
+Si manong ay nagalit
+Sabi nya ay bakit
+Sabi ko pwet mo may raket
+Sukili ko sa pamasahe
+Para na baba baba na
+
+Simple lang ang buhay
+Ingiti ang umay
+Humingang malalim
+...
+
+",MusixMatch
+95,190288366,Regalo,Nobrvnd,[15],['R&B/Soul'],"Basta kasama lang kita
+Okay na ako
+Hindi ko na kailangan ng mga regalo
+Kung meron edi masaya
+Okay lang kahit wala
+Okay lang wala
+Okay lang kahit wala
+
+Basta kasama ka
+Basta kasama ka
+Basta kasama ka
+Basta kasama ka
+
+Basta kasama ka
+Basta kasama ka
+Basta kasama lang kita
+Basta kasama lang kita
+
+Di ko kailangan pera
+Para lang sumaya
+...
+
+",MusixMatch
 96,181292415,Binibini,Cean Jr.,"[34, 15]","['Music', 'R&B/Soul']","Biglang bumagal
 Ang pag-ikot ng mundo
 Nang bigla kang lumitaw
@@ -2912,7 +3909,7 @@ Sabay nating abutin
 Oh kay ganda mo sa mata
 Na na na na na na na na na na
 Oh kay ganda mo sa mata
-Na na na na na na na na na na"
+Na na na na na na na na na na",
 97,34542084,Dahil Mahal Na Mahal Kita,Zacariah,[15],['R&B/Soul'],"Kahit na nagmumukhang tanga
 Kahit na sinasaktan ako
 Umiiyak ako dahil sa 'yo
@@ -2960,13 +3957,139 @@ Mahal na mahal kita
 Gagawin ko ang lahat
 Pangako mo lang 'di ako iiwan
 Dahil mahal
-Mahal na mahal kita"
-98,156214523,WSK (Wasak),Miss Ramonne,[15],['R&B/Soul'],
-99,199553106,Tala,Khimo Gumatay Covers,[15],['R&B/Soul'],
-100,139698321,Misunderstood,Elly Sound,[15],['R&B/Soul'],
-101,153689496,Radyo,Amara,[15],['R&B/Soul'],
-102,205920132,Humpay,Jarlo Bâse,[15],['R&B/Soul'],
-103,206358793,'di Na Lalayo,Vaughn,[15],['R&B/Soul'],
+Mahal na mahal kita",
+98,156214523,WSK (Wasak),Miss Ramonne,[15],['R&B/Soul'],"WSK (Wasak)
+
+Sa iyong mga mata aking muling nakita ang pag-ibig
+Pagmamahalang hinahanap ng mga tao sa buong daigdig
+Naniwala, nagtiwala; baka sakaling tama ang tibok at pintig
+'Di akalaing kaya mo akong tignang nakahandusay sa sahig
+
+Sino ba ang tama
+Sino ang may sala
+Di ko na maalala, bulag na sa'king luha
+Sa piling mo, iyak-tawa
+Hirap na may ginhawa
+'Di mo na 'ko marinig
+Hawak mo aking leeg
+
+Wasak na wasak, pero baliw pa rin sa'yo
+...
+
+",MusixMatch
+99,199553106,Tala,Khimo Gumatay Covers,[15],['R&B/Soul'],"Siguro nga't masyadong mabilis ang pagyanig
+Ng puso ko para sa puso mo
+Siguro nga ako ay makulit, ayaw makinig
+Sa takbo ng isip
+Hindi ko maipilit
+Tila ako'y nakalutang na sa langit
+Ngunit nalulunod sa yong mga ngiti
+
+...
+
+",MusixMatch
+100,139698321,Misunderstood,Elly Sound,[15],['R&B/Soul'],"Mahal na kita sa paraan na ako lang ang nakakaalam
+Mahal na kita kaso nga lang hindi mo 'yon alam
+Gusto kong iparamdam sa'yo all
+Night, baby, hold tight, don't be scared
+Baby, it's alright cause I'm in love with you
+
+Lately ko lang napatunayan na mahal na kita
+Simula nagkatinginan ng mata sa mata
+'Di ko maipaliwanag ang nadarama sa'yo
+Pano na 'to ano ba 'to pusong matigas pinalambot mo
+Bakit ganto nag tatanong kung ako rin ba ang laman ng iniisip mo
+
+Pano kung kumatok ako sa pintuan
+Niyo pagbubuksan mo ba kaya ang tulad ko
+Kung sakali na mangyari sasabihin ko
+'Di na magdadalawang isip na sabihin 'to
+Agad agad sasagutin ang mga tanong mo
+Sana sagutin mo din ang mga tanong ko
+
+...
+
+",MusixMatch
+101,153689496,Radyo,Amara,[15],['R&B/Soul'],"Tumatakbo ka sa isip ko
+Bumibilis ang
+Tibok ng puso
+Nakatulala
+Sa bintana
+Di maiwasang
+Mapaluha
+
+Ang mga bituin
+Tinuturo
+...
+
+",MusixMatch
+102,205920132,Humpay,Jarlo Bâse,[15],['R&B/Soul'],"Kung ayaw mo na sa'kin,
+Huwag mo nang pilitin
+Ang sarili mo
+
+Huwag mo'ng iisipin,
+Na ako'y 'yong lilisanin
+'Di magtatampo ('Di magtatampo)
+
+Iwasan na ang paglingon
+Sa simula
+At kahapon natin
+Huwag manghinayang sa atin,
+Dapat mong piliin ang 'yong,
+Sarili
+Ang 'yong sarili
+
+At kung wala talagang
+Natitirang pag-ibig,
+Alalahanin
+Na ang kalayaan
+Mo ay ligaya
+Sa akin
+
+Hindi mo na tungkulin
+Na ingatan at hilumin
+Ang damdamin ko
+Oh-oh, oh-oh-oh-oh-oh
+...
+
+",MusixMatch
+103,206358793,'di Na Lalayo,Vaughn,[15],['R&B/Soul'],"'Di ko mapigilan na isipin kung kumusta ka na
+Kaya sana magparamdam ka na naman
+Kase alam ko na madami pa naman na paraan
+Lahat ng oras ko sayo ilalaan
+
+Tanda mo pa ba ang
+Mga araw na sinabi mo na dito ka nalang
+Kung ikaw ay aking lolokohin lang naman
+Edi sana palang 'di ko nalang din sinimulan
+Baby maniwala ka naman saaken
+Sabi ko naman kase sayo
+
+Hindi na lalayo sa tabi mo
+Hindi na lalayo sa tabi mo
+Hindi na lalayo sa tabi mo
+Hindi na lalayo
+
+Sa tuwing wala ka saking tabi
+'Di ko maiwasan na hindi mag alala
+Pano ba naman kase ang bigat ng pakiramdam
+Na aking dinadala-dala,
+'Di bale na, para sayo naman gagawin lahat kahit Minsan ako'y walang wala
+Wala nakong pake sa mga tao sa paligid ko
+Kahit narin naman sila ay talagang awang-awa
+Alam ko sa sarili ko aking ginagawa,
+Handa maging tanga
+Ganun kahalaga
+Gabi-gabi lumuluha
+Mata'y pulang pula
+Puno ng kalungkutan ang isipan
+'Di mapaniwala na ikaw ang dahilan
+O bakit ba kasi tinalikuran ba naman
+'Di naman kailangan na ako'y iwasan
+Pero kahit na ganun paden patuloy na kakapit
+...
+
+",MusixMatch
 104,165886572,Dalawang Isip,Kevin Yadao,[15],['R&B/Soul'],"Hanggang ngayon, ikaw ang laman
 Ng panaginip ko at isipan
 Parang anghel kung ngumiti
@@ -3000,10 +4123,90 @@ Ngayon tuloy ay nagsisisi
 Bakit ba hindi nasabi?
 Ngayon tuloy ay nagsisisi
 Edi sana nalaman ko pa
-Sana hindi na nagdalawang isip"
-105,204280205,Halina't,Ehrol,[15],['R&B/Soul'],
-106,188747342,Tagay Pa,Rydn,[15],['R&B/Soul'],
-107,162581701,Baby Girl,Tuphe,[15],['R&B/Soul'],
+Sana hindi na nagdalawang isip",
+105,204280205,Halina't,Ehrol,[15],['R&B/Soul'],"Halina't, sumama kana sakin
+Wala na, dapat pang isipin
+Sa tuwing ikaw ay kasama
+Hindi na mangangamba
+
+Hey baby
+Anong oras na
+Kanina pa ko nag hihintay
+Sumama kana
+Cause everytime when I'm with you
+I know exactly what to do
+
+Sa araw-araw na tayo ay magsasama
+Pag-ibig na hindi nakakasawa
+Everyday ill make you realize
+Baby girl, that you're mine
+
+Tuwing hawak
+Ang yong mga kamay
+Ang puso, ay di mapalagay
+Ang hiling ko lang sa mga tala ay
+Makasama ka habang buhay
+
+Halina't, sumama kana sakin
+Wala na, dapat pang isipin
+Sa tuwing ikaw ay kasama
+Hindi na mangangamba
+
+Halina't, sumama kana sakin
+Wala na, dapat pang isipin
+Sa tuwing ikaw ay kasama
+...
+
+",MusixMatch
+106,188747342,Tagay Pa,Rydn,[15],['R&B/Soul'],"Eto na naman ako lasing
+Iniisip ka pa rin
+Wala 'kong maihambing
+Sa iyo
+Di ko alam ang gagawin
+Tagay ay laging bitin
+Kulang pa rin
+Parang pagibig mo
+
+Pano ba ang sumaya
+Kung di na maibalik
+Kung hindi na makamit
+Ang iyong pananabik
+Eto lang paraan na alam ko
+Para kahit sandali ay makalimot ako
+
+Tagay pa
+Kulang pa
+Kahit na may amats na
+Kahit na may bukas pa
+May kasama o wala
+Gusto kong malunod
+At magpakalasing
+...
+
+",MusixMatch
+107,162581701,Baby Girl,Tuphe,[15],['R&B/Soul'],"Baby girl why don't you come back to me
+Why don't you love me anymore
+Baby girl you know i still care for you
+You know i will love you forevermore
+
+Pagnakikita ko ang larawan
+Na iyong iniwan ako'y nasasaktan
+Naaalala nung ikaw pay kapiling
+Kaya ang magbalik ka yan laging hiling
+
+Pagnaiisip kong nakaraan
+Nung tayo pay nagmamahalan
+Ngunit bakit ko pa ito sayo nagawa
+Sinaktan ka't iniwan mo ako ngayon hanap ka sinta
+
+Baby girl why don't you come back to me
+Why don't you love me anymore
+Baby girl you know i still care for you
+You know i will love you forevermore
+
+...
+
+",MusixMatch
 108,160453340,Between,Allegra feat. Young Echo,[15],['R&B/Soul'],"Ano bang dapat kong gawin
 Wag ka munang umuwi ayoko ng bitin
 Sa gabing ito pwede ba tayo malasing
@@ -3073,10 +4276,59 @@ Tumingin sa langit pagmasdan ang bituin
 Ano bang dapat kong gawin
 Pag ibig ko sayo sana bigyan mo ng pansin
 Ayoko ng umasa, Di ko kaya alamin
-Mahal kita kahit kaibigan lang ang yong tingin"
-109,199671272,Ay Nako,Jrldm,[15],['R&B/Soul'],
-110,185903426,Basta't Mahal Kita,Kiko Verzosa,[15],['R&B/Soul'],
-111,182509156,Baby,Ako si Pablo feat. MikeyBoi,[15],['R&B/Soul'],
+Mahal kita kahit kaibigan lang ang yong tingin",
+109,199671272,Ay Nako,Jrldm,[15],['R&B/Soul'],"Ay nako naman
+Palagi kang umiiyak
+Ay ako nalang
+Sabay tayong lilipad
+Pagsapait ng umaga
+Sakit ay wala na
+Hanggang sa wala ng ala ala sya
+
+Ay nako naman
+Mga dala moy akin na
+Ay alam mo ba
+Ikaw ang pinaka maganda
+Pagsapit ng umaga
+Sakit ay wala na
+Hanggang sa wala ng ala ala sya
+
+...
+
+",MusixMatch
+110,185903426,Basta't Mahal Kita,Kiko Verzosa,[15],['R&B/Soul'],"Eto,c sinusugal na naman ang puso ko
+Hindi nako natuto
+Ilang ulit nakong niloko
+Ilang beses nakong iniwan
+Sinabi sa sarili na
+Hinding hindi nako masasaktan
+
+Pero tumibok na naman and puso kong ito
+Hindi ko napigilan
+Kung bakit pa ako lumapit
+Alam ko naman baka sumabit
+Sinabi sa sarili na
+...
+
+",MusixMatch
+111,182509156,Baby,Ako si Pablo feat. MikeyBoi,[15],['R&B/Soul'],"Baby, Pakinggan mo ako
+Ikaw lang ang kailangan ko
+Sana pagbigyan mo
+Ang Hiling ko pakinggan mo
+Kung pwede lang tayo maging dalawa
+Gusto ko na mapasa akin ka
+Ang ganda ng iyong mga mata
+Gustong gusto talaga kita
+Iba ka sa mga nakilala ko
+Ang hirap ipaliwanag ngayon neto
+Hubog ng katawan mo ay laging nasa isip ko
+Ako'y nahulog sa kagandahan mo
+Pag nakikita kita gusto kita yakapin
+Ikaw ang pinaka maganda
+Sakin mga paningin, sakin mga paningin
+...
+
+",MusixMatch
 112,191931655,Cruxx (Kung Hindi Pwede) [feat. Ahldrin & Too Zan],Jerick Nucasa feat. Ahldrin & Too Zan,"[34, 15]","['Music', 'R&B/Soul']","Kung hindi pwede
 Sana ay malaman mo
 Na hindi peke
@@ -3127,19 +4379,283 @@ Ang pagibig na ibibigay sayo
 Kung hindi pwede
 Sana'y maintindihan mo
 Na hindi torpe
-Sadyang nahihiya lang sayo"
-113,202218091,Rena,Ron David,[15],['R&B/Soul'],
-114,202218093,"Time, Love & Space",Ron David,[15],['R&B/Soul'],
-115,201340611,Hayaan Lang Sana,Amy Nobleza,[15],['R&B/Soul'],
-116,201843435,Ayoko,RM,[15],['R&B/Soul'],
-117,203904963,Alak+Baso,Lil Cge,[15],['R&B/Soul'],
-118,198087793,Hlkn (feat. Imeh),Undrrtd,[15],['R&B/Soul'],
-119,205184070,Wag Ka Mag-alala (feat. Jl Estavillo & Russel Pardo),Lucas Valdes,[15],['R&B/Soul'],
-120,199045058,Akin Ka,Rydn,"[15, 18]","['R&B/Soul', 'Hip Hop/Rap']",
-121,196570445,Singapore,Quindoza,[15],['R&B/Soul'],
-122,84074361,Parang Langit,Johann Mendoza,[15],['R&B/Soul'],
-123,148635839,Ferris Wheel,DropDead,[15],['R&B/Soul'],
-124,102022162,Zouk Again (Chorus),Noel E.,[15],['R&B/Soul'],
+Sadyang nahihiya lang sayo",
+113,202218091,Rena,Ron David,[15],['R&B/Soul'],"Hmmmm
+La da da da da da
+La da da da da da
+
+Ron David and i'm singin
+
+Imma hit you once imma hit you twice yeah
+
+Napaka ganda mo Rena
+Tunay na pilipinang dalaga
+Nakita ko sa may gilid ng kalsada
+Habang ako'y nakadungaw sa bintana
+Kay sarap masdan ng 'yong mata
+Sa'yong ngiti ako'y natulala
+Nadarama'y bigla nang lumala
+At ang puso ko'y mistulang nagwawala
+
+Hey pwede ko bang malaman
+Kung ano ang pangalan mo miss
+Baka maaari na ihatid na kita sa may harap ng bahay niyo para safe kana
+
+...
+
+",MusixMatch
+114,202218093,"Time, Love & Space",Ron David,[15],['R&B/Soul'],"I'll share my time, love and space
+Kapag nanjan ka lumiliwanag ang nakikita ng aking mata
+Siguradong ibibigay ko lahat sayo dahil tunay na ikaw lang talaga, yeah
+Time, love and space
+Time, love
+Time, love and space
+Time, love
+Time, love and space
+Kung 'di ka gagawa ng paraan edi ako nalang
+
+Sa tagal ng relasyon na meron tayo
+Kung bibilangin ay higit walong taon narin ito
+Hindi natin gusto na tayo'y nagkakalayo
+Kase pakiramdam ko
+Nauubusan ng hininga
+At 'di rin tayo makapagpahinga
+Gusto mo, gusto ko ibibigay natin ang
+Sapat na oras para sa isa't-isa
+
+Minsan nakakalito pagtapos ng limang minuto bigla tayong nagkakagulo
+Aawayin moko pagkatapos
+Magbabati nalang na parang walang nangyare
+Normal nalang ito sa atin
+...
+
+",MusixMatch
+115,201340611,Hayaan Lang Sana,Amy Nobleza,[15],['R&B/Soul'],"Hindi ko naman pinapansin
+Kung may mahal ka na
+Kaya ko namang tanggapin
+Hindi ko naman ipipilit
+Ang sarili kung
+Hindi naman kayang mahalin
+
+At kung mayro'ng
+Lungkot sa'king mga mata
+Hayaan mo na lang
+'Wag mag-alala
+
+Hindi naman ako umaasa
+Hindi naman ako naghahangad na mapansin
+...
+
+",MusixMatch
+116,201843435,Ayoko,RM,[15],['R&B/Soul'],"Sabi ng ayoko
+Balikan ang mga alala natin
+Sabi ng ayoko
+Balikan ang mga ginawa natin
+Sabi ng ayoko
+Balikan ang mga alala natin
+Sabi ng ayoko
+Balikan ang mga ginawa natin
+
+Ano nga bang nangyare sating dalawa
+Ang saya dati bigla kang nag iba
+Alam kong mali pero tama to
+At kalimutan ka ay susubukan ko
+Susubukan ko oh
+Kalimutan ka kalimutan ka
+Kalimutan ka
+Kasi nga ayokong aminin wala na
+...
+
+",MusixMatch
+117,203904963,Alak+Baso,Lil Cge,[15],['R&B/Soul'],"Ipasa na ang baso upang makalimutan ko na
+Ang mga araw na minamahal parin kita
+Di mo maiintindihan aking nadarama
+Lungkot ay di mababatid saking mga mata
+
+Bote nalang ng alak ang alam kong lunas
+Saket ay di ko matanggal sa simpleng punas
+Hindi na maghihilom natamo kong sugat
+Dahil sa ginawa mo saken ay napabilib si Hudas
+
+...
+
+",MusixMatch
+118,198087793,Hlkn (feat. Imeh),Undrrtd,[15],['R&B/Soul'],"Yo
+Hey, hows it going
+I saw you from there, you were eyeballing me, so, i thought i might wanna say hi, (how'd you know that i was looking at you?)
+I just know.
+Im casper, save your number.
+
+Halika na sakin tabi, sabay na tayo umuwi
+Gamitin mo ko sandali, ng magdamag ka tumili
+Makabagbag damdamin ang aking kilig
+Pag saking mga mata palagi ka na nakatitig
+Ako ay lobo sa bilog mong buwan ay aalulong
+Pabulong na paungol ka tas pagulong na guluhin ang kama doon,
+Yan ay pautos hindi patanong malibang kang kasabay babasain ang balon
+Papikit na mapapalulon hanggang malulong at ipapadama ko na lang sayo ngayon
+
+Alaala kung san tayo unang nagkitat umupo,
+Nagusap patago, pagnanasa sa mundo na sa isip humubo
+Diwa ko at kamalayan dati lang napakalabo, pero totoo,
+
+Halika sakin baby, lapit ka sakin baby
+Ngayon gabi, ikaw ako wala ng iba baby!
+Coz i want you all night yeah!
+Halika sakin baby, lapit ka sakin baby
+Ngayon gabi, ikaw ako wala ng iba baby!
+Coz i want you all night yeah!
+
+Malamang siguro, kala biro, naparito ako
+Ang Superhero mo fully geared kala psycho ako
+Ang Souvenir mo kasbu na pagtapos na maligo
+Ang sigarilyo pasa mo na bago ka mapaso
+Tas pasok ka dito, di mapakali tong, kinakalabit mo
+...
+
+",MusixMatch
+119,205184070,Wag Ka Mag-alala (feat. Jl Estavillo & Russel Pardo),Lucas Valdes,[15],['R&B/Soul'],"Yeah, sinasabi ko sa 'iyo
+Lahat ng gusto ko ay nasa piling mo
+Kaya wag ka mag-alala
+Wag ka mag-alala
+
+Binubuhat ka ng ganda
+At wala ng iba pa
+Ikaw ang nasa isip ko
+At wala ng iba pa
+Kaya wag ka mag-alala
+Wag ka mag-alala
+
+San tayo mapunta
+Ikaw ang nasa-isip ko
+At wala nang iba pa
+Kaya, gawin na natin ang pinapaginip natin
+
+Ang mundo natin
+Ang pwede lamang natin
+Sukatin, mga bagay na iyakin
+Sabay natin bubuhatin
+At iiwan sa buhangin kasi kinakaya natin (Wag ka mag-alala)
+
+Ba't ba nagkaganto
+Wag ka na malito ayoko nang mabigo
+Ibibigay sayo pagmamahal kong buo
+Kapag dumadaan ka ang mundo ko'y humihinto
+
+Teka lang saglit
+Pwede bang yumakap ka kahit mahigpit
+Ikaw ang pinapangarap makamit
+...
+
+",MusixMatch
+120,199045058,Akin Ka,Rydn,"[15, 18]","['R&B/Soul', 'Hip Hop/Rap']","Napigil na naman ako ng pagkakataon na muling makasama ka
+Abot-langit ang aking ligaya
+Lahat sila'y nakahalata na
+Mayro'n pang larawang nagpapahiwatig
+Parang tayo pero alanganin
+Suntok sa buwan, bulong sa hangin na
+Ako'y sa 'yo, ikaw ay akin, 'yan aking ramdam
+Sa t'wing magkasama, akin ka, 'yan ang aking alam
+Sabihin man nila ako'y hibang, ako'y buwang
+Wala silang alam
+Tayo nakakaramdam
+
+Pag-ibig ko'y nandito lang
+...
+
+",MusixMatch
+121,196570445,Singapore,Quindoza,[15],['R&B/Soul'],"Di pa nakapasok sa iyong puso
+Wag magpapa-apekto sa mga tukso
+Dahil ang Singapore ay na-uso
+Sayo mapupunta ang aking puso
+
+It's Singapore, yuh yuh
+It's Singapore, yuh
+It's Singapore, yuh yuh
+Sa Singapore, yuh
+It's Singapore, yuh yuh
+It's Singapore, yuh
+It's Singapore, yuh yuh
+Sa Singapore, yuh
+
+Kay sarap mong kausapin
+Parang tunang kinakain
+Maghapon tayo'y laging busy
+Sa cellphone laging cheesy
+
+Di mo manlang naisip yung kalabasan
+Lagi nalang busy sa kwentuhan
+Daming dada, tapos na pala
+Hinahanap kita, san na kaya
+
+Tuwing umaga't hapon at gabi
+Naguusap nang di nagsi-sisi
+...
+
+",MusixMatch
+122,84074361,Parang Langit,Johann Mendoza,[15],['R&B/Soul'],"Sa dulo raw ng buhay tinitimbang kung tayo'y tunay na karapat dapat
+Pero ang alapaap ay narito sa lupa, kung may tiyaga kang maghanap
+Lahat tayo'y may hirap sa buhay araw-araw -- init, traffic, at pera
+Ngunit pagsakay ko ng jeep pauwi sa bahay, at ikaw ang nakita
+
+Parang langit, parang langit
+Kapag kasama na kita at nakakatabi
+Parang langit, parang langit
+Ang aking nahahagkan sa iyong tabi
+
+Ang pasanin araw-araw sa mundong ibabaw, ginhawa daw ang kapalit
+Pero 'di ko kailangan pangakuan ng ganyan, gantimpala na ang 'yong ngiti
+Kayod lang ng kayod hanggang makaraos -- umaga, tanghali, gabi
+...
+
+",MusixMatch
+123,148635839,Ferris Wheel,DropDead,[15],['R&B/Soul'],"Sana nga ngayon hindi kana lang nakilala
+Kala ko anghel na nagpanggap lang na dalaga
+Yun pala mali na, di agad nakita
+Nasilaw yung mata sa mga kulay sa pisngi nya
+Kala ko ganon nalang tingin mo, kaso biglang nahinto
+Inamin agad sayo nagtapat sagot sakin kaibigan ako
+Oo nga kaibigan lang ako
+Sayo ay kaibigan lang ako
+Yeah bat ako bakit ba nagmadali
+Kala ko porke kaibigan kita lahat sakin agarang mapapadali
+Pero hindi(pero hindi) pero hindi nadin talaga tama
+Nagising na utak ko sa laro na ang puso laging nadadaya
+Nakita nadin mga tama sa dating pikit na mali
+Buti nakita pa kulay mo sa taas ng kolorete sa bawat pisngi
+Dapat hindi na humingi ng kahit anong kapatawaran
+Dahil pag ginawa sakin sa dulo ikaw ay aking pagtatawanan
+Yeah!
+Ikaw ay pagtatawanan
+Ugh!
+...
+
+",MusixMatch
+124,102022162,Zouk Again (Chorus),Noel E.,[15],['R&B/Soul'],"Basta wala ka
+Ikaw ra ang gi huna2x
+Mingaw handumun kung ang tutunLan
+DiLi ma baLAnce txt.c kung naa kay mu
+Abante me karun dha wa na me tama
+Asa mi maka hit2x ani jah!
+
+Ikaw ra ang akung gi huna2x kay
+Mga Lakaw naku ikaw ang ka agbay
+Basta ikaw kuyog di naku mag bantay
+Dili ko bati kung gikan ikaw akung pay2x
+Basta ikaw kuyog aku ma Lingaw
+Karun waLa ka sa tapad aku gi mingaw
+Imung tama samas tam is nga halok
+Karon ikaw wala asa kaha ko ka ahok
+Sa pag biya nimu wako kalimot
+Ang na bilin imung papel nalang sa akung kamot
+Pwd ba nga mu balik ka diri
+Og e butang sa akung nawung ang dakung ngisi
+Hangtud karon ikaw ang gi pa ngita
+Akuang sugalan bisag mahal bisag basa
+Asa kaha ko makakita
+...
+
+",MusixMatch
 125,179625980,Nakaw Na Sandali,Schumi feat. Lipip,[15],['R&B/Soul'],"Ilang buwan na ang lumipas
 Bakit para bang hindi ka lumayas sa aking puso at isipan
 Ikaw ang lumisan
@@ -3191,29 +4707,460 @@ Ikaw lamang aking hiling
 Nakaw na sandal
 Tanggalin ang hapdi
 Nakaw na sandali
-Ikaw lamang aking hiling"
-126,199864008,Tayo Na Lang,Bash,[15],['R&B/Soul'],
-127,194283367,Positibo,Critz,[15],['R&B/Soul'],
-128,178912797,Halaga (Demo),Jerrold Angeles,"[1056, 15]","['Ambient', 'R&B/Soul']",
-129,195767714,24/7,DropDead,[15],['R&B/Soul'],
-130,198104098,Darating,Anj Jimenez,[15],['R&B/Soul'],
-131,201797111,Tayong Dalawa (feat. Sammy),The Morning Says,[15],['R&B/Soul'],
-132,192200884,Ano Ba Ko Sa'yo,Eris Justin,[15],['R&B/Soul'],
-133,202218090,Estrella,Ron David,[15],['R&B/Soul'],
-134,196306268,Sulyap,Manila's Finest,[15],['R&B/Soul'],
-135,196408447,Countdown,Zap Vergara,[15],['R&B/Soul'],
-136,161144767,Bagong Single (Sa Pasko),Brass Pas Pas Pas Pas,"[1139, 15]","['Funk', 'R&B/Soul']",
-137,169903187,Pasensya,Eris Justin,[15],['R&B/Soul'],
-138,201715748,Halaga,Hicci,[15],['R&B/Soul'],
-139,149118158,Make No Plans,ANAK,[15],['R&B/Soul'],
-140,92038924,Paputol Putol,Freestyle,[15],['R&B/Soul'],
-141,79201182,Mundong Imposible,Jake Israel,[15],['R&B/Soul'],
-142,108074700,My Love Story,OT Rap,[15],['R&B/Soul'],
-143,165760445,Be My Valentine,emz,[15],['R&B/Soul'],
-144,152942830,Pangarap,Marq Aljo,[15],['R&B/Soul'],
-145,196570442,Rosas,Quindoza,[15],['R&B/Soul'],
-146,116637591,Untitled,AC Based feat. Nikko,[15],['R&B/Soul'],
-147,196971881,Binibini,SCYE,[15],['R&B/Soul'],
+Ikaw lamang aking hiling",
+126,199864008,Tayo Na Lang,Bash,[15],['R&B/Soul'],"Hindi na kailangang pilitin
+Kung tayo, tayo, edi tayo hanggang dulo oh, oh oh, oh
+Hindi na kailangang pilitin
+Kung tayo, tayo, edi tayo hanggang dulo oh,oh
+
+Ano na? Anong ating plano? Diba kahapon okay pa naman tayo
+Bakit biglang nagbago? Kumabig ang puso, tuluyang naglaho na
+Ako sa isip mo sinta pero wag kang mag-alala
+Dahil ikaw lang talaga, ang gusto ko walang iba (Walang iba)
+
+Inaantok na yata ako pero ayokong matulog na tayo ay ganito
+Halika dito at pag-usapan natin to
+...
+
+",MusixMatch
+127,194283367,Positibo,Critz,[15],['R&B/Soul'],"Namulat na sa larangan
+Akin na itong nilakaran
+Di na pwedeng huminto dapat ay dire-diretcho kalang sa iyong paroroonan
+
+Wag mag alinlangan
+Ituloy mo lang ang laban
+Kahit pa di mo alam ang patutunguhan
+Basta't wag na wag kang panghinaan
+
+Wala kang masasandalan
+Lakasan mo lang ang yong kalooban
+Kailangan mong panindigan
+Sarili mo lang ang tangi mong kalaban
+Kaharap mo na sa salamin
+Sa pag angat mo sya lang din ang tanging salarin
+
+Wag na wag kang kukurap
+...
+
+",MusixMatch
+128,178912797,Halaga (Demo),Jerrold Angeles,"[1056, 15]","['Ambient', 'R&B/Soul']","Heto nanaman ako nag aabang sayo
+Kulang nalang ay lumuhod para mapansin mo
+Kapag ika'y nag iisa ako'y nag tataka
+Saan sila nag pupunta bat iniiwan ka
+
+Bakit di nila makita ang tunay mong halaga
+Pag nasa palad ka nila ika'y bibitawan pa
+Di nila alam ang tunay mong halaga
+Kaya't ganyan sila
+...
+
+",MusixMatch
+129,195767714,24/7,DropDead,[15],['R&B/Soul'],"Parang mabilisan lang lahat nangyare
+Bat sa buhay ko bigla ka napasali
+Diko din alam pano ako sayo nadale
+Pano ba yan naguguluhan
+Di na alam ano lalagyan
+Ng puso ko sayo
+Ng puso ko sayo
+Ng puso ko sayo
+
+Halos araw araw tayo magkatawagan (Ring ring)
+Nagpupuyat palage para makausap lang
+Miski na kadalasan panay lang ang titigan
+Nateng dalawa na para bang nabubuang
+Nabubuang sayo nabubuang ako
+...
+
+",MusixMatch
+130,198104098,Darating,Anj Jimenez,[15],['R&B/Soul'],"Nagmahal ngunit ikaw ay iniwanan
+Naghintay ngunit ikaw'y kinalimutan
+Nagbigay at ikaw ang naubusan
+Pagmamahal mo na hindi na suklian
+
+Oh ako ay takot na maiwan
+Kaya ayoko ng subukan
+Pero di mo alam kung saan at kailan
+Tayo muling magiging handa
+
+...
+
+",MusixMatch
+131,201797111,Tayong Dalawa (feat. Sammy),The Morning Says,[15],['R&B/Soul'],"Sinta, Tayong Dalawa
+Basta, Tayong Dalawa
+
+Eto na pinaka delekadong tatahakin
+Malinaw sa sayang binibigay
+Diba nga iba ka sa dala mo na panganib
+Ikaw na nga ang siyang hinihintay
+
+Dati rati magkaybigan lang ang turingan
+Taguan na dumating sa aminan at hulihan
+May pag bibiro pabibong kasama ang bullyhan
+Nagliyab na 'tong palitong dati lang ang ay kulitan
+
+Niligawan kana, hindi na natatakot bumaba sa bangka
+Maliligaw paba kung alam kong ikaw na
+Ang kasama na aabot kona sa pag tanda
+Like Abraham and Sarah
+
+Haharanahin ano man ang petsya
+At mamahalin ng hindi pinipwersa
+Paandarin na ang himig at piyesa
+Habang buhay kang aawitan Mahal kong prinsesa ng
+
+Sinta, Tayong Dalawa
+Pinagtagpo na Tinadhana pa
+...
+
+",MusixMatch
+132,192200884,Ano Ba Ko Sa'yo,Eris Justin,[15],['R&B/Soul'],"Nagsimula sa makulit na story n'ya
+Ako'y napareply
+Nagtuloy tuloy ang kwento n'ya
+Ako'y napasabay
+Hindi ko inakalang s'ya ay sasakay
+Hindi ako sanay
+Hindi mapalagay
+Dahil nga baka naglalaro ka lang
+Masama ba kung ako ay magtatanong sa'yo
+Sinasabi ko lang ang nararamdaman
+...
+
+",MusixMatch
+133,202218090,Estrella,Ron David,[15],['R&B/Soul'],"Ohh ohh ohh ohh
+
+Estrella ko ikaw ang nag-iisang bituin
+Ika'y lalambingin, mamahalin
+Nakuha mo 'ko sa isang tingin
+Wag ka sanang mahiya at ako ay 'yong pansinin
+
+Nung una akala ko
+Hindi ikaw yung tipo na makikisabay
+Sa mga trip kong walang humpay
+Buti nalang ako'y nagtagumpay
+Na mapasaya kita ngayong gabi
+Panalangin ko na mananatili to hanggang sa huli
+...
+
+",MusixMatch
+134,196306268,Sulyap,Manila's Finest,[15],['R&B/Soul'],"'Di mo ba
+Kita sa
+'King mga mata na
+Ikaw na nga
+Aking prinsesa
+Nag-iisa 'tong
+Puso ko'y nakuha
+Unang beses kang makita
+'Di mo ba
+Kuha sa
+'King mga galawan na
+Ikaw na nga
+Aking prinsesa
+Naghihintay 'tong
+Paraisong kay ganda ikaw na lang ang kulang
+
+'Di mo ba nahahalata
+Ikaw yung tanging babae sa'king mga mata
+Kagandahan mo kakaiba
+Ikaw lang palagi nakikita
+Lahat sa paligid malabo
+Sa'yo ang focus, para kang solo
+Lahat humihinto, nagiging slow-mo
+Parang pelikula
+Tayo ang bida
+Diyos and direktor at pinapa
+Sabi niya nga pala sa akin na
+Ika'y lapitan at kausapin
+Konting landian sabay yayain
+Bigay mo daw muna number mo sa'kin
+Manood ng sine tapos kumain
+Kahit saan, kahit malayo
+Pupuntahan, kahit dumayo
+...
+
+",MusixMatch
+135,196408447,Countdown,Zap Vergara,[15],['R&B/Soul'],"Hayaan muna natin ng mundo
+Ako'y samahan, kamay ko'y iyong hawakan
+Dito wala ng pwedeng manggulo
+Tayo'y lumipad papuntang kalawakan
+Habang nandito ka sa tabi ko
+Wag kang bibitaw, kapit mo'y pahigpitin
+Patigilin muna ikot ng relo
+Kung ako'y nananaginip, wag niyo na ako gisingin
+Pwede bang oras ay huminto
+
+Dahan-dahanin nating lasapin ang sandali
+Unti-unting hilahin ang sapin sa iyong binti
+Tamis ng yong halik, kinang ng yong ngiti
+Di kayang pantayan ng kahit na anong palamuti
+
+Dito ka saking tabi, umaga hanggang gabi
+Kapag inantok sabayan natin ng yosi at kapi
+Napapawi ang pagod kapag tinititigan ka
+Bigla 'kong nasisilaw, sa liwanag mong laging dala
+
+Binibining dinalangin, wag ka ng magalanganin
+Hindi ka pa man saakin, loob mo'y pagagaanin
+Kahit na panandalian, handa kita ibigin
+Kahit na panghabang buhay, handa na maging alipin mo
+...
+
+",MusixMatch
+136,161144767,Bagong Single (Sa Pasko),Brass Pas Pas Pas Pas,"[1139, 15]","['Funk', 'R&B/Soul']","Kay lamig ng panahon
+Dahil ako'y iniwan mo
+Ang aking pasko'y 'di makukumpleto
+Kasi wala na tayo
+
+Mga pare ko, ako ay bagong single sa pasko
+
+Pupunitin ko ang mga parol
+Itutumba ang Christmas Tree
+Kung okay lang paki-layo
+Sa akin si Santa Claus
+Para lang iwas gulo
+
+Mga pare ko, ako ay bagong single sa pasko
+
+Bagong single
+Bagong single
+Bagong single sa pasko
+
+Iba't ibang pailaw sa mga kalsada
+...
+
+",MusixMatch
+137,169903187,Pasensya,Eris Justin,[15],['R&B/Soul'],"Morena ang balat
+Wala kang katapat
+Iba sa lahat
+Iba sa lahat
+Nababaliw na sa'yo
+Aking pagtingin
+Di ko man maamin
+Basta ika'y masaya
+Ayos lang sa akin
+Kahit na mapalayo
+Wag mag alala
+Alam mo naman na 'di mo kasalanan
+Dahil nga marami lang talagang namamagitan
+Sa atin, sa atin
+Ayaw ka nila na mapasakin
+
+Pasensya na
+Pasensya na
+...
+
+",MusixMatch
+138,201715748,Halaga,Hicci,[15],['R&B/Soul'],"Pwede ba kitang makausap
+May gusto akong sabihin
+Di ko na kayang itago tong nasa isip
+Ayoko na ng puro panaginip
+Gusto kita
+
+Pwede ba kitang makausap
+May gusto akong sabihin
+Di ko na kayang itago tong nasa isip
+Ayoko na ng puro panaginip
+Gusto kita
+Gusto kita
+
+Pagod na ako sa ganito
+Nasa likod na naghihintay na pansinin mo ako
+Kaya dito nalang sa telepono
+Kasi pag kaharap ka na
+Di ko matiis ang nadarama oh no
+Oh aking sinta
+Di ko maisip na masasaktan kita
+Sumama ka na sakin
+Di ka na magluluha
+Makita lang kita ako ay matutuwa
+Di mo na kailangan isipin
+Na may pake ako sa
+Nakaraan mo na buhay
+...
+
+",MusixMatch
+139,149118158,Make No Plans,ANAK,[15],['R&B/Soul'],"Tayo ay isinilang
+Sa mundong puno ng digmaan
+
+Idinuyan ng kasakiman
+Sa lakas at kapangyarihan
+Nabuhay sa bingit ng laban
+At minulat ng karahasan
+Puot sa puso ay sumisigaw
+Dulot ng digmaang nang-agaw
+...
+
+",MusixMatch
+140,92038924,Paputol Putol,Freestyle,[15],['R&B/Soul'],"Lagi na lang kinakabahan sa twing ikaw ay di nagpaparamdam
+Para bang laging di mapakali ang puso kong ikaw ang hinihingi
+Pwede ba yon? Pwede bang lagi tayong nagkikita araw araw
+Di yong parang patay sindi't walang linaw
+Sabihin mo sakin dahil ayokong maghabol
+Nakakawalang gana pag lagi na lang
+
+Paputol putol tayo'y di matuloy
+Paputol putol puso'y tumataghoy
+
+Bakit ba di makapaghantay e kanina lang tayo'y magkahawak kamay
+Siguro ay dahil sa bawat ngiti at ligaya kahit na patingi tingi
+...
+
+",MusixMatch
+141,79201182,Mundong Imposible,Jake Israel,[15],['R&B/Soul'],"Bakit ba gan'to
+Ang nadarama
+Ng puso ko
+Ngayong nag iisa
+Naghihintay pa rin
+Na makasama ka
+Dito sa
+Mundong imposibleng
+Makita ka
+Mayakap ka
+Masabi kong
+Mahal pa rin kita
+Maulit pa
+Ang panahong
+Tayong dalwa'y
+Magkasama't masaya
+Hanggang dito
+Na lang tayo
+...
+
+",MusixMatch
+142,108074700,My Love Story,OT Rap,[15],['R&B/Soul'],"Myrong aqng kwento
+Isang lovestory na ngyari sa kanto
+Habng aqo'y papunta skeng trabaho
+Ay my tumatakbo at bigla na lng
+Kmi dalaway ngkabunggo
+
+Akoy nagtataka, sking nadarama
+Nang mkita sya ay kumislap aking mata
+Khet ligaw tingin sana ay yung mapansin
+Ang makumpleto qo, ang love story ko
+...
+
+",MusixMatch
+143,165760445,Be My Valentine,emz,[15],['R&B/Soul'],"Sa larangan, lansangan
+Madami kang madadaanan
+Dapat diretso ang tingin wag kakaliwa't kanan
+Ni hindi makapaniwala sa tangi mong kagandahan
+Nang una kang makita muntik nakong
+MabulunanIminulat ang aking matang sa dilim di nakakakita
+Ilusyon lamang pala na ikaw makakasama
+Mag ingat sa paligid baka ikaw na ang makarma
+Sa mundong walang tumataas lahat bumababa na
+
+Ang lubid, gumapos
+Ikaw lang ang tatapos
+Isantabi upua't sa buhay makakaraos
+Nasayang na lamang
+Walang paa paalam
+Tinulak ng sariling kamaliang naranasan
+
+Iniwan ang nakaraan
+Na parang panaginip lang
+Nilisan ang mga problema't
+Sarili'y pinakinggan
+...
+
+",MusixMatch
+144,152942830,Pangarap,Marq Aljo,[15],['R&B/Soul'],"Ito'y aking pangarap
+Ito'y aking pangarap
+Ito'y aking pangarap
+Ito'y aking pangarap
+Ayoko ng bitawan
+Ayoko ng bitawan
+Ayoko ng bitawan
+Ayoko ng bitawan
+
+Naalala ko, gusto ko ng sumuko
+Ang daming bibig, nakapalibot saking ulo
+Hindi nila kayang makita akong
+Nagiging ako at ako ay lulong
+...
+
+",MusixMatch
+145,196570442,Rosas,Quindoza,[15],['R&B/Soul'],"Tumingin ka sa iba
+Wag lang sa baba
+Sayang ang ganda
+Kung ika'y lumuha
+Sana walang oras
+Oh aking rosas
+Aking simptomas
+Ikaw ang aking lunas
+Tumingin ka sa iba
+Wag lang sa baba
+Sayang ang ganda
+Kung ika'y lumuha
+Sana walang oras
+Oh aking rosas
+Aking simptomas
+Ikaw ang aking lunas
+
+Maliit at cute
+Marunong pa shumoot
+LParang chris brown
+Ika'y mapapamute
+
+Sino ba sya
+Sa isip ko ay laging nandyan
+Sino ba ang taga-pinta
+Isip ko'y nagkalaman
+
+Malawak ang isipan
+Naghahanap ng paraan
+Lokasyon ay di malaman
+Di malaman kung nasaan
+...
+
+",MusixMatch
+146,116637591,Untitled,AC Based feat. Nikko,[15],['R&B/Soul'],"1]
+Nakiangkas sa giniginaw na pulang kabayo
+Dalada na sibat ay tulang magarbo
+Pinahatid ang mga malalang regalo ko
+Sa utak alimango (maluwang na karo)
+Gitgitan na kami ng aliwin ng mga pangarap na hindi kaya bilin
+Madami man ang pumapantasya bilang lang sa daliri ang pwede tumikim
+Mundong inakala kong laro lang
+Nasimulan na maging kilala ko na pagkatapos
+Sawayin ng mga karanasan na dala ko piring sa mata
+Kinagatan ang trip ng karamihan
+Kahit na hindi madaling nguyain sa panga
+Baka naman ay mag yapak ka nalang
+Pag nagpalit tayo ng mga sapin sa paa
+
+Katawa-tawa na isipin, ngayon pa ko nadala sa pagiging
+Patapon na malala sa alipin ang mahalaga nabawi rin
+...
+
+",MusixMatch
+147,196971881,Binibini,SCYE,[15],['R&B/Soul'],"Ikaw ang binibini na ninanais ko
+Binibining marikit na dalangin ko
+Ikaw ang nagbigay ng kulay saking mundo
+Sana ay panghabang buhay na ito
+Ikaw ang binibini na ninanais ko
+Binibining marikit na dalangin ko
+Ikaw ang nagbigay ng kulay saking mundo
+Sana ay panghabang buhay na ito
+
+Oh binibini ko, ikaw ang nais ko
+Na makapiling sa buong buhay ko
+Laman ng panaginip, ikaw ang iniisip
+Di ko alam kong bakit ako ay nabibighani
+Sa tuwing ikaw, ay napapadaan
+Mga mata ko ay, kumikislap agad
+Korteng bote na, katawan mo at
+Mga ngiti mong matamis naba ay sakto na
+Sana'y mapansin, at ako'y dinggin
+Mga damdamin ko'y nais maparating
+Ako'y nadali ng mga ngiti mo at
+Mala angel na mukha sayo'y naakit na
+Oh Maria Clara ko, sayo'y hibang ako
+Ikaw ang kahulugan ng salitang buhay ko
+Ang tanging hiling, Dyos iyong dinggin
+Ang babaeng marikit ay mapasakin
+...
+
+",MusixMatch
 148,199436509,Aliw,Mojo Nova,[15],['R&B/Soul'],"Oh, aking bulaklak
 Duyan ng aking pagsinta
 Itong hampas ng bagyong
@@ -3248,10 +5195,85 @@ Lumapit ka, aking mahal
 (Ikaw, ikaw, ikaw, ikaw)
 Sa’yo lamang mananatili
 At ibibigay ang sarili
-Ooh, ang paraiso"
-149,200743386,Dito Ka Lang,Disktrack,[15],['R&B/Soul'],
-150,181931122,Nasilaw,"Ako si Pablo feat. Exx Dasallla, Sir Pete Xcvi, Drea Jesus & Ono Malapitan",[15],['R&B/Soul'],
-151,185319889,Medyo Masakit V.2,ambo dolores,[15],['R&B/Soul'],
+Ooh, ang paraiso",
+149,200743386,Dito Ka Lang,Disktrack,[15],['R&B/Soul'],"Ikaw ang palaging nasa paligid pag lumalalim
+Ang pag tulog pagkatahimik ay mas lumalapit ka sakin
+Iba ang ganda mula sa mata
+Sa ngiti mo palang ay naakit mo na ko
+Sa tuwing magkikita doon sa malayong
+Parte kung saan tayo lang dalawa
+
+Ang magkasama kung san di ka nababahala
+Tanging huni ng mga ibon na pinapalipad ni bathala
+Ang naririnig natin sa tuwing inaantay nila kong magising
+Kaso ayoko nanamang malayo sayo sana wag nila kong katukin
+
+Kaya dito ka lang sakin
+Sulitin natin ang gabi-gabing malalim
+Samahan moko dito sa usok at hangin
+Oras ay nakawin kahit na panandalian lang tong pag sasama natin
+
+Kumusta kana? sa tingin ay ayos ka lang
+...
+
+",MusixMatch
+150,181931122,Nasilaw,"Ako si Pablo feat. Exx Dasallla, Sir Pete Xcvi, Drea Jesus & Ono Malapitan",[15],['R&B/Soul'],"Ako'y nasilaw sa iyong ganda
+Hindi ko nakita na mali pala
+Dapat natuto na dati pa
+Pero ako'y sadyang nasilaw sa ganda
+Ako'y nasilaw sa iyong ganda
+Hindi ko nakita na mali pala
+Dapat natuto na dati pa
+Pero ako'y sadyang nasilaw sa ganda
+
+Nagsilbing liwanag
+Sa panahong madilim
+Nung unang beses masilayan
+Ang iyong ningning
+Kahit na masilaw pa
+Sa iba hindi titingin
+Nangingibabaw ang ganda
+Di pwedeng ihambing
+Sa bawat pagtitig
+Mundo ko'y napapatigil
+Kamay ng oras handa na baliin
+Para masulit natin ang isa't isa
+At walang makakapigil sa ating dalawa
+Ikaw lang maliwanag ba
+Hayaang maglaway sila
+Mas mainit sa tanghaling tapat
+Mala porselana ang balat
+Nakakasilaw ayaw kong kumurap
+Kahit na may piring ikaw parin ang pipiliin
+
+Ako'y nasilaw sa iyong ganda
+Hindi ko nakita na mali pala
+Dapat natuto na dati pa
+Pero ako'y sadyang nasilaw sa ganda
+Ako'y nasilaw sa iyong ganda
+Hindi ko nakita na mali pala
+...
+
+",MusixMatch
+151,185319889,Medyo Masakit V.2,ambo dolores,[15],['R&B/Soul'],"Simula ng magkabalikan
+Lalo lang lumuluha
+Para bang, wala ng tiwala
+Lalu lang lumulubha
+
+Ang sigla ay lumipas
+Ang lambing ay kumupas
+
+Tanggap ko naman na ako ay ngkakamali
+Bigyan mo nman ako kahit na sandali
+
+Ako ba ang may kulang?
+O ikaw na ang may ayaw
+
+Ibabalewala na lang ba, ating pagmamahalan?
+O susubukan pa bang dagdagan ating pagdurusa?
+...
+
+",MusixMatch
 152,193360274,Cinema,Louis Angelo,[15],['R&B/Soul'],"Malungkot na nanunuod sa cinema
 Walang kasama, hawak ang popcorn na magisa
 Ang hirap, isipin dahil nga wala ka na
@@ -3287,7 +5309,7 @@ Mahirap, isipin dahil nga wala ka na
 Malungkot na nanunuod sa cinema
 Walang kasama, hawak ang popcorn na magisa
 Ang hirap, isipin dahil nga wala ka na
-Mahirap, isipin dahil nga wala ka na"
+Mahirap, isipin dahil nga wala ka na",
 153,202406604,Hayaan Mo Lang Ako,Eleazar Galope,[15],['R&B/Soul'],"1, 2...
 1, 2, 3...
 
@@ -3326,7 +5348,7 @@ Basta't hayaan mo lang ako, oh, oh...
 (Sabihin mo man na hindi 'to totoo)
 (Biglang-bigla kasi ang nararamdaman ko)
 Handa ko naman na patunayan ito
-Basta't hayaan mo lang ako, oh, oh"
+Basta't hayaan mo lang ako, oh, oh",
 154,199034782,Gabi,Chano,[15],['R&B/Soul'],"Nandito kanina pa
 Napansin kita bakit nag iisa
 Ang layo inabot ng mga paa ko
@@ -3397,8 +5419,8 @@ Dahil ikaw ang aking harana
 Kasama buong gabi
 Dantay mga binti
 Tayong dalawa
-Lang ang makakaintindi"
-155,180489391,Panaginip,Jom feat. Jjay,[],[],"
+Lang ang makakaintindi",
+155,180489391,Panaginip,Jom feat. Jjay,[15],['R&B/Soul'],"
 
 Hindi na kita maalis sa isip ko
 Pwede ba kitang tanungin
@@ -3464,7 +5486,7 @@ At ikaw ay makasama
 Dahil matagal tagal na akong nag-hihintay (naghihintay)
 Kasi alam kong sa isang katulad mo
 Ay walang papantay
-"
+",
 156,193935278,Ongchingco,Clr,[15],['R&B/Soul'],"
 
 Yeah
@@ -3528,11 +5550,112 @@ Ikaw...
 (Just say ""I do"", just say ""I do"", hope you say ""I do"")
 I'll be the Jay-Z to your Beyoncé
 (Just say ""I do"", hope you say ""I do, do, do"")
-"
-157,200075433,Hold Me,Spade One,[15],['R&B/Soul'],
-158,212788567,Mananatili,Marga Jayy,"[14, 15]","['Pop', 'R&B/Soul']",
-159,201776376,Liham Para Kay,Mooz PH,[15],['R&B/Soul'],
-160,213600959,Ligaw,AP Flo' feat. Kade,[15],['R&B/Soul'],
+",
+157,200075433,Hold Me,Spade One,[15],['R&B/Soul'],"Hey babygirl how you doin
+Kamusta ka
+Pwede ba na ikaw ay
+Maimbita
+Kung wala ka namang ginagawa
+Pwede ba kitang maabala
+Ey
+Puso koy nabihag mo
+You deserve to be treated right
+Di ka maalis sa isipan ko
+Come on lets have fun tonight
+Kapit ka saking kamay
+Di ka bibitawan
+Pangako sa iyo
+Na di ka iiwanan
+Ngayong akin ka na
+Lalong papadama
+Pagibig na walang hangganan
+Di ko sisirain ang tiwala mo
+Pupunasan ko palagi mga luha mo
+Di ako perpekto
+Pero nais ko na malaman mo
+Tunay ang damdamin ko sayo
+
+Hold Me baby
+Di ka iiwanan
+Kapit ka saking kamay
+Hindi ka bibitawan
+...
+
+",MusixMatch
+158,212788567,Mananatili,Marga Jayy,"[14, 15]","['Pop', 'R&B/Soul']","'Di mo lang alam ako'y 'di pa nakalalaya
+Mula sa akala kong habambuhay
+Ngayon ay alaala
+Marahil ay 'di mo napapansin
+Dahil ayaw kong malaman mo
+Nang matulungan din kita
+Sa paglaya ng iyong puso
+
+Salamat sa maikling walang hanggang
+Ipinaranas mo
+Naging gusot man ang ikinasiya
+Ng ating mga puso
+Ang mahalaga ang mga bagay na
+Walang ibang makapagsasabi kundi tayo
+
+Ikaw ay mananatili
+Alaala ay mananatili
+
+Walang ibang makapagsasabi
+Kung hanggang kailan
+...
+
+",MusixMatch
+159,201776376,Liham Para Kay,Mooz PH,[15],['R&B/Soul'],"Alam kong pagod ka na
+Ba't di ka magpahinga
+Umulit lumuluha
+Punitin na ang pahina
+Alam kong pagod ka na
+Ba't di ka kumawala
+Habang may oras pa
+Pwede ka pang kumawala
+Ohh
+
+Alam kong nagmahal ka lang
+'Di na 'to sapat na dahilan
+Baka pwedeng umalis ka na diyan
+Huminga ka naman
+Ohh
+
+Kita ko sa'yong mata Na kahit na ngumingiti
+Alam kong 'di ka masaya Kasi may minimithi
+Na baka magbago siya At ba't nandito ka ulit
+Dahil pangako nawala 'Wag mo nang ipilit
+Sakanya'y 'di mahalaga Na kahit na sumiksik
+Ang mata niya'y nasa iba 'Wag ka nang sumisid
+Alam mong malulunod ka Katotohang masakit
+'Yun ay kahit mahal mo siya Ay masaya siya ng pilit
+
+...
+
+",MusixMatch
+160,213600959,Ligaw,AP Flo' feat. Kade,[15],['R&B/Soul'],"Ang hirap na maniwala kasi naman lagi na lang nasasayang
+Gusto na rin kita sana kaya lang talagang nakakadala na
+Ang hirap na maniwala kasi naman lagi na lang nasasayang
+Gusto na rin kita sana kaya lang talagang nakakadala na
+
+Di makapaniwala, bakit parang nami-miss kita
+Di pa nga nagkikita, nakakainis, di ba
+Tinatantsa, baka sumobra sa tamis
+Nakakabagabag at baka biglang lumihis ka pa
+Kasi naman pareho nating kabisa
+Mga galawang di tiyak at pansamantala
+Masyadong mabilis, sige, bagalan natin
+Para alam mong sa'n man patungo, gusto ko kasama ka
+Kasi
+Di ko ramdam takbo ng oras kahit pa hanggang madaling araw tayong magkausap
+Kulang na lang sa higaan ay langgam
+Di tatantanan, ang sarap mo titigan Ngiti mo ma'y medyo nakakabuang
+Alam ko namang gusto mo na malamang isipan ko'y ikaw lamang ang laman
+Wag ka nang magduda at mag-alala di ka iiwan katulad nila
+Ayoko masayang at mapunta pa sa maling tao't maging bato pa
+...
+
+",MusixMatch
 161,184586193,Hulog Ng Langit,Colt,[15],['R&B/Soul'],"Verse:
 Di makawala sa aking panaganip
 Tunay nga kayang ikaw na ang hinihiling
@@ -3567,7 +5690,7 @@ Hawak ang kamay at dinadalangin ko
 Sana ay kumapit, mahigpit
 Pagka't ikaw ang tanging nais ko
 Hulog ng Langit
-Hulog ng Langit"
+Hulog ng Langit",
 162,152706765,Mga Mata,Slim Albino,[15],['R&B/Soul'],"Ako'y nahulog nanaman sa'yong mapungay na mga mata
 Umiinit ang paligid sa tuwing nakikita ka
 Ako'y nahulog nanaman sa'yong mapungay na mga mata
@@ -3593,7 +5716,7 @@ Pati sa'king panaginip ay ikaw ang laman
 Ang gusto ko lang naman ay maging akin ka
 Kay Diwata, ang ganda mo ang 'yong mahika
 Pagnagkasala sayo diretso langit na, langit na...
-Langit ka"
+Langit ka",
 163,34542093,Dahil Mahal Na Mahal Kita (Instrumental),Zacariah,[15],['R&B/Soul'],"Kahit na nagmumukhang tanga
 Kahit na sinasaktan ako
 Umiiyak ako dahil sa 'yo
@@ -3641,26 +5764,443 @@ Mahal na mahal kita
 Gagawin ko ang lahat
 Pangako mo lang 'di ako iiwan
 Dahil mahal
-Mahal na mahal kita"
-164,152942832,Hanggang Dito Nalang,Marq Aljo,[15],['R&B/Soul'],
-165,196653172,3Am (Live),Calvin,[15],['R&B/Soul'],
-166,199977057,Ayoko Na,$aints,[15],['R&B/Soul'],
-167,201146277,Bagong Umaga (feat. J-KID & Fateeha),Medmessiah,[15],['R&B/Soul'],
-168,194164650,Real Love / Tunay Na Pag-Ibig,Brxdvcl,[15],['R&B/Soul'],
-169,195238581,6R2,Suave Avjel,[15],['R&B/Soul'],
-170,199671261,Patiwakal,Jrldm,[15],['R&B/Soul'],
-171,198487683,6am,Spade One,[15],['R&B/Soul'],
-172,201816524,Akin Ka Na Lang,Mozion,[15],['R&B/Soul'],
-173,208815004,Show Me How You like It,Vyge,[15],['R&B/Soul'],
-174,206304473,Ba't sa Dinami-Rami,Chael Gabat feat. Angela Cafe,[15],['R&B/Soul'],
-175,212989805,ayos lang,Purple Szn,[15],['R&B/Soul'],
-176,128791041,Aaminin Ko Sa'yo,Luke Mejares,[15],['R&B/Soul'],
-177,92038926,Isang Halik,Freestyle,[15],['R&B/Soul'],
-178,108326065,Ayokong Masanay,Sarah Caballero,[15],['R&B/Soul'],
-179,152942831,Paraiso,Marq Aljo,[15],['R&B/Soul'],
-180,152942828,Betina,Marq Aljo,[15],['R&B/Soul'],
-181,154896987,Hele,Marq Aljo,[15],['R&B/Soul'],
-182,182047808,Mahal na mahal pa rin,"Still One feat. Zo zo, Joshua Mari & Mari",[15],['R&B/Soul'],
+Mahal na mahal kita",
+164,152942832,Hanggang Dito Nalang,Marq Aljo,[15],['R&B/Soul'],"Gusto niyo lang ako pag lasing
+Hindi niyo kayang tanggapin
+Kung ano ako
+Kung ano ako
+Kung ano ako
+Kung ano ako
+
+Gusto niyo lang ako pag lasing
+Hindi niyo kayang tanggapin
+Kung ano ako
+Kung ano ako
+Kung ano ako
+Kung ano ako
+
+Sa katuwaan dun lang tayo nagkikita-kita
+Katotohanan lang ayoko lang manira-nira
+Ang sakit, dun lang tayo madikit
+...
+
+",MusixMatch
+165,196653172,3Am (Live),Calvin,[15],['R&B/Soul'],"Kung minsan, katabi ko ang hangganan
+Gising ang alon sa dalampasigan
+Tila berde ang kalangitan sa aking mga mata
+Kapit lang sayo dahil ayaw ko mamalikmata
+
+At sabay sa kinakatha ko,
+Taya ko patipato, bulong sa hangin
+Mawawala ating anino, halika't pumarito
+
+Umindak sabay sa tunog ng stereo
+Wala nang pero pero
+Masisira ating preno
+Pag hindi ka pa nagbago
+Ito'y primitibo lang at di galing
+
+Sa salang pang gagago,
+Takot sa pagbabago
+Mga nakakausap mong ginagawang payaso
+Ang yong pagkatao
+
+Stop muna sa panaginip ko
+Ang iniibig ko, tila lumikas
+Na dito sa papag ko,
+
+At mag isa akong maglalakbay
+Di ko kakalabatin ang swerte
+Kasi kalmado sa pag-antay
+
+Habang mata'y mapungay
+...
+
+",MusixMatch
+166,199977057,Ayoko Na,$aints,[15],['R&B/Soul'],"Teka muna teka muna
+Talagang ikaw ay sumosobra
+Kundi ka lang mahal
+Baka ikaw ay talikuran
+Wag ka nang sumigaw
+Hahaba lang ating tampuhan
+Bistado ko na yung galawan mo
+Hinding hindi na 'to ulit magpapaloko sayo
+Ayoko lang kasi yung binibilog ako
+Hinding hindi na 'to mag papatali sayo
+
+Ngayon kalas nako sayong pagkakatali
+Ikaw parin yung reyna pero di nako yung hari
+'Di na 'to kampante lamang yung miserable
+Hindi hindi mo na matitikman yung aking labi
+Ngayon hindi ko na kailangan mag tiis
+Akala mo siguro ikaw ay mamimiss
+Hinding hindi ka na pagbibigyan
+Wala ng sasalo sayo matik yan
+...
+
+",MusixMatch
+167,201146277,Bagong Umaga (feat. J-KID & Fateeha),Medmessiah,[15],['R&B/Soul'],"Sa pagmulat ng mata at pag bangon mo sa kama Ang kasabay nito ay ang bagong umaga
+Bawal sumimangot salubungin ng ngiti Gamutin ang sugat kahit mahapdi
+Ipakita sa lahat na kahit na dapa ka kaya mong bumangon wag kang mahiya na
+Humarap sa ibat -ibang mukha titigan mo sila ng diretso sa mata
+
+Humakbang kahit na hindi ka pa handa kasi walang silbi ang buhay
+Kung ang nakatakda ay alam mo na kaya bat ka mangamba
+Kung natawid mo yung liko yung diretso pa kaya
+Matagal mo ng tinama ang maling akala kaya yung mga pana hayaan mong tumama
+Kung may mali kang nagawa sa buhay syempre sila rin
+Dahil tao lang sila at syempre tao ka lang din
+
+Wag kalimutan ang nakaraan
+Pero kailangan natin humakbang
+Tara sa amin ka na sumama
+Salubungin natin ang bagong umaga
+...
+
+",MusixMatch
+168,194164650,Real Love / Tunay Na Pag-Ibig,Brxdvcl,[15],['R&B/Soul'],"Lost in the past, I don't wanna see the future
+Cause you know, it's not the same without you
+Looking at our pictures like damn she my baby
+That face, them thighs, damn she's so sexy
+Beautiful angel that is sent from above (From above)
+Why don't you just show me some real love
+I'm your king, you're my lioness, we gone make some cubs
+I just want some real love
+
+Yeah, I just want some real love cause
+I've been thinking too much yeah
+All the shit that you do
+I wish that someday I can call you my boo
+I just want some real love cause
+I've been thinking too much yeah
+All the shit that you do
+I wish that someday I can call you my boo
+
+As I wake up, all I wanna see is you
+Cause when you called me
+Picked up the phone, heard your beautiful voice
+
+Yeah, I just want some real love cause
+I've been thinking too much yeah
+All the shit that you do
+I wish that someday I can call you my boo
+I just want some real love cause
+I've been thinking too much yeah
+All the shit that you do
+...
+
+",MusixMatch
+169,195238581,6R2,Suave Avjel,[15],['R&B/Soul'],"Baby kita
+Baby kita
+Baby kita
+
+Relasyon natin walang secreto
+Lahat ibubunyag
+Kung ikaw ay mahuhulog
+Ako'y malalaglag
+
+Sayo ako natuto
+Paano mag mahal
+Ikaw lang at ako
+Hanggan sa pag tagal
+
+Relasyon natin walang secreto
+Kaya andaming nangugulo
+Pag wala ka sa tabi ko
+Di completo mundo ko
+
+Pag sisigawan sa buong mundo
+Pag sisigawan sa buong mundo
+Ikaw ang gusto ko
+
+Aye (Baby)
+...
+
+",MusixMatch
+170,199671261,Patiwakal,Jrldm,[15],['R&B/Soul'],"Naubos ko na ang isang kahang malboro na pula
+Alkohol at dubi ang pansamantalang nag papasaya
+Pinapatay ko ang pangambang nadarama
+Ang bawat gabi, parang may mali
+Tawag ka ng lubid
+Siguro ang lahat ay may sagot na sa mga katanungan
+Kapag dedo kana
+
+Lalala
+
+...
+
+",MusixMatch
+171,198487683,6am,Spade One,[15],['R&B/Soul'],"Pwede ba na aminin ko na
+Ang tunay ko na nadarama
+Ayoko na kasing ilihim pa
+Na gusto kita at wala ng iba
+
+Every morning goodvibes
+Kasi ikaw ang taga gising ko
+Araw araw gumagaan
+Lagi ang feeling ko
+Kahit puyat at laging
+Kapos sa tulog
+Dahan dahan mo
+Ko na napapahulog
+Pag natatanaw kita
+Ay automatic ang ngiti ko
+Lakas ng datingan mo
+...
+
+",MusixMatch
+172,201816524,Akin Ka Na Lang,Mozion,[15],['R&B/Soul'],"Oooo oh nooo
+Durirap tap tara nana oh nooo
+
+Kay tagal tagal ko ng hinihintay ang tulad mo lahbs
+Sa wakas nandyan na at ibinigay na ni God
+Mapapangako ko sa'yo, at saksi na si Bathala
+Na 'di ko papakawalan ang puso mo oh my love
+
+Dahil ikaw lamang nagbibigay sa'kin ng gana
+Ikaw ang tanging dahilan kung bakit ba ginaganahan sa pag bangon sa umaga
+Kahit hindi na mag kape basta ikaw lang ang aking kasama
+Ngayun malinaw na, at na mulat na mga mata
+Ngunit hangang ngayun kapag kasama ka hindi pa rin maka hinga
+At kung ako ngalang si Rizal, ikaw yung tinutukoy ko na Maria Clara
+Hindi to maling akala, sa'yo ko lamang naranasan ang tunay na ligaya, kaya ngayun hinihiling ko na sana buksan Mo naman ang iyong bintana para marinig mo naman ang aking na sulat na harana
+
+Kay tagal tagal ko ng hinihintay ang tulad mo lahbs
+Sa wakas nandyan na at ibinigay na ni God
+Mapapangako ko sa'yo, at saksi na si Bathala
+Na 'di ko papakawalan ang puso mo oh my love
+
+...
+
+",MusixMatch
+173,208815004,Show Me How You like It,Vyge,[15],['R&B/Soul'],"I just know u wanna keep up, keep up
+Lagi nalang nasa tiktok, tiktok
+Alas dose ng gabi ay sumasayaw
+Kahit ulitin lang ang galaw
+
+Remember the night we meet up, meet up
+Stayed the night in with the lights off, lights off
+Di mapigil ang sarili sa iyo
+Wag nang manghinayang ako lang to
+
+Tell me what you want
+Alam kong di naman pagkakamali ang pag sangayon mo saakin
+
+Tell me what u need
+May makalaman man, d ko itatanggi
+
+Just show me how you
+Like it baby
+Wag na mahiya cause girl u know i
+Like it baby
+
+Buong gabi ikay saakin
+Sana nga ikay saakin
+
+Ikaw ang aking langit sakin ka lumapit wag kang bibitaw
+...
+
+",MusixMatch
+174,206304473,Ba't sa Dinami-Rami,Chael Gabat feat. Angela Cafe,[15],['R&B/Soul'],"(Ba't sa dinami-rami)
+
+Di ko maintindihan
+Ang tunay na nararamdaman
+Nang ika'y bigla nalang lumisan
+
+Ba't hindi ka lumaban
+Bumitaw sa kawalan
+Gano'n ba 'ko kadaling kalimutan
+
+Simula nung lumisan
+Hindi ko na malimutan
+...
+
+",MusixMatch
+175,212989805,ayos lang,Purple Szn,[15],['R&B/Soul'],"Oh baket biglang napapangiti
+Sa tuwing kasama ka, 'di nako makahindi
+'Di mapigilan tuwa, 'kala mo nakasinde
+Tila naglalaro ng apoy 'pag ikaw katabi
+Sa daming mga panaginip na aking nakita
+Ikaw ang aking binitbit hanggang sa magising na
+Ako ay matutulog ulet baka matuloy pa
+Tinalo ko pa ata PAG-ASA sa kakaasa
+Asadong asado, wala akong laban sa guwapo
+Hindi rin naman ganun kalaki ang aking braso
+Daming nagtanong ano ba ang meron ako
+Sa'kin may bumulong, 'wag kanang umasa bro
+Teka 'di ko naman sinabi na siya ay sa akin
+Ni hindi ko nga kayang umamin
+Dahil alam ko naman na talagang alanganin
+Pero sana magkaroon ng sa amin
+
+Sa tuwing kasama ka
+'Di ko mapigilan na matuwa (tuwa)
+Makita lang kitang masaya ay ayos na
+...
+
+",MusixMatch
+176,128791041,Aaminin Ko Sa'yo,Luke Mejares,[15],['R&B/Soul'],"AAMININ KO SA'YO
+
+Ako ay nagbalik
+Hahanap sayo
+Ako ay naging bulag
+Sa pagibig mo
+Bakit nag mahal
+Ng isang katulad ko
+Sanay maririnig
+Ang pag sabog ko
+
+Sana naman
+Mapatawad mo
+Ang labis na pagkukulang ko
+
+Ha! yeahhh!! Yeahhh!!
+
+Aaminin ko sa'yo
+Ika'y tunay na minahal
+Aaminin ko sa'yo
+Walang iba kundi ikaw
+Paano na ngayon
+Nariyan pa ba ako
+...
+
+",MusixMatch
+177,92038926,Isang Halik,Freestyle,[15],['R&B/Soul'],"Pwede bang dumalangin sa mga bituin
+Pwede bang matugunan aking hiling
+Para lang lumigaya aking mithiin
+Na ika'y makasama bawat saglit
+
+At dumadaan na ang panahon
+Paano kaya mangyayari ang hiwaga na mangagaling
+Sa pagdampi ng yong labi
+
+Wag mo na sanang pahirapan pa ako
+Nais ko lang nama'y isang halik, isang halik
+Nais lang damhin sa bawat sandali
+Sarap ng yong lamig at isang halik isang halik
+Woohoh
+
+...
+
+",MusixMatch
+178,108326065,Ayokong Masanay,Sarah Caballero,[15],['R&B/Soul'],"Halos araw-araw tayong magkasama
+Madalas na rin tayo ang magkausap
+Magkasundo sa lahat ng mga bagay
+Sa lahat ng oras lagi kang karamay
+Ako'y napapaisip sa pinapakita mo
+Pwede bang sabihin mo ito'y wala sayo
+Ayokong masanay sa bagay na pwede namang, wala
+Gumising sa umaga laman ng isip ko'y ikaw
+Mag kunwari sa sarili na wala naman talaga
+Oh, pwede ba sabihin naaaaa
+...
+
+",MusixMatch
+179,152942831,Paraiso,Marq Aljo,[15],['R&B/Soul'],"Ako'y nasa Paraiso
+Ayokong umalis dito
+Ako'y nasa paraiso
+Ayoko umalis dito
+Ikaw lang kailangan ko
+Ikaw lang kailangan ko
+Ikaw lang kailangan ko
+Ikaw lang, Ikaw lang
+
+Ang titig mo'y tumatagos sa akin
+Ako ba'y gising, tangay ako ng hangin
+Ang iyong paa nakapatong sa akin
+Tayo'y sumayaw, ito ang 'yong habilin
+Ako ay nababaliw sayo
+Ako ay nababaliw sayo
+Halika ka na, sumama ka
+Pumasok na, hawak-hawak ka lagi
+
+Ako'y nasa Paraiso
+Ayokong umalis dito
+Ako'y nasa paraiso
+...
+
+",MusixMatch
+180,152942828,Betina,Marq Aljo,[15],['R&B/Soul'],"Hindi ba't ikaw lang
+Hindi ba't ikaw lang ang mahal
+Hindi ba't ikaw lang
+Hindi ba't ikaw lang ang mahal
+Hindi ba't ikaw lang
+Hindi ba't ikaw lang ang mahal
+Hindi ba't ikaw lang
+Hindi ba't ikaw lang ang mahal
+
+Naaalala mo nung bata tayo
+Sinubukan ko mangligaw
+Ngunit tinawanan mo lang ako
+Akala ko mo siguro nagbibiro lang ako
+Kasi hindi naman paseryoso yung sabi ko
+Ako'y hindi sanay, paano ba sabihin 'to
+Pakiramdam ko ay sasabog na 'tong dibdib ko
+
+Hindi ba't ikaw lang
+...
+
+",MusixMatch
+181,154896987,Hele,Marq Aljo,[15],['R&B/Soul'],"Sisikapin ko yung oo, oo, oo mo
+Sisikapin ko yung oo, oo, oo mo
+Pag puso na nagsabi di na mapigilan to
+Ang ulo'y nasa langit nung nagkatagpo tayo
+Ito ang aking hele para lamang sa iyo
+Yakapin mong husto ang pagkakataong ito
+
+Alam mo bang napanaginipan kita
+Alam mo bang ikaw gustong kasama sinta
+Alam mo bang wala nakong hihilingin pa
+Saksi mga tala, ibigay mo na sana
+
+Lalakbayin ko kahit na malayo man
+Ang oo mo'y hangad ko, bigyan mong daan
+Lalakbayin ko kahit na malayo man
+...
+
+",MusixMatch
+182,182047808,Mahal na mahal pa rin,"Still One feat. Zo zo, Joshua Mari & Mari",[15],['R&B/Soul'],"Tingnan mo
+Kahit na wala ka na
+Di napalitan ang litratong kasama ka
+Buksan mo ako ang laman ay ikaw misis ko
+Ikaw ang aking bisyo sana
+Maramdaman na ang halik mo
+Sana, sana
+At kahit di mo miss ang ating mga date ay
+Hindi parin ako nalalate
+Pag tinetext, minumura mo
+All day and night
+Nagrereply parin
+I LOVE YOU BABE BYE
+Nawalan ka ng gana kahit inibig ka
+Wala ng dapat anong sabihin pa
+Pero mas lamang pagmamahal sa'yo
+Kaysa sa galit ko Oohhh
+Kahit nasa piling ka ng iba
+Kahit kaibigan na lamang kita
+Lagi parin nag-aalala sa'yo
+Sa t'wing kayo'y di nakakasundo
+Dala-dala ko parin ang sakit
+Nung sa kanya ako'y pinagpalit
+Ganon pa man wag kang mag-alala
+Nandito lang ako sa'yong tabi ohh
+Ako ang magsisibing taga-pasan
+Kapag lasing ka galing sa tomahan
+Sa t'wing ang iyong kalooban
+Ay di na magaan
+Gagawin ko ang lahat Upong ikaw ay tumahan
+Kasi alam mo naman na
+Kahit sang pagsubok ang dumaan
+Tayo ay hindi nag-iiwanan
+Kapag hindi mo na kaya
+Kapag di ka makalayo
+Sana maisip mo na
+Di kita hinihigpitan
+Di ba nung tayo pa
+Malaya kang makaalis
+...
+
+",MusixMatch
 183,189713549,Mga Mata,E-Kove,[15],['R&B/Soul'],"Yeah
 Yuh
 
@@ -3735,8 +6275,48 @@ Sa buhay ko na malungkot, ikaw ang nagpasaya
 Di naman makalapit kasi nahihiya
 Mapansin mo lang ako, ramdam na ang sigla
 Larawan nating dalawa gusto kong ipinta
-Nabighani sa ganda ng iyong mga mata"
-184,194169168,Skrrrt Like Mimiyuh,Trgggrd,[15],['R&B/Soul'],
+Nabighani sa ganda ng iyong mga mata",
+184,194169168,Skrrrt Like Mimiyuh,Trgggrd,[15],['R&B/Soul'],"I'm skrrtin on ya like mimiyuh
+Deuces to my haters see ya mamaya
+Get out my lane, tumabi ka nga
+May nag liliyab sge sindehan
+
+I'm skrrtin on ya like mimiyuh
+Wala kong oras sainyo, aint got time for ya
+Can you feel the fire cooking in the kusina
+We are not the same, akala nyo lang
+
+They all say
+I be heartless
+Cause cupid hit his target
+Arrow aimed right where my heart is
+I wear my art on my sleeve
+And leave my heart where the war is
+Do it all for my kin, cause it was just us
+When we started
+I'mma young harden
+Steppin back on you harmless
+Foes, can't withstand when I raise
+Up the standards
+Trgggrd be illmatic
+Slightly ill mannered
+Not that it really matters
+Imma go green
+Like a triggered bruce banner
+Spazzin on these tracks
+Rolling joints like a master
+Imma take a massive dump on these trucks
+Most of ya'll average
+We gonna eat your masters
+We gonna need a massive
+Stack amount of cash
+Caches upon caches
+Catch us when we we cash in
+Bend with the river
+Cause trgggrd be elastic
+...
+
+",MusixMatch
 185,194268204,Tulog,Yuson,[15],['R&B/Soul'],"Pagod na pagod na
 Ayaw nang mabuhay
 Gusto nang huminto
@@ -3777,19 +6357,274 @@ Sa mundong mapaglaro
 Pagod na pagod na
 Ayaw nang mabuhay
 Gusto nang huminto
-Sa mundong mapaglaro"
-186,191874339,Ilaw,Critz,[15],['R&B/Soul'],
-187,191170043,Hindi Na Ko Lilisan,ambo dolores,[15],['R&B/Soul'],
-188,201581775,Sobrang Laya,Too Stoned,"[34, 15]","['Music', 'R&B/Soul']",
-189,197060799,Hindi Ka Naman Sa'kin,Fer,"[15, 20]","['R&B/Soul', 'Alternative']",
-190,167199631,1am (Intro to Ops II),Maxlorie,[],[],
-191,161480749,GK (Ganda Ka),Miss Ramonne,[15],['R&B/Soul'],
-192,206204799,Airis (feat. DonMigs),Mooz PH,[15],['R&B/Soul'],
-193,194287963,Chill,Ashtin,[15],['R&B/Soul'],
-194,193138261,Ako Na Lang,Alfie A,[15],['R&B/Soul'],
-195,191791217,Malaya (feat. Steven Peregrina),Nrprods,[15],['R&B/Soul'],
-196,202218443,Lakas Tama,Pieces,[15],['R&B/Soul'],
-197,92038925,Kulang Ang Mga Sandali,Freestyle,[15],['R&B/Soul'],
+Sa mundong mapaglaro",
+186,191874339,Ilaw,Critz,[15],['R&B/Soul'],"Nung papunta palang ako halos sakin walang lumapit
+Nang palapit na sa tuktok lahat sila ay kumakapit
+Nilalait ng iba mga ginagawa kong obra
+At lingid sa kaalaman ko ang pinasok kong kultura
+
+Walang bilang sa iba kapag hindi ka nila kilala
+Ganyan talaga sa laro parang ikaw ay nakapila
+Hintayin ang panahong tumutok na sayo ang ilaw
+Malamang pag nagningning ka sila sayo ay masisilaw
+
+Hahanap hanapin ng iba kahit na di ka kilala
+Ganyan lang talaga kailangan mong magpakilala
+Kaya't di ko sasayangin ang mga pagkakataon
+Makasalamuha sa industriya mga tunay na leon
+
+Nagsisimula ka palang kaya't wag mo ng tangkain pa na mapagod
+...
+
+",MusixMatch
+187,191170043,Hindi Na Ko Lilisan,ambo dolores,[15],['R&B/Soul'],"Anak, hawakan mo ng mahigpit ang aking kamay
+Hindi kita bibitawan
+Tayo ay maglalagkbay'
+Kung san man
+Di tayo maghihiwalay
+Kayo ang aking kayamanan
+Ako ang inyong gabay
+
+Wala nang mas sasarap pa sainyong yakap at halik
+Wala na kong nagawa pero ako'y tuwang tuwa
+Mapuyat man
+Ako ay babangon dahil wala kong dahilan
+...
+
+",MusixMatch
+188,201581775,Sobrang Laya,Too Stoned,"[34, 15]","['Music', 'R&B/Soul']","Sobrang Laya boy di pwedeng
+Limitahan kapag umaapoy
+Laging derecho sa pangarap di matataboy
+Humarang saming daanan siguradong baboy
+Ahh so high mashadong mataas
+Kapag nag bababa ng bago malakas
+Maraming parating wag kang malilito
+Ta Tamaan ka kapag kinalabit ko to
+
+Mmm Sapul ka hindi sa bakal namin na dala
+Sabog ka dito sa bulaklak na dala
+Sobrang laya yeah sa pangarap abala
+Wag magtataka sa mga mata na mapula
+Touch down Tokyo to Manila
+Always lookin' back dala na ang bandila
+Wag ka dito bawal samin ang mahina
+Babagyo ng mga letra di na to titila
+
+Humanda sa malakas na parating
+Wag mong sisirin ang lalim nakaabang mga pating
+Piliin mo parin dito sa itaas dahil ito lang din naman ang gusto nilang marating
+Ingat ka parin Hmm dami dyan sakim Hmm
+Di mo agad sila makikilala ito ay paalala titira yan pag di ka na nakatingin
+
+Iniwan lahat ng mga salungat
+Natira nalang ang mga tapat
+Laging solido sa aking pangkat
+Bibitbitin lahat sa pag angat
+
+Nakawala sa kadena wala ng pipigil derecho na to
+Tanging amat ko lang nagdala sakin papuntang ibang mundo
+
+Piliin mo na ng maiigi ang kasama mo
+...
+
+",MusixMatch
+189,197060799,Hindi Ka Naman Sa'kin,Fer,"[15, 20]","['R&B/Soul', 'Alternative']","Ang iyong mga mata sa aki'y nakatitig
+Tayo lang dalawa pero bakit mainit?
+
+Tumatakbo lumalayo sa sinag ng araw
+Ayokong mabigo, sabihin kung ayaw
+
+Oh patingin tingin ka pa
+Hindi ka naman sa'kin
+O kay ganda ng 'yong mukha
+Hindi ka naman sa'kin
+...
+
+",MusixMatch
+190,167199631,1am (Intro to Ops II),Maxlorie,[15],['R&B/Soul'],"Sa larangan, lansangan
+Madami kang madadaanan
+Dapat diretso ang tingin wag kakaliwa't kanan
+Ni hindi makapaniwala sa tangi mong kagandahan
+Nang una kang makita muntik nakong mabulunan
+
+Iminulat ang aking matang sa dilim di nakakakita
+Ilusyon lamang pala na ikaw makakasama
+Mag ingat sa paligid baka ikaw na ang makarma
+Sa mundong walang tumataas lahat bumababa na
+
+Ang lubid, gumapos
+Ikaw lang ang tatapos
+Isantabi upua't sa buhay makakaraos
+Nasayang na lamang
+Walang paa paalam
+Tinulak ng sariling kamaliang naranasan
+
+Iniwan ang nakaraan
+Na parang panaginip lang
+Nilisan ang mga problema't
+Sarili'y pinakinggan
+...
+
+",MusixMatch
+191,161480749,GK (Ganda Ka),Miss Ramonne,[15],['R&B/Soul'],"Oh oh wo-oh
+
+Nangarap ka na ba
+Maging katulad ng iba
+Nangarap ka na bang maging masaya
+Umasa ka na ba
+Umasa sa wala
+Nangyari bang mukha ka nang tanga
+
+Hindi mo kailangan pa ang mag-alinlangan
+Isipin mong ganda ka
+
+Ganda ka, oh oh wo-oh
+Ganda ka, oh oh wo-oh
+Ganda ka, ganda ka
+'Di ba
+Ganda ka, oh oh wo-oh
+Ganda ka, oh oh wo-oh
+Ganda ka, ganda ka
+'Di ba
+...
+
+",MusixMatch
+192,206204799,Airis (feat. DonMigs),Mooz PH,[15],['R&B/Soul'],"Ngayong ako ang nawala
+Hanapin mo rin kaya
+Ngayong ako ang hindi dama
+Manibago ka rin kaya
+
+Nandito nanaman ako ngayon
+Walang madadatnan sa paglingon
+Lagi nalang ako ba't ba gano'n
+Wala na bang ibang solusyon
+Kasi alam mo naman mahal kita at
+Walang iba kun'di ikaw
+Bakit ka biglang sumuko
+Ganon lang ba para sa'yo ito
+...
+
+",MusixMatch
+193,194287963,Chill,Ashtin,[15],['R&B/Soul'],"Teka sandali
+Dyan ka muna chill lang
+Wag magmadali
+Ang buhay ay isa lang
+Bata ka pa di ka dapat na nangangamba
+Pagkat bawat hamon ng buhay ay kaya na
+Teka sandali
+
+Ang dami dami mong iniisip ngayon
+Di mo alam kung saan ka pupunta at pano
+Lahat may plano
+Magdasal tayo
+Wag na wag magtatago
+Teka sandali
+Magtiwala lang
+Kung ano ang nasa puso mo sundin mo lang
+
+...
+
+",MusixMatch
+194,193138261,Ako Na Lang,Alfie A,[15],['R&B/Soul'],"Ako na lang dapat ang iyong ibigin
+Mga mata mo'y pwede ko ba tong silipin
+Mga mali ko'y aking lilinisin
+Gusto mo rin ako hindi mo lang maamin
+
+Ouuu baby you're so fine
+Can you give me some of your time
+Our situation really got me affected
+Para kang Corona Virus you've got me infected
+
+Seeing her made my heartbeat too fast
+I'm praying for it, she'll be my last
+Ouu girl you hijacked my mind
+She's like and angel and one of a kind
+
+Tinamaan ako sayo ng malubha
+Hindi ko hahayaan na mapunta ka sa iba
+Ang relasyon natin ay biglang lumabo
+Pangakoy pag mamahal ko sayo'y di magbabago
+
+...
+
+",MusixMatch
+195,191791217,Malaya (feat. Steven Peregrina),Nrprods,[15],['R&B/Soul'],"Kasama kita nung akala mong
+Tinalikuran ka na ng mundo
+Ginawa ko lahat ng 'yong gusto
+Walang tinira sa sarili ko
+Ganon ako magbigay
+Ayokong kulang kaya may pasobra
+Akin nang ipinagpalagay
+Ikaw ang takda sa akin na obra
+Isa kang likhang-sining
+Ang sarap lang sa feeling
+Na ikaw ang kapiling
+Palaging nabibitin
+Sa mga ngiti mo
+Ay animo'y
+Umulan ng maraming ninoy
+Aguinaldo straight from ninong
+In short I feel blessed when im with you
+Di ko alam na gantong isusukli mo
+Malalaman ko pa ang totoo sa kung kani-kanino
+May itinatago ka sa likod ng yong mga anino
+May gaspang sayong ugaling tago sa kilos na pino
+Di ko sinusumbat ang mga ginawa ko
+Ginusto ko yun
+Ikaw ang piraso na nawawala ko
+...
+
+",MusixMatch
+196,202218443,Lakas Tama,Pieces,[15],['R&B/Soul'],"Lakas ng tama ko sayo
+Paano ba nagkaganto?
+Di ako yung tipo ng lalake
+Na naghahabol palagi
+Lakas ng tama ko sayo
+Paano ba nagkaganto?
+Di ako yung tipo ng lalake
+Na naghahabol palagi
+
+Di na ako mapakali sa tuwina Ika'y paparating
+Tanging layunin ay mapasakin
+At di na muli pa na magising
+Sa malapanaginip na 'to
+Bakit ako natukso?
+Sayo ko lang nararamdaman
+Ang ganitong pakiramdam
+Napapansin ko sa sarili ko
+Lahat ng hindi ko noon gusto
+Nagagawa ko na ngayon
+Tulad ng ipon o magsuot ng pantalon
+Na nakapagtataka na nagawa ko na mga bagay na ito
+
+Lakas ng tama ko sayo
+Paano ba nagkaganto?
+Di ako yung tipo ng lalake
+Na naghahabol palagi
+Lakas ng tama ko sayo
+Paano ba nagkaganto?
+Di ako yung tipo ng lalake
+Na naghahabol palagi
+
+Hey girl, di ka na mawala sa isipan ko
+...
+
+",MusixMatch
+197,92038925,Kulang Ang Mga Sandali,Freestyle,[15],['R&B/Soul'],"Ooh oohhooh
+Diba ninyo napapansin parang ang lahat nagmamadali
+Lalo kong nadarama na kapiling ka oh oh
+Habol ng habol ang puso kong ito
+Wag sanang maubusan ng pagkakataon
+Maipadama sayo mahal kita at sana'y masabi ko
+
+(Kulang ang mga sandali) Kapiling ka
+(Kinakapos sa panahon) Walang magawa
+Sana; y di na lang kailangan pang magkalayo
+Bitin na bitin sayo
+
+...
+
+",MusixMatch
 198,34542085,Suko Na,Zacariah,[15],['R&B/Soul'],"SUKO NA
 By: Zacariah
 
@@ -3840,11 +6675,83 @@ Suko na ako, oh ayo'ko na ha
 Umibig pa ah ahhhh
 Oh di ko na kaya
 Suko na ako ohhhh
-(suko na ako,)"
-199,168522795,Sextunes,The Jae,[15],['R&B/Soul'],
-200,184588563,Dead Feelings,Jape Macam,[15],['R&B/Soul'],
-201,152942827,Ayoko Na Mag-Isa,Marq Aljo,[15],['R&B/Soul'],
-202,199649926,Ayoko Na Sayo,Dro,[15],['R&B/Soul'],
+(suko na ako,)",
+199,168522795,Sextunes,The Jae,[15],['R&B/Soul'],"Dalaga""
+
+Sa larangan, lansangan
+Madami kang madadaanan
+Dapat diretso ang tingin wag kakaliwa't kanan
+Ni hindi makapaniwala sa tangi mong kagandahan
+Nang una kang makita muntik nakong mabulunan
+
+Iminulat ang aking matang sa dilim di nakakakita
+Ilusyon lamang pala na ikaw ay makakasama
+Mag ingat sa paligid baka ikaw na ang makarma
+Sa mundong walang tumataas lahat bumababa na
+
+Ang lubid, gumapos
+Ikaw lang ang tatapos
+Isantabi upua't sa buhay makakaraos
+Nasayang na lamang
+Walang paa paalam
+Tinulak ng sariling kamaliang naranasan
+
+Iniwan ang nakaraan
+Na parang panaginip lang
+Nilisan ang mga problema't
+...
+
+",MusixMatch
+200,184588563,Dead Feelings,Jape Macam,[15],['R&B/Soul'],"Bakit di mo madama
+Ang aking nadarama
+
+Bakit di mo ba maintindihan
+Ang mga maliliit na bagay
+Siguro nga kulang pa sa karanasan
+Kaya akala nakikipag away
+
+Sinasabi ko lang naman ang tama
+Nararapat saiyo at para satin
+Pero bakit di mo inaalala
+Mga payo ko sayo at aking mga bilin
+...
+
+",MusixMatch
+201,152942827,Ayoko Na Mag-Isa,Marq Aljo,[15],['R&B/Soul'],"Ayoko na maging mag-isa
+Ayoko na maging mag-isa
+Ayoko na maging mag-isa
+Ayoko na maging mag-isa
+Ayoko na maging mag-isa
+Ayoko na maging mag-isa
+
+Halika dito, tanggapin mo ang rosas na binigay ko
+Wag mag bulag-bulagan, Ako ay andito
+Andito para i-alay sayo ang puso
+Puso kong nag-durusa sa panloloko mo
+Ikaw ba'y bato
+Niloko mo
+Ako'y tuliro
+Ikaw ba'y bato
+Niloko mo
+Ako'y tuliro
+Ginago mo
+...
+
+",MusixMatch
+202,199649926,Ayoko Na Sayo,Dro,[15],['R&B/Soul'],"Alam Mo bang Ikaw Lang Ang hinihiling Ng Puso ko?
+
+Alam Mo namang mahal kita,
+Hindi mo naman napupuna na nandito lang ako,
+Kumakatok sa puso mo
+Pero ito parin ako,
+Pinipilit ko sarili ko nahihirapan na ko,
+Kaya ayoko na sayo (weeh)
+
+Ooh ooh,
+Ayoko na sayo (weeh)ooh ooh,
+...
+
+",MusixMatch
 203,167097155,Hanggang Sa Huli (Live),Alisson Shore,"[34, 15]","['Music', 'R&B/Soul']","At nandito tayong dalawa
 Nagtuturuan kung sino ba
 ang siyang mali at may gawa
@@ -3936,33 +6843,567 @@ Kung aabot pa sa dulo
 
 Pa'no na ba 'to
 Dito na lang ba tayo
-Guguho"
-204,190684873,(Hindi Ko Na Kailangan Si) Ivana,John 6,[15],['R&B/Soul'],
-205,186683317,Pangamba (feat. DiesBeatz),Tuphe,[15],['R&B/Soul'],
-206,124791000,Pansin,MC Einstein feat. Skusta Clee,[15],['R&B/Soul'],
-207,205204590,Ano Ang Totoo,Rico Menil,[15],['R&B/Soul'],
-208,200642499,Sisa,Jarlo Bâse,[15],['R&B/Soul'],
-209,201272368,Sistema,VIN,[15],['R&B/Soul'],
-210,212023388,Awiting Para Sayo,WLTR,[15],['R&B/Soul'],
-211,185048788,Distansya,Ako si Pablo,[15],['R&B/Soul'],
-212,165409211,Til 3,Chuck Mercer,"[34, 15]","['Music', 'R&B/Soul']",
-213,188095630,Tagay Pa,Rydn,[15],['R&B/Soul'],
-214,198483288,Kitang-Kita,Ice on Ice,[15],['R&B/Soul'],
-215,201771784,Manhid,Aye G,[15],['R&B/Soul'],
-216,201844286,What's Good?,Bam,[15],['R&B/Soul'],
-217,205521124,kLik-kLok,Eric Ruckus,[15],['R&B/Soul'],
-218,204792047,Isang Ngiti,Zynfinity,[15],['R&B/Soul'],
-219,191463482,Brotherhood,Brusko Bros.,[15],['R&B/Soul'],
-220,201585268,Ekis,Vaughn feat. Jonas & Chan,[15],['R&B/Soul'],
-221,196273600,Wala Na,Krayzie E,[15],['R&B/Soul'],
-222,164486778,Lilipad Na,Garrett Bolden,[15],['R&B/Soul'],
-223,92038927,Bangon,Freestyle,[15],['R&B/Soul'],
-224,149897211,Patawarin Mo,Kawago,[15],['R&B/Soul'],
-225,179255524,Kung Kailan Pa,Jameson,[15],['R&B/Soul'],
-226,196570439,Unan,Quindoza,[15],['R&B/Soul'],
-227,199226314,Importante,Hicci,[15],['R&B/Soul'],
-228,150174326,Binibini,Jay R,[15],['R&B/Soul'],
-229,194272165,417,EraldLouis,[15],['R&B/Soul'],
+Guguho",
+204,190684873,(Hindi Ko Na Kailangan Si) Ivana,John 6,[15],['R&B/Soul'],"Para sa mga loyal
+Para sa mga faithful
+Para sa 'tin to
+
+Hindi ko na kailangan si Ivana
+Dahil ang tipo ko ay nag-iba na
+Mula nang ika'y aking makilala
+Mata at puso ko ay sa'yo lamang
+
+Hindi ko na kailangan si Ivana
+Di na ako hahanap ng iba pa
+Kahit na sinong aking makilala
+Ang puso't isip ko ay sa'yo lamang
+
+Maraming mag-asawang nag-aaway
+Ng dahil sa larawang naka-online
+Maraming mister ang napa-OH MY
+Nag-puso, nag-comment, nag-like
+
+Recent activity, nahuli ni esmi
+Sa history sa FB at sa IG
+...
+
+",MusixMatch
+205,186683317,Pangamba (feat. DiesBeatz),Tuphe,[15],['R&B/Soul'],"Wag ka sanang mangamba na magmahal muli iba
+Pangakong di ka sasaktan ang puso mong kanyang sinugatan
+Akoay lagi lang nandyan sayong tabi at kailanman
+Ang iyong damdamin sanay para sakin
+
+Alam kong hindi madali para sa'yo
+Kalimutan ang lahat ng pinagdaanan mo
+Ramdam ko ang lahat ng hapdi sa puso mo
+Hayaan mo sana pawiin ko ang lahat ng to
+
+Isa isahin nating tangalin lahat ng mga nararamdaman mong masakit
+Unti unti nating patamisin, lahat ng mga nalasahan mo dati na mapait
+Aking babaguhin lahat ng pinagdaanan mo na malagim
+Bibigyan ko ng liwanag ang tanawin mong dati ay madilim
+
+Wag ka sanang mangamba na magmahal muli iba
+...
+
+",MusixMatch
+206,124791000,Pansin,MC Einstein feat. Skusta Clee,[15],['R&B/Soul'],"Uunahan na kita 'di ako panglaro
+Kaya kung trip mong manakit, ay naku 'wag ako
+Baka pwedeng pag-isipan mo muna yang gagawin mo
+Kasi sayang baka ako na ang para sa iyo
+
+Balak pa naman kitang gawing prinsesa
+Kahit magpaalipin pa sayo'y walang problema
+Aba dapat makapag-isip ka na
+Kasi baka maya-maya yung isip ko'y magbago pa
+
+Ako'y nag-iingat lamang kasi gusto ko ring namang maranasan
+Na ako naman ang alagaan
+Ayaw kong masaktan 'di ko makakayanan kaya
+
+Mamili ka ng tao na sasaktan mo
+Yung kaya nyang makipaglaro
+Kung ang hinahanap mong lalake uunawa sayo
+Pasensya na hindi yun ako
+
+Kaya kung pwede, wag na lang
+Wag na lang, wag na lang, wag na lang, wag na lang
+Wag na lang, wag na lang, wag na lang, wag na lang
+...
+
+",MusixMatch
+207,205204590,Ano Ang Totoo,Rico Menil,[15],['R&B/Soul'],"Ang sabi mo sa akin na
+Ikaw ay lalayo
+Sinabi ko sa isip kong
+Maghihintay sa'yo
+Nangako ka sa akin na
+Babalikan ako
+
+Kahit anong gawin ko ay
+Umaasa pa rin
+Kahit paulit-ulit kong isiping
+'Di na darating
+Dahil nangako ka ang puso ko
+Ngayo'y nasasaktan
+
+Sabi nila, mahal ako
+Ano ang dahilan
+...
+
+",MusixMatch
+208,200642499,Sisa,Jarlo Bâse,[15],['R&B/Soul'],"Hindi ako sabik
+Sa away at gulo na galing sa'yo
+Alam mo ba?
+Ako'y masaya, nag iisa
+
+Alam mo ba na walang
+Katulad,katulad, katulad
+Ligayang galing sa
+Sariling palad teka lang,
+Pwede bang pag isipan muna
+Puno ng pagdududa
+Kaharap palang si Sisa
+Hmmm
+
+Huwag mong mamahalin,
+Ang tulad ko, ang tulad ko
+Huwag mong mamahalin,
+Ang tulad ko, ang tulad ko.
+
+...
+
+",MusixMatch
+209,201272368,Sistema,VIN,[15],['R&B/Soul'],"Daming sinasabi nila
+Kaya minsan napapa isip ka
+Mas kilalanin mo nalang kung sino talaga 'ko
+Kaysa mag isip ka diyan ng kung ano ano
+I just wanna treat you better
+I'm just tryna love u harder
+Dadalhin kita sa paraiso na tayo lang ang may alam
+Tayo lang may alam
+
+Ramdam ang init ng aking katawan
+'Di na mabibitin pa
+Pagmamahal ko'y pinasok na
+...
+
+",MusixMatch
+210,212023388,Awiting Para Sayo,WLTR,[15],['R&B/Soul'],"Sabayan mo sa pagtugtog ko ng aking gitara
+Magandang dalaga pwede bang makasama
+Kahit na sandali dito saking tabi
+Habang ika'y nakatingin saking mata
+Ikaw ang aking tangin kahilingan
+Pwede bang saakin kana lang
+Di na magsasawa kahit san tignan
+
+Sabayan mo sa pagtugtog ko ng aking gitara
+Magandang dalaga pwede bang makasama
+Kahit na sandali dito saking tabi
+Habang ika'y nakatingin saking mata
+Ikaw ang aking tangin kahilingan
+Pwede bang saakin kana lang
+Di na magsasawa kahit san tignan
+
+Kahit na sandali lang
+Pwede bang ika'y awitian
+Pagkat saiyong mga tinginan
+Parang ginanahan na ika'y ligawan
+Nasayo ang katangihan
+Ng hanap kong dalagitang
+Sa wakas ika'y aking natagpuan
+Di kana pakawalan
+Ito'y matagalan
+...
+
+",MusixMatch
+211,185048788,Distansya,Ako si Pablo,[15],['R&B/Soul'],"I don't need another one
+Yeah. You're the one for me
+Una sa lahat ikaw na rin ang pang-huli
+Distansya man malayo sana ay pag lapitin
+Nandito lang ako wag kang mag-atubili
+I don't need another one yeah you're the one for me
+Una sa lahat ikaw na rin ang pang-huli
+Distansya man malayo sana ay pag lapitin
+Nandito lang ako wag kang mag-atubili
+
+Una sa lahat gusto kong ipagkalat
+Nandito lang ako kahit na medyo malat
+Malayo ang distansya, aminado di sapat
+Ang katulad ko sayo ikaw ang nagpa-angat
+Walang ibang hangarin
+Kundi ika'y mapasakin
+Di ako madamot
+Kaso medyo may pagka sakim
+Pagdating sayo
+Halos mawala agad sa wisyo
+Di na kailangan maghanap pa
+Ng masamang bisyo
+Positibo, ilalayo sa mga negatibo
+Kung ako ang salarin
+Ikaw mag sisilbing presinto
+Huli mo aking panlasa
+Matamis pa sa tosino
+Gumawa tayo ng pelikula
+Mala Quentin Tarantino
+...
+
+",MusixMatch
+212,165409211,Til 3,Chuck Mercer,"[34, 15]","['Music', 'R&B/Soul']","Sa larangan
+Lansangan
+Madami kang madadaanan
+Dapat diretso ang tingen wag kakaliwat kanan
+Ni hindi makapaniwala sa tangi mong kagandahan
+Nang una kang makita muntik nakong mabulunan
+
+Iminulat ang aking matang sa dilim di nakakakita
+Ilusyon lamang pala na ikaw makakasama
+Mag ingat sa paligid baka ikaw na ang makarma
+Sa mundong walang tumataas lahat bumababa na
+
+Ang lubid
+Gumapos
+Ikaw lang ang tatapos
+Isantabi upua't sa buhay makakaraos
+
+Nasayang
+Na lamang
+...
+
+",MusixMatch
+213,188095630,Tagay Pa,Rydn,[15],['R&B/Soul'],"Eto na naman ako lasing
+Iniisip ka pa rin
+Wala 'kong maihambing
+Sa iyo
+Di ko alam ang gagawin
+Tagay ay laging bitin
+Kulang pa rin
+Parang pagibig mo
+
+Pano ba ang sumaya
+Kung di na maibalik
+Kung hindi na makamit
+Ang iyong pananabik
+Eto lang paraan na alam ko
+Para kahit sandali ay makalimot ako
+
+Tagay pa
+Kulang pa
+Kahit na may amats na
+Kahit na may bukas pa
+May kasama o wala
+Gusto kong malunod
+At magpakalasing
+...
+
+",MusixMatch
+214,198483288,Kitang-Kita,Ice on Ice,[15],['R&B/Soul'],"Nasa isip ang bakit
+Patuloy lang ako na nagagalit sa sarili
+Ako'y talo sa mga pumapasok
+Sa utak kapag naabutan na ng alas kwatro
+
+Pag mata'y naka pikit bigla 'kong dinadalaw
+Ng kalungkutan kahit maabutan pa ng araw
+Pero biglang nag iba nung ikaw ay dumating
+Tila nag silbing liwanag sa mundo na madilim
+
+At dun nakita na kita kita na kita
+Ikaw na talaga ikaw na talaga
+Kitang kita na kita kita na kita
+Na ikaw lang yung nandun at wala na ngang iba aeyo
+
+Binalewala
+Ang 'yong halaga
+Pano kasi yeah
+...
+
+",MusixMatch
+215,201771784,Manhid,Aye G,[15],['R&B/Soul'],"Di mo ba napapansin?
+Ikaw lang gusto ko
+Kahit san pa 'ko tumingin
+Di na lalayo sa'yo
+Di mo ba napapansin?
+
+Ikaw lang gusto ko
+Kahit san pa tumingin
+
+Di mo ba napapansin?
+Ikaw lang gusto ko
+Kahit san pa 'ko tumingin
+Di na lalayo sa'yo
+Di mo ba napapansin?
+
+Kahit san pa tumingin
+Ikaw lang ang gusto ko
+
+'Di ko ba alam ba't di mo napapansin
+Hindi naman mahirap kung pano ko mahalin
+Manhid ka ba? O sadyang tanga lang?
+Kapag kasama ka 'di ka makaramdam
+
+Di ka na maiinis
+At 'di ka na maiinip
+Gusto ko lang naman na
+Maiparamdam sayo na
+Ikaw ang the best
+Kahit may ibang babae
+Ikaw at ikaw parin
+...
+
+",MusixMatch
+216,201844286,What's Good?,Bam,[15],['R&B/Soul'],"Gabi-Gabi nagaantay ng iyong paramdam
+(Ng iyong paramdam)
+Gabi-Gabi nagaantay ng iyong paramdam
+
+Pero sa ngayon mukhang malabo
+Dalawang araw ang lumipas
+At base sa mga nakikita ko
+Parang nagkaayos yata kayo?
+Pero okay lang, ayos lang, swabe lang
+Wala naman na kong magagawa
+Respeto nalang sa iyong desisyon
+...
+
+",MusixMatch
+217,205521124,kLik-kLok,Eric Ruckus,[15],['R&B/Soul'],"Mapapa kliklok ka
+Kapag sya nagtiktok na
+
+Gabi gabi kitang nakikita
+Binibista kahit wala namang tayo
+Sumasaket ang aking dalawang ulo
+Sumisikip ang pantalon lalo
+Na ngayong may nilabas ka na bago
+Oh my God walang pikitan parang Shabu-shabu
+
+Alam kong wala kong karapatan Maging seloso lalo na pag nakikitang Pinapaulanan ka nila ng puso
+Ang dami dami monang tagahanga
+Halos ang lahat ay naoobses
+Kahit mga batang hndi pa tule
+Pinagkakaguluhan kana sa tuwing Recess
+Ano kaya ang tipo ng isang katulad Mong prinsesa
+Machong gagawen kalang mistressa't
+...
+
+",MusixMatch
+218,204792047,Isang Ngiti,Zynfinity,[15],['R&B/Soul'],"Gusto ko lang naman na malaman mo na
+Ako'y nabibighani sa iyong ganda
+Kung merong ngang dyosa sa lupa
+Ako'y naniniwala na
+
+Minsan ay napapaisip din ako,
+Ano ba talaga ang meron ka?
+Ang puso ko'y nabihag mo
+Hindi ka ba nagtataka?
+
+Ilang sandali pa lang ang dumaan at ako'y nangungulila agad sa
+Iyong paglisan, ginawan ng paraan,
+Para larawan mo'y aking mapagmasdan
+Isang ngiti mo lang ang kailangan para bigat na dala ay mabawasan
+Kahit sa larawan basta makita ko lang ang
+'Yong ngiti, kahit sandali, kahit sandali
+...
+
+",MusixMatch
+219,191463482,Brotherhood,Brusko Bros.,[15],['R&B/Soul'],"Wuzzup mga bro
+Wuzup mga ka oa
+Wuzup kabatak
+...
+
+",MusixMatch
+220,201585268,Ekis,Vaughn feat. Jonas & Chan,[15],['R&B/Soul'],"Mga ala-ala nanaman natitira sa isipan
+Puro pagsisisi pare
+Hindi ko na alam, 'di ko na alam
+Talo nanaman, talo nanaman
+Sanang 'di nalang nag pa-uto sa'yo
+
+Mga ala-ala nanaman
+Natitira sa isipan
+Puro pagsisi pare
+Hindi ko na alam, 'di ko na alam
+Talo nanaman
+Sanang 'di nalang nag pa-uto sayo
+
+Talo nanaman
+Mga ala ala gustong balikan
+Ano bang nagawa?
+San na ba napunta?
+Ano ba, pano pa?
+Tanggap mo na ba?
+'Di ko inakala na,
+Mapupunta sa wala
+'Di nako tanga
+'Di pa ba sapat na
+Napasaya din kita?
+Lahat nagawa ko na
+Pero parang din wala
+Nakakawala ng gana tangina
+
+'Wag ka nang papakita
+...
+
+",MusixMatch
+221,196273600,Wala Na,Krayzie E,[15],['R&B/Soul'],"Wala nang ibang mahihiling
+Pakiramdam ko nasakin na ang lahat ng ninanais ko
+Nagsilbing liwanag sa dilim
+Mula nang dumating ka nagkakulay ang matamlay kong mundo
+
+Wala nang hahanapin pa
+Kumpleto na ko mula nung mapasakin ka
+Walang dahilan para humanap pa ng iba
+Kuntento na ko kung anong meron sa'ting dalawa
+
+Napakadami nang pinagdaanang mapait
+Sa kahapon di ko inasahan na ang papalit
+Matatamis na sandali kasama ka
+Para bang nabura mga ala-alang masama
+
+Ikaw na ata yung hiniling ko sa taas
+Pinakinggan na din ang daing ko sa wakas
+Bukas ay magkasamang haharapin walang aatras
+Hawak kamay hanggang huli wala na sanang kumalas
+...
+
+",MusixMatch
+222,164486778,Lilipad Na,Garrett Bolden,[15],['R&B/Soul'],"Dumikit ka lang dito sa tabi
+Huwag mo nang pigilan puso ay hayaan
+Heto na sa atin ang gabi
+Huwag nang pag-isipan utak ay itahan
+
+Ohhh... ayan na naman huwag ng makipaglaban
+Ohhh... pumikit ka lang lilipad palangit na...
+
+(Lilipad na, lilipad na)
+Ito na! Ito na!
+Lilipad palangit na...
+(Lilipad na, lilipad na)
+Kasama ka oh kay saya
+
+Hindi ko na mapigil, damdaming nanggigigil
+Wala ng pagsisisi
+Sinisigaw ng puso ang makasama dito
+Ang babaeng iniibig ko
+At ikaw 'yon
+
+Ninanais tamis ng 'yong labi
+Yakap na kay higpit at hinding hindi pilit, oh...
+Kay rami nang mga nagsasabi
+...
+
+",MusixMatch
+223,92038927,Bangon,Freestyle,[15],['R&B/Soul'],"Di makatulog sa yong pagkahulog umaaray sa sugat ng buhay
+Naghihintay sa pagibig nyang tunay
+Di makuntento sa'yong pag asenso
+Inaasahang mga bagay, mga minimithi mong tunay
+
+Sa dulo ng gabi may umagang naghihintay
+Itulad ang sarili sa liwanag
+Susubukan mo bang bumangon sa mapait mong kahapon
+Hintayin ang balik ng panahon
+
+Sabi nila kapos ka na sa'yong mga gawain
+...
+
+",MusixMatch
+224,149897211,Patawarin Mo,Kawago,[15],['R&B/Soul'],"Aking mahal pakinggan mo di ko matatanggap ang mawala ka sa piling ko
+Bigyan pako wala ng pag-kakataon patutunayan ko
+Kailangan kita wala ng ibang iibigin pa
+
+Kailang kaya maibabalik pag-ibig mo
+Mapapatawad mo pa ba kaya ako
+Lagi kong dinadasal sa maykapal
+Ikaw ay bumalik, ako'y nagmamakaawa
+Na patawarin mo
+
+Ilang gabi na kong di makatulog
+Laging hanap ay ikaw mahal ko
+Ako nag susumamo ang tanging pangarap ko
+Habang buhay ay tayo, pinapangako ko ikaw at ako
+...
+
+",MusixMatch
+225,179255524,Kung Kailan Pa,Jameson,[15],['R&B/Soul'],"Sa 'yo ko natutunan na magbago
+Sa 'yo lang tumino ang tarantadong tulad ko
+Ano nga bang mayro'n sa 'yo kung bakit ganito?
+
+Sabihin mo sa akin
+Ba't 'di mo maamin (kung ano ang totoo)
+Sabihin mo sa akin
+Ba't 'di mo maamin ('wag mo kong pinagloloko)
+
+Kung kailan pa
+Kung kailan pa
+Kung kailan nagseryoso
+...
+
+",MusixMatch
+226,196570439,Unan,Quindoza,[15],['R&B/Soul'],"Pusong napaka lambot
+Parang unang niyayakap ko
+Sakit ng puso ang dinulot
+Nang ika'y ngayo'y nagsosolo
+Pusong napaka lambot
+Parang unang niyayakap ko
+Sakit ng puso ang dinulot
+Nang ika'y ngayo'y nagsosolo
+
+Tuwing umaga, hapon at gabi
+Naguusap, nagtatawagan pati
+Sana all di cold, sobrang tindi
+Chinat ngayon, di manlang sineen
+
+Girl maganda ka, wag magalala
+Lipas ang buwan, taken na pala
+Mas bata-bata, wag naman sana
+Sumasakit, itong mga mata
+Pagmamahal natin
+Magkabilaan parin
+...
+
+",MusixMatch
+227,199226314,Importante,Hicci,[15],['R&B/Soul'],"Ang daming sinasabe,sinasabe,
+Di ko na binabale, binabale,
+Na mahirap kang babae (na mahirap kang babae)
+Di yun importante (di yun importante)
+
+Di yun importante yung mga sinasabe
+Nang mga iba, tungkol sayo
+Dami dami ng kwento (dami dami ng kwento)
+Dami ng pauso (dami dami ng kwento)
+Bat di nalang sumama
+Sa akin wala pang gulo
+Dadalhin kita sa dulo
+Ng mundo na ito,
+...
+
+",MusixMatch
+228,150174326,Binibini,Jay R,[15],['R&B/Soul'],"Binibini, 'di mo ba alam
+Ang 'yong ganda'y nag-iisa
+At hanggang pagtulog ko
+Yakap ka sa panaginip ko
+
+Sana'y paniwalaan mo
+Tanging sa 'yo ang puso ko
+At di ipagpapalit
+Ikaw lang at walang ibang
+Gusto
+
+Pwede bang sa akin
+Na lang ang iyong labing tila ubod
+Tamis
+Sana'y makapiling
+At madama ang yakap sa gitna ng dilim
+Sa atin lang ang bawat sandali
+Kahit lumalim man itong gabi
+Habang balat mo ay dumadampi
+Nagiging akin nang unti unti
+
+Aking binibini
+Ikaw ang aking reyna
+Lahat napapaibig mo
+Sa taglay mong ganda
+...
+
+",MusixMatch
+229,194272165,417,EraldLouis,[15],['R&B/Soul'],"Alas-ocho
+Sa T.Alonzo
+Kita tayo
+Sabay hindi papasok
+Fuck school let's go tambay
+Mga conyo, mga conya nag-aayang tumagay
+Cut class madalas
+Ano ang palabas
+Sa sinehan tayo lang
+Dulong upuan
+Magkahawak ang ating mga kamay
+Mukha mo sa balikat ko nakadantay
+Binulungan, gusto mo bang umuwi na lamang
+Doon magkaalaman
+Hinubaran sa higaan habang gumagapang
+Sayo ng dahan-dahan
+Hayop sa galing
+Ako ang hayop na nanggaling pa gubat bumaba para kumain ng hinain
+Kanibalismo
+...
+
+",MusixMatch
 230,199759289,Seenzoned,Paul Rivera,[15],['R&B/Soul'],"Verse 1:
 Simula nung makita ko ulit ang mga litratong nakadikit
 Sa may gilid ng aparador, lahat nando’n wala pang punit
@@ -4028,8 +7469,35 @@ Pwede ba, isa lang na kamusta?
 Kahit wag ka nang sumagot, basta ba ‘yong nakita
 Outro:
 Kasi hindi mo na kilala...
-(6x)"
-231,198458952,Hinahanap (feat. Elio),Chri$ Deezy,[15],['R&B/Soul'],
+(6x)",
+231,198458952,Hinahanap (feat. Elio),Chri$ Deezy,[15],['R&B/Soul'],"Gusto kita na marinig na sa lamig
+Ng gabi at ang hiling na kapalit
+Ay ibabalik ang dati tayo lamang lagi
+Sating magkasalong mga sandali
+Hinahanap na kita, hinahanap na kita
+Hinahanap kita, hinahanap kita, hinahanap na...
+
+Teka lang muna, Jan ka sa tabi
+Hanggat madilim ang ilaw, usap tayo sandali
+Di mapakali ang isip, bat ka ba nakangiti
+Baka lang hindi mo yata alam na ikaw ang gusto ko sa buong gabi
+
+Wag ka nang mag ingay, Sakin mapalagay
+Negatibo sa isip, ako papatay
+Positibo palagi, ang aking taglay
+Bubuhayin muli mundo mong matamlay
+Sabay na tumagay, ayoko mawalay
+Gusto na kita na panghabang buhay
+Wag papadala sa mata na mapungay
+Ganyan talaga pag may gandang taglay
+
+Wag ka munang umuwi gusto kitang makasama pa
+Makausap at makayakap ka parang Dati na ikaw talaga bumubuo ng araw at
+Ng gabi ko Di mo ko binigo di ko kayang muli ka pa saken malayo
+Kahit anong gawin, bakit ikaw pa rin,
+...
+
+",MusixMatch
 232,196538631,Paano Na Ito,Johnrey Capuz,[15],['R&B/Soul'],"Bago ka umalis
 Payakap saglit
 Kahit pa masakit sa puso
@@ -4071,8 +7539,20 @@ Bakit ba kailangan pang lumayo sa buhay ko
 Kung mahal naman ako
 Bakit ba kailangan pang lumayo
 Sa puso ko…
-Paano na ito?"
-233,197563635,Ayaw Na,Fer,[15],['R&B/Soul'],
+Paano na ito?",
+233,197563635,Ayaw Na,Fer,[15],['R&B/Soul'],"Tingnan mo kung hindi mo na kailangan
+Ang mga pinagsamahan
+Sabihin mo kung dapat na ba akong lumisan
+Para hindi na malinlang
+
+Ohh... ohhhhh
+Ayaw na, ayaw na sa akin
+Ayaw na, ayaw na sa atin
+
+Kung hindi na kaya
+...
+
+",MusixMatch
 234,198107668,Bakit Wala Na (feat. Chano),Peter Miranda,[15],['R&B/Soul'],"Bakit wala na
 Ano na nangyari?
 Bakit wala na
@@ -4168,8 +7648,107 @@ Di mo sinabi
 Bakit wala na
 Nawalan na ng gana
 Bakit wala na
-Bakit wala na"
-235,205521123,Maganda ang giseng,Eric Ruckus,[15],['R&B/Soul'],
-236,196719526,"Stardust, Vol. 2",Yalien Dahlen,[15],['R&B/Soul'],
-237,204549151,Pinaglayo (feat. Kxle & Kyra),Poisonhxrzy,[15],['R&B/Soul'],
-238,195684197,C.G.B.,Less Than,[15],['R&B/Soul'],
+Bakit wala na",
+235,205521123,Maganda ang giseng,Eric Ruckus,[15],['R&B/Soul'],"Yeah
+Yupyup
+Rapskallion
+
+Maganda ang giseng
+Problema wag isipen
+Pwede mo namang iwanan
+
+Naglalaseng halos araw araw
+Date kanen lang ngyon pati na sa alak Ay matakaw
+
+Ganyan tlga kapag ang buhay mo ay Ninakaw
+Ng isang taong hiniling mo sa Bulalakaw
+
+Bulalakaw na tumambay ng apat na Taon
+Akala mo panghabang buhay Magkasama na sa iisang bubong
+
+Nakabilang lang pala ko sa mga Namatay dahil sa maling akalang Mahal ako ni inday
+
+Totoo pala ang putahan sa call center
+Pinagpasa pasahan parang basketball Players
+
+Masisisi nyo bako bat ako naging Bitter
+Probinsayana to manila nagmukha
+...
+
+",MusixMatch
+236,196719526,"Stardust, Vol. 2",Yalien Dahlen,[15],['R&B/Soul'],"Sana'y wag na ngang lumisan pa, pagkat ito'y di ko makakaya
+'Di ko makakaya...
+
+Buhay ko ang biglang nag-iba, simula nung dumating ka na
+Sana'y wag na ngang lumisan pa, pagkat ito'y 'di ko makakaya
+
+Yeah! buhay ko ay nag-iba nung ako'y napasayo
+Nagbago ang lahat pati ikot ng mundo ko
+Kahit minsan halos lagi ka saking banas
+Pag galit ka pina-patulog moko labas
+Lintik ka kung mangurot kala mo sakin gigil
+Bantay-sarado saiyo, daig pa gwardya sibil
+Kung hatawin ng unan ay ganon-ganon nalang
+Minsan nga ay napapaso kaka-luto sa kalan
+Mahal ko, gising na ta-tanghaliin ka na nyan
+Ikaw pa yung galit tapos ako'y nga-ngaratan
+Diretsyo tingin sayo, malabong mangaliwa
+Ikaw lang ang mahal alam mo kung bakit kasi nga...
+...
+
+",MusixMatch
+237,204549151,Pinaglayo (feat. Kxle & Kyra),Poisonhxrzy,[15],['R&B/Soul'],"Ako'y nalinlang ng iyong galawan
+Hindi ko malaman kung saan lulugar
+Pwede bang sabihin mo ang pakay kasi di ko mahulaan
+Ano nga bang dahilan? bakit ka natagpuan
+Baka ako na ang gagamot sa iyong pusong iniwan niyang sugatan
+Pwede bang akoy pakinggan
+'Wag mo mo muna sanang sabayan
+Nais ko lang namang mabatid mong di nagkakalayo ating nakaraan
+
+Ayaw ko na sanang maramdaman 'to
+Luob ng sikmuray ko'y may paruparo pagod nang malito
+
+Pero mali bang napaibig ang isang tulad ko sa'yo
+Pinagtagpo lang tayo at biglaan ding pinaglayo
+Gusto ko lang namay pagibig na hindi nabibigo
+
+Bakit ba pinaglayo?
+Ikaw lang naman ang hinahanap ko
+Bakit ba pinagtagpo?
+Pag-ibig nati'ng dalawa'y malabo
+Sinubukan ko'ng burahin ang mukha mon'ng mahinhin
+Pero bakit 'di malimutan naniwala sa mga sabi
+
+...
+
+",MusixMatch
+238,195684197,C.G.B.,Less Than,[15],['R&B/Soul'],"I saw you from the corner hawak bote at yung phone mo
+I want to catch up with you kaso medyo shy ako
+Can you please just say your name intensyon ko ay di masama
+I love those smiles nabighani sa iyong mukha
+
+Just one night baby susulitin bawat oras natin
+I want to be with you halika na sumama sakin
+This is my only time to be with you kaya dito kana
+Habang kasama ka ikaw lang wala nang iba ah(wag magalala)
+
+Girl let me tell that i want you here beside me baby
+Girl let me tell that your pretty face go make me crazy
+So give me chance to talk with you kilalanin ka
+I want to be with you magdamagan na makasama ka
+Chillin lang sa bar pero ngayon ay tipsy na
+Pero hilo nawala mula nung natanaw kita
+Gusto kitang lapitan ka agad kado baka taken ka
+Pero wala nang baka baka, gusto ko ay akin ka
+Anong pangalan mo, taga saan ka, ano ang unibersidad
+Madalas ka dito? Meron kang nobyo, taga probinsya o syudad
+Yan ang tinanong ko sa iyo nung tayong dalawa ay naguusap
+Boses mo pa lang ay para nakong lumulutang sa mga ulap
+Habang naguusap
+Bigla mong hinawakan ang aking kamay
+Nagbilin ka pa sa'kin sa tugtog ay sumabay
+Halika na kampay kampay
+...
+
+",MusixMatch
