@@ -1,4 +1,4 @@
-,track_id,track_name,artist_name,genre_id,genre_names,lyrics
+,track_id,track_name,artist_name,genre_id,genre_names,lyrics,lyrics_source
 0,201311852,Walang Katulad,Victory Worship,[22],['Christian & Gospel'],"Ika'y aking liwanag
 Sa dilim ng landas
 Sa bawat kalungkutan
@@ -42,7 +42,7 @@ Walang katulad
 Pagmamahal Mong kay lalim
 Walang katulad
 
-Oh-oh, oh-oh-oh"
+Oh-oh, oh-oh-oh",
 1,73676809,Shine Upon the Philippines,Victory Worship,[22],['Christian & Gospel'],"You are the light, You are the hope
 You are the future of this land
 Your loving faithfulness gives us strength
@@ -103,7 +103,7 @@ Holy is the Lord
 We cry holy, holy, holy
 Holy is the Lord
 We cry holy, holy
-Holy is the Lord"
+Holy is the Lord",
 2,189377564,Pagbabalik,Victory Worship,[22],['Christian & Gospel'],"Ngayon ay aahon, at kakalimutan ang nakaraan
 Dilim ng kahapon, isasantabi na at wawakasan
 
@@ -143,7 +143,7 @@ O ang lahat ng Iyong mga anak magbabalik sa'Yo, Ama
 Magbabalik sa'Yo, Ama
 Magbabalik sa'Yo, Ama
 Magbabalik sa'Yo, Ama
-Magbabalik sa'Yo, Ama"
+Magbabalik sa'Yo, Ama",
 3,189377568,Tagumpay,Victory Worship,[22],['Christian & Gospel'],"Sa sigaw ng alon, 'di mangangamba
 Sa gitna ng dilim, 'di ako mag-iisa
 Hindi matatakot, hindi matitinag
@@ -186,7 +186,7 @@ Pagkat, o Diyos, sapat Ka na
 Pag-ibig Mo, kanlungan ko
 Pangako Mo, sandigan ko
 Pag-ibig Mo, kanlungan ko
-Pangako Mo, sandigan ko"
+Pangako Mo, sandigan ko",
 4,189377567,Maghari,Victory Worship,[22],['Christian & Gospel'],"Sa gitna ng kaguluhan, ang tinig Mo ay hanap
 Sa templo Mong banal, may bagong kagalakan
 
@@ -242,14 +242,107 @@ Sa'Yo ang kaharian, kapangyarihan, at kaluwalhatian
 Dakila at kailanma'y 'di mahihigitan
 Ang ngalan Mo ay kaligtasan ko
 Ang Iyong kaharian, ang aking adhika
-O Diyos dalangin ko'y maghari Ka"
-5,94442774,Humayo'T Ihayag,Noel Cabangon,[22],['Christian & Gospel'],
-6,94442781,Panunumpa,Noel Cabangon,[22],['Christian & Gospel'],
-7,94442772,Tanging Yaman,Noel Cabangon,[22],['Christian & Gospel'],
-8,94442779,Sa'Yo Lamang,Noel Cabangon,[22],['Christian & Gospel'],
-9,101712797,Yawhe Okumama,Adorons L'eternel & Alain Moloto,[22],['Christian & Gospel'],
-10,83594587,우리는 주의 교회 We Are His Church,마커스,[22],['Christian & Gospel'],
-11,84278920,Ang Tanging Alay ko,April Boy Regino,[22],['Christian & Gospel'],
+O Diyos dalangin ko'y maghari Ka",
+5,94442774,Humayo'T Ihayag,Noel Cabangon,[22],['Christian & Gospel'],"Humayo't ihayag (purihin Siya)
+At ating ibunyag (awitan Siya)
+Pagliligtas ng Dios na sa krus ni Hesus
+Ang Syang sa mundoy tumubos
+
+Langit at lupa Siya'y papurihan
+Araw at tala Siya'y parangalan
+Ating pagdiwang pag-ibig ng Dios sa tanan
+(Aleluya)
+
+Halina't sumayaw (buong bayan)
+Lukso sabay sigaw (sanlibutan)
+Ang ngalan Niyang angkin 'sing ningning ng bituin
+Liwanag ng Dios sumaatin
+
+Langit at lupa Siya'y papurihan
+Araw at tala Siya'y parangalan
+...
+
+",MusixMatch
+6,94442781,Panunumpa,Noel Cabangon,[22],['Christian & Gospel'],"Ikaw lamang ang pangakong mahalin
+Sa sumapang sa iyo, magpakailan pa man
+Yakapin mo bawat sandali
+Ang buhay kong sumpang sa 'yo lamang alay
+
+At mapapawi ang takot sa 'kin
+Pangakong walang hanggan
+
+Ikaw lamang ang pangakong susundin
+Sa takbo, sakdal, liwanagan ang daan
+...
+
+",MusixMatch
+7,94442772,Tanging Yaman,Noel Cabangon,[22],['Christian & Gospel'],"Ikaw ang aking Tanging Yaman
+Na di lubusang masumpungan
+Ang nilikha mong kariktan
+Sulyap ng 'yong kagandahan
+
+Ika'y hanap sa tuwina
+...
+
+",MusixMatch
+8,94442779,Sa'Yo Lamang,Noel Cabangon,[22],['Christian & Gospel'],"Puso ko'y binihag mo
+Sa tamis ng pagsuyo
+Tanggapin yaring alay
+Ako'y iyo habang buhay
+
+Anhin pa ang kayamanan
+Luho at karangalan
+Kung ika'y mapasa'kin
+Lahat na nga ay kakamtin
+
+Sa 'yo lamang ang puso ko
+...
+
+",MusixMatch
+9,101712797,Yawhe Okumama,Adorons L'eternel & Alain Moloto,[22],['Christian & Gospel'],"Yaweh, Yaweh sala, Yaweh sala lolenge na yo, sala
+Yaweh, Yaweh sala, Yaweh sala lolenge na yo, sala
+Yaweh, Yaweh sala, Yaweh sala lolenge na yo, sala
+Yaweh, Yaweh sala, Yaweh sala lolenge na yo, sala
+Nzambe na nga aza ko sala eh (Nzambe na
+Nga aza ko sala eh) Yaweh, obongi na lokumu.
+Nzambe na nga aza ko sala eh (Nzambe na
+Nga aza ko sala eh) Yaweh, obongi na lokumu.
+Nzambe na nga aza elonga eh (Nzambe na
+Nga aza elonga eh) Yaweh, obongi na lokumu.
+Nzambe na nga aza elonga eh (Nzambe na
+Nga aza elonga eh) Yaweh, obongi na lokumu.
+Oza wa nga na zali pe wa yo (Oza wa nga
+Na zali pe wa yo) Yaweh, obongi na lokumu.
+Oza wa nga na zali pe wa yo (Oza wa nga
+Na zali pe wa yo) Yaweh, obongi na lokumu.
+Posa na nga eza ko mona yo (Posa na nga
+Eza ko mona yo) Yaweh, obongi na lokumu.
+...
+
+",MusixMatch
+10,83594587,우리는 주의 교회 We Are His Church,마커스,[22],['Christian & Gospel'],"Sadyang kay buti ng ating Panginoon
+Magtatapat sa habang panahon
+Maging sa kabila ng aking pagkukulang
+Biyaya nya'y patuloy na laan
+
+Katulad ng pagsinag ng gintong araw
+Patuoy syang nagbibigay tanglaw
+Kaya sa puso ko't damdamin
+Katapatan nya'y aking pupurihin
+
+...
+
+",MusixMatch
+11,84278920,Ang Tanging Alay ko,April Boy Regino,[22],['Christian & Gospel'],"Salamat sa Iyo
+Aking Panginoong Hesus
+Ako'y inibig Mo
+At inangking lubos
+Ang tanging alay ko sa Iyo aking Ama
+Ay buong buhay ko puso at kaluluwa
+Di na makayanang maipagkaloob
+...
+
+",MusixMatch
 12,34874946,Sa'yo Lamang,Jamie Rivera,"[22, 14]","['Christian & Gospel', 'Pop']","Puso ko'y binihag mo
 Sa tamis ng pagsuyo
 Tanggapin yaring alay
@@ -279,39 +372,478 @@ Tangan kong kalooban
 Sa iyo'y nilalaan
 Dahil atas ng pagsuyo
 Tumalima lamang sayo ()
-Lyrics found here"
-13,35385897,Pinagdiriwang (Live),Musikatha,[22],['Christian & Gospel'],
-14,112047037,Tongo Etana,Michel Bakenda,[22],['Christian & Gospel'],
-15,84278914,Tanging Hiling,April Boy Regino,[22],['Christian & Gospel'],
-16,35385901,Sukdulang Biyaya (Live),Musikatha,[22],['Christian & Gospel'],
-17,35385898,Luwalhatiin Ka (Live),Musikatha,[22],['Christian & Gospel'],
-18,84278916,Hesus,April Boy Regino,[22],['Christian & Gospel'],
-19,35385904,Salamat Panginoon (Live),Musikatha,[22],['Christian & Gospel'],
-20,35385909,Sa Biyaya Mo (Live),Musikatha,[22],['Christian & Gospel'],
-21,84278921,Taos Pusong Pasasalamat,April Boy Regino,"['""\'22\'""']",['Christian & Gospel'],
-22,35385900,Sambahin Ka (Live),Musikatha,[22],['Christian & Gospel'],
-23,35385905,Gantimpala Ko (Live),Musikatha,[22],['Christian & Gospel'],
-24,35385907,Pagsambang Wagas / Sambahin Ka (Live),Musikatha,[22],['Christian & Gospel'],
-25,35385906,Sa Iyo (Live),Musikatha,[22],['Christian & Gospel'],
-26,113671666,Buhay Ko,Feast Worship,[22],['Christian & Gospel'],
-27,159317756,Langit Ang Aking Nadarama,RM Rodriguez,[22],['Christian & Gospel'],
-28,83585087,Lupa Man Ay Langit Na Rin,Lito Magnaye,[22],['Christian & Gospel'],
-29,77315287,Diyos Ng Kabutihan,Jesus One Generation,[22],['Christian & Gospel'],
-30,143960337,Hesus Sa Buhay Ko (Live),Jesus One Generation,[22],['Christian & Gospel'],
-31,151551019,Wala Kang Katulad,RM Rodriguez,[22],['Christian & Gospel'],
-32,77962477,Unang Alay,Lito Magnaye,[22],['Christian & Gospel'],
-33,83585090,Salmo 23 (Ang Panginoon Ang Aking Pastol),Lito Magnaye,[22],['Christian & Gospel'],
-34,83086786,Diyos Inibig Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],
-35,117094564,Sino Ako,Fatima Soriano,"[1204, 22]","['Asia', 'Christian & Gospel']",
-36,159317757,May Galak,RM Rodriguez,[22],['Christian & Gospel'],
-37,77315289,Hari Ng Kaluwalhatian,Jesus One Generation,[22],['Christian & Gospel'],
-38,192894225,Kapit,Liveloud Worship,[22],['Christian & Gospel'],
-39,136863024,Napakabuti Mo (Live),Rommel Guevara,[22],['Christian & Gospel'],
-40,136863023,Sa Habang Panahon (Live),Rommel Guevara,[22],['Christian & Gospel'],
-41,136863021,Kay Buti Mo (Live),Rommel Guevara,[22],['Christian & Gospel'],
-42,79505180,Alay Ko'y Pagsamba,Tony Rodeo,[22],['Christian & Gospel'],
-43,104407835,Ikaw Ang Dahilan,Ron & Joanna Domingo,[22],['Christian & Gospel'],
-44,136863011,Dakila Siya (Live),Rommel Guevara,[22],['Christian & Gospel'],
+Lyrics found here",
+13,35385897,Pinagdiriwang (Live),Musikatha,[22],['Christian & Gospel'],"Pasalamatan ang Diyos sa Kanyang sukdulang biyaya
+
+Kagalakan sa puso'y umaapaw
+At 'di maisalarawan ng awit at ng sayaw
+Sa 'ming buhay ang dulot ay pag-asa
+Sa pagtigis ng 'Yong dugo, Hesus
+Mga pagkakasala'y napatawad na
+
+Pinagdiriwang namin ang Iyong pagliligtas
+Biyaya ng 'Yong kahabagan at pag-ibig Mong wagas
+Pinagdiriwang namin ang tagumpay Mo sa krus
+Pinagdiriwang Ka namin, oh Hesus (pinagdiriwang)
+
+Yeah, whoo
+Lahat ng nagpapasalamat sapagkat siya'y tinubos ni Hesus, sumigaw!
+
+Kagalakan sa puso'y umaapaw
+At 'di maisalarawan ng awit at ng sayaw
+Sa 'ming buhay ang dulot ay pag-asa
+Sa pagtigis ng 'Yong dugo, Hesus
+Mga pagkakasala'y napatawad na (pinagdiriwang)
+...
+
+",MusixMatch
+14,112047037,Tongo Etana,Michel Bakenda,[22],['Christian & Gospel'],"Mokili elingi eyeba wapi Nkolo na bilembo
+Aza na Ye musika te, Aza na mutema na nga
+Ofanda lokola mukolo lopangu, Ozo konza ndenge Olingi
+Nzambe yako betela milolo eza Yo Muana mpate
+Kumama nanu Yahwe
+Eh Yahwe, Eh Yahwe Kumama
+Kumama Nzambe na bomoyi
+Eh Yahwe, Eh Yahwe Kumama
+Kumama, Kumama, Kumama
+Eh Yahwe, Eh Yahwe Kumama
+Kumama Yahwe
+Eh Yahwe, Eh Yahwe Kumama
+Osolalaka na ba nzete
+Oyokaka munoko ya ba niama
+Nzambe oyo mupepe ezo tosa, eza Yo Nkolo na bilembo
+Nzambe Oyo Asalaka moyi, ekomaka pe ya kala te
+Tala biloko ya mokili ekoma kokoma ya kala
+Kumama nanu Yesu
+Eh Yahwe, Eh Yahwe Kumama
+Kumama Nzambe na bomoyi
+Eh Yahwe, Eh Yahwe Kumama
+""(Kumama Yahwe na nga, Kumama)—
+Michel Hardy Bakenda
+Nayembi Yo nzembo ya bolingo
+Eh Yahwe, Eh Yahwe Kumama
+Kumama Kumama Kumama
+Eh Yahwe, Eh Yahwe Kumama
+...
+
+",MusixMatch
+15,84278914,Tanging Hiling,April Boy Regino,[22],['Christian & Gospel'],"Nagdarasal nag susumamo
+Sanay pakinggan ang panalangin ko
+Nakikiusap sana'y tulungan mo
+Na tumagal pa ang Buhay Ko
+Nalulungkot ako at umiiyak
+Bigyan pa ako ng pag asang mabuhay Pa
+
+Tanging Hiling ko lang Panginoong Hesus
+Humaba pa sana ang Buhay ko
+Di ba't sabi manalig lang ako
+Ikaw ang Dakilang manggagamot ko oh...
+
+...
+
+",MusixMatch
+16,35385901,Sukdulang Biyaya (Live),Musikatha,[22],['Christian & Gospel'],"Habang hindi karapat-dapat
+Pag-ukulan ng habag at wagas Mong pagsinta
+Habang walang kakayanan
+Masuklian Ka ng mabuti sa lahat Mong ginawa
+
+Niyakap Mo ako sa aking karumihan
+Inibig Mo ako ng 'di kayang tumbasan
+
+Oh, Diyos ng katarungan at katuwiran
+Na kahit minsa'y 'di nabahiran
+Ang kabanala't kalwalhatian
+Salamat sa sukdulang biyaya Mo
+
+Oh, Diyos ng pag-ibig na mas malawak pa
+Kaysa aking mga pagkakasala
+Higit pa sa buhay ko
+Salamat sa sukdulang biyaya Mo
+
+Habang hindi karapat-dapat
+...
+
+",MusixMatch
+17,35385898,Luwalhatiin Ka (Live),Musikatha,[22],['Christian & Gospel'],"Verse
+Diyos
+Na walang kaparis at banal
+Ika'y noon at magpakailanman
+Dakila't makapangyarihang...
+Diyos
+...
+
+",MusixMatch
+18,84278916,Hesus,April Boy Regino,[22],['Christian & Gospel'],"Kung nagiisa at nalulumbay
+Dahil sa hirap mong itinataglay
+Kung kailangan mo ng karamay
+Tumawag ka at siyay naghihintay
+
+Siya angyong kailangan
+Sandigan, kaibigan mo
+Siya ang araw mong lagi
+At karamay kung sawi
+...
+
+",MusixMatch
+19,35385904,Salamat Panginoon (Live),Musikatha,[22],['Christian & Gospel'],"Ikaw ay mabuti bawat sandali
+Sa habang buhay ay mananatili
+Hindi mapapawi o maikukubli
+Maging sa dilim ng gabi
+
+Sandigang matibay ang iyong pangako
+Lakas at pag-asa ng aking puso
+Hindi na mabilang pagkakataon
+Patunay ng katapatan mo
+
+Sa dalamhati at sa kabiguan
+Sa pagluha ng pusong nasugatan
+Sa pagsubok na iyong pinahihintulutan
+Salamat Panginoon
+
+Sa katugunan sa aking dalangin
+Sa kalakasang sa'yo nanggagaling
+Sa pagtuturo at pagtutuwid mo sa akin
+Salamat Panginoon
+Salamat
+...
+
+",MusixMatch
+20,35385909,Sa Biyaya Mo (Live),Musikatha,[22],['Christian & Gospel'],"Aking diyos dakilang manunubos
+Buhay ko'y sa 'yo
+Kalayaan ko ay binayaran mo
+Ng 'yong dugo
+Aking diyos biyaya mo'y sukdulan
+Papuri ko'y sa 'yo
+Sa krus ginapi mo ang kamatayan
+Pag-asa ko'y lubos
+...
+
+",MusixMatch
+21,84278921,Taos Pusong Pasasalamat,April Boy Regino,[22],['Christian & Gospel'],,
+22,35385900,Sambahin Ka (Live),Musikatha,[22],['Christian & Gospel'],"Ika'y sadyang kahanga-hanga kahit na ulit-ulitin ko...
+Sabihin ko mahirap man isalarawan ang damdamin aawitin ko...
+O aking diyos
+
+Kung ang laman ng puso ko'y naawit na
+Maging sa kahuli-hulihang hininga ang nais ko'y
+...
+
+",MusixMatch
+23,35385905,Gantimpala Ko (Live),Musikatha,[22],['Christian & Gospel'],"INTRO: E/
+G#- A- E/
+B- B (repeat)
+
+Eb Cdim C#m
+MARAMI MA'
+NG HADLANG SA AKING PAGSUNOD
+AT KADALASA'
+Y NAPAPAGOD
+Eb Cdim C#m
+HINDI PAPIPIGIL PATULOY NA MAGLILINGKOD
+...
+
+",MusixMatch
+24,35385907,Pagsambang Wagas / Sambahin Ka (Live),Musikatha,[22],['Christian & Gospel'],"Pagsambang Wagas
+Inaalala ang biyaya't kabutihan Mo
+O Diyos muli akong namamangha Sa'yo
+Sa pangangailangan ng puso'y kinalinga Mo
+...
+
+",MusixMatch
+25,35385906,Sa Iyo (Live),Musikatha,[22],['Christian & Gospel'],"Oh Diyos sayong lahat ang pagsamba't luwalhati
+Maging ang pinakamainam kong awit ay aawitin sayo
+
+Oh Dios, ang aking isipan ay pagharian mo
+...
+
+",MusixMatch
+26,113671666,Buhay Ko,Feast Worship,[22],['Christian & Gospel'],"Simple lang ang awit kong ito
+Mula sa pusong nagmamahal Sayo
+Simple lang ang buhay ko
+Wala namang kayamanang maihaharap
+Kundi ang yaman ng pusong naghahanap sa Iyo
+Na maghandog
+Na ang buhay
+Buhay kong aking alay
+Sa Iyo giliw walang pangarap
+Walang pangarap na iba kundi Ikaw lamang
+O giliw ko
+
+Simple lang ang awit kong ito
+Mula sa pusong nagmamahal sa Iyo
+...
+
+",MusixMatch
+27,159317756,Langit Ang Aking Nadarama,RM Rodriguez,[22],['Christian & Gospel'],"Ang kailangan ko'y
+Ay pag ibig mo
+O Diyos sa buhay kong ito
+Ang kagalakan mo
+Ay kalakasan ko
+Ikaw ang nais ko
+Ikaw lamang ang pupurihin
+Ang pangalan mo'y dadakilain
+Wala na sa'yong maihahambing
+Ang awit ko'y iyong dinggin
+Langit ang aking nadarama
+Sa t'wing kapiling ka
+Ang puso ko'y sumisigla
+Kapag sayo'y sumasamba
+Ang kailangan ko'y
+...
+
+",MusixMatch
+28,83585087,Lupa Man Ay Langit Na Rin,Lito Magnaye,[22],['Christian & Gospel'],"Nakita ko ang tunay na pag-asa
+Natagpuan ang tunay na ligaya
+Mahal naming panginoon ako'y sumasamba
+Pagka't sa piling mo'y walang kasing ganda
+
+Ikaw ang nagturo ng tamang landasin
+Sa puso at aking damdamin
+Dinggin ang papuri, ang bawat dalangin
+Dahil sa 'yo lupa man ay langit na rin
+...
+
+",MusixMatch
+29,77315287,Diyos Ng Kabutihan,Jesus One Generation,[22],['Christian & Gospel'],"Pawang kabutihan ang nais Mo
+Ibinigay Mong buhay ay ganap at husto
+Sa landas ng pagbabago
+Katuwiran Mo ang lalakaran ko
+
+Pawang kabutihan ang nais Mo
+Ibinigay Mong buhay ay ganap at husto
+Sa landas ng pagbabago
+Katuwiran Mo ang lalakaran ko
+
+Diyos, ang kabutihan Mo ay magpakailanman
+Ikaw ang simula at katapusan
+Hindi ka nagmamaliw
+Katapatan Mo'y walang hanggan
+...
+
+",MusixMatch
+30,143960337,Hesus Sa Buhay Ko (Live),Jesus One Generation,[22],['Christian & Gospel'],"Sa bawat umagang kay ganda
+Simulang magpuri sa Kanya
+Itaas ang kamay at umawit na
+Sa bawat araw na dumaraan
+Panginoon, Ikaw ang dahilan
+Sa lahat ng ligaya at bawat ngiti
+
+Mula sa labi kong nagpupuri
+Mula sa labi kong nagpupuri
+
+Hesus sa buhay ko'y Ikaw
+Ang nagbigay ng kulay
+Wala sa Iyong maipapantay
+Hesus sa buhay ko Ika'y
+Kumilos at gumabay
+Wala sa Iyong maipapantay
+
+Sa bawat umagang kay ganda
+Simulang magpuri sa Kanya
+Itaas ang kamay at umawit na
+Sa bawat araw na dumaraan
+...
+
+",MusixMatch
+31,151551019,Wala Kang Katulad,RM Rodriguez,[22],['Christian & Gospel'],"Wala kang katulad
+
+Waka kang katulad,
+Wala kang katulad
+Wala kang katulad,
+O diyos
+
+Sa iyong pag-ibig
+At kapangyarihan
+Wala kang katulad,
+O diyos
+
+Habag na di nagmamaliw
+Kapayapaan bilangmang-aaliw
+Sa'yong biyaya at
+Kaluwalhatian
+Wala kang katulad,
+O diyos
+
+Waka kang katulad,
+Wala kang katulad
+...
+
+",MusixMatch
+32,77962477,Unang Alay,Lito Magnaye,[22],['Christian & Gospel'],"Kunin at tanggapin ang alay na ito
+Mga biyayang nagmula sa pagpapala Mo
+Tanda ng bawat pusong 'pagkat inibig Mo
+Ngayo'y nananalig, nagmamahal sa 'Yo
+
+Tinapay na nagmula sa butil ng trigo
+Pagkaing nagbibigay ng buhay Mo
+At alak na nagmula sa isang tangkay ng ubas
+Inuming nagbibigay lakas
+
+Kunin at tanggapin ang alay na ito
+Mga biyayang nagmula sa pagpapala Mo
+Tanda ng bawat pusong 'pagkat inibig Mo
+...
+
+",MusixMatch
+33,83585090,Salmo 23 (Ang Panginoon Ang Aking Pastol),Lito Magnaye,[22],['Christian & Gospel'],"Ang Panginoon ang aking Pastol
+Hindi ako magkukulang
+Ako ay Kaniyang pinagpapahinga
+Sa mainam Niyang pastulan
+
+Inakay ako sa tahimik na batis
+At dulot Niya'y bagong lakas
+Tapat sa pangakong
+Ako'y sasamahan Niya
+Sa tuwid na landas
+
+...
+
+",MusixMatch
+34,83086786,Diyos Inibig Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],"Kaluwalhatian, Kataas-taasan
+Ikaw ang Panginoon
+Kamangha-mangha, kay ganda-ganda
+Ikaw ang Panginoon
+
+Binigay Mo ang lahat
+
+Diyos inibig Mo ang isang tulad ko
+Tinawag Mong anak, itinabi sa piling Mo
+At sa 'Yong mga mata, ako'y malinis na
+Katuwiran ni Hesus, Iyong nakikita
+
+Makapangyarihan magpakailanman
+Ikaw ang Panginoon
+...
+
+",MusixMatch
+35,117094564,Sino Ako,Fatima Soriano,"[1204, 22]","['Asia', 'Christian & Gospel']","Hiram sa Dios ang aking buhay
+Ikaw at ako'y tanging handog lamang
+Di ko ninais na ako'y isilang
+Ngunit salamat dahil may buhay
+
+Ligaya ko na ako'y isilang
+Pagkat tao ay mayroong dangal
+Sinong may pagibig sinong nagmamahal
+Kundi ang tao Dios ang pinagmulan
+
+...
+
+",MusixMatch
+36,159317757,May Galak,RM Rodriguez,[22],['Christian & Gospel'],"May galak, may saya, may tuwa
+Sa piling ng Diyos
+Sapagkat hirap ng puso ay naglalaho
+May awit, may sayaw, at papuri
+Para sa Diyos
+Na hatid ng pusong pinagpala Niyang lubos
+...
+
+",MusixMatch
+37,77315289,Hari Ng Kaluwalhatian,Jesus One Generation,[22],['Christian & Gospel'],"Sa simula
+Ikaw ang Salita
+Pangalan Mo'y kamang-mangha
+
+Sa kalagitnaan ng unos
+Kinalma Mo ang mga alon
+At kapayapaan Mo ang dumaloy
+
+Sa simula
+Ikaw ang Salita
+Pangalan Mo'y kamang-mangha
+Sa kalagitnaan ng unos
+Kinalma Mo ang mga alon
+At kapayapaan Mo ang dumaloy
+
+Ikaw ang Hari ng
+...
+
+",MusixMatch
+38,192894225,Kapit,Liveloud Worship,[22],['Christian & Gospel'],"Nandito lang ako
+Di ko lilisanin
+Ang iyong tabi
+Kung kakailanganing
+Suungin ang bawat hamon
+May takot man sa dibdib
+Lahat ay may pag-ahon
+Ang umaga'y darating
+At kung malayo man ang bukas
+At mahaba man ang gabi
+Kailan ma'y di ka bibitawan
+Haharapin ng sabay ang dilim
+At babangon nang muli
+Kapit lang, at wag kang bibitiw
+Nandito lang ako
+Hayaan mo't may langit
+...
+
+",MusixMatch
+39,136863024,Napakabuti Mo (Live),Rommel Guevara,[22],['Christian & Gospel'],"Napakabuti Mo, aking Diyos, Ama
+Iyong likha, luluwalhatiin Ka
+Napakabuti Mo, 'di Ka nagbabago
+Noon, ngayon, kailan pa man
+Sa buhay ko'y tapat
+
+Diyos na napakabuti, sa 'Yo ako'y lumalapit
+Walang kapantay, pag-ibig mong tunay
+Karangalan at papuri, sa 'Yo lamang lahat
+
+Napakabuti Mo, aking Diyos, Ama
+Iyong nilikha, luluwalhatiin Ka (napakabuti Mo)
+Napakabuti Mo, 'di Ka nagbabago
+Noon, ngayon, kailan pa man
+Sa buhay ko'y tapat
+...
+
+",MusixMatch
+40,136863023,Sa Habang Panahon (Live),Rommel Guevara,[22],['Christian & Gospel'],"Panginoon
+Sa 'Yo ako ay laging sasamba
+Papupurihan Ka
+Puso at isipan
+Buong lakas at buhay
+Aking iaalay sa 'Yo o Diyos
+
+Panginoon
+Sa 'Yo ako ay laging sasamba
+Papupurihan Ka
+Puso at isipan
+Buong lakas at buhay
+...
+
+",MusixMatch
+41,136863021,Kay Buti Mo (Live),Rommel Guevara,[22],['Christian & Gospel'],"Panginoon, kay buti Mo sa akin
+Ikaw lamang sasambahin
+Aawitan Kita at pupurihin
+...
+
+",MusixMatch
+42,79505180,Alay Ko'y Pagsamba,Tony Rodeo,[22],['Christian & Gospel'],"ALAY KO'Y PAGSAMBA
+Ang buhay ko
+Ito ay para lang sa Iyo
+Ikaw ang pupurihin Ko,
+Aawitan ko at sasambahin
+
+...
+
+",MusixMatch
+43,104407835,Ikaw Ang Dahilan,Ron & Joanna Domingo,[22],['Christian & Gospel'],"Ikaw ang dahilan kong bat ang puso ko natotong mag mahal at nag pakatutuo salamat sa pag ibig na binigay mo nandahil sa iyo mundo ko ay nag bago
+...
+
+",MusixMatch
+44,136863011,Dakila Siya (Live),Rommel Guevara,[22],['Christian & Gospel'],"Ang panginoon ay ating pupurihin
+Ang panginoon ay ating dakilain
+Walang katulad ang pag-ibig niya
+Siya'y laging tapat
+Walang kapantay
+Ang panginoon
+Sa aking buhay
+Dakila siya...
+Dakila siya...
+Dakila siya...
+Dakila siya...
+
+Ang panginoon ay ating pupurihin
+...
+
+",MusixMatch
 45,78391974,Tagapagligtas (Live),Jesus One Generation,[22],['Christian & Gospel'],"Sa piling niya'y ligaya
 Puno ng pagpapala
 Hinding hindi mangangamba
@@ -362,11 +894,67 @@ At tagapagtanggol
 Ng Aking buhay sa buhay ko
 Di na ako mangangamba
 O matatakot
-Pagkat ikaw ang kasama ko"
-46,136863006,Uulan Ng Pagpapala (Live),Rommel Guevara,[22],['Christian & Gospel'],
-47,74789950,Awit Ng Pasasalamat Sa Ama't Ina,Musikatha Kids,[22],['Christian & Gospel'],
-48,159317759,Salamat Salamat,RM Rodriguez,[22],['Christian & Gospel'],
-49,79505189,Sa Diyos Walang Imposible,Tony Rodeo,[22],['Christian & Gospel'],
+Pagkat ikaw ang kasama ko",
+46,136863006,Uulan Ng Pagpapala (Live),Rommel Guevara,[22],['Christian & Gospel'],"Kung kami ay luluhod
+At sa Iyo ay sasamba
+Kami ay Iyong diringgin
+At ang bayang ito'y
+Inyong pagagalingin
+
+Uulan ng pagpapala
+Uulan ng pagpapala
+Uulan ng pagpapala
+Sa bayang ito, O Diyos
+O Diyos!
+
+Sa Iyong kabutihan,
+Kami ngayo'y Iyong bayan
+Pinili at inalagaan
+...
+
+",MusixMatch
+47,74789950,Awit Ng Pasasalamat Sa Ama't Ina,Musikatha Kids,[22],['Christian & Gospel'],"Kaybuti ng Panginoon
+Ang tulad ko'y binigyan N'ya ng buhay, napuno ng kulay
+Wala na akong mahihiling
+Dahil sa handog Niyang walang katulad na mga magulang
+
+Kapag ako'y nalulumbay, handa akong kalingain
+Kapag ako'y nagkukulang, unawa ang laan sa 'kin
+
+Salamat sa Panginoon 'pagka't binigyan N'ya ako
+Ng mga magulang na lubos-lubos ang pagsinta
+...
+
+",MusixMatch
+48,159317759,Salamat Salamat,RM Rodriguez,[22],['Christian & Gospel'],"Kung ating mamasdan
+Ang kalawakan
+Hindi ko maunawaan
+Ang 'yong dahilan
+Kung bakit ako'y
+Pinili mo't inalagaan
+Diko kayang isipin
+Hinding hindi ko kayang sukatin
+Ang pag ibig mo Hesus
+Na 'yong binigay sa akin
+Salamat salamat
+O Hesus sa pag ibig mo
+Walang ibang nagmahal sakin ng katulad mo
+Salamat salamat
+O Hesus sa pag ibig mo
+Ako'y magsasaya
+Sa piling mo
+...
+
+",MusixMatch
+49,79505189,Sa Diyos Walang Imposible,Tony Rodeo,[22],['Christian & Gospel'],"Hanap mo ba'y kagalingan sa karamdaman
+Pagod kna b, sa problemang dinadala
+Nais mo ba na a
+Ung buhay na mapayapa
+Ang landas mo ay nais mong itama
+
+...
+
+",MusixMatch
 50,136843736,Kumama Yahwhe,Rachel Anyeme,[22],['Christian & Gospel'],"Eh Yahwhe
 Eh Yahwhe na nga yo kumama
 Eh Yahwhe  eh, eh Yahwhe na nga yo kumama
@@ -393,101 +981,1200 @@ Na kabeli yo bomoyi oyo olokota na fulu papa
 Na peci yo bomoyi na ya oyo yo obongi sa, na peci yo
 Oh kumama Yahwhe, kumama Yahwhe
 Kumama Yahwhe , kumama Yahwhe
-Na yekola na ngai te kopimela ka yo ba zembo"
-51,74162206,Diyos Ng Pilipinas,Rommel Guevara,[22],['Christian & Gospel'],
-52,78782290,Dakilang Katapatan,Joni Villanueva,[22],['Christian & Gospel'],
-53,131978084,Biyaya Mo,Faithmusic Manila,[22],['Christian & Gospel'],
-54,106130672,Dakilang Katapatan,Mario Lajarca Jr.,[22],['Christian & Gospel'],
-55,77785829,Mahal Ko Ang Panginoon (Live),Rommel Guevara,[22],['Christian & Gospel'],
-56,79505187,Pasasalamat,Tony Rodeo,[22],['Christian & Gospel'],
-57,77695666,Ika'y Mamahalin,Musikatha Kids,[22],['Christian & Gospel'],
-58,79505183,Huwag Kang Mangamba,Tony Rodeo,[22],['Christian & Gospel'],
-59,74651466,Ika'y Mamahalin,Edith M. San Pedro,[22],['Christian & Gospel'],
-60,106130673,Ulan,Mario Lajarca Jr.,[22],['Christian & Gospel'],
-61,200856860,Kung Magiging Tayo Lang,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']",
-62,106692193,Salamat Kaibigan,Melan Stamatelaky,[22],['Christian & Gospel'],
-63,74789946,Magkaibigang Tunay,Musikatha Kids,[22],['Christian & Gospel'],
-64,74789952,"Hallelujah, Aking Awit",Musikatha Kids,[22],['Christian & Gospel'],
-65,79505190,Sa Presensiya Mo,Tony Rodeo,[22],['Christian & Gospel'],
-66,131978086,Ikaw Ang Lahat,Faithmusic Manila,[22],['Christian & Gospel'],
-67,81282086,Panginoon Kay Buti Mo Sa Akin,Joseph M. Jusayan,[22],['Christian & Gospel'],
-68,74789953,"Pupurihin, Iibigin, Sasambahin",Musikatha Kids,[22],['Christian & Gospel'],
-69,167240378,Para Sa Akin,Faithmusic Manila,[22],['Christian & Gospel'],
-70,81282048,Sa Bawat Pagsamba,Joseph M. Jusayan,[22],['Christian & Gospel'],
-71,74135582,"Nag-iisa Ako, Maghihintay Sa'yo",Tyrone Oneza,[22],['Christian & Gospel'],
-72,117094567,Mariang Ina Ko (Minus One),Fatima Soriano,[22],['Christian & Gospel'],
-73,179119876,Kaligtasan,Faithmusic Manila,[22],['Christian & Gospel'],
-74,83585082,Umasa Ka Sa Diyos,Lito Magnaye,[22],['Christian & Gospel'],
-75,149943428,Sa Piling Mo (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],
-76,151918174,Muling Magbabalik,Matt Cueto,[22],['Christian & Gospel'],
-77,153471710,Manumbalik,Victory Collective,[22],['Christian & Gospel'],
-78,74471409,Jehovah Rapha,Terry Javier,[22],['Christian & Gospel'],
-79,192311719,Sige Na Pwede Na,Boboy Gracela,[22],['Christian & Gospel'],
-80,106130679,Dakilang Katapatan (Accompaniment Track),Mario Lajarca Jr.,[22],['Christian & Gospel'],
-81,194667465,Ayoko Ng Mawalay Pa,Robert David,[22],['Christian & Gospel'],
-82,194667477,Dalangin ko Panginoon,Robert David,[22],['Christian & Gospel'],
-83,194667486,Magbalik Ka Na,Robert David,[22],['Christian & Gospel'],
-84,199170965,Kung May Pangarap Ka,Anton Diva,[22],['Christian & Gospel'],
-85,196733153,Ang Liham,Mestro,[22],['Christian & Gospel'],
-86,148725668,Lakbay,Mikhail Tolentino feat. Sharmaine Formales,[],[],
-87,147106349,Tayo'y Sumigaw Ng Haleluyah,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-88,147106353,Ikaw Ang Aking Diyos,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-89,147106351,Magsaya Sa Kanyang Presensya,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-90,77695669,Dakila Ka (Instrumental),Musikatha Kids,[22],['Christian & Gospel'],
-91,77140960,Ikaw Ay Diyos,gloryfall,"['""\'1101\'""', '""\'22\'""']","['Gospel', 'Christian & Gospel']",
-92,74162199,Kataas-Taasang Diyos,Rommel Guevara,[22],['Christian & Gospel'],
-93,74651467,Maghari Ka,Edith M. San Pedro,[22],['Christian & Gospel'],
-94,78391978,Mga Pangako Mo (Spontaneous) [Live],Jesus One Generation,[22],['Christian & Gospel'],
-95,77695661,Kami Naman,Musikatha Kids,[22],['Christian & Gospel'],
-96,126600929,Wala Nang Iba,Ava Canaceli,[22],['Christian & Gospel'],
-97,106692189,Hindi Na Iiwan,Melan Stamatelaky,[22],['Christian & Gospel'],
-98,74135577,Dito Sa'king Piling,Tyrone Oneza,[22],['Christian & Gospel'],
-99,75423103,Praise Him (Ab) [Worship Song] [Piano Play-Along Track],Fruition Music Inc.,[22],['Christian & Gospel'],
-100,74162199,Kataas-Taasang Diyos,Rommel Guevara,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-101,77140960,Ikaw Ay Diyos,gloryfall,"['\'""\\\'1101\\\'""\'', '\'""\\\'22\\\'""\'']","['Gospel', 'Christian & Gospel']",
-102,74651467,Maghari Ka,Edith M. San Pedro,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-103,78391978,Mga Pangako Mo (Spontaneous) [Live],Jesus One Generation,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-104,77695661,Kami Naman,Musikatha Kids,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-105,126600929,Wala Nang Iba,Ava Canaceli,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-106,106692189,Hindi Na Iiwan,Melan Stamatelaky,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-107,74135577,Dito Sa'king Piling,Tyrone Oneza,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-108,75423103,Praise Him (Ab) [Worship Song] [Piano Play-Along Track],Fruition Music Inc.,"['\'""\\\'22\\\'""\'']",['Christian & Gospel'],
-109,61183546,"""Our Father"" (c) 2011 By JC The Lion Of Judah",Jesuschrist The Lion Of Judah Ministries,[22],['Christian & Gospel'],
-110,114815708,Langit Na Rin,Dakila Musika,[22],['Christian & Gospel'],
-111,176440301,Walang Hanggang Pasasalamat,OLTJOB feat. Charlie Orias & KeyofG,[22],['Christian & Gospel'],
-112,74471410,"Siksik, Liglig, Umaapaw",Terry Javier,[22],['Christian & Gospel'],
-113,151918179,Naghihintay Nagmamasid,Matt Cueto,[22],['Christian & Gospel'],
-114,150142455,Talagang Kaybuti Mo,Charlie Cruz,[22],['Christian & Gospel'],
-115,94442788,Inang Pilipinas,Noel Cabangon,[22],['Christian & Gospel'],
-116,94442784,O Bayan Ng Diyos,Noel Cabangon,[22],['Christian & Gospel'],
-117,192311703,Hindi Magbabago,Boboy Gracela,[22],['Christian & Gospel'],
-118,79505193,Walang Katulad Mo,Tony Rodeo,[22],['Christian & Gospel'],
-119,35385903,Panibagong Sigla (Live),Musikatha,[22],['Christian & Gospel'],
-120,147106356,Tunay Na Ligaya,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-121,74789948,Munting Tinig,Musikatha Kids,[22],['Christian & Gospel'],
-122,77695665,Kalakip Ng Awitin,Musikatha Kids,[22],['Christian & Gospel'],
-123,93080372,Buhay Ay Kay Saya,Tony Rodeo,[22],['Christian & Gospel'],
-124,81282105,Tunay Na Yaman,Joseph M. Jusayan,[22],['Christian & Gospel'],
-125,136863015,Sa Inyo (Live),Rommel Guevara,[22],['Christian & Gospel'],
-126,74754626,Ang Buhay Ay Parang Bula,Lon Mendoza,"[22, 20]","['Christian & Gospel', 'Alternative']",
-127,74651459,Masiglang Umawit,Edith M. San Pedro,[22],['Christian & Gospel'],
-128,78391975,Tayong Dalawa (Live),Jesus One Generation,[22],['Christian & Gospel'],
-129,131978088,Higit Sa Sapat,Faithmusic Manila,[22],['Christian & Gospel'],
-130,74135578,Hanggang Ngayo'y Ikaw,Tyrone Oneza,[22],['Christian & Gospel'],
-131,83581880,Awit Ng Pagpapanibago,Lito Magnaye,"[34, 22]","['Music', 'Christian & Gospel']",
-132,133119804,Hanggang Sa Dulo,Inggo 1587,[22],['Christian & Gospel'],
-133,106692188,Nasayo Na,Melan Stamatelaky,[22],['Christian & Gospel'],
-134,143960335,Sabik Sa Presensya Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],
-135,151918175,Makapangyarihan Ang Diyos,Matt Cueto,[22],['Christian & Gospel'],
-136,154486322,Manalig Ka,"Union Espiritista Cristiana de Filipinas, Incorporada",[22],['Christian & Gospel'],
-137,153471712,Hari Ng Lahat,Victory Collective,[22],['Christian & Gospel'],
-138,153471711,Pag-Amin (Tanging Ikaw),Victory Collective,[22],['Christian & Gospel'],
-139,173382030,Mga Pangako Mo,Rodel Buban,[22],['Christian & Gospel'],
-140,35385899,Tuloy Ang Awit (Live),Musikatha,[22],['Christian & Gospel'],
-141,203214516,Tumatawag Kami,Joel Barrios,[22],['Christian & Gospel'],
-142,77695663,Ako'y Magpupuri Sa'yo,Musikatha Kids,[22],['Christian & Gospel'],
-143,200856868,May Forever sa Langit,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']",
-144,200856870,Sa Buhay na Walang Hanggan,Jay Tolentino,[22],['Christian & Gospel'],
+Na yekola na ngai te kopimela ka yo ba zembo",
+51,74162206,Diyos Ng Pilipinas,Rommel Guevara,[22],['Christian & Gospel'],"Inaalay sa iyo ang bayang ito
+Maluwalhati nawa ang ngalan mo
+Kami'y akayin mo
+
+Ikaw ang buhay at pag-asa
+Sa iyo kami sumasamba
+...
+
+",MusixMatch
+52,78782290,Dakilang Katapatan,Joni Villanueva,[22],['Christian & Gospel'],"Sadyang kay buti ng ating Panginoon
+F G Em - Am
+Magtatapat sa habang panahon
+Maging sa kabila ng
+Ating pagkukulang
+Biyaya Niya'y patuloy na laan
+
+Katulad ng pagsinag ng gintong araw
+F G Em - Am
+Patuloy Siyang nagbibigay tanglaw
+F E7 Am - D
+Kaya sa puso ko't damdamin
+Katapatan Niya'y aking pupurihin
+
+Dakila Ka, O Diyos
+Tapat Ka ngang tunay
+Magmula pa sa ugat ng aming lahi
+Mundo'y magunaw man,
+...
+
+",MusixMatch
+53,131978084,Biyaya Mo,Faithmusic Manila,[22],['Christian & Gospel'],"Ako ay narito dahil Sa'yo
+Makasalanan man ako'y pinatawad Mo
+Buhay ay inalay Mo
+Tinubos ako sa krus ng kalbaryo
+
+Biyaya Mo'y sapat sa buhay ko
+Walang katulad Mo
+Panginoon kay buti Mo
+Noon ngayon at magpakailan man di ka nagbabago
+Panginoon kay buti mo sa 'kin
+
+Sayo natagpuan ang kapayapaan
+Hindi nagmamaliw magpakailan. kailan pa man
+Walang katulad Mo
+...
+
+",MusixMatch
+54,106130672,Dakilang Katapatan,Mario Lajarca Jr.,[22],['Christian & Gospel'],"Sadyang kay buti ng ating Panginoon
+Magtatapat sa habang panahon
+Maging sa kabila man ng ating pagkukulang
+Biyaya N'ya'y patuloy na laan
+
+Katulad ng pagsinag ng gintong araw
+Patuloy s'yang magbibigay tanglaw
+Kaya sa puso ko't damdamin
+Katapatan Mo'y aking pupurihin
+
+...
+
+",MusixMatch
+55,77785829,Mahal Ko Ang Panginoon (Live),Rommel Guevara,[22],['Christian & Gospel'],"MAHAL NA MAHAL KITA PANGINOON
+D G D-A
+Mahal na mahal kita Panginoon
+Mahal na mahal kita Panginoon
+...
+
+",MusixMatch
+56,79505187,Pasasalamat,Tony Rodeo,[22],['Christian & Gospel'],"Pupurihin namin ang Iyong pangalan
+Aawitan nang may kadakilaan
+Ikaw ang Diyos na aming kanlungan
+Pag-asa nami't kaligtasan
+
+Pasasalamat ang aming alay
+Pasasalamat, alay mong buhay
+Kadakilaan mo'y pasalamatan
+Ang pag ibig Mo'y wagas kailanman
+
+Sa 'Yo'y alay aming buhay
+Ikaw ang Diyos na aming gabay
+Sa dalangin, aawitin
+Kadakilaan Mo sa amin
+...
+
+",MusixMatch
+57,77695666,Ika'y Mamahalin,Musikatha Kids,[22],['Christian & Gospel'],"Damhin yaring pag-ibig,
+Aking hinihimig,
+Sa puso ko ay sumibol,
+Sayo lang iuukol
+
+...
+
+",MusixMatch
+58,79505183,Huwag Kang Mangamba,Tony Rodeo,[22],['Christian & Gospel'],"Wag kang mangangamba o mababalisa
+Wag kang matatakot o malulungkot
+Di ka nag-iisa may kasama ka
+Sya'y karamay mo sa tuwi-tuwina
+
+Si hesus di ka pababayaan
+Si hesus di ka iiwanan
+Sya'y kasama mo kara-karamay mo
+Sya'y laging tapat sa buhay mo
+
+Wag kang mangangamba o mababalisa
+Wag kang matatakot o malulungkot
+Di ka nag-iisa may kasama ka
+...
+
+",MusixMatch
+59,74651466,Ika'y Mamahalin,Edith M. San Pedro,[22],['Christian & Gospel'],"Damhin yaring pag-ibig
+Aking inihihimig
+Sa puso ko'y ay sumibol
+Sa 'Yo lang iuukol
+Minsan lamang mabuhay
+Lahat sa 'yo'y alay
+Ang puso ko ay tanging sa 'Yo
+Hanggang sa huling pintig nito
+
+Habang buhay Kang mamahalin
+Papupurihan at sasambahin
+Anong pagsubok man sa'ki'y dumating
+Diyos Ika'y mamahalin
+
+Habang buhay Kang mamahalin
+Papupurihan at sasambahin
+Anong pagsubok man sa'ki'y dumating
+Diyos Ika'y mamahalin
+...
+
+",MusixMatch
+60,106130673,Ulan,Mario Lajarca Jr.,[22],['Christian & Gospel'],"Ang puso ko'y panatag sa buhos ng ulan
+Hindi nababagabag dahil ika'y nandyan
+Sa init ng pag-ibig mo ako'y mananahan
+Hanggang matapos ang ulan
+
+Pagsubok at pagluha'y katulad ng bagyo
+Hindi nababahala, kita'y kapiling ko
+...
+
+",MusixMatch
+61,200856860,Kung Magiging Tayo Lang,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']","Kung may nabibiling sangkap
+Para makuha ang 'yong loob
+Titimplahin ko'to upang damdamin mo'y mahulog
+Ako'y may aaminin espesyal ka sa paningin
+Nangangarap palagi na ikaw ay makapiling dahil
+
+Ikaw at ako ang tila para sa isa't-isa
+Kapag pinagsama ay mas malasa
+Alam kong tayong dal'wa ang nakalaan
+Parang ako ang kanin at ikaw ang ulam
+
+Kung ang pagibig ay pwedeng iluto
+Pinalambot ko na ang 'yong puso
+Bubudburan ko pa ng pampakilig
+Baka sakaling ikaw ay mapa-ibig
+Kung tatangapin mo lamang
+Haing pagsintang laan
+Hinding hindi kita pababayaan kailanman
+...
+
+",MusixMatch
+62,106692193,Salamat Kaibigan,Melan Stamatelaky,[22],['Christian & Gospel'],"Salamat kaibigan
+
+Kahit mahirap gawin
+Mga ligaw ay abutin
+Kahit pagod na ang paghahanap ay tuloy parin
+Sarili ay kinalimutan
+Upang iba'y paglingkuran
+Mga kaluluwang nagbabalik loob
+...
+
+",MusixMatch
+63,74789946,Magkaibigang Tunay,Musikatha Kids,[22],['Christian & Gospel'],"Marami akong kalaro kapitbahay at kaeskuwela ko may mabait at may pilyo may tahimik at may magulo ngunit iilan lang sa karamihan ang matatawag mong kaibigan
+
+Magkaibigang tunay walang kapantay sa lungkot at sigla sasamahan twina
+...
+
+",MusixMatch
+64,74789952,"Hallelujah, Aking Awit",Musikatha Kids,[22],['Christian & Gospel'],"Nais kong iparinig
+Pasasalamat sa Iyo, Jesus
+Pagpapala Mong hatid
+Lagi kong nakakamit
+Dakilang pag-ibig
+Wala nang hihigit
+...
+
+",MusixMatch
+65,79505190,Sa Presensiya Mo,Tony Rodeo,[22],['Christian & Gospel'],"Sa presensya mo
+Buhay natamo
+Tunay ang pangako mo
+Panginoon
+
+...
+
+",MusixMatch
+66,131978086,Ikaw Ang Lahat,Faithmusic Manila,[22],['Christian & Gospel'],"Sa araw-araw ng buhay ko
+Kagandahan Mo aking nakikita
+Sa lahat ng bagay na Iyong ginawa
+Pasasalamat aking winiwika
+
+Sa paghahanap ng katotohanan
+Liwanag Mo pa'ng natagpuan
+Sa bawat hakbang sa mundong ito
+Salita Mo lamang ang hawak ko
+
+Ikaw ang kailangan
+Wala nang hihigit Sa'yo
+Walang ibang katulad mo
+Ikaw ang katotohanan
+Biyaya'y naranasan ko
+Binago Mo ang buhay ko
+
+Hesus Ikaw ang aking lahat
+Hesus Ikaw ang aking lahat
+
+...
+
+",MusixMatch
+67,81282086,Panginoon Kay Buti Mo Sa Akin,Joseph M. Jusayan,[22],['Christian & Gospel'],"Panginoon kay buti mo sa akin
+Ikaw lamang ang tangi kong sasambahin
+Aawitan kita at pupurihin
+Panginoon kay buti mo sa akin
+
+Panginoon kay buti mo sa akin
+...
+
+",MusixMatch
+68,74789953,"Pupurihin, Iibigin, Sasambahin",Musikatha Kids,[22],['Christian & Gospel'],"Pupurihin, iibigin, sasambahin
+
+Sa musmos kong gulang isasapuso na,
+Papupurihan lamang ang diyos naming ama,
+Pag-aalayan namin ng aming pagsamba,
+Taos na iibigin hanggang walang hangan.
+
+Pupurihin ka namin tanging sasambahin
+Ikaw ay iibigin aming mamahalin
+Itataas ang ngalan hanggang kalangitan
+...
+
+",MusixMatch
+69,167240378,Para Sa Akin,Faithmusic Manila,[22],['Christian & Gospel'],"Kung ika'y magiging akin
+Di ka na muling luluha pa
+Pangakong di ka lolokohin
+Ng puso kong nagmamahal
+
+Kung ako ay papalarin
+Na ako'y iyong mahal na rin
+Pangakong ikaw lang ang iibigin
+Magpakailanman
+
+Di kita pipilitin
+Sundin mo pang iyong damdamin
+...
+
+",MusixMatch
+70,81282048,Sa Bawat Pagsamba,Joseph M. Jusayan,[22],['Christian & Gospel'],"Oh aking Ama sa bawat pagsamba
+Hangad ko ay luwalhatiin Ka
+Ang presensya Mo'y aking nadarama
+Nagniningas ang 'Yong pagsinta
+Oh aking Ama ako ay luluhod
+Sa aking pagsamba Ikaw ay malugod
+Puso't kaluluwa papupurihin Ka
+Sa pagsamba'y itataas Kita
+Oh aking Ama sa bawat pagsamba
+...
+
+",MusixMatch
+71,74135582,"Nag-iisa Ako, Maghihintay Sa'yo",Tyrone Oneza,[22],['Christian & Gospel'],"Bakit ako ganito, nag-iisa?
+Sa tuwing umiibig, nagdurusa
+Bakit di ko alam ang gagawin
+Pag ibig ba ito o Ligaya?
+Ang pangarap ko ikaw lamang
+Na makapiling ka habang buhay
+Sawing palad ako, sa pag ibig
+Dahil ito na nga ang palad ko
+
+...
+
+",MusixMatch
+72,117094567,Mariang Ina Ko (Minus One),Fatima Soriano,[22],['Christian & Gospel'],"Sa'king paglalakbay sa bundok ng buhay
+Sa ligaya't lumbay maging talang gabay
+Mariang ina ko ako ri'y anak mo
+Kay Kristong kuya ko akayin mo ako
+Kay Kristong kuya ko akayin mo ako
+
+...
+
+",MusixMatch
+73,179119876,Kaligtasan,Faithmusic Manila,[22],['Christian & Gospel'],"Noong una pa lang
+Ako ay inibig Mo
+Binigay Mo'ng lahat
+Mahanap Mo lang ako
+
+Kapahingahan nasumpungan
+At kagalakan kalakasan natagpuan
+
+Hinanap ako ng pag-ibig Mo
+...
+
+",MusixMatch
+74,83585082,Umasa Ka Sa Diyos,Lito Magnaye,[22],['Christian & Gospel'],"Umasa Ka sa Diyos
+Ang mabuti gawin
+At manahan kang ligtas, sa lupain
+Sa Diyos mo hanapin ang kaligayahan
+...
+
+",MusixMatch
+75,149943428,Sa Piling Mo (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],"Sa piling Mo'y
+Wala nang hahanapin pa
+Kundi ang manatili
+Sa piling Mo tuwina
+Ka'y rami nang sinubukan
+Ka'y rami nang natikman
+Ngunit walang katulad
+Ang Iyong pagmamahal
+
+Sa piling Mo'y may buhay
+Sa piling Mo'y may sigla
+Ang puso ko'y lumalakas
+Kapag kapiling ka
+Diyos, ako'y iyong-iyo
+Ang puso ko'y baguhin Mo
+Pagkat ako'y uhaw
+...
+
+",MusixMatch
+76,151918174,Muling Magbabalik,Matt Cueto,[22],['Christian & Gospel'],"Malayong malayo na ang nararating
+Buhat nang lumisan sa piling Mo
+Kay tagal ng panahon lumipas at nagdaan
+Hinahanap ang pagmamahal Mo
+
+At sa mga gabing aking pamamanglaw
+Naririnig ko ang 'Yong tinig
+Na wari bang ako'y lagi nang tinatawag
+Sana ako'y muling makabalik
+
+Babaguhin ko ang aking landas
+Tungo sa daang matuwid
+Igawad Mo Panginoon ang pagpapatawad Mo
+...
+
+",MusixMatch
+77,153471710,Manumbalik,Victory Collective,[22],['Christian & Gospel'],"Puso'y naging sarado
+Manhid na sa dami ng kasalanan ko
+Ngayon di na sigurado
+Hanggang kalian pa ba ito?
+
+Ang dami ng pagkakamali
+Tingin na sa sarili'y napakarumi
+Sinubukan kong magtago
+Pero di ko pala kaya'ng ganito
+
+Pakiramdam ko ngayon
+Napakalayo ko na sa'Yo
+Mga sala ko'y pawiin
+Puso ko O' Diyos pakalinisin
+
+Muling ibaling ang 'Yong paningin
+Awit ng puso ko'y dinggin
+Tanging dalangin ko'y manumbalik sa'Yo
+Manumbalik sa'Yo O Diyos
+
+Kung san san na ako nakarating
+...
+
+",MusixMatch
+78,74471409,Jehovah Rapha,Terry Javier,[22],['Christian & Gospel'],"Pag lumalala ang karamdaman bumabalo't
+Pighati ng pagsubok patuloy na umiikot
+Ang katapatan mo O Diyos ang ipagbubunyi
+Kahit anong sidhi at sugat ay anong hapdi palagi
+
+Kung kalooban mo't hangarin, Ang kabigatin ay pawiin
+Ang kagalingan ng damdamin maging aking dalangin
+Ang kapaguran nadarama ang nararapat na pahinga
+Alin pa ma'y bigyang ligaya sayo Ama umaasa
+Jehovah Rapha
+
+...
+
+",MusixMatch
+79,192311719,Sige Na Pwede Na,Boboy Gracela,[22],['Christian & Gospel'],"Ang kahirapan at kaguluhan
+Ay kayang pagtagumapayan
+May katiyakan sa patutunguhan
+Basta't si Kristo ang daan
+
+Sige na, pwede na
+Basta't si Kristo'y kasama
+Sige na, pwede na
+Basta't manalig sa Kanya
+Sige na, pwede na
+Basta't si Kristo'y kasama
+Sige na, pwede na
+Basta't manalig sa Kanya
+Sige na!
+
+Ang kasalanan ay talikuran
+Ang diyablo ay dapat labanan
+May kaligtasan ang iyong buhay
+Kung si Hesus ang' yong gabay
+...
+
+",MusixMatch
+80,106130679,Dakilang Katapatan (Accompaniment Track),Mario Lajarca Jr.,[22],['Christian & Gospel'],"Sadyang kay buti ng ating Panginoon
+Magtatapat sa habang panahon
+Maging sa kabila man ng ating pagkukulang
+Biyaya Nya'y patuloy na laan
+
+Katulad ng pagsinag ng gintong araw
+Patuloy syang nagbibigay tanglaw
+Kaya sa puso ko't damdamin
+Katapatan Nya'y aking pupurihin
+
+Dakila ka O Diyos
+...
+
+",MusixMatch
+81,194667465,Ayoko Ng Mawalay Pa,Robert David,[22],['Christian & Gospel'],"Kayraming humahadlang sa pag-ibig ko Sa'yo
+Sinisikap nilang Sa'yo ay malayo
+Ngunit di papansinin ang paghila ng mundo
+Dahil Ikaw lang ang lahat sa buhay ko
+
+Ayoko ng mawalay pa sa piling mo Hesus
+Ayoko ng mawalay pa sa pag-ibig mo Hesus
+...
+
+",MusixMatch
+82,194667477,Dalangin ko Panginoon,Robert David,[22],['Christian & Gospel'],"Kay rami-raming kumikilala
+Nag-aalay pa ng pagsamba
+Ngunit di naman nakikita
+Sa buhay namin ang 'yong ganda
+
+Kay rami naming umaasa
+Naghahanap pa ng biyaya
+Ngunit hindi naman naniniwala
+Sa mga banal mong salita
+
+Panginoon dalangin ko
+...
+
+",MusixMatch
+83,194667486,Magbalik Ka Na,Robert David,[22],['Christian & Gospel'],,
+84,199170965,Kung May Pangarap Ka,Anton Diva,[22],['Christian & Gospel'],"Ang buhay mo ay natatangi't nag-iisa
+Sana ay bigyan ito ng halaga
+Kung may mithiin ka mang nais mong makamtan
+Gamitin ang talino'ng kaloob sayo ng may kapal
+
+Sipag at tyaga pagmamahal sa sino-man
+Siyang daan sa mga pangarap mong inaasam
+Hindi mag-tatagal at may pag-asa ngayong magi-gisnan
+Ang mga pangarap mo'y makakamtan
+
+Kung may pangarap kang ibig mong maabot
+Huwag ng sayangin at harapin mo ng walang takot
+Manalig sa iyong lakas upang ito'y maging ganap
+...
+
+",MusixMatch
+85,196733153,Ang Liham,Mestro,[22],['Christian & Gospel'],"Ang buhay natin, Panandalian lamang
+Wag mong sayangin, masasaktan ka lang
+Kung pipilitin
+Kay daming tanong, ng mapag larong isipan
+Na tila ba ang buhay, ay di pantay at puro lang
+Kabiguan
+
+...
+
+",MusixMatch
+86,148725668,Lakbay,Mikhail Tolentino feat. Sharmaine Formales,[22],['Christian & Gospel'],"Ba't iniisip mo na sumuko nalang
+Ang buhay ba'y walang kabuluhan
+Di tiyak ang hinaharap
+Kasalukuya'y ano'ng hirap
+Hanggang dito nalang
+Tapusin na yan
+Ba't yan ang nasa-isipan
+
+Di mo lang alam ano'ng saya
+At galak na siyang dala
+Kung ang buhay mo'y kay Kristo na
+
+Kaya't ano'ng hinihintay
+Kung sa iyong paglalakbay
+Sa kagipitan ng buhay
+Siya parin ang 'yong gabay
+Kaya't wag ka nang malumbay
+...
+
+",MusixMatch
+87,147106349,Tayo'y Sumigaw Ng Haleluyah,Sanctuary of Worship Band,[22],['Christian & Gospel'],"Purihin natin ang Panginoon
+Dahil sa Kanyang kaluwalhatian
+Awit at pagsamba'y sa Kanya'y iaalay
+At ating isigaw ang Kanyang kadakilaan
+
+Pagmamahal Niya'y 'di mapapantayan
+'Di nagbabago magpa kailanman
+
+Ito ang oras upang magsaya
+Sapagkat Ikaw Hesus ay aming kasama
+Ito ang oras upang magsaya
+At ang lahat ay sumigaw ng Heleluya
+Haleluya
+
+Purihin natin ang Panginoon
+Dahil sa Kanyang kaluwalhatian
+Awit at pagsamba'y sa Kanya'y iaalay
+At ating isigaw ang Kanyang kadakilaan
+
+Pagmamahal Niya'y 'di mapapantayan
+'Di nagbabago magpa kailanman
+
+Ito ang oras upang magsaya
+...
+
+",MusixMatch
+88,147106353,Ikaw Ang Aking Diyos,Sanctuary of Worship Band,[22],['Christian & Gospel'],"Panginoong Hesus, Ikaw ang aking Diyos
+Wala nang hihigit pa sa Iyo
+Ikaw ang buhay at katotohanan
+Ikaw ang daan tungo sa magpa wlanghanggan
+
+Ang pagmamahal Mo oh Diyos
+Ay walang kapantay
+Pagpapatawad at pagpapala
+Ay 'di kailanman nagwawakas
+
+Ang pagmamahal Mo oh Diyos
+Ay walang katulad
+Pagpapatawad at pagpapala
+Ay 'di kailanman kumukupas
+
+...
+
+",MusixMatch
+89,147106351,Magsaya Sa Kanyang Presensya,Sanctuary of Worship Band,[22],['Christian & Gospel'],"Oh magsaya at magdiwang sa presensya ng Panginoon
+Ipalakpak ang Iyong kamay at sumayaw
+
+Oh magsaya at magdiwang sa presensya ng Panginoon
+Ihandog ang iyong tinig at sumigaw ng may galak
+Ng may galak
+
+Ang Panginoon ay mabuti sa lahat ng panahon
+Wagas na pagmamahal Nya'y ibinay para sa atin
+Ang Panginoon ay mabuti sa lahat ng panahon
+Kaya't bigyan Siya ng mga papuri't pasasalamat
+
+Oh magsaya at magdiwang sa presensya ng Panginoon
+...
+
+",MusixMatch
+90,77695669,Dakila Ka (Instrumental),Musikatha Kids,[22],['Christian & Gospel'],"Wala nang hihigit
+Sa kaluwalhatian Mo
+Sino pa ang papantay
+Sa kapangyarihan Mo
+
+...
+
+",MusixMatch
+91,77140960,Ikaw Ay Diyos,gloryfall,"[1101, 22]","['Gospel', 'Christian & Gospel']",,
+92,74162199,Kataas-Taasang Diyos,Rommel Guevara,[22],['Christian & Gospel'],"Kataas-taasang Diyos
+Kami'y nagpupuri sa 'Yo
+Kataas-taasang Diyos
+Kami'y sumasamba sa 'Yo
+Karapat-dapat Kang tumanggap
+Ng papuri at pasasalamat
+Dakila Ka, kataas-taasang Diyos
+
+Kataas-taasang Diyos
+Kami'y nagpupuri sa 'Yo
+...
+
+",
+93,74651467,Maghari Ka,Edith M. San Pedro,[22],['Christian & Gospel'],"Nanunumbalik sa Iyong paglingap
+Dinadalangin ang Iyong pagtanggap
+Hinahanap ang Iyong kat'wiran
+Niyayakap ang Iyong kalooban
+
+Maghari ka, maghari ka
+Panginoong Hesus, maghari ka
+Sa buhay ko, sa puso ko
+...
+
+",MusixMatch
+94,78391978,Mga Pangako Mo (Spontaneous) [Live],Jesus One Generation,[22],['Christian & Gospel'],"Sa'Yo umaasa
+Kaibigang tapat at sandigan
+Sa'Yo nagmumula
+Kapayapaan, kabutihan
+
+Di kayang sukatin
+Ang pag-ibig Mo
+
+Mga pangako Mo
+Liwanag at gabay
+Sa bawat sandali
+May pag-asa't kanlungan
+Mga pangako Mo
+Taglay nito'y galak
+Nananatili ang labis na kalakasan
+Mga pangako Mo
+
+Ako'y lumalapit
+Sa'Yong kagandahan
+Walang alinlangan
+Ikaw ang Pag-ibig
+Kapahingahan, walang hanggan
+...
+
+",MusixMatch
+95,77695661,Kami Naman,Musikatha Kids,[22],['Christian & Gospel'],"I
+Marahil narinig mo na
+Pinaka-mahusay na kanta
+Ngunit hindi papayag na, kami'y di bigyan pansin
+
+II
+Kahit kami'y mga musmos
+Pag-ibig namin sa 'Yo'y taos
+...
+
+",MusixMatch
+96,126600929,Wala Nang Iba,Ava Canaceli,[22],['Christian & Gospel'],"WALA NANG IBA
+
+Inibig Mo ako ng lubusan
+Pag-ibig Mo'y wagas magpakailanman
+Biyaya Mo'y sapat, hindi nagkukulang Pagpapatawad Mo'y di kayang pantayan
+
+...
+
+",MusixMatch
+97,106692189,Hindi Na Iiwan,Melan Stamatelaky,[22],['Christian & Gospel'],"Kay dali
+Sabihing ika'y
+Mahal Ko
+Ngunit nagkakasala
+
+At Kay dali Ko ring
+Saktan Ang puso mo
+At Kay dali mong patawarin
+...
+
+",MusixMatch
+98,74135577,Dito Sa'king Piling,Tyrone Oneza,[22],['Christian & Gospel'],"Bakit ba nagkawalay pa
+Gayong Mahal ang isat isa
+Bakit ba kailangang magkalayo
+Pa ang nagmamahalang puso
+Araw gabi hanap kita
+Sadyang ikaw lang
+At walang iba
+Maari kaya na mag umpisa
+Upang muli ay magkasama
+
+Tunay Ikaw parin laman ng puso't isip
+Di maamin
+Wala kana wala na bang pag ibig
+...
+
+",MusixMatch
+99,75423103,Praise Him (Ab) [Worship Song] [Piano Play-Along Track],Fruition Music Inc.,[22],['Christian & Gospel'],"Ako ay lalapit sa Iyong harapan
+Puso ko'y luluhod sa Iyong kabanalan
+At kahit hindi man ako karapat-dapat
+Ngunit sa biyaya't dugo Mong nilaan O Hesus
+
+Ako ay lalapit sa Iyong harapan
+Puso ko'y luluhod sa Iyong kabanalan
+At kahit hindi man ako karapat-dapat
+Ngunit sa biyaya't dugo Mong nilaan O Hesus
+
+Ako'y lalapit
+Mag-aalay ng pagpupuri Sa'yo
+...
+
+",MusixMatch
+100,74162199,Kataas-Taasang Diyos,Rommel Guevara,[22],['Christian & Gospel'],,
+101,77140960,Ikaw Ay Diyos,gloryfall,"[1101, 22]","['Gospel', 'Christian & Gospel']",,
+102,74651467,Maghari Ka,Edith M. San Pedro,[22],['Christian & Gospel'],,
+103,78391978,Mga Pangako Mo (Spontaneous) [Live],Jesus One Generation,[22],['Christian & Gospel'],,
+104,77695661,Kami Naman,Musikatha Kids,[22],['Christian & Gospel'],,
+105,126600929,Wala Nang Iba,Ava Canaceli,[22],['Christian & Gospel'],,
+106,106692189,Hindi Na Iiwan,Melan Stamatelaky,[22],['Christian & Gospel'],,
+107,74135577,Dito Sa'king Piling,Tyrone Oneza,[22],['Christian & Gospel'],,
+108,75423103,Praise Him (Ab) [Worship Song] [Piano Play-Along Track],Fruition Music Inc.,[22],['Christian & Gospel'],,
+109,61183546,"""Our Father"" (c) 2011 By JC The Lion Of Judah",Jesuschrist The Lion Of Judah Ministries,[22],['Christian & Gospel'],"Simulang Muli, ang Sinimulan
+Taon-Taong bibinyagan ang ating kapatiran
+Pasasalamat ko sa inyo Ama
+At sa diyos kong may lalang
+Ay nabuo kaming Leon.
+
+Ref.
+Kahit Kami ay pinipintasan
+Patuloy na kami'y lumalaban
+Kahit bagyo pa ang nagdaraan
+Ang Apoy sa'king Dibdib
+Ay umaalab
+
+Cho.
+Aaminin sa inyo
+Na kami ay lumuluha
+At kami'y bumabagsak
+Ngunit patuloy na lumalaban
+Kahit nakaluhod
+Taas noo naming isisigaw
+FORTIS VOLUNTAS FRATERNITAS
+Pasan ko ang Leon sa Puso Ko.
+...
+
+",MusixMatch
+110,114815708,Langit Na Rin,Dakila Musika,[22],['Christian & Gospel'],"Puso'y nasasaktan, napapagod.
+Nadadala, ng mga alon.
+Ngunit pag-ibig Mo'y, sinasagip ako.
+Ang lakas ko ay, na Sayo.
+
+Ikaw ang tanggulan ko
+Ang puso ko'y panatag
+Sa pangako Mo,
+Ang buhay ko'y payapa.
+Jesus Ikaw, ang aking Pastol.
+Sa piling Mo, ang buhay ko sa lupa'y
+Langit Na Rin.
+
+Pinag-uusig, nabubuwal,
+Ngunit hindi kami, pinapabayaan.
+Dumaan man kami, sa kadiliman.
+Ikaw ang gabay, ang sanggalang.
+...
+
+",MusixMatch
+111,176440301,Walang Hanggang Pasasalamat,OLTJOB feat. Charlie Orias & KeyofG,[22],['Christian & Gospel'],"Salamat sayo aming ama
+Salamat sa iyong mga likha
+Salamat sa liwanag ng araw at buwan
+Salamat sayo o diyos
+
+Salamat panginoong hesus
+Salamat sa iyong pagliligtas
+Salamat sa buhay na walang hanggan
+Salamat, salamat sa iyo
+
+Walang hanggang pasasalamat
+Ang sa iyo'y aming sasambitin
+Maging sa huling sandali ng aming buhay
+Pasasalamat sa iyo'y walang hanggan
+...
+
+",MusixMatch
+112,74471410,"Siksik, Liglig, Umaapaw",Terry Javier,[22],['Christian & Gospel'],"Tayo na ang lahat ay sumamba,
+H'wag nang magpatumpik-tumpik, lumapit na
+Subukang ibigay handog na para sa Kanya,
+T'yak 'yun buhay mo'y pagpapalain Niya
+...
+
+",MusixMatch
+113,151918179,Naghihintay Nagmamasid,Matt Cueto,[22],['Christian & Gospel'],"May kasabihang na ang buhay daw ay tulad ng gulong
+Sa umaga ay babangon maghanap-buhay sa maghapon
+At sa pagikot ng ating daigdig ay tila ba di napapansin
+Pangyayaring nagsasabing Siya'y malapit ng dumating
+
+Naghihintay, nagmamashid sa muling pagbalik
+...
+
+",MusixMatch
+114,150142455,Talagang Kaybuti Mo,Charlie Cruz,[22],['Christian & Gospel'],"Sadyang kayhirap ang mawalay Sa'yo
+Puno ng pasakit ang tinatamasa ko
+Ako'y gulong-gulo di alam ang gagawin
+Nais nang tapusin ang paghihirap ko
+
+...
+
+",MusixMatch
+115,94442788,Inang Pilipinas,Noel Cabangon,[22],['Christian & Gospel'],"Bayan, hawak mo sa iyong mga kamay
+Ang kinabukasan ng ating bansa
+Bayan ko, bukas ay gamitin mo
+Ang iyong lakas sa tamang pagpapasya
+
+Para sa mga mahihina
+Para sa may kapansanan
+Para sa mga kapus-palad
+Para sa mga mahihirap
+
+Para sa mga manggagawa
+Mangingisda at magsasaka
+Para sa mga nakatatanda
+Para sa mga bata
+
+Para sa 'ting kinabukasan
+Para sa inang pilipinas
+
+Bayan, nasa iyong mga kamay
+Ang tunay na kapangyarihan
+Bayan ko, bukas ay ipakita mo
+Ang tinig ng mamamayan
+...
+
+",MusixMatch
+116,94442784,O Bayan Ng Diyos,Noel Cabangon,[22],['Christian & Gospel'],"Oh, bayan ng Diyos
+Itaas ang kamay at magdiwang
+Awit ng sigla, ibaling sa kalangitan
+Purihin ang Diyos na buhay
+Tayo'y kanyang mahal
+Inaaruga na't kinagigiliwan pa
+Pag-ibig n'ya'y kay lalim, kay saya
+
+Oh, bayan ng Diyos
+Itaas ang kamay at magdiwang
+Liwanag ng Diyos, nagpawi ng kadiliman
+Pangungulila't lungkot, huwag nang mag-alala
+Puso nating aba, nilikha n'yang tahanan n'ya
+...
+
+",MusixMatch
+117,192311703,Hindi Magbabago,Boboy Gracela,[22],['Christian & Gospel'],"Mula noon, hanggang ngayon
+Pag-ibig ko sa iyo'y 'di nagbabago
+Kasama mo sandigan mo
+Hindi nagbabago
+Mula noon, hanggang ngayon
+Pag-linggap ko sa iyo'y 'di nagbabago
+Asahan Mo, subukin mo
+Hindi nagbabago
+
+Mula noon, hanggang sa magpakailan man
+Hindi mag-iiba iyong maaasahan
+Mula noon, hanggang ngayon mahal kita
+...
+
+",MusixMatch
+118,79505193,Walang Katulad Mo,Tony Rodeo,[22],['Christian & Gospel'],"Niluluwalhati dinadakila
+Sinasamba kita o Diyos ng buong puso
+
+Ikaw ang Hari
+Ikaw ang Buhay
+Ikaw ang Diyos naming banal na pupurihin
+
+Panginoon kay buti mo
+Walang katulad mo
+Kami Sa'yo ay sasamba
+Pagkat dakila ka
+
+Hawak mo ang aming buhay
+Ikaw na nagbigay
+Ang pagsamba Sa'yo ay iaalay
+
+Niluluwalhati dinadakila
+Sinasamba kita o Diyos ng buong puso
+
+...
+
+",MusixMatch
+119,35385903,Panibagong Sigla (Live),Musikatha,[22],['Christian & Gospel'],"Tatakbo ngunit di mahahapo
+Lalakad di mapapagod
+Maghihintay ng may tagumpay
+Pagka't pag asa ko ay na Sa'yo
+
+Tatakbo ngunit di mahahapo
+...
+
+",MusixMatch
+120,147106356,Tunay Na Ligaya,Sanctuary of Worship Band,[22],['Christian & Gospel'],"Aking Ama Sa'yo lang
+Ang buhay kong ito iaasa
+Manatili Ka sa akin
+Buhay kong ito ay baguhin
+
+At lahat ng sakit
+Pawiin mo oh Diyos
+Mahal Kitang lubos
+
+Purihin Ka oh Diyos Ama
+Ang dulot ng pag-ibig Mo'y walang humpay na saya
+Dakila Ka oh Diyos Ama
+Ikaw ang aking tunay na ligaya
+...
+
+",MusixMatch
+121,74789948,Munting Tinig,Musikatha Kids,[22],['Christian & Gospel'],"Ang sabi ng iba sa 'kin, ako ay bata pa
+'Di pa raw marunong mag-isa dahil bata pa nga
+Nangangamba, natatakot, minsa'y nadarapa
+Mahina ang damdamin dahil bata pa nga
+
+Munting bata man ako tingnan
+Ngunit 'di naman sa isipan
+Sa puso ko ay may awiting sa'yo nakalaan
+
+Munting tinig ko'y iyong pakinggan
+Simpleng awit, ika'y hahandugan
+...
+
+",MusixMatch
+122,77695665,Kalakip Ng Awitin,Musikatha Kids,[22],['Christian & Gospel'],"Kung mayroon lamang akong 1000 buhay
+Hindi ipagkakait lahat sa 'Yo'y ibibigay
+Gayun pa man sa 'king nag-iisang taglay
+Ilalaan bawat saglit upang ibigin Ka nang walang humpay
+
+Gaya ng dagat na hindi napapagal sa pag-alon
+Puso ko ay sa 'Yo magmamahal sa habang panahon
+Natatanging kayamanan ko'y Ikaw ay sambahin
+Wagas na pagsinta'y Iyong dinggin
+Kalakip ng awitin
+
+Kung mayroon lamang akong 1000 buhay
+...
+
+",MusixMatch
+123,93080372,Buhay Ay Kay Saya,Tony Rodeo,[22],['Christian & Gospel'],"Ating purihin ang Diyos ng may kagalakan
+Pasalamatan si Yahweh't paglingkuran
+Ating awitan ang Diyos at'ang kanyang kabutihan
+Hindi nagbabago ang kanyang pagmamahal
+...
+
+",MusixMatch
+124,81282105,Tunay Na Yaman,Joseph M. Jusayan,[22],['Christian & Gospel'],"Tunay na yaman
+
+Malasin mo ang mundong puno na ng libing
+Mababanaag mong bawat daan hangganan ay bangin
+Bakit pipilitin diko abutin
+Ang yaman ba nitong mundo ay tanging hangarin
+
+Pre koro:
+...
+
+",MusixMatch
+125,136863015,Sa Inyo (Live),Rommel Guevara,[22],['Christian & Gospel'],"Sa inyo Panginoon ibibigay ang buhay
+Sa inyo Panginoon iaalay ang lahat
+Walang ibang karapat-dapat
+...
+
+",MusixMatch
+126,74754626,Ang Buhay Ay Parang Bula,Lon Mendoza,"[22, 20]","['Christian & Gospel', 'Alternative']","SINING NG BUHAY AY GAWING GANAP
+Ni Bobet Mendoza
+
+Ipipinta, igagalaw, aawitin
+Ang mga karanasa't damdamin
+Ng lipunang ginagalawan natin
+Itatanghal ang dakilang simulain
+
+Moog ng pag-asa'y ititindig
+Sandigan ng layuni't pag-ibig
+Sa kapwa at sa bayang may ligalig
+Handog galing talino at bisig
+
+Koro
+Sa sama-sama nating lakas
+...
+
+",MusixMatch
+127,74651459,Masiglang Umawit,Edith M. San Pedro,[22],['Christian & Gospel'],"Masiglang umawit sa saliw ng tugtugan
+Umindak sumayaw at tayo'y maglundagan
+
+Siya'y sambahin ng buong kalakasan
+...
+
+",MusixMatch
+128,78391975,Tayong Dalawa (Live),Jesus One Generation,[22],['Christian & Gospel'],"Tayong Dalawa
+Mariael De Leon
+Copyright 2015 Jesus One Generation
+
+Dakila Ka Panginoon
+Dakila ang Pag-ibig Mo
+Sa habang panahon
+Katapatan Mo'y sasambitin
+Sa bawat araw ko na darating
+...
+
+",MusixMatch
+129,131978088,Higit Sa Sapat,Faithmusic Manila,[22],['Christian & Gospel'],"Bakit ba ganyan ang pag-ibig Mo
+Hindi ko maintindihan
+Ano ba naman ang ninais Mo
+Sa tulad ko na nawalay sa'Yo
+
+Ang pag ibig Mo'y sadyang walang katulad
+Ang biyaya Mo'y higit pa sa sapat
+
+Panginoon walang katulad Mo
+Pag-ibig Mo'y wagas at di nagbabago
+Panginoon salamat sa Iyo
+Lahat ay ginawa para sa tulad ko
+Panginoon
+
+...
+
+",MusixMatch
+130,74135578,Hanggang Ngayo'y Ikaw,Tyrone Oneza,[22],['Christian & Gospel'],"Pilitin man ang puso na kalimutan ka
+Di magawa bakit ikaw parin
+Ang hanap ko sa t'wina
+At sa aking pag iisa'y hanap kita
+Ang mga nagdaa'y sadyang naaalala
+
+Laging naro'n parin
+Sa puso at isipan
+Mga nagdaan na kay tamis
+Punong puno ng pagmamahalan
+
+Hanggang Ngayo'y ikaw
+...
+
+",MusixMatch
+131,83581880,Awit Ng Pagpapanibago,Lito Magnaye,"[34, 22]","['Music', 'Christian & Gospel']","Halina O Diyos naming mahal
+Halina at kami'y baguhin
+Dinggin Mo ang panalangin
+Ng bayan Mong dumaraing
+
+Kami ngayon at tunghayan
+Nanghihina at sugatan
+Nagkukulang sa pag-ibig
+...
+
+",MusixMatch
+132,133119804,Hanggang Sa Dulo,Inggo 1587,[22],['Christian & Gospel'],"Hanggang sa Dulo
+
+1.
+Pumapatak ang mga luha
+Habang ika'y nag-iisa
+Sa wari mo'y di mo na kaya
+At nais mong sumuko na
+
+2.
+Buksan mo ang iyong puso
+At makikita mo
+Narito ako
+
+Sasamahan kita
+Aakayin kita
+Hanggang sa dulo
+Hanggang sa dulo
+Itatawid kita
+Ihahatid kita
+Hanggang sa dulo
+Hanggang sa dulo
+
+Sasamahan kita
+Aakayin kita
+...
+
+",MusixMatch
+133,106692188,Nasayo Na,Melan Stamatelaky,[22],['Christian & Gospel'],"Sa tuwing maaalala Ko
+Ang pagibig mo
+Napupuno ang puso ko
+Ng pagsamba sayo
+
+Sa tuwing naaalala ko
+Ang buhay Ko noon
+Nakapagtataka
+Bakit pinili mo
+
+Di mapipigil
+Ang aking Pag pupuri
+...
+
+",MusixMatch
+134,143960335,Sabik Sa Presensya Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],"Ako ay narito ngayon naghihintay
+Inaasam-asam presensya Mo'y muling maranasan
+Ako ay narito ngayon nananabik
+Nananabik na makita luwalhati ng Iyong mukha
+...
+
+",MusixMatch
+135,151918175,Makapangyarihan Ang Diyos,Matt Cueto,[22],['Christian & Gospel'],"Ang dilim ng gabi ay lilipas din, lilipas din
+At may ligayang bukas ay haharapin
+Ang kahapon ay nagdaan, may bagong araw na darating
+Ano mang dilim ng gabi ay lilipas din
+
+Makapangyarihan ang ating Diyos
+Lahat ng bagay ay Kanyang natatalos
+...
+
+",MusixMatch
+136,154486322,Manalig Ka,"Union Espiritista Cristiana de Filipinas, Incorporada",[22],['Christian & Gospel'],"Ilang beses ka man sa kanya'y dumalangin
+Kung wala naman ito sa iyong damdamin
+Asahan mong ika'y hindi niya diringgin
+Lalo pa't ang iyong puso'y isang pusong sakim
+
+Lumuhod at dumapa ka man sa harap ng dambana
+...
+
+",MusixMatch
+137,153471712,Hari Ng Lahat,Victory Collective,[22],['Christian & Gospel'],"Ikaw ang liwanag at gabay
+Diyos na tunay at buhay
+Puso ko'y sumisigaw
+Papuri't karangalan Sa'yo
+
+Di magmamaliw ni mapapagod
+Puso ko'y Iyong-iyo
+Dakilang Diyos
+Papuri't karangalan Sa'yo
+
+Magdiwang mga nilikha
+Pumalakpak ng may awit at tuwa
+Bilang pagpupugay
+Sa Diyos na banal
+
+Kami'y magdiriwang
+Itataas ang aming kamay
+...
+
+",MusixMatch
+138,153471711,Pag-Amin (Tanging Ikaw),Victory Collective,[22],['Christian & Gospel'],"Hindi lingid Sa'yo ang
+Lahat-lahat sa akin
+Nakamamanghang nagawa
+Mo pa ring ibigin
+
+Sa'yong tanong kung
+Sino Ka sa akin
+O Diyos, Iyong dinggin
+Ang aking pag-amin
+
+Ikaw ang daan, ang katotohanan
+Ang buhay na walang hanggan, tanging Ikaw
+Tanging Ikaw
+
+...
+
+",MusixMatch
+139,173382030,Mga Pangako Mo,Rodel Buban,[22],['Christian & Gospel'],"Lahat ng Bagay Dito sa Mundo
+Ay Maglalaho
+Ngunit hindi ang Salita mo
+
+Ito'y Mananatili Magpakailanman
+Mananatili Kailanman
+Mananatili Magpakailanman!!
+
+...
+
+",MusixMatch
+140,35385899,Tuloy Ang Awit (Live),Musikatha,[22],['Christian & Gospel'],"Bumuhos ang ulan
+Umagos at halos malunod na
+Umihip ang hangin
+Pinilit na ako ay itumba
+Binalot ng dilim ang langit
+Kinapos ng liwanag
+Pagtitiwala ko'y hindi matitinag
+
+Pangako Mo'y aking sandigan
+At biyaya Mo'y lubos
+Ang bisig Mo ang kublihan
+Hanggang matapos ang unos
+Paglipas ng pagod at luha
+'Di maaaring huminto
+Ang pagbukal ng pagsamba sa'king puso
+
+Tuloy ang awit
+Sigaw ng aking pusong nagtagumpay
+'Pagkat lakas Mo ang taglay
+Tuloy ang awit
+Tuloy ang daloy at ito'y walang humpay
+Ang ilog ng papuri ay...
+...hindi mapipigil
+Hindi matutuyo
+...
+
+",MusixMatch
+141,203214516,Tumatawag Kami,Joel Barrios,[22],['Christian & Gospel'],"Tumatawag kami, nananalangin sa pangalan mo
+Pangalan mo Jesus
+Kanlungan ka ng aming buhay
+Ikaw ang lubos naming pag asa
+Di mo kami pababayaan
+
+...
+
+",MusixMatch
+142,77695663,Ako'y Magpupuri Sa'yo,Musikatha Kids,[22],['Christian & Gospel'],"Akoy Magpupuri Sayo
+
+Nang aking ialay itong buhay ko
+Nagbago ang lahat ng dahil lamang sayo
+Ang dating madilim ay nagging makulay
+Ang bawat sandali'y nagkaroon ng saysay
+Karapat-dapat na sambahin ka
+Ng buong puso't isip at kaluluwa
+Hayaan mong magalay lamang Sayo
+Mabangong handog at kaaya-aya
+...
+
+",MusixMatch
+143,200856868,May Forever sa Langit,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']","Oh! Ang tao sa mundo'y pawang panandalian lamang.
+Hindi tayo tagarito naglalakbay lang
+Kaya't ating asahan kung tayo'y pumanaw
+Man na ang Diyos ay may pangako na kaligtasan
+
+At hindi magtatagal makakasama natin ang Maykapal
+Doon sa tunay na tahanan
+May buhay na walang hanggan
+
+May forever sa langit sa piling ng
+Ama tayo'y magpupuri't sa Kanya'y sasamba
+Lilipas ang bagay at ang dating mundo mananahan tayo sa paraiso
+May forever sa langit puro pagmamahalan wala ng bitter at masasaktan
+Dalisay na pagibig ang madarama
+...
+
+",MusixMatch
+144,200856870,Sa Buhay na Walang Hanggan,Jay Tolentino,[22],['Christian & Gospel'],"Sa iyong katandaan
+Mga sakit ay nararamdaman
+Dumaraing ang iyong katawan
+Bago ka pa man lumisan
+May pangakong maaasahan
+
+Sa buhay na walang hanggan
+Tayo ay magkikita
+Wala ng pagluha buhay ay payapa
+Sa piling ng Ama ligaya ang madarama
+At 'di na muling mawawalay pa sa isa't-isa
+...
+
+",MusixMatch
 145,201311855,Ang Kalooban Mo,Victory Worship,[22],['Christian & Gospel'],"Kilala Mo, mga bituin
 Mga likha sa daigdig
 Sa simula't hanggang wakas
@@ -543,34 +2230,389 @@ Kaya't ang nais ko'y ang kalooban Mo
 
 Ang kalooban Mo
 'Yan ang nais ko'y
-Ang kalooban Mo, O Diyos"
-146,199250253,Ang Sagot,Deo Ramirez,[22],['Christian & Gospel'],
-147,74651469,Itatanghal Kita,Edith M. San Pedro,[22],['Christian & Gospel'],
-148,77809002,Dating Tambay,Romi Valle,[22],['Christian & Gospel'],
-149,105707696,Dahil Dakila Ka,Rodel Buban,[22],['Christian & Gospel'],
-150,131978087,Inako Mo,Faithmusic Manila,[22],['Christian & Gospel'],
-151,83929786,Halina At Magpuri Sa Diyos,Lito Magnaye,[22],['Christian & Gospel'],
-152,108992102,Alamona,Sylvia,[22],['Christian & Gospel'],
-153,83929788,Tayo's Magpasalamat (Give Thanks),Lito Magnaye,[22],['Christian & Gospel'],
-154,126600928,Kung Mawala Man Ang Lahat,Ava Canaceli,[22],['Christian & Gospel'],
-155,149943425,Tanging Ikaw (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],
-156,151551018,Lahat Sa Akin,RM Rodriguez,[22],['Christian & Gospel'],
-157,74789951,Isang Pag-Ibig,Musikatha Kids,[22],['Christian & Gospel'],
-158,126048363,By Faith,Kids on the Move,"[22, 4]","['Christian & Gospel', ""Children's Music""]",
-159,83929784,Awit Sa Ina Ng Santo Rosaryo,Lito Magnaye,[22],['Christian & Gospel'],
-160,146348644,Alagad Ng Pag-Ibig,Mimo Perez,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']",
-161,147281582,Sa Puso Ko'Y Pasko,Mimo Perez,"[1080, 22]","['Christmas', 'Christian & Gospel']",
-162,143960336,Labis Na Galak (Live),Jesus One Generation,[22],['Christian & Gospel'],
-163,84278922,Agos Ng Tubig Sa Batis,April Boy Regino,[22],['Christian & Gospel'],
-164,106692190,Tanging Sayo,Melan Stamatelaky,[22],['Christian & Gospel'],
-165,151918181,Lilipad Lilisan,Matt Cueto,[22],['Christian & Gospel'],
-166,151918172,Ang Mandirigma,Matt Cueto,[22],['Christian & Gospel'],
-167,94442786,Panginoon,Noel Cabangon,[22],['Christian & Gospel'],
-168,79505182,Hindi Ka Nagkulang,Tony Rodeo,[22],['Christian & Gospel'],
-169,77695662,Dakila Ka,Musikatha Kids,[22],['Christian & Gospel'],
-170,200856872,Angkla,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']",
-171,133119813,Tila,Inggo 1587,[22],['Christian & Gospel'],
-172,74651464,O Panginoon,Edith M. San Pedro,[22],['Christian & Gospel'],
+Ang kalooban Mo, O Diyos",
+146,199250253,Ang Sagot,Deo Ramirez,[22],['Christian & Gospel'],"Minsan, 'di alam pupuntahan
+Sadyang litung-lito
+Kaliwa nga ba o kanan?
+
+Minsan, ang dami mong tanong
+'Di malaman ang sagot
+Sadyang pang-misteryoso lamang
+
+Puso't mata'y mugto
+Ramdam ang pagod sa buhay mo
+
+Manalangin ka
+'Yan ang solusyon sa lahat ng tanong
+Ito and direksyon
+Manalangin ka
+'Yan ang solusyon sa lahat ng tanong
+...
+
+",MusixMatch
+147,74651469,Itatanghal Kita,Edith M. San Pedro,[22],['Christian & Gospel'],"Nawa ay tanggapin ang buhay na laan
+Nakalulugod sa iyong harapan
+...
+
+",MusixMatch
+148,77809002,Dating Tambay,Romi Valle,[22],['Christian & Gospel'],"1st verse
+Ako ay dating tambay doon sa kanto
+Ka-grupo ng mga adik at lasengo
+Walang ginawa, sa buong maghapon
+Kung hindi lumaklak at uminom
+At kung kami ay mga lasing na
+Iba na ang tono ng mga salita
+Walang kabagay bagay nagtatalo
+Nauuwi sa basag ulo
+2nd verse
+Ako ay dating singer ng mga club
+Kung saan nag-umpisa ang pangarap
+Ako'y naglakbay ng Walang direksyon
+Patungo sa malalim na balon
+Salamat sa Diyos ako'y inahon
+...
+
+",MusixMatch
+149,105707696,Dahil Dakila Ka,Rodel Buban,[22],['Christian & Gospel'],"Panginoon, salamat sa kabutihan Mo
+Tunay ngang wala na kong hahanapin pa sa'Yo
+Maging sarili Mong buhay ay Iyong ibinigay
+Tunay ngang dakila ang pag-ibig Mo
+
+Ang puso ko'y naririto't dinudulog sa'Yo
+Dalisayin Mo, O Diyos pagka't itoy para sa'Yo
+Nais ko'y maging karapat dapat itong aking puso
+...
+
+",MusixMatch
+150,131978087,Inako Mo,Faithmusic Manila,[22],['Christian & Gospel'],"Buhay ko buhay ko'y umiikot sa biyaya na
+Natanggap ng isang tulad ko
+Alay Mo pag-ibig na walang hanggan
+Kaya't masasabi ko pinatawad Mo ako
+
+Kalayaan ang hatid ng biyaya Mo
+Hinding-hinding ipagpapalit ang pag ibig Mong ito
+
+Ako'y pinatawad Mo sa krus ng kalbaryo
+Wala nang hihigit sa pag-ibig na inialay Mo
+Ako ay binago Mo salamat sa Iyong dugo
+Mga pagkakamali kasalanan ay kinalimutan Mo
+
+...
+
+",MusixMatch
+151,83929786,Halina At Magpuri Sa Diyos,Lito Magnaye,[22],['Christian & Gospel'],"A c#m
+Halina at magpuri
+F#m d
+Itaas ang ngalan ng panginoon
+A c#m
+Sa kanya ay umawit
+D bm7 esus-e
+Ipagdiwang ang paghahari ng diyos
+...
+
+",MusixMatch
+152,108992102,Alamona,Sylvia,[22],['Christian & Gospel'],"Sinabi ko sayo na okey lang
+Hindi naman ako seloso at alam kong may iba ka ng
+Kinakasama dyan sa buhay mo
+
+Hindi naman ako demanding sa schedule mong puno
+At nandito lang akong maghihintay
+Kahit pa number 2 basta't walang humpay
+
+Ang tamis ng yung halik at ang alam mo na
+Ang paghimas sa aking puso na pambawi mo
+Sa oras na hindi akong kasama mo kundi iba
+Ang magising sa iyong piling dahil sa umaga na
+
+...
+
+",MusixMatch
+153,83929788,Tayo's Magpasalamat (Give Thanks),Lito Magnaye,[22],['Christian & Gospel'],"Tayo ay taos pusong
+Sa diyos magpasalamat
+Dahil ibingay niya si hesukristo
+
+...
+
+",MusixMatch
+154,126600928,Kung Mawala Man Ang Lahat,Ava Canaceli,[22],['Christian & Gospel'],"KUNG MAWALA MAN ANG LAHAT
+
+Kung may mga pagpapala ako'y tuwang-tuwa
+Hindi mapigilan ngiti ko'y kitang-kita
+Ang magpasalamat aking nagagawang
+Tuloy- tuloy
+Sa bawat biyaya ako'y namamangha
+Pinangakong habang buhay
+Ibibigay lahat ng papuri sa'Yo
+
+Ngunit bakit ngayon
+...
+
+",MusixMatch
+155,149943425,Tanging Ikaw (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],"Ang puso ko'y puno ng sigla
+Pagkat Hesus kasama kita
+Lalong gumagaan ang bawat umaga
+Sa paglubog ng araw
+Papuri ko'y isisigaw
+At sa aking pagtulog
+Kasama ko'y Ikaw
+Tanging Ikaw pa rin
+Ang nais ko, ang hanap ko
+Ikaw pa rin ang tunay na
+Nagmahal sa akin
+Wala ng iba Ikaw pa rin
+Ang puso ko'y puno ng sigla
+Pagkat Hesus kasama kita
+Lalong gumagaan ang bawat umaga
+Sa paglubog ng araw
+...
+
+",MusixMatch
+156,151551018,Lahat Sa Akin,RM Rodriguez,[22],['Christian & Gospel'],"Ikaw ang kalakasan sa oras ng kahinaan O Diyos magpakailanman
+Ikaw ang siyang sandigan ko moog at
+...
+
+",MusixMatch
+157,74789951,Isang Pag-Ibig,Musikatha Kids,[22],['Christian & Gospel'],"Ang pag-ibig ng Diyos sa'tin ay di nagmamaliw
+Di nagbabago, tapat, wagas, at totoo
+Ang pag-ibig Niyang dalisay sa akin at sa'yo
+Atin nang ibahagi, ang pag-ibig ni Cristo
+
+Isang pag-ibig na magbubuklod sa atin
+Magbibigay liwanag sa mga naninimdim
+Atin nang abutin at isabog sa dilim
+Dinggin ang pag-ibig ng Diyos
+Pag-ibig Nya sa'tin
+
+...
+
+",MusixMatch
+158,126048363,By Faith,Kids on the Move,"[22, 4]","['Christian & Gospel', ""Children's Music""]","Ikaw ay nagbago at ako'y ginago
+Kaya ngayon ika'y iiwan (Iiwanan ka na)
+At wag mong sabihin ako'y inalipin
+Dahil kaya kitang palitan
+Kaya tabi jan
+
+First Yeah! Isa ako sa
+Taong nasaktan at tila ba inalipusta
+Ng minahal ko puso ko ay para bang tinusta
+Dahil niloko nya ako ang relasyon tapos na
+Umiiyak habang sa paghinga kinakapos na
+Kahit wala na nga kame sya ay kinakamusta
+""Kamusta ka?"" Bibigyan pala kita ng pusta
+Pagkatapos ng kantang ito sakin laos ka
+Dahil habang ako ay malungkot magisa
+Ikaw naman ay maligaya sa tabi ng iba
+Mga naloko mo isa ako sa nakalista
+Kaya mabuti saking buhay ay naalis ka
+Dahil nanloko ng maraming beses di lang isa
+Sa wakas ang puso't isip ko ay nagkaisa
+Nadama't naisip dapat nang limutin kita
+Dahil tao din ako na dapat lang sumaya ""Di ba?""
+
+Ikaw ay nagbago at ako'y ginago
+Kaya ngayon ika'y iiwan (Iiwanan ka na)
+At wag mong sabihin ako'y inalipin
+Dahil kaya kitang palitan
+Kaya tabi jan
+...
+
+",MusixMatch
+159,83929784,Awit Sa Ina Ng Santo Rosaryo,Lito Magnaye,[22],['Christian & Gospel'],"Minsan ang buhay ay isang awit ng galak, at mayroong liwanag na tatanglaw sa ating pagyapak.
+Minsan ang buhay ay isang awit ng luha, at siyang papawi nito ay ang pag-asa ng umaga,
+At kahit anong tindi ng unos, at kahit anong tindi ng dilim
+May isang inang nagmamatyag, nagmamahal sa 'tin.
+
+Awit niya'y pag-ibig ng Diyos, tawag niya'y magbalik-loob,
+...
+
+",MusixMatch
+160,146348644,Alagad Ng Pag-Ibig,Mimo Perez,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']","I.
+Kailan kaya matututunan,
+Pag-ibig Mo'y maging aking daan?
+Turuan mo ako; akayin mo ako,
+Dahil sa'Yo ako'y naririto.
+
+II.
+Kailan kita matutularan,
+Gayon batid aking karukhaan?
+Tulungan mo sanang maunawaan ko. . .
+Ang lakas ko'y nagmumula lamang sa'Yo.
+...
+
+",MusixMatch
+161,147281582,Sa Puso Ko'Y Pasko,Mimo Perez,"[1080, 22]","['Christmas', 'Christian & Gospel']","Maraming pasko na ang nagdaan
+Ngayo'y pasko na naman
+At di na mabilang ang karanasan
+Ng mga paskong nagdaan
+Panalangin ko ang bawat pasko
+Manatiling buhay dito sa puso ko
+II
+Ang tanging hangad ko noon pag pasko
+Regalo ng ninong ko
+Subalit ngayon ang dalangin ko kapayapaan sa mundo
+Panalangin ko sa bawat pasko
+Sa pag-ibig ay isilang ako
+...
+
+",MusixMatch
+162,143960336,Labis Na Galak (Live),Jesus One Generation,[22],['Christian & Gospel'],"Mga labi ko O Diyos sa 'Yo aawit
+Ika'y papurihan sa kalangitan
+
+Mga labi ko O Diyos sa 'Yo aawit
+Ika'y papurihan sa kalangitan
+
+Aking kamay itataas Ka
+Pangalan Mo'y luwalhatiin
+Pagkat Ikaw O Diyos ay dakila
+
+Napakasayang magbigay papuri
+Labis na galak nararamdaman
+Pupurihin Ka sa bawat tugtugan
+Pupurihin Ka sa bawat galaw
+Itataas ang ngalan Mo magpakailanman
+
+Sa taglay mong lakas O Diyos purihin ka
+Isisigaw sa buong mundo labis mong gawa
+
+...
+
+",MusixMatch
+163,84278922,Agos Ng Tubig Sa Batis,April Boy Regino,[22],['Christian & Gospel'],"Agos ng tubig sa batis ay lumalagaslas
+Sa tabi ng bato ito'y humahampas
+Batis na walang tigil sa pag-agos
+Na kung saan marami ang nabubuhay
+Marami ring namamatay
+
+Agos ng batis sa buhay ng tao
+Tumatakbo sabay nito sa dagat
+Na wagas ang tungo
+Buhay natin sa Diyos nanggagaling
+Sa Diyos mo rin itagubilin
+Gamitin mong pagpapala
+...
+
+",MusixMatch
+164,106692190,Tanging Sayo,Melan Stamatelaky,[22],['Christian & Gospel'],"Aanhin Ko Ang kayamanan
+Kung Ikaw nama'y aking malilimutan
+Aanhin Ko Ang kalakasan
+Kung ako nama'y Di mo sasamahan
+
+Aanhin Ko Ang kapangyarihan
+Kung Ikaw nama'y kaaway Ko
+At Di kaibigan
+Aanhin Ko Ang karangalan
+Papuri't pagsamba'y
+Para sayo lamang
+
+Ikaw Ang aking awit
+Ang aking Pag ibig
+Hinding hindi
+...
+
+",MusixMatch
+165,151918181,Lilipad Lilisan,Matt Cueto,[22],['Christian & Gospel'],"Malapit nang Siya'y dumating
+Sa Puso ko'y may kagalakang sasalubungin
+Sa kalangitan lahat ng tinubos
+Ay sama-samang dadalo sa dakilang kasal
+
+Ang mga libingan ay mabubuksan
+At ang mga namatay na kay Kristo ay babangong muli
+At tayong lahat na nabubuhay pa
+Ay sama-samang dadako sa kalangitan
+
+Tayo'y lilipad, tayo'y lilisan
+...
+
+",MusixMatch
+166,151918172,Ang Mandirigma,Matt Cueto,[22],['Christian & Gospel'],"Ako'y isang mandirigma isang kawal ni Jesus
+Buong katapatang naglilingkod
+Ang banal N'yang salita ang siyang sinusunog
+Taos-pusong buhay ko'y inihahandog
+
+Kahit saan mang mapadako
+Siya'y laging kasama
+Nawawalang lahat ang pangamba
+Laging nagwawagi dahil sa Pangalan Niya
+Kabalikat kong lagi sa pangdirigma
+
+...
+
+",MusixMatch
+167,94442786,Panginoon,Noel Cabangon,[22],['Christian & Gospel'],"Panginoon, patnubayan mo
+Nawa ang bayan ko nang aming matanto
+Katotohanan na walang hanggan
+Nawa'y iyong ihayag sa bayan kong naduduwag
+
+Sana'y dinggin ang aming dalangin
+Muling gisingin ang bayan kong nahihimbing
+Pag-isahin ang aming diwa't damdamin
+Pagkat ikaw, poon, ang kapayapaan
+Ikaw, poon, ang katarungan
+...
+
+",MusixMatch
+168,79505182,Hindi Ka Nagkulang,Tony Rodeo,[22],['Christian & Gospel'],"Ikaw lang ang pag asa ko
+Tanging ikaw ang buhay ko
+Hesus
+Kahit ako'y may pangamba
+Basta't ikaw ang kasama
+Panatag na
+
+Kahit kailan di ka nagkulang
+Biyaya mo sa akin laging laan
+...
+
+",MusixMatch
+169,77695662,Dakila Ka,Musikatha Kids,[22],['Christian & Gospel'],"Wala nang hihigit sa kaluwalhatian Mo
+Sino pa ang papantay sa kapangyarihan Mo
+...
+
+",MusixMatch
+170,200856872,Angkla,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']","Nagpapaalam sa may pintuan
+Nag-iisip nakatingin sa kawalan
+Muling lilisan sa'king tahanan
+Maglalakbay sa may karagatan
+
+Ngunit pakiramdam ko
+Titigil itong aking mundo
+Ngayong ako ay lalayo
+Mawawalay sayo
+
+Sa pag-usad nitong barko
+Ikaw ang umaalon sa isip ko
+Ang tanging baon ay pag-asa
+Na balang araw ay
+Makakapiling ka
+Ikaw ang aking angkla
+...
+
+",MusixMatch
+171,133119813,Tila,Inggo 1587,[22],['Christian & Gospel'],"TILA
+
+1.
+Tila ba kay haba ng ulan
+Tila nagtampo na ang araw
+Tila ba ang langit
+Ay may kimkim na galit
+Tila di pa titila ang ulan
+
+2.
+Tila ba may luha ang gabi
+Tila ang lamig ay kay sidhi
+Tila ang umaga
+Di pa makikita
+Tila di pa lilipas ang gabi
+
+...
+
+",MusixMatch
+172,74651464,O Panginoon,Edith M. San Pedro,[22],['Christian & Gospel'],"O' Pnginoon,
+Pinupuri kita,
+Ako'y naririrto upang sambahin ka
+
+...
+
+",MusixMatch
 173,77315285,Tagapagligtas,Jesus One Generation,[22],['Christian & Gospel'],"Sa piling niya'y ligaya
 Puno ng pagpapala
 Hinding hindi mangangamba
@@ -621,41 +2663,469 @@ At tagapagtanggol
 Ng Aking buhay sa buhay ko
 Di na ako mangangamba
 O matatakot
-Pagkat ikaw ang kasama ko"
-174,83581873,Awit Ng Papuri,Lito Magnaye,"[34, 22]","['Music', 'Christian & Gospel']",
-175,136863022,Biyaya Mo'y Sapat (Live),Rommel Guevara,[22],['Christian & Gospel'],
-176,77695667,Ikaw Lang,Musikatha Kids,[22],['Christian & Gospel'],
-177,106692186,Alipin Mo,Melan Stamatelaky,[22],['Christian & Gospel'],
-178,74162201,Purihin Ka Hesus,Rommel Guevara,[22],['Christian & Gospel'],
-179,74135583,Ikaw Ang Christmas Ko,Tyrone Oneza,[22],['Christian & Gospel'],
-180,103548900,Jesus,Andrea Dumas,[22],['Christian & Gospel'],
-181,74162203,Magpakaligaya,Rommel Guevara,[22],['Christian & Gospel'],
-182,94442776,Huwag Kang Mangamba,Noel Cabangon,[22],['Christian & Gospel'],
-183,65805555,May Bukas Pa,Matthew May,[22],['Christian & Gospel'],
-184,126600926,Isang Pintig,Ava Canaceli,[22],['Christian & Gospel'],
-185,156900512,Ngayong Pasko,Kepha,[22],['Christian & Gospel'],
-186,151918178,Unang Pagibig,Matt Cueto,[22],['Christian & Gospel'],
-187,83585091,Salmo 27 (Ang Panginoon Ang Aking Tanglaw),Lito Magnaye,[22],['Christian & Gospel'],
-188,83929778,Ama Namin,Lito Magnaye,[22],['Christian & Gospel'],
-189,194667461,Akoy Maglilingkod,Robert David,[22],['Christian & Gospel'],
-190,79505349,Hindi Ko Kayang Tumbasan,Carla Martinez,[22],['Christian & Gospel'],
-191,149943423,Pag-Asa (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],
-192,131978083,Labis,Faithmusic Manila,[22],['Christian & Gospel'],
-193,109021710,Amen,Reality 7,[22],['Christian & Gospel'],
-194,147106355,Pag-Ibig Mo Hesus,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-195,74789949,Bakit Kailangan Mag-Pray?,Musikatha Kids,[22],['Christian & Gospel'],
-196,200856862,Tagpuan,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']",
-197,79505192,Tayo's Sumamba,Tony Rodeo,[22],['Christian & Gospel'],
-198,131978085,Biyayang Ganap,Faithmusic Manila,[22],['Christian & Gospel'],
-199,93080375,Alay Ko Ay Pagpupuri,Tony Rodeo,[22],['Christian & Gospel'],
-200,74651460,Bagong Awit,Edith M. San Pedro,[22],['Christian & Gospel'],
-201,106692191,Awit Ni Pablo,Melan Stamatelaky,[22],['Christian & Gospel'],
-202,136863007,Kay Hesus (Live),Rommel Guevara,[22],['Christian & Gospel'],
-203,78782296,Sa Pagsikat Ng Araw,Danny Manlapaz,[22],['Christian & Gospel'],
-204,77315295,Diyos Ng Kabutihan (Backing Track),Jesus One Generation,[22],['Christian & Gospel'],
-205,78782298,Dahil Kay Kristo,Danny Manlapaz,[22],['Christian & Gospel'],
-206,149943424,Ngayon At Kailanman (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],
-207,136863018,Sa Piling Nyo,Rommel Guevara,[22],['Christian & Gospel'],
+Pagkat ikaw ang kasama ko",
+174,83581873,Awit Ng Papuri,Lito Magnaye,"[34, 22]","['Music', 'Christian & Gospel']","Purihin ninyo ang Panginoon
+Dakilain ang Kanyang ngalan
+Purihin, Siya ay awitan
+At papurihan magpakailanman
+
+Nilikha Niya ang langit at lupa
+Nilikha Niya ang araw at buwan
+Nilikha Niya ang mga isda't ibon
+Mga gubat at karagatan
+
+Tunay Siyang banal at dakila
+Purihin ang Kanyang ngalan
+Ang lahat ng nilikha Niya'y mabuti
+Pinagyaman Niya ng lubusan
+
+Purihin ninyo ang Panginoon
+Dakilain ang Kanyang ngalan
+...
+
+",MusixMatch
+175,136863022,Biyaya Mo'y Sapat (Live),Rommel Guevara,[22],['Christian & Gospel'],"Biyaya Mo'y sapat
+Biyaya Mo'y walang hanggan
+Di nag babago
+Anumang katayuan
+...
+
+",MusixMatch
+176,77695667,Ikaw Lang,Musikatha Kids,[22],['Christian & Gospel'],"Ikaw lang aking minamahal
+Ikaw lang panginoon
+Sa 'yo ay susunod laging maglilingkod
+Sa 'yo lang, sa 'yo lang, aking hesus
+
+Ikaw lang aking minamahal
+Ikaw lang panginoon
+...
+
+",MusixMatch
+177,106692186,Alipin Mo,Melan Stamatelaky,[22],['Christian & Gospel'],"Kung masisilayan ko ang iyong
+Mukha o Diyos makakayanan ko ba
+
+Kung ako at haharap sa kabanalan mo
+O Diyos makakayanan ko ba kung Hindi mo lilinisin ang aking mga kamay at Hindi mo babalutan ng iyong pagmamahal
+
+Paano na kaya ako kung wala ka
+Kialangan ko ang pag-ibig mo at kalinga
+Ikaw ay Diyos at ako'y tao at ikaw ang Panginoon at ako ay alipin mo
+...
+
+",MusixMatch
+178,74162201,Purihin Ka Hesus,Rommel Guevara,[22],['Christian & Gospel'],"Panginoon, Ikaw ay banal
+Ang Diyos na dakila at tapat
+Ikaw ang kagalingan
+Sa gitna ng karamdaman
+Ikaw ang kalakasan
+Sa bawat kahinaan
+
+O Hesus, biyaya Mo ay sapat
+Mula noon, hanggang ngayon at magpakailanman
+Di nagbabago ang pag-ibig Mo
+Laging laan ang pagkalinga Mo
+Buong mundo ay magpupuri
+Sayo Panginoon
+
+Purihin Ka Hesus
+Purihin Ka Hesus
+Itataas ang Pangalan Mong banal
+Purihin Ka Hesus
+Purihin Ka O Hesus
+Walang ibang Pangalang itataas
+Walang ibang Pangalang sasambahin
+Kundi ang Pangalan Mo lamang Hesus
+
+Panginoon, Ikaw ay banal
+...
+
+",MusixMatch
+179,74135583,Ikaw Ang Christmas Ko,Tyrone Oneza,[22],['Christian & Gospel'],"I.
+Ilang pasko na ring tayo'y
+Hindi nagkikita
+Sa puso at sa isip ko'y
+Ikaw lamang sinta
+
+II.
+Larawan mo'y minamasdan
+Kapag nag-iisa
+...
+
+",MusixMatch
+180,103548900,Jesus,Andrea Dumas,[22],['Christian & Gospel'],"Isang pulis na nangingikil
+Upang may pambili ng beer
+Bisikletang paru-paro
+Animnapu't walo
+Sumemplang sa kanto
+
+Pag may bagyo'y lunod sa luha
+Nagbabaha sa kalsada
+Isang gabing maulan
+Aking napagmasdan
+Nagtatakbuhan
+
+Dalawang nakaitim
+Isang may hawak na patlim
+May galit ang kanyang mukha
+...
+
+",MusixMatch
+181,74162203,Magpakaligaya,Rommel Guevara,[22],['Christian & Gospel'],"Magpakaligaya
+Sa piling ng Diyos
+Magpasalamat
+Sa kabutihan niya
+Magpakaligaya
+Sa piling ng Diyos
+Magpasalamat
+Sa kabutihan niya
+Magpakaligaya
+Sa piling ng Diyos
+Magpasalamat
+...
+
+",MusixMatch
+182,94442776,Huwag Kang Mangamba,Noel Cabangon,[22],['Christian & Gospel'],"Koro
+
+Huwag kang mangamba di ka nagiisa
+Sasamahan kita saan man magpunta
+Ika'y mahalaga sa'king mga mata
+Minamahal kita, minamahal kita.
+
+...
+
+",MusixMatch
+183,65805555,May Bukas Pa,Matthew May,[22],['Christian & Gospel'],"Huwag damdamin ang kasawian
+May bukas pa sa iyong buhay
+Sisikat din ang iyong araw
+Ang landas mo ay mag-iilaw
+
+Sa daigdig ang buhay ay ganyan
+Mayroong ligaya at lumbay
+Maghintay at may nakalaang bukas
+
+...
+
+",MusixMatch
+184,126600926,Isang Pintig,Ava Canaceli,[22],['Christian & Gospel'],"ISANG PINTIG
+
+Habang ngayong wala ka pa
+Di ako mangangamba
+Magpapatuloy lang na gumawa ng kanta Habang ngayong wala ka pa
+Di ako mangangamba
+Magpapatuloy lang na tumugtog sa Kanya
+
+Sa itinakdang oras alam kong darating ka Magkasama tayong maglilingkod sa Kanya Ako'ng magsusulat ng titik
+Maglalapat ng himig
+Magiging isa ang pintig
+
+Habang ngayong wala ka pa
+...
+
+",MusixMatch
+185,156900512,Ngayong Pasko,Kepha,[22],['Christian & Gospel'],"Oras na di namamalayan
+Hanggang magbago ang simoy ng hangin
+Nangungulila sa inyong pag-ibig
+S paglisan ang puso'y nanlalamig
+
+Ngayo'y magkawalay man, ako'y maghihintay
+Di na malulumbay sa paskong ang dating
+Ay inyong pagbalik
+
+At susunod sa tawag ng kampana
+Kung san kayo ang aking hangganan
+Sa hinandang noche buena'y magsasama
+Ako'y muling mabubuo ngayong pasko
+...
+
+",MusixMatch
+186,151918178,Unang Pagibig,Matt Cueto,[22],['Christian & Gospel'],"Hindi mo maaring ipagbunyi ang iyong kayamanan
+At hindi rin kislap ng ginto, dunong o' kapangyarihan
+Pagkat di natin nasusukat ang hangganan ng buhay
+Ibabalik nating muli ang ating buhay na hiniram
+
+Ang unang pagibig ko'y si Jesus na sa akin ay kumopkop
+...
+
+",MusixMatch
+187,83585091,Salmo 27 (Ang Panginoon Ang Aking Tanglaw),Lito Magnaye,[22],['Christian & Gospel'],"Ang Panginoon ang aking tanglaw
+Sa panganib, ako'y iingatan
+Kanino ako masisindak, matatakot
+Kung ako'y laging nasa piling Niya?
+
+Oh, Diyos, pakinggan Mo ang aking tawag
+At sa aki'y maawa't mahabag
+Buhay ko ma'y pagtangkaan
+Buhay ko ma'y pagbantaan
+Sa 'Yo pa rin magtitiwala kailanman
+...
+
+",MusixMatch
+188,83929778,Ama Namin,Lito Magnaye,[22],['Christian & Gospel'],"Ama namin
+Sumasalangit ka
+Sambahin ang
+Ngalan mo
+Mapasaamin ang kaharian mo
+Sundin ang loob mo
+...
+
+",MusixMatch
+189,194667461,Akoy Maglilingkod,Robert David,[22],['Christian & Gospel'],"Ako'y maglilingkod
+Kahit may pagsubok
+Sandigan kong matayog
+Ang pag-ibig niyang lubos
+Tagumpay ay laging tiyak
+Hindi ako matitinag
+Pagka't ako'y hinirang niya
+Anak ng Maylikha
+
+Ako'y maglilingkod
+Ako'y maglilingkod
+Sa'yo Panginoon, ako'y maglilingkod
+Ako'y maglilingkod
+Ako'y maglilingkod
+Sa'yo Panginoon, ako'y maglilingkod
+
+Ako'y maglilingkod
+...
+
+",MusixMatch
+190,79505349,Hindi Ko Kayang Tumbasan,Carla Martinez,[22],['Christian & Gospel'],"Kulang ang pag-ibig ko sa Iyo,
+Kung pagluhod at aking paglapit sa Iyo—
+Ang bawat kong Aleluya, ang lahat ng alay ko at pagsamba
+Ay walang halaga.
+Hindi sapat ang aking awitin
+Upang purihin Ka at sambahin
+Ang lahat nitong pasakit, ang lahat nitong mabuti kong gawa
+Ay walang halaga.
+Dahil di ko kayang tumbasan
+...
+
+",MusixMatch
+191,149943423,Pag-Asa (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],"Pag-ibig Mo
+Lowe De Leon
+Key: G
+G Gsus C4
+V1
+Pagsikat ng arawpagmamahal Mo'y dama
+Sa ilalim ng init ng Iyong mga kamay
+Anumang pagsubok o hamon ng mundo
+Hinding hindi mahiwalay sa pag-ibig Mo
+...
+
+",MusixMatch
+192,131978083,Labis,Faithmusic Manila,[22],['Christian & Gospel'],"Mga labi ko O Diyos sa'Yo aawit
+Ika'y papurihan sa kalangitan
+
+Aking kamay itataas Ka
+Pangalan Mo'y luwalhatiin
+Pagkat Ikaw O Diyos ay dakila
+
+Napakasayang magbigay papuri
+Labis na galak nararamdaman
+Pupurihin Ka sa bawat tugtugan
+Pupurihin Ka sa bawat galaw
+Itataas ang ngalan Mo magpakailanman
+
+Sa taglay mong lakas O Diyos purihin ka
+Isisigaw sa buong mundo labis mong gawa
+
+Puso ko ay tuwang-tuwa
+...
+
+",MusixMatch
+193,109021710,Amen,Reality 7,[22],['Christian & Gospel'],"Noma ngabelendlela ...
+Amen lendlela aleluya Noma ngabelendlela. .
+Amen lendlela aleluya umile ubaba uyinkosi yezulu
+Noma ngabelendlela ...amen inzima aleluya
+Ngeke silahle ngithi bambelelani amen aleluya
+Ngiyazi ilukhuni kodwa bambelelani umile ubaba uyinkosi yezulu
+Eyi ngthi mina bambelelani amen noma kulukhuni aleluya
+Noma kunzima amen bambelelani aleluya
+Kuyo lendlela, hambani ngayo ukhona ubaba wethu uyinkosi yezulu
+Timomo... timomomomo
+Eyi umile ubaba uyinkosi yezulu
+Timomo timomo timomomomo
+...
+
+",MusixMatch
+194,147106355,Pag-Ibig Mo Hesus,Sanctuary of Worship Band,[22],['Christian & Gospel'],"'Di kayang sukatin ng kahit ano pa man
+Pinagmamalaki ka dahil nararapat lang
+'Kalian ma'y mananalaytay ang Iyong kabutihan
+At 'di malilimutan kailanpaman
+Dahil...
+
+Pag-ibig Mo ay tunay
+Binago'ng aking buhay
+Kay saya ng bawat sandali
+Pag kasama Ka'y walang mali
+
+Pag-ibig Mo ay tunay
+Binago'ng aking buhay
+Iibigin Ka Panginoon
+Sa lahat ng bawat panahon
+
+'Di kayang sukatin ng kahit ano pa man
+Pinagmamalaki ka dahil nararapat lang
+'Kalian ma'y mananalaytay ang Iyong kabutihan
+At 'di malilimutan kailanpaman
+Dahil...
+...
+
+",MusixMatch
+195,74789949,Bakit Kailangan Mag-Pray?,Musikatha Kids,[22],['Christian & Gospel'],"Bakit Kailangan Mag Pray?
+Ang tanong ko kay Mommy
+Ang tanong ko kay Mommy
+Bakit Kailangan Mag Pray?
+Ang tanong ko kay Daddy
+Ang tanong ko kay Daddy
+Marami raw ang blessings na dadating
+Ito ang sagot nila sakin
+
+Kapag ika'y takot sa dilim
+Nangangamba ang damdamin
+Nangangatog ang tuhod mo
+...
+
+",MusixMatch
+196,200856862,Tagpuan,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']","Panaginip lang ba ito
+Sana'y magising na
+Dahil kirot sa'king dibdib
+Sadyang 'di ko na kaya
+Dating ngiti sa'king labi
+Ngayo'y nilunod na ng luha
+Pagibig kong inalay
+Sayo pala'y bale wala
+
+Ngayon... ako'y narito sa ating tagpuan
+Nag-iisa sa may dilim at nanghihinayang
+Iniisip pa rin dating pangako sa isa't-isa
+Ngunit pangako'y nasa'n na
+Bakit sa tagpuan ngayo'y nag-iisa
+...
+
+",MusixMatch
+197,79505192,Tayo's Sumamba,Tony Rodeo,[22],['Christian & Gospel'],"Tayo'y sumamba, at purihin siya
+Luwalhatiin ang pangalan niya
+Diyos naming Ama, lapupurihan ka
+...
+
+",MusixMatch
+198,131978085,Biyayang Ganap,Faithmusic Manila,[22],['Christian & Gospel'],"Naririto na naman ako
+Nang dahil sa biyaya mo
+Bukas kong puso at kamay
+Sa'yo ako'y naghihintay
+
+Sapagkat alam kong ikaw ay tapat
+Sapagkat alam kong biyaya mo'y sapat
+
+Panginoon
+Ang pag-ibig mo'y higit pa sa lahat
+Inako mo ang sakit, pait,
+Buhay na kay hirap
+Sa krus naipako ang batas
+Pagpapatawad mo'y dumaloy nang wagas
+Salamat
+
+...
+
+",MusixMatch
+199,93080375,Alay Ko Ay Pagpupuri,Tony Rodeo,[22],['Christian & Gospel'],"Kahit na akoy may problema
+Hindi ako mangangamba
+Ang panginoon ay kasama
+Magtitiwala sa kanya
+...
+
+",MusixMatch
+200,74651460,Bagong Awit,Edith M. San Pedro,[22],['Christian & Gospel'],"Kalungkutan ko Iyong pinawi kagalakan ang ipinalit
+At sa puso ko ngayon ay laging
+...
+
+",
+201,106692191,Awit Ni Pablo,Melan Stamatelaky,[22],['Christian & Gospel'],"Inari ko mg isang kalugihan
+Ang lahat ng bagay ay walang kabuluhan
+
+Kapalit ng mas mahalagaa
+Ang makilalat madama ko pa ang pagi bihlg mo sa akin
+Wala ng nanaisin pa kundi ang maranasan ka
+Para sa ka
+...
+
+",
+202,136863007,Kay Hesus (Live),Rommel Guevara,[22],['Christian & Gospel'],"Purihin ang Panginoon
+Ng buong sanlibutan
+Haleluia
+Haleluia
+Haleluia
+Purihin Sya
+Itaas ang Kanyang ngalan
+Ibigay ang karangalan
+Itaas ang Kanyang ngalan
+...
+
+",
+203,78782296,Sa Pagsikat Ng Araw,Danny Manlapaz,[22],['Christian & Gospel'],"Sa pagsikat ng araw
+Umaga'y kayganda
+Naghihintay ang bagong pag-asa
+Ligaya ay nadarama
+Dumadampi ang init
+Nararamdaman ang pag-ibig mo...
+...
+
+",
+204,77315295,Diyos Ng Kabutihan (Backing Track),Jesus One Generation,[22],['Christian & Gospel'],"Pawang kabutihan ang nais Mo
+Ibinigay Mong buhay ay ganap at husto
+Sa landas ng pagbabago
+Katuwiran Mo ang lalakaran ko
+Pawang kabutihan ang nais Mo
+Ibinigay Mong buhay ay ganap at husto
+Sa landas ng pagbabago
+Katuwiran Mo ang lalakaran ko
+Diyos ng kabutihan Mo ay magpakailanman
+Ikaw ang simula at katapusan
+Hindi Ka nagmamaliw
+...
+
+",
+205,78782298,Dahil Kay Kristo,Danny Manlapaz,[22],['Christian & Gospel'],"Bawat tao ang hangad ay lumigaya
+Ngunit minsan ang landas nila'y nag-iiba
+Yaman at katanyaga'y nakuha
+Bakit ang pag-ibig ay di pa madama
+Hindi maubos-ubos ang pangangailangan
+Nakamtan na'ng lahat hungkag pa'ng nararamdaman
+Mayroong Diyos na dapat na lapitan
+...
+
+",
+206,149943424,Ngayon At Kailanman (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],"Kaybuti Mo Panginoon
+Walang kapantay Ang Iyong pag-ibig
+Pag-asa ko mula sa'Yo
+Biyaya Mo'y sapat na dami
+Awit ng papuri ko'y laan lamang sa'Yo
+Ikaw ang kapahingaan ng puso
+
+Pag-ibig Mo O Diyos ay di nagbabago
+Lagi kong pupurihin tanging ngalan Mo
+Ang katapatan Mo'y walang hanggan
+Ang Iyong pangako'y di nagkulang
+...
+
+",
+207,136863018,Sa Piling Nyo,Rommel Guevara,[22],['Christian & Gospel'],"Kapayapaan nagmumula sa inyo
+Kaligayahan nakamit sa piling nyo
+Wala ng hahanapin pa
+Wala ng nanaisin pa
+Kundi mamalagi sa piling nyo, aking Ama
+Wala ng papantay sa inyo
+Nag iisang Panginoon
+Kaya ang naisin ng puso ko'y sa piling nyo
+(Kapayapaan)
+
+Kapayapaan nagmumula sa inyo
+Kaligayahan nakamit sa piling nyo
+(Wala ng hahanapin)
+...
+
+",
 208,83086789,Tagapagligtas (Reprise) [Live],Jesus One Generation,[22],['Christian & Gospel'],"Sa piling Niya'y ligaya
 Puno ng pagpapala
 Hinding hindi mangangamba
@@ -703,50 +3173,618 @@ At tagapagtanggol
 Ng Aking buhay sa buhay ko
 'Di na ako mangangamba
 O matatakot
-'Pagkat Ikaw ang kasama ko"
-209,142279069,Iniibig (Muffin Remix),Rogene Yabs,[22],['Christian & Gospel'],
-210,83929782,Stella Maris,Lito Magnaye,[22],['Christian & Gospel'],
-211,150142449,Sasambahin Ang Ngalan Mo,Charlie Cruz,[22],['Christian & Gospel'],
-212,151918176,Ang Lawin,Matt Cueto,[22],['Christian & Gospel'],
-213,151918173,Hiram Lamang,Matt Cueto,[22],['Christian & Gospel'],
-214,153471713,Sasambahin,Victory Collective,[22],['Christian & Gospel'],
-215,117094562,Mariang Ina Ko,Fatima Soriano,"[1204, 22]","['Asia', 'Christian & Gospel']",
-216,78391976,Labis (Live),Jesus One Generation,[22],['Christian & Gospel'],
-217,196774964,Kulang,JAT Rock Martin,[22],['Christian & Gospel'],
-218,131978089,Pasasalamat,Faithmusic Manila,[22],['Christian & Gospel'],
-219,200856867,Diyos na Banal,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']",
-220,145535967,Itataas,Allan Riofrio,[22],['Christian & Gospel'],
-221,147106354,Pinupuri Kita,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-222,136863019,Maghari Ka,Rommel Guevara,[22],['Christian & Gospel'],
-223,106692187,Minamahal Kita (Sa Palapit Na Palapit),Melan Stamatelaky,[22],['Christian & Gospel'],
-224,93080380,Susunod Ako Sa Nais Mo,Tony Rodeo,[22],['Christian & Gospel'],
-225,74789947,Superhirow,Musikatha Kids,[22],['Christian & Gospel'],
-226,74651374,Isang Bagong Buhay,Sheng Felias,[22],['Christian & Gospel'],
-227,136863020,Sa Buhay Ko (Live),Rommel Guevara,[22],['Christian & Gospel'],
-228,78934936,Yahweh,Faith Music,[22],['Christian & Gospel'],
-229,74651463,Di Mag-Iisa,Edith M. San Pedro,[22],['Christian & Gospel'],
-230,77315286,Labis,Jesus One Generation,[22],['Christian & Gospel'],
-231,78782300,Kasama Mo Ako,Danny Manlapaz,[22],['Christian & Gospel'],
-232,74135579,Kahit Konting Pagtingin,Tyrone Oneza,[22],['Christian & Gospel'],
-233,99872399,The Morning,Eternal,[22],['Christian & Gospel'],
-234,59542427,Kay Jesus,The Jhabez Band,[22],['Christian & Gospel'],
-235,74789944,Ang Kwento Ng Aklat Ni Lolo,Musikatha Kids,[22],['Christian & Gospel'],
-236,74275293,Abundant to Share,Map Band,[22],['Christian & Gospel'],
-237,74651462,Lahat Sa'Kin,Edith M. San Pedro,[22],['Christian & Gospel'],
-238,83086787,Pag-Ibig Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],
-239,112849660,Iniibig Kita,Wildfire,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']",
-240,78391973,Lahat Ay Ibinigay (Live),Jesus One Generation,[22],['Christian & Gospel'],
-241,106612167,"Panginoon, Pag-Ibig Mo'y Tunay",Lito Magnaye,[22],['Christian & Gospel'],
-242,151918180,Ang Umaga Ay Darating,Matt Cueto,[22],['Christian & Gospel'],
-243,150142457,Isigaw Mo,Charlie Cruz,[22],['Christian & Gospel'],
-244,77695664,Banal Mong Tahanan,Musikatha Kids,[22],['Christian & Gospel'],
-245,153471714,Habang Buhay,Victory Collective,[22],['Christian & Gospel'],
-246,194789118,Lilim (In Your Shelter) [Live],Victory Worship,[22],['Christian & Gospel'],
-247,154092729,Kupti Ako,Rhema Band,[22],['Christian & Gospel'],
-248,117094568,Sino Ako (Minus One),Fatima Soriano,[22],['Christian & Gospel'],
-249,196694747,Kulang (Nung Nawala Ka),JAT Rock Martin,[22],['Christian & Gospel'],
-250,197351356,Mananatili,Lighthouse Avodah,[22],['Christian & Gospel'],
-251,146348645,Maghari Ka Sa Amin,Mimo Perez,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']",
+'Pagkat Ikaw ang kasama ko",
+209,142279069,Iniibig (Muffin Remix),Rogene Yabs,[22],['Christian & Gospel'],"Iniibig, Iniibig Kita
+Pinupuri, Pinupuri Kita
+Iniibig at pinupuri wala nang iba pa
+Pagkat Sayo natagpuan lahat nang kakaiba.
+Wooh Wooh
+Wooh Wooh
+Salamat sa lahat dahil narito ako
+Grasya mo ang dahilan bakit nalikha ko to
+Pinuno mo nang biyaya at pagmamahal mo
+Na walang sino mang makahiwalay nito
+Kunin mo ang puso ko at ikaw na ang bahala
+Pasukin mo baguhin mo akoy naniniwala
+Gamitin mo sayo at hindi na magtatago
+Dating lumay wala na parating na yong bago
+Bagong ako na susunod sayong halimbawa
+Buksan mo ang langit para sa taong walang unawa
+...
+
+",
+210,83929782,Stella Maris,Lito Magnaye,[22],['Christian & Gospel'],"Kung itong aming paglalayag
+Inabot ng pagkabagabag
+Nawa'y mabanaagan ka
+Hinirang na tala ng umaga
+
+Kahit alon man ng pangamba
+...
+
+",
+211,150142449,Sasambahin Ang Ngalan Mo,Charlie Cruz,[22],['Christian & Gospel'],"Wala nangang iba na hihigit sa""Yo
+Pagkat ikaw ang makapangyarihang Diyos
+Ang buhay kong ito saYo lang iaalay
+Dahil ikaw lang ang kailangan ko
+...
+
+",
+212,151918176,Ang Lawin,Matt Cueto,[22],['Christian & Gospel'],"Doon sa malayong kagubatan
+Naninirahan ang mga lawin
+Malayo sa anumang bagyo ng buhay
+Payapa silang nahihimlay
+
+Ako ay lilipad na katulad ng lawin
+...
+
+",
+213,151918173,Hiram Lamang,Matt Cueto,[22],['Christian & Gospel'],"Minsan ay aking napagmamasdan
+Ang takbo nitong buhay
+At tila ba ating nalilimutan
+Na ang ating buhay sa lupay hiram lamang
+Lilipas din ang panahon at tayo'y papanaw
+
+Araw araw tayo ay mga naghahanap
+Mga ginto, pilak o karunungan
+...
+
+",
+214,153471713,Sasambahin,Victory Collective,[22],['Christian & Gospel'],"Napakabuti Mo sa akin
+Napakabuti Mo O Hesus
+
+Tanging nais ko ay Ikaw
+Pintig ng pusong ito'y
+Purihin Ka
+
+Sasambahin
+Aawitan Kita ng papuri
+Sasambahin
+...
+
+",
+215,117094562,Mariang Ina Ko,Fatima Soriano,"[1204, 22]","['Asia', 'Christian & Gospel']","Sa'king paglalakbay sa bundok ng buhay
+Sa ligaya't lumbay maging talang gabay
+Mariang ina ko ako ri'y anak mo
+Kay Kristong kuya ko akayin mo ako
+Kay Kristong kuya ko akayin mo ako
+
+...
+
+",
+216,78391976,Labis (Live),Jesus One Generation,[22],['Christian & Gospel'],"Labis
+Copyright 2015 Jesus One Generation
+Lowe De Leon
+
+Sa Iyong ginawa
+Ako ay namangha
+Ikaw ay bumaba
+Pinasan Mo sa krus
+Pag-ibig Mo'y binuhos
+...
+
+",
+217,196774964,Kulang,JAT Rock Martin,[22],['Christian & Gospel'],"Sa buhay ko ako'y naghahanap
+Nagtataka, nawawala
+Hindi alam ang sasabihin
+Hindi alam ang gagawin
+
+Ako'y mananatili, mananahimik
+Mahuhuli
+Ako'y nagtatanong
+Bumubulong
+Na wala na, nung nawala ka
+
+Sinubukan kong ika'y lapitan
+Ika'y naging aking kaibigan
+Nagtapat ng nararamdaman
+Gagawa na lang tayo ng paraan
+Ngunit ika'y natakot
+...
+
+",
+218,131978089,Pasasalamat,Faithmusic Manila,[22],['Christian & Gospel'],"Una Kang nagmahal
+Una Kang nagbigay
+Una Kang gumawa
+Ikaw Panginoon kahanga-hanga
+Ang pag-ibig Mo na inihayag sa krus
+Kaya ang aking dugo sa'Yo Panginoon ay pagsamba
+
+Pasasalamat ang laman ng aking puso
+Salamat sa Iyo Panginoon
+Dakilain Ka Papurihan Ka
+Sa Iyong ginawa at kami ay malaya na
+
+Una Kang nagmahal
+...
+
+",
+219,200856867,Diyos na Banal,Jay Tolentino,"[14, 22]","['Pop', 'Christian & Gospel']","Ama naming nasa langit
+Sa'yo ako'y lumalapit
+Nais sa'yong isambit
+Itong handog na awit
+Walang hanggang pagsamba
+Hatid ng puso't kaluluwa
+Pupurihin ka hanggang wakas
+Noon, ngayon at bukas
+
+O Diyos Ika'y banal, banal
+'Di nagmamaliw ang pagmamahal
+Ama Ika'y banal, banal, banal
+Magpakailanpama'y Diyos na banal
+
+Ngayon ako ay narito
+...
+
+",
+220,145535967,Itataas,Allan Riofrio,[22],['Christian & Gospel'],"Wala Kang katulad, o Panginoon
+Wala nang hihigit pa sa Iyo
+
+Kaya't magpupuri sa ngalan Mong banal
+Kaya't ako'y aawit ng walang hanggang pasasalamat
+
+O Diyos, ang ngalan Mo'y itataas
+Sa buong mundo'y ihahayag
+Dakila Ka, o Diyos
+
+Ikaw ay mabuti
+Ikaw ang nagpapagaling
+Ikaw, o Diyos, ay dakila sa lahat
+
+Kaya't ako'y aawit ng walang haggang papuri
+...
+
+",
+221,147106354,Pinupuri Kita,Sanctuary of Worship Band,[22],['Christian & Gospel'],"Oh Hesus ako'y sumasamba Sa'yo
+Buong puso'y inaalay ko
+Panginoon tanging dalangin ko
+Ang manatili sa piling Mo
+
+Pasasalamatan Ka
+Luluwalhatiin Ka
+Sa lahat ng Iyong kabutihan
+Oh aking Ama iniibig Kita
+Ninanais kong makasama ka
+
+Pinupuri Kita, Pinupuri Kita
+Dakila Ka oh Diyos
+Magpakailan paman
+Pinupuri Kita, Pinupuri Kita
+...
+
+",
+222,136863019,Maghari Ka,Rommel Guevara,[22],['Christian & Gospel'],"Tugon ng aking puso
+Sa Inyo Panginoon
+Ay mag-alay ng papuri
+At pagsamba
+
+Dahil sa Inyong pagmamahal
+Katiyakan sa buhay ko'y taglay
+
+Mapalapit sa Inyo ang nais ng puso ko
+Mapalapit sa Inyo ang tanging nais kong gawin
+Maghari Ka, ngayon at magpakailanman (maghari ka)
+Maghari Ka, ngayon at magpakailanman
+(Papalapit sa Inyo ang Panginoon) Oh
+
+Mapalapit sa Inyo ang nais ng puso ko
+...
+
+",
+223,106692187,Minamahal Kita (Sa Palapit Na Palapit),Melan Stamatelaky,[22],['Christian & Gospel'],"O Diyos, Ikaw sa akin ay huwag magdaramdam
+Ikaw ang mahal ko
+At tanging kailangan
+
+Anong ligaya sa puso at kapahingahan
+Kung Ikaw O Diyos
+...
+
+",MusixMatch
+224,93080380,Susunod Ako Sa Nais Mo,Tony Rodeo,[22],['Christian & Gospel'],"Ang katulad ko di marapat sa iyo
+Nagkasala at lumayo sumuway sa nais mo
+Pangungusap mo di pansin ng puso ko
+Landas ko... ay naligaw
+
+Ngunit ng ako ay tawagin mo
+Namulat sayong salita sayo'y nagtiwala
+Ngayon ang nais ko sumunod sayo
+...
+
+",MusixMatch
+225,74789947,Superhirow,Musikatha Kids,[22],['Christian & Gospel'],"Di na ko bilib kay Superman
+Di na rin ako bilib kay Batman
+Kahit lumilipad, lumalaban
+Marami rin namang kahinaan
+
+Di ko na bati si Voltes 5
+Pati si Daimos at ang V-R Troopers
+Sawa na ko sa mga gimik nila
+Pare-pare-pareho lang talaga
+
+Dahil may kilala ako
+Na mas magaling sa lahat
+Hindi nya kailangan ng baril o espada
+Wala pang maskara
+
+Oo may kilala ako
+Na walang makakatalo
+...
+
+",MusixMatch
+226,74651374,Isang Bagong Buhay,Sheng Felias,[22],['Christian & Gospel'],"Ang buhay ko noon ay walang sigla
+At walang pag-asa
+Isip ay lito at ito'y gulong-gulo
+'Di alam kung saan patungo
+
+Koro 1:
+
+Sa piling Mo luha ko ay pinahiran Mo
+Ang lungkot ko'y
+Napalitan ng kagalakan Mo
+Kaligayahang
+Hindi maibigay ng mundo
+Ay natagpuan ko sa 'yo
+
+Buhay ko ngayon ay may sigla
+At mayroong pag – asa
+Dahil sa ako'y binago Mo
+Salamat sa pag-ibig Mo
+
+...
+
+",MusixMatch
+227,136863020,Sa Buhay Ko (Live),Rommel Guevara,[22],['Christian & Gospel'],"O Diyos iyong Dinggin
+Aking panalangin
+Ang puso kong ito'y
+Laging laan sa'Yo
+
+Bigyan ko ng banal na takot
+Sumunod sa nais Mo
+Naisin nawa ng aking puso
+Ay kalooban Mo
+Sa buhay ko
+
+...
+
+",MusixMatch
+228,78934936,Yahweh,Faith Music,[22],['Christian & Gospel'],"INTRO: Bm – Em – Bm – Em – Am – D – G
+TALATA 1:
+Naaalala ko noon ang buhay ko 'di alam kung saan tutungo
+Ngunit nang Ikaw ay makilala ko nagbago ang lahat sa buhay ko
+Sa piling Mo ay may kalayaan wala nang hihigit sa 'Yo
+
+O Yahweh, Salamat salamat sa pag-ibig Mong 'di nagbabago
+O Yahweh, Salamat mga pangako Mo panghahawakan ko
+Yahweh...
+...
+
+",MusixMatch
+229,74651463,Di Mag-Iisa,Edith M. San Pedro,[22],['Christian & Gospel'],"Diyos na makapangyarihan
+Haring kataas-taasan
+Sa aking puso ay nananahan
+Pagpapala Mo't pagsama
+...
+
+",MusixMatch
+230,77315286,Labis,Jesus One Generation,[22],['Christian & Gospel'],"Labis
+Copyright 2015 Jesus One Generation
+Lowe De Leon
+
+Sa Iyong ginawa
+Ako ay namangha
+Ikaw ay bumaba
+Pinasan Mo sa krus
+Pag-ibig Mo'y binuhos
+...
+
+",MusixMatch
+231,78782300,Kasama Mo Ako,Danny Manlapaz,[22],['Christian & Gospel'],"Sa bawat araw na dumaraan
+Lalo pang nadaragdagan
+Ang pagmamahal sa'yo hmm hmmm
+Paggising sa umaga
+Damdami'y kaysaya
+May kakaibang sigla
+Sa tuwing pagmamasdan kita
+...
+
+",MusixMatch
+232,74135579,Kahit Konting Pagtingin,Tyrone Oneza,[22],['Christian & Gospel'],"Kahit konting liwanag ng pag ibig
+Ang igawad sa pusong may ligalig
+Ang pag asa'y aking nakikita
+At ang ligaya'y nadarama
+Kahit konting liwanag ng pag ibig
+Ang sa akin ay ipahiwatig
+O giliw ko kay ganda ng langit
+At ang awit kung dinggin ay kay tamis
+Kahit konting pagtingin
+Kung manggagaling sa 'yo
+Ay labis ko nang ligaya
+Dahil sa ikaw ay mahal ko
+Kahit konting pagtingin
+...
+
+",MusixMatch
+233,99872399,The Morning,Eternal,[22],['Christian & Gospel'],"Akin ka sa 'king imahinasyon
+Sana nama'y hindi lang hanggang doon
+Kailan kayang aking Pagkakataon
+Sa panaginip ko mahal mo 'ko ron
+
+Oh oh oh oohhh. Akin ka na
+Ikaw kasi 'tong tipong minimithi
+Yung sabi nilang di ka magsisi
+Kaya't tanging hiling ko ay makatabi
+Ka't maging dahilan ng 'yong mga ngiti
+
+Gustong gusto kita haa.
+...
+
+",MusixMatch
+234,59542427,Kay Jesus,The Jhabez Band,[22],['Christian & Gospel'],"Sa aking pag iisa laging hanap-hanap kita
+Ang buhay ko'y naging makulay mula ng makilala kita o Hesus lang aking Diyos.
+
+Sa akin pag-iisa laging hanap-hanap kita,
+Ang buhay ko'y naging makulay mula ng makilala kita o Hesus ang lang aking Diyos.
+...
+
+",MusixMatch
+235,74789944,Ang Kwento Ng Aklat Ni Lolo,Musikatha Kids,[22],['Christian & Gospel'],"Ang kwento ng lumang aklat ni Lolo
+Mahal na mahal ako ni Kristo
+At ibig N'yang makasama ako
+Doon sa langit na totoo
+Ang sabi ng Biblia ni Lolo
+Mahal na mahal ako ni Kristo
+Mayroon Syang palasyo
+...
+
+",MusixMatch
+236,74275293,Abundant to Share,Map Band,[22],['Christian & Gospel'],"Wahoohoh, I know that You're here Wahoohoh, I know that You're there Wahoohoh, I know that You're everywhere
+
+In my heart and my soul
+Your spirit makes me whole
+Your love is abundant to share
+In heaven and earth
+...
+
+",MusixMatch
+237,74651462,Lahat Sa'Kin,Edith M. San Pedro,[22],['Christian & Gospel'],"Ikaw ang kalakasan sa oras ng kahinaan
+O Diyos magpakailanman
+Ikaw ang Siyang sandigan ko
+Moog at Siyang kublihan ko
+O Diyos magpakailanman
+
+Ikaw lamang ang kailangan
+Pag-ibig Mong walang hanggan
+Sapat ang Iyong biyaya
+Sa bawa't sandali
+Ikaw ang lahat sa 'kin
+
+Ikaw ang kalakasan sa oras ng kahinaan
+O Diyos magpakailanman
+...
+
+",MusixMatch
+238,83086787,Pag-Ibig Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],"Pagsikat ng araw pagmamahal Mo'y dama
+Sa ilalim ng init ng Iyong mga kamay.
+Anumang pagsubok o hamon ng mundo
+Hinding-hindi mahihiwalay sa pag-ibig Mo
+Kung mahina man minsan
+Alam kong Ikaw ang sandigan
+Pag-ibig Mo kalakasan ko
+Hindi nagbabago
+O Diyos ang pag-ibig Mo ang kailangan ko
+Sa biyaya Mo ako'y nabago
+Higit sa kailangan ko
+Panginoon kaybuti Mo.
+Sa paglipas ng araw liwanag Mo'y tanglaw
+Sa bawat kilos mo Ako ang nasa isipan
+Kung mahina man minsan
+Alam kong Ikaw ang sandigan
+Pag-ibig Mo kalakasan ko
+Hindi nagbabago
+...
+
+",MusixMatch
+239,112849660,Iniibig Kita,Wildfire,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']","Ikaw ang umagang
+Gumigising sa bawat kong pangarap
+Ikaw ang hanging dumarampi
+Sa isip kong nananabik
+
+Natatanging ikaw
+Natatanging ikaw
+
+Oh higit ka pa sa yaman na maaaring makamit
+Matayog pa sa pangarap na aking minimithi
+Ikaw ang awit ng puso
+At tanging sinisigaw
+
+Ikaw lang ang nais
+Ikaw lang ang nais
+
+...
+
+",MusixMatch
+240,78391973,Lahat Ay Ibinigay (Live),Jesus One Generation,[22],['Christian & Gospel'],"Ngayon ang oras na ginawa Niya
+Ngayon ang oras na sa 'Yo ay sasamba
+
+Pc
+O Hesus, Ikaw ang maghari
+O Hesus, Ikaw ang maghari
+
+...
+
+",MusixMatch
+241,106612167,"Panginoon, Pag-Ibig Mo'y Tunay",Lito Magnaye,[22],['Christian & Gospel'],"Sa lahat ng panahon Ikaw ay tapat
+Di mo hahayaang araw di sumikat
+Patak ng ulan, di malilimutan
+Sa mga halaman at lupang tigang
+
+Higit sa lahat, sa'yong mga anak
+Sa mga biyaya Mo, tunay Kang sapat
+Handa Kang lagi sa lahat ng oras
+Ang 'Yong mga palad laging bukas
+...
+
+",MusixMatch
+242,151918180,Ang Umaga Ay Darating,Matt Cueto,[22],['Christian & Gospel'],"Sa laot ng buhay ay sadyang malupit
+May sindak at takot sa dibdib
+Malimit mapatuon sa landas na madilim
+Patungohan waring di mararating
+
+Kapaguran sa bigat ng ating dinadala
+Dulot ay lungkot at dusa
+Minsa'y nawawalan narin tayo ng pagasa
+Patuloy din ang daloy luha
+
+Ang umaga ay darating
+...
+
+",MusixMatch
+243,150142457,Isigaw Mo,Charlie Cruz,[22],['Christian & Gospel'],"Isigaw Mo
+Bakit ka pa nalulungkot?
+Bakit ka pa nag-aalinglangan?
+Laging laman ng iyong isispan
+Ay ang iyong sariling kapakanan
+
+Di pa ba sapat na Siya'y namatay
+Dahil sa sala mo
+...
+
+",MusixMatch
+244,77695664,Banal Mong Tahanan,Musikatha Kids,[22],['Christian & Gospel'],"Ang puso ko ay dinudulog sa Iyo
+Nagpapakumbaba, nagsusumamo
+Pagindapatin Mo Ikaw ay mamasdan
+Makaniig Ka at sa Iyo ay pumisan
+
+...
+
+",MusixMatch
+245,153471714,Habang Buhay,Victory Collective,[22],['Christian & Gospel'],"Salamat Panginoon
+Ako ay natagpuan
+Salamat Panginoon
+Ako ay iniligtas
+
+Ano pa ang aking hahanapin?
+Ikaw ay laging sapat
+Ikaw ay laging tapat
+
+Habang buhay Ikaw
+Sa akin ay sadyang tapat Panginoon
+Mundo man ay magbago
+Pag-ibig Mo'y di maglalaho
+Kalian pa man
+
+Kaya sa bawat munting hininga
+Papupurihan Ka O Diyos
+Itataas ang ngalan Mo
+Ngayon at kailanman
+
+Sa gitna man ng bagyo
+...
+
+",MusixMatch
+246,194789118,Lilim (In Your Shelter) [Live],Victory Worship,[22],['Christian & Gospel'],"Panginoon, ang nais ko
+Kagandahan Mo ay pagmasdan
+Ang pag ibig Mo, saki'y tugon
+Kailanma'y 'di
+Pababayaan
+
+Sa 'Yo lamang matatagpuan
+Sa 'Yo lamang
+Mananatili sa Iyong lilim
+At sasambahin ka sa dakong lihim
+Mananatili sa Iyong lilim
+Nang masumpungan Ka
+Sa dakong lihim
+
+Panginoon, ang ' ngalan Mo
+Ay kalinga at sandigan ko
+'Di magbabago, pangako Mo
+Salita Mo'y panghahawakan
+
+Sa 'Yo lamang matatagpuan
+...
+
+",MusixMatch
+247,154092729,Kupti Ako,Rhema Band,[22],['Christian & Gospel'],"Susiha Ginoo
+Ang Kinabuhi ko nga nagkinahanglan
+Sa tandog mo
+Pukawa ang akong
+Nahikatulog nga paghigugma
+Diha kanimo Ginoo
+Kupti ako ug gakson Mo
+Ikaw ang akong gitinguha
+Ug gipangandoy Ginoo
+Sa makausa tagbawa ako
+Pun-on mo
+Ania ako, Ginoo
+...
+
+",MusixMatch
+248,117094568,Sino Ako (Minus One),Fatima Soriano,[22],['Christian & Gospel'],"Hiram sa Dios ang aking buhay
+Ikaw at ako'y tanging handog lamang
+Di ko ninais na ako'y isilang
+
+Ngunit salamat dahil may buhay
+
+Ligaya ko na ako'y isilang
+Pagkat tao ay mayroong dangal
+Sinong may pagibig sinong nagmamahal
+Kundi ang tao Dios ang pinagmulan
+...
+
+",MusixMatch
+249,196694747,Kulang (Nung Nawala Ka),JAT Rock Martin,[22],['Christian & Gospel'],"Sa buhay ko ako'y naghahanap
+Nagtataka, nawawala
+Hindi alam ang sasabihin
+Hindi alam ang gagawin
+
+Ako'y mananatili, mananahimik
+Mahuhuli
+Ako'y nagtatanong
+Bumubulong
+Na wala na, nung nawala ka
+
+Sinubukan kong ika'y lapitan
+Ika'y naging aking kaibigan
+Nagtapat ng nararamdaman
+Gagawa na lang tayo ng paraan
+Ngunit ika'y natakot
+...
+
+",MusixMatch
+250,197351356,Mananatili,Lighthouse Avodah,[22],['Christian & Gospel'],"Ang kabutihan mo ay lagi kong namamalas
+Ang pag-ibig mo ay di kumukupas
+Sa bawat pagsubok ng buhay, ikaw ang kaagapay
+Panginoong Hesus, ang puso kong sayo iaalay
+
+Ang katapatan mo sa kiy walang hangganan
+Kailan man ay di na mangangailangan
+Sa bawat pagsubok ng buhay, ikaw ang kaagapay
+Panginoong Hesus, ang puso kong sayo iaalay
+
+Mananatili sa iyong paanan
+Pagkat walang karapat-dapat na ibang paglingkuran
+Ang iyong mga salita ang aking buhay
+Ako'y para sa iyo, sa iyo lamang ako'y mananahan
+...
+
+",MusixMatch
+251,146348645,Maghari Ka Sa Amin,Mimo Perez,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']","Maghari Ka Sa Amin
+Titik at musika: Mimo L.Perez
+
+Katulad ng munting butil na sa lupa'y natanim
+At naging punong mayanong na nagbibigay-lilim
+Sa'ming ababg kalagayan, sa'ming karukhaan
+Nasaksihan ang pag-usbong na lyong kaharian
+Minsan pa sa amian ay managan Ka
+Sa'ming puso,sa'ming tahanan ...sa lyong Sambaynan!
+
+Maghari Ka sa amin!
+Panginoon aming dalangin...
+Maghari Ka sa amin!
+
+...
+
+",MusixMatch
 252,201311851,Ligtas,Victory Worship,[22],['Christian & Gospel'],"Sa 'Yong biyaya, ako ay namamangha
 Sa 'Yong kalinga, panganib ay 'di banta
 Sa pag-ibig Mo, palaging ligtas ang puso
@@ -795,44 +3833,562 @@ Ay nahanap sa 'Yo, Kristo
 Pangalan Mo'y kanlungan ko
 Kailan pa man
 
-Mm"
-253,147106357,Dakilang Pagsamba,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-254,147106358,Maghari Ka,Sanctuary of Worship Band,[22],['Christian & Gospel'],
-255,146368360,Isang Amang Nagmamahal,Mimo Perez,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']",
-256,74651470,Pupurihin Ka Sa Awit,Edith M. San Pedro,[22],['Christian & Gospel'],
-257,126600925,Dahan-Dahan,Ava Canaceli,[22],['Christian & Gospel'],
-258,195058783,Kay Buti Buti Mo Panginoon,Oswald PH,[22],['Christian & Gospel'],
-259,74651458,Sama-Samang Magpupuri,Edith M. San Pedro,[22],['Christian & Gospel'],
-260,77809008,Isang Pusong Tapat,Romi Valle,[22],['Christian & Gospel'],
-261,70565233,Dahil Dakila Ka,Rodel Buban and Intuned Band,[22],['Christian & Gospel'],
-262,77315283,Tayong Dalawa,Jesus One Generation,[22],['Christian & Gospel'],
-263,77695671,Banal Mong Tahanan (Instrumental),Musikatha Kids,[22],['Christian & Gospel'],
-264,126600930,Para Sa'yo,Ava Canaceli,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']",
-265,149943429,Kapahingahan (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],
-266,83086788,Dakilang Gawa (Live),Jesus One Generation,[22],['Christian & Gospel'],
-267,106130676,Si Hesus Ang Bahala,Mario Lajarca Jr.,[22],['Christian & Gospel'],
-268,136863008,Ating Purihin (Live),Rommel Guevara,[22],['Christian & Gospel'],
-269,137392608,Siya Si Hesus (Acts 2:21; Psalm 18:2),The Redeemed Band,[22],['Christian & Gospel'],
-270,78782286,Itatawid Sa Landas,Joni Villanueva,[22],['Christian & Gospel'],
-271,94442775,Panalangin Ng Pagbubukas-Palad,Noel Cabangon,[22],['Christian & Gospel'],
-272,106692192,Huwag Kang Bibigay,Melan Stamatelaky,[22],['Christian & Gospel'],
-273,147281583,Ang Kulay Ng Pasko,Mimo Perez,"[1080, 22]","['Christmas', 'Christian & Gospel']",
-274,131978081,Sa 'Yo Hesus,Faithmusic Manila,[22],['Christian & Gospel'],
-275,151918171,Ang Kastilyong Buhangin,Matt Cueto,[22],['Christian & Gospel'],
-276,176514891,Minamahal Kita,Melan Stamatelaky,[22],['Christian & Gospel'],
-277,160912950,Salamat Panginoon,IsonBros,[22],['Christian & Gospel'],
-278,143960338,Para Sa'yo (Live),Jesus One Generation,[22],['Christian & Gospel'],
-279,106130674,Dakila Ka,Mario Lajarca Jr.,[22],['Christian & Gospel'],
-280,74789945,Sa Aking Paglaki,Musikatha Kids,[22],['Christian & Gospel'],
-281,200856864,Regalong Pag-ibig,Jay Tolentino,"[34, 22]","['Music', 'Christian & Gospel']",
-282,57127804,Name Friend Forever,Internal Healing,[22],['Christian & Gospel'],
-283,62089305,Hallelujah,Daniel Young Music Ministry,[22],['Christian & Gospel'],
-284,183992188,Lilim (In Your Shelter),Victory Worship,[22],['Christian & Gospel'],
-285,84278923,Tupang Ligaw,April Boy Regino,[22],['Christian & Gospel'],
-286,117094565,Mahiwaga,Fatima Soriano,"[1204, 22]","['Asia', 'Christian & Gospel']",
-287,136863017,Ang Pangako,Rommel Guevara,[22],['Christian & Gospel'],
-288,83929781,Gagawa Ang Diyos (God Will Make a Way),Lito Magnaye,[22],['Christian & Gospel'],
-289,79505181,Ang Panginoon Ay Awitan,Tony Rodeo,[22],['Christian & Gospel'],
-290,136863016,Ikaw Lamang (Live),Rommel Guevara,[22],['Christian & Gospel'],
-291,78391977,Mga Pangako Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],
-292,131978080,Wala Nang Maidaragdag,Faithmusic Manila,[22],['Christian & Gospel'],
+Mm",
+253,147106357,Dakilang Pagsamba,Sanctuary of Worship Band,[22],['Christian & Gospel'],"Tanging Ikaw at walang iba
+'Ngalan Mo'y aking sasambahin
+Pupurihin ng aking puso't kaluluwa
+Dakilang kabutihan Mo'y sasambitin
+
+Tanging Ikaw at walang iba
+'Ngalan Mo'y aking sasambahin
+Pupurihin ng aking puso't kaluluwa
+Dakilang kabutihan Mo'y sasambitin
+
+Banal na Panginoon Ika'y tunay
+Mananatili kang laging tapat
+Banal na panginoon Ika'y buhay
+Makapangyarihan sa lahat
+Na Siya'ng darating sa bawat pusong napapagal
+Kordero ng Diyos, Luwalhatiin Ka
+
+Tanging Ikaw at walang iba
+'Ngalan Mo'y aking sasambahin
+Pupurihin ng aking puso't kaluluwa
+Dakilang kabutihan Mo'y sasambitin
+
+Banal na Panginoon Ika'y tunay
+...
+
+",MusixMatch
+254,147106358,Maghari Ka,Sanctuary of Worship Band,[22],['Christian & Gospel'],"Ikaw ang Diyos na lumikha ng langit at lupa
+Kapangayarihan Mo'y walang kapantay
+Pag-ibig Mong taglay ang siyang nais ko
+Hesus Ikaw ay pupurihin ko
+
+Ikaw ang Diyos na lumikha ng langit at lupa
+Kapangayarihan Mo'y walang kapantay
+Pag-ibig Mong taglay ang siyang nais ko
+Hesus Ikaw ay pupurihin ko
+
+Haleluya Oh Hesus maghari Ka
+Haleluya Oh Hesus maghari Ka
+Haleluya Oh Hesus maghari Ka
+Haleluya Oh Hesus maghari Ka
+
+Ikaw ang Diyos na lumikha ng langit at lupa
+...
+
+",MusixMatch
+255,146368360,Isang Amang Nagmamahal,Mimo Perez,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']","I.
+Bakit labis mong dinaramdam
+Pagkakamali mo't kabiguan?
+May nagagagwa ka ba kundi and magpasiyang,
+Bumangon at muling magsimula?
+
+II.
+Panahon ay tumatakbo
+Pagbabago ay nasa kamay mo.
+May naghihintay sa'yo hindi nanghuhusga,
+Isang Amang nagmamahal sa'yo.
+
+Habang buhay may pag-asa ka;
+...
+
+",MusixMatch
+256,74651470,Pupurihin Ka Sa Awit,Edith M. San Pedro,[22],['Christian & Gospel'],"Walang-hanggang katapatan
+Sa buhay ko'y lagi Mong laan
+Narito dahil sa biyaya Mo
+Habang-buhay magpupuri sa Iyo
+
+Pupurihin Ka sa awit, itataas ang aking tinig
+Itatanghal sa buhay ko'y tanging Ikaw, oh Diyos
+Higit pa sa kalangitan ang Iyong kaluwalhatian
+Kadakilaan Mo'y 'di mapapantayan
+
+Walang-hanggang katapatan
+Sa buhay ko'y lagi Mong laan
+Narito dahil sa biyaya Mo
+Habang-buhay magpupuri sa Iyo
+
+Pupurihin Ka sa awit, itataas ang aking tinig
+Itatanghal sa buhay ko'y tanging Ikaw, oh Diyos
+Higit pa sa kalangitan ang Iyong kaluwalhatian
+Kadakilaan Mo'y 'di mapapantayan
+
+Hesus, sa 'Yo ang kapurihan
+...
+
+",MusixMatch
+257,126600925,Dahan-Dahan,Ava Canaceli,[22],['Christian & Gospel'],"Isang araw gumising ng maaga
+Patungo na sa lakad ako ay handa na
+Magkakaibigan Sabay sabay dumadating
+Mga kwentuhan at tawanan aking naririnig
+
+Bigla na lang may isang dumating
+Di ko kilala sa akin napatingin
+Ako ay patuloy sa aking ginagawa
+...
+
+",MusixMatch
+258,195058783,Kay Buti Buti Mo Panginoon,Oswald PH,[22],['Christian & Gospel'],"Kay buti-buti mo, Panginoon
+Sa lahat ng oras
+Sa bawat araw
+Ika'y laging tapat kung magmahal
+...
+
+",MusixMatch
+259,74651458,Sama-Samang Magpupuri,Edith M. San Pedro,[22],['Christian & Gospel'],"O kay gandang pagmasdan tayo'y nag-aawitan
+Pumapasok sa tahanan Niyang may kagalakan
+At doon ay nagpupuri
+Walang hanggang kasiyahan
+Sa Diyos na nabubuhay magpakailan pa man
+
+...
+
+",MusixMatch
+260,77809008,Isang Pusong Tapat,Romi Valle,[22],['Christian & Gospel'],"Nais Mo sa akin isang pusong tapat
+Puspusin Mo ako ng dunong Mong wagas
+Ako ay linisin, sala ko'y hugasan
+At ako'y puputi ng walang kapantay
+
+Sa galak at tuwa ako ay puspusin
+At muling babalik ang galak sa akin
+Ang kasalanan ko Iyo ng limutin
+Lahat kong nagawang masama ay pawiin
+
+Isang pusong tapat sa aki'y likhain
+...
+
+",MusixMatch
+261,70565233,Dahil Dakila Ka,Rodel Buban and Intuned Band,[22],['Christian & Gospel'],"Panginoon salamat sa kabutihan mo
+Tunay ngang wala na kong hahanapin pa sayo
+Maging sarili mong buhay
+Ay iyong ibinigay
+Tunay ngang dakila ang pag-ibig mo
+
+Ang puso ko'y naririto't dinudulog sayo
+Dalisayin mo o diyos
+Pagka't itoy para sayo
+...
+
+",MusixMatch
+262,77315283,Tayong Dalawa,Jesus One Generation,[22],['Christian & Gospel'],"Tayong Dalawa
+Mariael De Leon
+Copyright 2015 Jesus One Generation
+
+Dakila Ka Panginoon
+Dakila ang Pag-ibig Mo
+Sa habang panahon
+Katapatan Mo'y sasambitin
+Sa bawat araw ko na darating
+...
+
+",MusixMatch
+263,77695671,Banal Mong Tahanan (Instrumental),Musikatha Kids,[22],['Christian & Gospel'],"Ang puso ko'y dinudulog sayo
+Nagpapakumbaba, nagsusumamo
+Paging dapating mong
+Ikaw ay mamasdan
+Makaniig ka at Sayo ay pumisan
+...
+
+",MusixMatch
+264,126600930,Para Sa'yo,Ava Canaceli,"[1103, 22]","['Praise & Worship', 'Christian & Gospel']","PARA SAYO
+
+Pinapawi ang kalungkutan
+Inaayos ang kaguluhan
+Dito sa mundong parang wala nang tahanan
+Salita Mo ang siyang pag-asa
+Ng bawat pusong nangangarap
+Sa Iyong bisig, lakas at pag-ibig
+Kaming lahat Sa'yo lang aasa
+...
+
+",MusixMatch
+265,149943429,Kapahingahan (Live),Malayang Pilipino Music,[22],['Christian & Gospel'],"Noon ngayon at kailanman
+Wagas ang 'Yong katapatan
+Kalinga Mo'y di matutumbasan
+Sa gitna ng pighati
+Ay hindi maikukubli
+...
+
+",MusixMatch
+266,83086788,Dakilang Gawa (Live),Jesus One Generation,[22],['Christian & Gospel'],"Hesus ako sa 'Yo'y humahanga
+Kamatayan ay hindi inalintana
+Inako Mong lahat ang kasalanan
+Sa Diyos Ikaw ay nawalay
+Buhay Mo ang inalay
+PRE-CHORUS
+Purihin Ka Hesus
+...
+
+",MusixMatch
+267,106130676,Si Hesus Ang Bahala,Mario Lajarca Jr.,[22],['Christian & Gospel'],"O kay hirap hirap na ng buhay ngayon
+Halos di mo mairaos buong maghapon
+At sa dami ng problema ay di na makaahon
+
+Kung minsan ay para nga bang susuko na
+Ang pagod na katawan ay tila bibigay na
+Isip at damdamin ay puno ng pangamba
+(Woooh)
+
+Kung talagang walang wala na
+Sa'n pa nga ba pupunta?
+Kung talagang hindi na kaya
+May makakatulong ba?
+Kung ubos na ang 'yong pag-asa
+Ay huwag na huwag mag-alala
+Pagkat nariyan Siya
+Huwag kang bibitaw
+Huwag kang aayaw
+...
+
+",MusixMatch
+268,136863008,Ating Purihin (Live),Rommel Guevara,[22],['Christian & Gospel'],"Ating purihin
+Ating purihin
+Ating purihin
+Ang ating Diyos
+
+Ating purihin
+Ating purihin
+Ating purihin
+Ang ating Diyos
+...
+
+",MusixMatch
+269,137392608,Siya Si Hesus (Acts 2:21; Psalm 18:2),The Redeemed Band,[22],['Christian & Gospel'],"Araw nalang ang problema ayaw lumibay
+
+Nais mo ng pumikit ng walang maramdaman
+
+Iniisip itoy na walang katapusan
+May pag asa pa bang sa iyoy naghihintay
+
+Di lang ikaw ang dumaraan sa parehas na sitwasyon my problema
+
+Marami ang katulad naghahanap ng tungon
+Pero my pag asa pang dulot sa pag ibig nya.
+
+Ikaw ay dumalagin tawagin panaglan nya
+Siya si hesus tangin sandingan
+Siya jesus ang iyong kailangan
+Isip na liton litu
+...
+
+",MusixMatch
+270,78782286,Itatawid Sa Landas,Joni Villanueva,[22],['Christian & Gospel'],"Sa bawat dahon ng aklat ng buhay
+Bakas ang luha n tumatangay
+Inaanod ang pag asa unti unting nawawla haligi ng munting daigdig ko
+Minsay nanlalamig nrin ang araw
+Ihip ng hangin may giniginaw
+Nanlulumo nalulumbay hanap ay isang gabay
+Sa piling moy hndi mabibigo
+
+...
+
+",MusixMatch
+271,94442775,Panalangin Ng Pagbubukas-Palad,Noel Cabangon,[22],['Christian & Gospel'],"Panginoon, turuan mo akong maging bukas-palad
+Turuan mo akong maglingkod sa Iyo
+At magbigay nang ayon sa nararapat
+Na walang hinihintay mula sa Iyo
+Na makibakang di inaalintana, mga hirap na dinaranas
+Sa tuwina'y magsumikap na hindi humahanap ng kapalit na kaginhawaan
+...
+
+",MusixMatch
+272,106692192,Huwag Kang Bibigay,Melan Stamatelaky,[22],['Christian & Gospel'],"Para bang 'di mo na kaya
+At ka'y dami mong problema
+Para bang sumusuko na
+Pagod ka na?
+
+Buksan mo ang iyong mata
+'Di bat nakatayo ka pa?
+Alam ng Diyos kaibigan
+Kasama mo siya
+
+Huwag kang bibigay
+...
+
+",MusixMatch
+273,147281583,Ang Kulay Ng Pasko,Mimo Perez,"[1080, 22]","['Christmas', 'Christian & Gospel']","Kaygandang pagmasdan ang kapaligiran
+Dahil sa taglay na kulay ng pasko
+May kulay ba ang pasko, pula, puti ba o ginto?
+O kahit ano, may kulay ba ang pasko?
+
+Subalit pawang mali, mga kulay na nabanggit
+Hindi mo ba batid ang kulay ng pag-ibig
+Ang kulay ng pasko di mo makikita kailanman
+Ito'y nararamdaman kung tayo'y nagmamahalan
+...
+
+",MusixMatch
+274,131978081,Sa 'Yo Hesus,Faithmusic Manila,[22],['Christian & Gospel'],"Ikaw Hesus ang nagbigay ng aking buhay
+Kaya't Ikaw ang pag asang hahawakan ko
+
+Sigaw ng puso ko ang pangalan Mo
+Ikaw ang kasagutang naranasan ko
+
+Ikaw ang kaligtasan ko
+Inibig mo ang tulad ko
+Ikaw lamang Hesus, Ikaw!
+
+Binago Mo ang buhay ko
+Ako ngayon ay tulad Mo
+...
+
+",MusixMatch
+275,151918171,Ang Kastilyong Buhangin,Matt Cueto,[22],['Christian & Gospel'],"Sa tuwing bakasyon at tanging araw
+Nagtutugno tayo sa dalampasigan
+Naglalakad, nagaaliw sa mga tanawin
+Naglalaro't nagtatayo ng kastilyong buhangin
+
+Kastilyong buhangin, kastilyong buhangin
+Ang iyong ganda'y panandaliang ning-ning
+Pagsapit ng alon at ihip ng hangin
+Ala-ala na lamang ang kastilyong buhangin
+
+...
+
+",MusixMatch
+276,176514891,Minamahal Kita,Melan Stamatelaky,[22],['Christian & Gospel'],"O Diyos, Ikaw sa akin ay huwag magdaramdam
+Ikaw ang mahal ko
+At tanging kailangan
+
+Anong ligaya sa puso at kapahingahan
+Kung Ikaw O Diyos
+...
+
+",MusixMatch
+277,160912950,Salamat Panginoon,IsonBros,[22],['Christian & Gospel'],"Salamat Panginoon
+Ang puso ko ay nagdiriwang
+Dinggin mo Ang himig Ng awit nang pagsamba
+Alay sayo
+Alay sayo
+...
+
+",MusixMatch
+278,143960338,Para Sa'yo (Live),Jesus One Generation,[22],['Christian & Gospel'],"Para sayo ang awit ko
+Para sayo ang tinig ko
+I .
+Habang buhay ako lamang sayo
+Wagmong isip damdamin ang puso ko
+Magingilaw ang buhay sa mundong ito
+Nabubuhay.
+
+...
+
+",MusixMatch
+279,106130674,Dakila Ka,Mario Lajarca Jr.,[22],['Christian & Gospel'],"Dakila ka
+
+Nakita ko ang tunay na pag ibig
+Nanggaling sa Panginoong Hesus
+Nilinaw nya ang aking isipang nagdidilim
+Pinawi nya amg aking paninimdim
+Hesus ikaw ay nasa aking buhay
+Banal na espiritong tinataglay
+Upang malayo sa mga kasalanan
+At upang maging gabay sa aking daan
+Pre-Chorus
+Walang hanggang buhay ang dinulot mo
+Kaya purihin ang malinis na puso mo
+Salamat sayo
+Salamat sayo
+
+Dakila ka Panginoon
+...
+
+",MusixMatch
+280,74789945,Sa Aking Paglaki,Musikatha Kids,[22],['Christian & Gospel'],"Sa aking paglaki, gusto kong maging guro upang mabuting asal ay aking maituro
+Sa aking paglaki, gusto kong maging pulis lipuna'y mapanatiling payapa ng labis
+
+Ngunit higit sa lahat, gusto kong maging katulad Mo Hesus kung mag mahal ay tapat at kung umibig ay taos
+Sa aking pag laki
+Ito ang nais ko ang makita ka ng iba sa buhay ko
+...
+
+",MusixMatch
+281,200856864,Regalong Pag-ibig,Jay Tolentino,"[34, 22]","['Music', 'Christian & Gospel']","Kung akin lamang iisipin
+Hindi ko kayang mabatid pagmamahal mo sa'kin
+Dakila ang pagibig mong inilaan
+Ngayon ay may pag-asa kahit na makasalanan
+
+Nalalaman sa sarili na sayo'y 'di nararapat
+Kahit maghapon pang umawit ng pasasalamat
+
+Dahil Ikaw lamang Hesus ang sa aki'y tumubos
+Ang sakit at hirap sa may krus inako Mong lubos
+Ngayon ako'y binago mga dungis ko'y naglaho
+Dahil sa regalong pagibig Mo namatay Ka upang mabuhay ako
+
+...
+
+",MusixMatch
+282,57127804,Name Friend Forever,Internal Healing,[22],['Christian & Gospel'],"Nabiktima ako ng forever
+
+Wala naman
+Wala namang happily ever after
+
+It's over, oh.
+We are never ever getting back together.
+
+Mas okay ng maging bitter
+Kase wala namang forever
+Makakahanap din ako ng better
+
+Ako lang daw mahal nya, edi wow talaga?
+Ang bilis magsawa, ako'y sineryoso ba?
+...
+
+",MusixMatch
+283,62089305,Hallelujah,Daniel Young Music Ministry,[22],['Christian & Gospel'],"Oh Dios, dakila Ka
+Higit sa lahat magpakailanman
+Magpupuri sa Iyo
+Walang humpay, walang hinto
+
+Ang lahat ng tao sa mundo
+Sama samang aawit sa Iyo
+Sisigaw
+
+Hallelujah, sisigaw ng Hallelujah
+Buong lakas na taglay ko
+Sa kaluwalhatian Mo
+Sisigaw ng Hallelujah
+
+Pupurihin ang ngalan Mo
+...
+
+",MusixMatch
+284,183992188,Lilim (In Your Shelter),Victory Worship,[22],['Christian & Gospel'],"Panginoon, ang nais ko
+Kagandahan Mo ay pagmasdan
+Ang pag-ibig Mo, sa 'ki'y tugon
+Kailanma'y 'di pababayaan
+
+Sa 'Yo lamang matatagpuan
+Sa 'Yo lamang
+
+Mananatili sa Iyong lilim
+At sasambahin Ka sa dakong lihim
+Mananatili sa Iyong lilim
+Nang masumpungan Ka sa dakong lihim
+
+Panginoon, ang ngalan Mo
+Ay kalinga at sandigan ko
+'Di magbabago, pangako Mo
+Salita Mo'y panghahawakan
+...
+
+",MusixMatch
+285,84278923,Tupang Ligaw,April Boy Regino,[22],['Christian & Gospel'],"Malapit na namang lumubog ang araw
+Dilim ng gabi'y darating na naman
+Sa paghimlay mo isip mo'y naglalakbay
+Nakatanaw sa kawalan
+
+Lumipas na naman ang isang araw sa buhay
+Takbo ng buhay mo'y di mo namamalayan
+Sa bawat sandaling darating at papanaw
+Buhay mo'y tila parang kulang
+
+...
+
+",MusixMatch
+286,117094565,Mahiwaga,Fatima Soriano,"[1204, 22]","['Asia', 'Christian & Gospel']","Mahiwaga ang buhay ng tao
+Ang bukas ay 'di natin piho
+At manalig lagi sana tayo
+Ang diyos ang pag-asa ng mundo
+
+Pag-ibig sa ating kapwa tao
+At laging magmahalan tayo
+...
+
+",MusixMatch
+287,136863017,Ang Pangako,Rommel Guevara,[22],['Christian & Gospel'],"Panginoon, lumalapit sa Inyo
+Ang puso kong nag-iisa, kayo ang aking pag-asa
+Panginoon, tugon sa aking dalangin
+Tapat kailan pa man aking kapayapaan
+
+Pangako N'yo'y aking panghahawakan
+Pangako N'yo ang tangi kong sandigan
+Pangako N'yo'y tapat magpakailanman
+Ako ay 'di iiwan o pababayaan man
+Pangako N'yo'y aking panghahawakan
+
+...
+
+",MusixMatch
+288,83929781,Gagawa Ang Diyos (God Will Make a Way),Lito Magnaye,[22],['Christian & Gospel'],"Gagawa ang Diyos
+Ng daan sa buhay ko
+Pagkilos N'ya'y mahiwaga
+Sa 'kin may layunin S'ya
+S'ya'y aking gabay
+Ang kasama't karamay
+...
+
+",MusixMatch
+289,79505181,Ang Panginoon Ay Awitan,Tony Rodeo,[22],['Christian & Gospel'],"Ang panginoon ay awitan
+Sa kanya ang kadakilaan
+Kaming lahat sayo'y magpupuri
+Aming panginoon
+Itataas dakilang ngalan mo
+...
+
+",MusixMatch
+290,136863016,Ikaw Lamang (Live),Rommel Guevara,[22],['Christian & Gospel'],"Oh Diyos sa kabutihan mo
+Akoy naririto
+Upang magpuri sa iyo
+Oh Diyos sa kabanalan mo
+Nalulugod ako
+Buhay ay iaalay ko
+
+Ikaw lamang ang nagtiwala saakin
+O Diyos di kita bibiguin
+Magtatapat sayo
+Maglilingkod ako
+O Diyos kaybuti mo
+
+...
+
+",MusixMatch
+291,78391977,Mga Pangako Mo (Live),Jesus One Generation,[22],['Christian & Gospel'],"Sa'Yo umaasa
+Kaibigang tapat at sandigan
+Sa'Yo nagmumula
+Kapayapaan, kabutihan
+
+'Di kayang sukatin
+Ang pag-ibig Mo
+
+Mga pangako Mo
+Liwanag at gabay
+Sa bawat sandali
+May pag-asa't kanlungan
+Mga pangako Mo
+Taglay nito'y galak
+Nananatili ang labis na kalakasan
+Mga pangako Mo
+
+Ako'y lumalapit
+Sa'Yong kagandahan
+Walang alinlangan
+Ikaw ang pag-ibig
+Kapahingahan, walang hanggan
+...
+
+",MusixMatch
+292,131978080,Wala Nang Maidaragdag,Faithmusic Manila,[22],['Christian & Gospel'],"Lahat ng kailangan sa buhay ko Iyong ibinigay
+Nararanasan ko ang pag ibig Mo biyaya Mong taglay
+Kapayapaan Mo'y naranasan ko at nagsilbing gabay
+Sa bagong buhay ko aawitin ko ang pangalan Mo
+
+Wala nang maidaragdag sa pag ibig na sa krus inalay Mo
+Walang maibabawas ang mundong ito sa gawang tinapos Mo
+Pasasalamat ang handog Sa'yo dahil sa pag ibig Mo
+Walang maibabawas ang mundong ito sa gawang tinapos Mo
+
+Woh-Oh, Oh-Oh
+Sa gawang tinapos Mo
+Oh-Oh, Oh-Oh
+Sa gawang tinapos.
+
+Kapayapaan Mo'y naranasan ko at nagsilbing gabay
+Sa bagong buhay ko aawitin ko ang pangalan Mo
+Ooh Oooh Uwooh
+...
+
+",MusixMatch

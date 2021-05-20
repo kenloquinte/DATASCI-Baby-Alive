@@ -127,4 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-*/api_keys.py
+FINAL/api_keys.py
+FINAL/data collection.ipynb

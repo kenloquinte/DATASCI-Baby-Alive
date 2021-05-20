@@ -129,10 +129,11 @@ def get_top_tracks(
         )
         
         if data.json()['message']['header']['status_code'] == 200:
-               return data.json()
+            return data.json()
             
         else:
             print("ERROR: ", musixmatch_status_codes[str(status_code)], "( Status Code ", status_code, ")")
+            return None
             
 
 
@@ -223,50 +224,88 @@ def search_metroLyrics(artist, track):
     
     return lyrics
 
+def get_musixMatch_lyrics(track_id, apikey=musixmatch_api_key):
+    print("\tcollecting lyrics from MusixMatch: ", end='')
+        
+    data = requests.get(
+       'http://api.musixmatch.com/ws/1.1/' + (
+            "track.lyrics.get?"
+            "track_id={}"
+            "&apikey={}".format(
+                track_id, apikey
+            )
+        ) 
+    )
+        
+    if data.json()['message']['header']['status_code'] == 200:
+        lyrics = data.json()['message']['body']['lyrics']['lyrics_body']
+        print("found")
+        return lyrics[:lyrics.find("******* This Lyrics is NOT for Commercial use *******")]
+            
+    else:
+        print("ERROR: ", musixmatch_status_codes[str(data.json()['message']['header']['status_code'])], 
+              "( Status Code ", data.json()['message']['header']['status_code'], ")")
+    
+
 # In[16]:
 
 
-def get_lyrics(track_name, artist_name, delay):    
+def get_lyrics(track_name, artist_name, track_id, delay):    
     track_name = clean_song_title(track_name)
     artist_name = clean_artist_names(artist_name)
-    """
+    source = None
+    lyrics = None
+    
     order = random.randint(1, 2)
     
     if (order == 1):
                 
         lyrics = search_metroLyrics(artist_name, track_name)
+        source = "MetroLyrics"
 
         if (lyrics == None):
             lyrics = search_genius(artist_name, track_name)
+            source = "Genius"
 
-        # if (lyrics == None):
-            # lyrics = search_azLyrics(artist_name, track_name)
+        if (lyrics == None):
+            lyrics = search_azLyrics(artist_name, track_name)
+            source = "AZLyrics"
     
     elif (order == 2):
                 
         lyrics = search_genius(artist_name, track_name)
+        source = "Genius"
 
         if (lyrics == None):
             lyrics = search_metroLyrics(artist_name, track_name)
+            source = "MetroLyrics"
 
-        # if (lyrics == None):
-            # lyrics = search_azLyrics(artist_name, track_name)
+        if (lyrics == None):
+            lyrics = search_azLyrics(artist_name, track_name)
+            source = "AZLyrics"
             
     else:
                 
         lyrics = search_azLyrics(artist_name, track_name)
+        source = "AZLyrics"
 
         if (lyrics == None):
             lyrics = search_genius(artist_name, track_name)
+            source = "Genius"
 
         if (lyrics == None):
             lyrics = search_metroLyrics(artist_name, track_name)
-    """
+            source = "MetroLyrics"
     
-    lyrics = search_azLyrics(artist_name, track_name)
+    if lyrics == None:
+        lyrics = get_musixMatch_lyrics(track_id)
+        source = "MusixMatch"
                 
     time.sleep(delay)
-    return lyrics
+    return {
+        'lyrics': lyrics,
+        'source': source
+    }
 
 
 # ## Extract Needed Data from MusixMatch JSON
@@ -280,7 +319,7 @@ def get_genre_songs(genre_json, genre_collection, currindex=0):
     nolyrics = 0
     
     for song in genre_collection['genre_tracks'][currindex:]:
-        delay = random.randint(7, 15)
+        delay = random.randint(5, 10)
         currindex += 1
         
         print(genre_collection['genre_name'])
@@ -306,24 +345,29 @@ def get_genre_songs(genre_json, genre_collection, currindex=0):
         if (len(genre_df) > 0):
             index = genre_df[genre_df['track_id'] == details['track_id']].index
         else: index = []
-             
+                
         if ((len(index) == 0) or (genre_json[index[0]]['lyrics'] == None)):
-            lyrics = get_lyrics(details['track_name'], details['artist_name'], delay)
+            response = get_lyrics(details['track_name'], details['artist_name'], details['track_id'], delay)
+            lyrics = response['lyrics']
+            source = response['source']
             
             if (lyrics == None):
                 nolyrics += 1
                     
-        else: lyrics = genre_json[index[0]]['lyrics']
+        else: 
+            lyrics = genre_json[index[0]]['lyrics']
+            source = None
             
                     
-        if (len(index) > 0):               
+        if (len(index) > 0):                           
             genre_json[index[0]] = {
                                 'track_id': details['track_id'],
                                 'track_name': details['track_name'],
                                 'artist_name': details['artist_name'],
                                 'genre_id': genre_ids,
                                 'genre_names': genre_names,
-                                'lyrics': lyrics
+                                'lyrics': lyrics,
+                                'lyrics_source': source
                             }
         else:
             genre_json.append({
@@ -332,7 +376,8 @@ def get_genre_songs(genre_json, genre_collection, currindex=0):
                 'artist_name': details['artist_name'],
                 'genre_id': genre_ids,
                 'genre_names': genre_names,
-                'lyrics': lyrics
+                'lyrics': lyrics,
+                'lyrics_source': source
             })
 
         clear_output(wait=True)

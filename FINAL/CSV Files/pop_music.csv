@@ -1,4 +1,4 @@
-,track_id,track_name,artist_name,genre_id,genre_names,lyrics
+,track_id,track_name,artist_name,genre_id,genre_names,lyrics,lyrics_source
 0,163709256,Ikaw At Ako,Moira Dela Torre feat. Jason Marvin,[14],['Pop'],"Sabi nila
 Balang araw darating
 Ang iyong tanging hinihiling
@@ -51,7 +51,7 @@ Mula noon
 Hanggang ngayon
 Mula ngayon
 Hanggang dulo
-Ikaw at Ako"
+Ikaw at Ako",
 1,167116583,Hanggang Dito Na Lang,Jaya,[14],['Pop'],"Di ko alam kung tama ba ito.
 Lilisan ako upang maintindihan ko
 Ang puwang sa puso at isipan
@@ -83,7 +83,7 @@ Ating pagmamahalan
 Ito'y balewala sapagkat ako'y iniwan
 Hangang dito na lang
 Ikaw itong nagpaalam
-Alam kong hangang dito na lang"
+Alam kong hangang dito na lang",
 2,114473971,Ikaw,Yeng Constantino,[14],['Pop'],"Sa pagpatak ng bawat oras ay ikaw
 Ang iniisip-isip ko hindi ko mahinto pintig ng puso
 Ikaw ang pinangarap-ngarap ko
@@ -118,7 +118,7 @@ Puso ay nalumbay ng kay tagal ngunit ngayo'y nandito na
 Ikaw, ikaw ang pag-ibig na binigay
 Sa akin ng Maykapal biyaya ka sa buhay ko
 Ligaya't pag-ibig ko'y ikaw
-Pag-ibig ko'y ikaw..."
+Pag-ibig ko'y ikaw...",
 3,114797567,Chinito,Yeng Constantino,[14],['Pop'],"Mapapansin mo ba
 Kaya ang tulad ko
 Kahit nasa sulok lang ng iyong mga mata
@@ -168,7 +168,7 @@ Kapag kausap na ikaw
 Sana naman ako'y pakinggan
 At nang ikaw ay malinawan
 Dahil nabihag mo ang aking paningin at damdamin
-Oh! Chinito... Chinito..."
+Oh! Chinito... Chinito...",
 4,160018049,Dati (Cover Version),Ben&Ben,[14],['Pop'],"Datirati sabay pa nating pinangarap ang lahat
 Umaawit pa sa hangin at amoy araw ang balat
 Naaalala ko pa non nag-aagawan ng nintendo
@@ -206,7 +206,7 @@ Dararatda dati
 Dararatda dati
 Dararatda dati
 Na gaya pa rin ng...
-Ng dati"
+Ng dati",
 5,159086696,Balik-Balikan,Ben&Ben feat. Sam Concepcion,[14],['Pop'],"
 
 Kulang ang mga salitang sinabi
@@ -244,7 +244,7 @@ Karagatang sinasagwan
 Balikan, balikan
 Tahanan na pinagmulan
 Balikan, balikan
-"
+",
 6,53803034,Nandito Ako,David Archuleta,[14],['Pop'],"Mayroon akong nais malaman
 Maaari bang magtanong?
 Alam mo bang matagal na kitang iniibig
@@ -279,8 +279,20 @@ Kung sakaling iwanan ka niya
 Huwag kang mag-alala
 May nagmamahal sa iyo
 Nandito ako
-Nandito ako"
-7,159957318,Leron Leron Sinta,Lea Salonga,"[14, 19, 1204]","['Pop', 'World', 'Asia']",
+Nandito ako",
+7,159957318,Leron Leron Sinta,Lea Salonga,"[14, 19, 1204]","['Pop', 'World', 'Asia']","Leron leron sinta
+Buko ng papaya
+Dala-dala'y buslo
+Sisidlan ng sinta
+Pagdating sa dulo'y
+Nabali ang sanga
+Kapos-kapalaran
+Humanap ng iba
+
+Halika na neneng
+...
+
+",MusixMatch
 8,170029089,Talaarawan,Ben&Ben,[14],['Pop'],"
 
 Bumabangon
@@ -326,7 +338,7 @@ Dating sariling maparaan
 Ang mabigat, lalagpasan
 Talaarawan
 Talaarawan
-"
+",
 9,170029093,Lucena,Ben&Ben,[14],['Pop'],"
 
 Tatakbo
@@ -373,7 +385,7 @@ Sa'king isip
 At lumipas
 Alaala
 Ng iyong tinig
-"
+",
 10,157224809,Kung Akin Ang Mundo,Erik Santos feat. Moira Dela Torre,[14],['Pop'],"Kung ako ang may-ari ng mundo
 Ibibigay ang lahat ng gusto mo
 Araw-araw pasisikatin ang araw
@@ -410,7 +422,7 @@ Iaalay ko sayo (Iaalay ko sayo)
 Kung akin ang mundo (Kung akin ang mundo)
 Iaalay ko sayo (Sayo)
 Kung akin ang mundo (Kung akin ang mundo)
-Iaalay ko sayo"
+Iaalay ko sayo",
 11,115357738,Wala Lang Yun,Parokya Ni Edgar,[14],['Pop'],"Nahuli na naman ako meron ibang katext
 Pero pangako sa iyo wala akong ibang ka-sex
 Sapagka di ko kayang mawala ka
@@ -469,7 +481,7 @@ Wala lang yun
 Ikaw lang talaga
 Wala lang yun
 Parang awa mo na
-Wala lang yun"
+Wala lang yun",
 12,115357748,Hamon Ng Buhay,Parokya Ni Edgar,[14],['Pop'],"
 
 Ako ay isang kawayan
@@ -514,7 +526,7 @@ Ang bawat hamon ng ating buhay
 Kapalit ay tagumpay
 Lakas loob at paninindigan ay hawak mo
 Sa'yong mga kamay
-"
+",
 13,115357744,Pan De Monio,Parokya Ni Edgar,[14],['Pop'],"
 
 Kay ganda ganda ng iyong mukha
@@ -557,7 +569,7 @@ Mukhang anghel ngunit ang asal mo
 
 Kay ganda ganda ng yong mukha
 Parang anghel na sa langit ay bumaba
-"
+",
 14,115357741,Kweba Ng Ermitanyo,Parokya Ni Edgar,[14],['Pop'],"
 
 Ako'y isang ermitanyo
@@ -601,7 +613,7 @@ Sa aking kweba
 Sa aking kweba
 Sa aking kweba
 Diba, yeahba
-"
+",
 15,115357753,Tanduay,Parokya Ni Edgar,[14],['Pop'],"
 
 Summer, sembreak, christmas time at bakasyon
@@ -636,8 +648,11 @@ Masarap talagang tumambay 'pag
 Lahat ay tumatagay ng
 Masarap talagang tumambay 'pag
 Lahat ay tumatagay ng Tanduay
-"
-16,115357754,Nakapunta Ka Na Sa America? - Filler,Parokya Ni Edgar,[14],['Pop'],
+",
+16,115357754,Nakapunta Ka Na Sa America? - Filler,Parokya Ni Edgar,[14],['Pop'],"Nakapunta, oh, one, two, three
+...
+
+",MusixMatch
 17,131253749,Kathang Isip,Ben&Ben,[14],['Pop'],"'Di ba nga ito ang 'yong gusto
 O, ito'y lilisan na ako
 Mga alaala'y ibabaon
@@ -699,7 +714,7 @@ Lalayo sa iyo
 (Lalayo sa)
 
 'Di ba nga ito ang 'yong gusto
-O, ito'y lilisan na ako"
+O, ito'y lilisan na ako",
 18,170029087,Pagtingin,Ben&Ben,"[20, 14]","['Alternative', 'Pop']","Dami pang gustong sabihin
 Ngunit wag nalang muna
 Hintayin nalang ang hangin
@@ -745,7 +760,7 @@ sana di magbago pagtingin
 Pahiwatig
 sana di magbago pagtingin
 
-End—"
+End—",
 19,145996572,Malaya,Moira Dela Torre,[14],['Pop'],"Pasensya na, kung papatuligin na muna
 Ang pusong napagod kakahintay
 Kaya sa natitirang segundong kayakap ka
@@ -774,7 +789,7 @@ Pagsikat ng araw, paglipas ng gabi
 Kung di pipilitin ang di pa para sa'kin
 Baka sakaling maibalik
 
-Malaya ka na, Malaya"
+Malaya ka na, Malaya",
 20,170029098,Araw-Araw,Ben&Ben,"[20, 14]","['Alternative', 'Pop']","Umaga na sa ating duyan
 'Wag nang mawawala
 Umaga na sa ating duyan
@@ -816,7 +831,7 @@ Ang nadarama sa 'yo'y malinaw
 Mahiwaga
 'Wag nang mawala sa araw-araw
 Mahiwaga
-Pipiliin ka araw-araw"
+Pipiliin ka araw-araw",
 21,154241526,Kung 'Di Rin Lang Ikaw,December Avenue feat. Moira,[14],['Pop'],"Kung hindi rin lang ikaw ang dahilan
 Pipilitan ba ang puso kong hindi na masaktan?
 Kung hindi ikaw ay hindi nalang
@@ -854,7 +869,7 @@ Aawatin ba ang puso kong ibigin ka
 Kung di rin tayo sa huli
 Aawatin ba ang puso kong ibigin ka
 Kung di rin tayo sa huli
-Aawatin ba ang puso kong ibigin ka"
+Aawatin ba ang puso kong ibigin ka",
 22,145996578,Tagu-Taguan,Moira Dela Torre,[14],['Pop'],"Minsan, isang araw
 Puso'y napasigaw
 Nahulog sa iyo
@@ -908,8 +923,29 @@ Ibalik ako sa nakaraan
 
 Nung di pa naiwan
 Nung di pa naiwan
-Nung di mo iniwan"
-23,81954673,Alaala Mo,White Lies,[14],['Pop'],
+Nung di mo iniwan",
+23,81954673,Alaala Mo,White Lies,[14],['Pop'],"Hindi mo man sabihin
+Nadarama ko rin
+Na ikaw ay mayroon din
+Pag-ibig sa akin
+
+Kahit na ano gawin
+Hindi maikukubli
+Bakit 'di mo pagbigyan
+Ang ating puso't damdamin
+
+'Wag ka mag-alala
+Ikaw lang ang iibigin
+Iniingatang pag-ibig
+Tanging alay sa iyo
+
+Mga ala-ala mo'y saya sa damdamin
+Puso'y dumadalangin
+Pag-ibig sana'y tanggapin
+Mga ala-ala mo'y kay sarap isipin
+...
+
+",MusixMatch
 24,145996582,Sundo,Moira Dela Torre,[14],['Pop'],"Kay tagal kong sinusuyod
 Ang buong mundo
 Para hanapin
@@ -956,7 +992,7 @@ Maghihintay sayo'ng sundo
 (Asahan mo)
 Handa na sa liwanag mo
 Sinuyod ang buong mundo
-Maghihintay sayo'ng sundo"
+Maghihintay sayo'ng sundo",
 25,45216279,Ang Parokya,Parokya Ni Edgar,"[1133, 1257, 14]","['Pop/Rock', 'Original Pilipino Music', 'Pop']","Dalawang dekada na pala tayong naglolokohan
 At tulad ng sinabi ko noon walang iwanan
 At kahit na anong mangyari, pare steady ka lang
@@ -1032,7 +1068,7 @@ Ang Diyos ay marunong humasa
 'di ba halata na binasbasan ng Bathala 'sing tibay ng Narra
 'di natakot mangarap pakinggan niyo'ng Harana
 Mga kapatirang pariwara na inararo ng drama
-Itaga niyo na sana sa bato at mangako na habambuhay magsasama"
+Itaga niyo na sana sa bato at mangako na habambuhay magsasama",
 26,152652465,"Susi (From the Film ""GOYO - Ang Batang Heneral"")",Ben&Ben,[14],['Pop'],"Ika'y nakulong sa maling pag-iisip
 Pangarap mo raw mananatiling isang panaginip
 Sabi nila di raw kakayanin
@@ -1074,7 +1110,7 @@ Balikan kung bakit ba nagsimula
 Bago mo sabihin na ayaw mo na
 Huwag mong sosolohin
 Di ka mag-isa
-Ikaw pa rin ang susi sa takbo ng iyong tadhana"
+Ikaw pa rin ang susi sa takbo ng iyong tadhana",
 27,170029094,Sampaguita,Ben&Ben,[14],['Pop'],"
 
 Sa pag-agos ako'y magpapatangay sa kawalan
@@ -1111,8 +1147,20 @@ Makakailag ba sa mga balang naligaw? (Sampaguita)
 
 Makakailag ba sa mga balang naligaw?
 Makakailag ba sa mga balang naligaw?
-"
-28,170029091,Mitsa (Salamat),Ben&Ben,[14],['Pop'],
+",
+28,170029091,Mitsa (Salamat),Ben&Ben,[14],['Pop'],"Kay sarap bumalik sa mga masasayang alaala
+Mailap na pag-ibig nating akala ay pinagpala
+Ngunit 'di nagtagal ay nawala
+Paulit-ulit na lang, inaabangang magkamali
+
+'Pag wala na naman tayong nararamdaman
+Ay mabuti pang itigil na'ng kunwa-kunwari lang
+'Pag wala na naman din itong pupuntahan
+Ay mabuti pang sabihin na'ng salamat
+Salamat
+...
+
+",MusixMatch
 29,40717240,Ikaw Lang Ang Mamahalin,Sarah Geronimo,[14],['Pop'],"Sa bawat pag-ikot ng ating buhay
 May oras kailangan na maghiwalay
 Puso'y lumaban man walang magagawa
@@ -1126,8 +1174,20 @@ Saan ka, kailan ka muling mahahagkan
 Magkulang man sa atin itong sandali
 Alam ko na tayo'y magkikitang muli
 Hangga't may umaga pa na haharapin
-Ikaw lang ang mamahalin"
-30,159957309,Magtanim Ay Di Biro,Lea Salonga,"[1204, 14]","['Asia', 'Pop']",
+Ikaw lang ang mamahalin",
+30,159957309,Magtanim Ay Di Biro,Lea Salonga,"[1204, 14]","['Asia', 'Pop']","Magtanim ay 'di biro
+Maghapong nakayuko
+'Di naman makatayo
+'Di naman makaupo
+
+Braso ko'y namamanhid
+Baywang ko'y nangangawit
+Binti ko'y namimitig
+Sa pagkababad sa tubig
+
+...
+
+",MusixMatch
 31,148619112,Baka Sakali,Sarah Geronimo,[14],['Pop'],"
 
 Minsan lang ako nagkakaganito
@@ -1173,7 +1233,7 @@ Oh nagbabakasakali
 Oh nagbabakasakali
 Oh nagbabakasakali
 Oh oh nagbabakasakali
-"
+",
 32,114797568,Josephine,Yeng Constantino,[14],['Pop'],"Josephine walang kadala-dala
 Josephine na naman ay lumuluha
 Kulang pa ba ang sugat mo
@@ -1206,7 +1266,7 @@ Gusto ng huminto ngunit puso ko’y nag-aabang
 Na isang araw malaman mo
 Pag-ibig ko irog ay totoo
 At tayo’y sa isat-isa
-Josephine Walang kadala-dala…"
+Josephine Walang kadala-dala…",
 33,96727021,Home,Moira Dela Torre,[14],['Pop'],"Maraming beses nang nangarap sa bituin
 Pasko-pasko na lang
 Kaw ang aking hiling
@@ -1256,7 +1316,7 @@ Home
 Home
 Home
 Home
-Are you coming home?"
+Are you coming home?",
 34,148619119,Dahilan,Sarah Geronimo,[14],['Pop'],"
 
 Sinubukan ko namang itago
@@ -1313,7 +1373,7 @@ Hanggang sa dapithapon, ikaw ang dahilan
 Bukas o kahapon, ikaw ang dahilan
 Taon taon at ngayon, ikaw ang dahilan
 Ikaw ang dahilan
-"
+",
 35,145996576,Sabi-Sabi,Moira Dela Torre,[14],['Pop'],"Kaya mo bang panindigan lahat ng sinasabi
 Bato-bato sa langit
 Kung aalis lang ba't sinimulan
@@ -1346,7 +1406,7 @@ Magsisisi man sa huli
 Wala nang mangyayari kasi ang kita sa bula mawawala lang rin
 Magsisisi ba sa huli kundi ka patawarin
 Kundi mo kayang tuparin bakit pa sasabihin?
-Shhh..."
+Shhh...",
 36,115357736,"Si Aiza, Si Norma, At Si Jen",Parokya Ni Edgar,[14],['Pop'],"Aiza, nang makilala ka
 Di ko maipinta Galak na nadarama
 
@@ -1360,7 +1420,7 @@ Jen, ikaw na talaga Kahit san magpunta Gabi, tanghali, umaga Wala nang iba Ikaw 
 Si aiza, si norma, at si jen
 Si aiza, si norma, at si jen
 Si aiza, si norma, at si jen
-Si aiza, si norma, at si jen"
+Si aiza, si norma, at si jen",
 37,36175012,Waray Waray,Lea Salonga,"[11, 14, 19, 1204]","['Jazz', 'Pop', 'World', 'Asia']","Waray Waray hindi tatakas
 Waray Waray handang matodas
 Waray Waray bahala bukas
@@ -1384,7 +1444,7 @@ Kapag hinamon ng away.
 Waray Waray sadyang di siya tatakas
 Waray Waray handa nang matodas
 Waray Waray bahala na bukas
-Waray Waray manigas!"
+Waray Waray manigas!",
 38,114754166,Sariling Awit Natin,Lea Salonga feat. Bamboo & Sarah Geronimo,[14],['Pop'],"
 
 Nagsimula sa isang awit
@@ -1450,7 +1510,7 @@ Ohhhh
 Kay sarap pakinggan
 Kay sarap sabayan
 Lalo pag sariling awit natin
-"
+",
 39,159337120,Kulang Ako Kung Wala,Erik Santos feat. Sarah Geronimo,[14],['Pop'],".Nag-iisa at hindi mapakali
 Ibang-iba pala pag wala ka sa aking tabi
 Pinipilit kong limutin ka
@@ -1478,8 +1538,16 @@ Sa puso ko'y wala kang kapalit
 Repeat Refrain
 Ooohh...
 Repeat Refrain
-Kulang ako, kulang ako kung wala ka"
-40,159957304,Paruparong Bukid,Lea Salonga,"[14, 19, 1204]","['Pop', 'World', 'Asia']",
+Kulang ako, kulang ako kung wala ka",
+40,159957304,Paruparong Bukid,Lea Salonga,"[14, 19, 1204]","['Pop', 'World', 'Asia']","Paruparong bukid na lilipad-lipad
+Sa gitna ng daan papaga-pagaspas
+Isang bara ang tapis
+Isang dangkal ang manggas
+Ang sayang de kola
+Isang piyesa ang sayad
+...
+
+",MusixMatch
 41,34044027,Pati Ang Pangarap Ko,Sarah Geronimo,[14],['Pop'],"Ikaw ang lahat, sa buhay ko't sa puso kong ito
 At laging tapat na iibigin ka kailan pa man
 Hanggang wakas tangi kang nag-iisa
@@ -1510,7 +1578,7 @@ Ay guguho lahat, pati ang pangarap ko ohh
 
 Sana ay hindi ka magbago
 Dahil pag ikay naglaho sa buhay ko
-Ay guguho lahat, pati ang pangarap ko ohh"
+Ay guguho lahat, pati ang pangarap ko ohh",
 42,45423382,Bumalik Ka Na Sa'kin,Silent Sanctuary,"[1257, 1256, 14]","['Original Pilipino Music', 'Pinoy Pop', 'Pop']","Magaan na ba ang 'yong paghinga
 Bumalik ka na sa'kin
 Klaro na ba ang isip sinta
@@ -1556,7 +1624,7 @@ Sige na please
 Bumalik ka na sa'kin
 Sorry mahal
 Bumalik ka na sa'kin
-Bumalik ka na sa akin"
+Bumalik ka na sa akin",
 43,145996584,Titibo-Tibo,Moira Dela Torre,[14],['Pop'],"Elementary pa lang, napapansin na nila
 Mga gawi kong parang hindi pambabae eh kasi
 Imbes na chinese garter, laruan ko ay teks at jolens
@@ -1666,7 +1734,7 @@ And the woman in me is awakened
 Just like a blooming flower
 Because you care for it with water and sufficient
 Light of your everyday love
-That makes my life sweet"
+That makes my life sweet",
 44,73106500,Sa'yo,Silent Sanctuary,[14],['Pop'],"Minsan oo minsan hindi
 minsan tama minsan mali
 umaabante umaatras
@@ -1709,7 +1777,7 @@ dahil handa akong ibigin ka
 kung maging tayo
 kung maging tayo
 kung maging tayo
-sa'yo na ang puso ko"
+sa'yo na ang puso ko",
 45,45423384,Meron Nang Iba,Silent Sanctuary,"[1256, 14]","['Pinoy Pop', 'Pop']","Mahirap bang pumili at magpasya?
 Hindi ba dapat mahal mo'ng mauuna?
 Kaya ngayon 'di na kita makilala
@@ -1744,7 +1812,7 @@ Sa araw na umuwi ka
 Meron na akong iba
 Meron ka akong iba
 Meron ka na bang iba?
-Meron na akong iba"
+Meron na akong iba",
 46,167996024,Tadhana,Regine Velasquez,[14],['Pop'],"
 
 Sa hindi inaasahang
@@ -1788,8 +1856,25 @@ At bilang kanlungan mo
 Ako ang sasagip sa 'yo...
 
 Ako ang sasagip sa 'yo
-"
-47,162038950,Sa Dulo Ng Walang Hanggan (Sa Ngalan Ng Pag-Ibig Piano Version),December Avenue,[14],['Pop'],
+",
+47,162038950,Sa Dulo Ng Walang Hanggan (Sa Ngalan Ng Pag-Ibig Piano Version),December Avenue,[14],['Pop'],"Hanggang kailan ako maghihintay na para bang wala nang papalit sayo?
+Nasa'n ka man
+Sigaw ng puso ko'y ikaw hanggang ngayon
+
+Kung sana lamang ay nakita mo ang lungkot sa'yong ngiti
+Isang umagang 'di ka nagbalik
+Gumising ka at nang makita mo
+Ang tamis ng sandali ng kahapong 'di magbabalik
+
+Hanggang sa dulo ng ating walang hanggan
+Hanggang ang puso'y wala ng nararamdaman
+Kahit matapos ang magpakailan pa man
+Ako'y maghihintay sa ngalan ng pag-ibig
+
+Hanggang kailan ako maghihintay na para bang walang iba sa piling mo?
+...
+
+",MusixMatch
 48,78263442,Dito Ka Lang Sa Tabi,Yeng Constantino,"[14, 10]","['Pop', 'Singer/Songwriter']","
 
 Wag kang ganyan,
@@ -1872,7 +1957,7 @@ Saking [x4]
 Dito ka lang sa tabi
 Dito ka nga ah...
 Dito ka lang sa tabi...
-"
+",
 49,145996583,Torete,Moira Dela Torre,[14],['Pop'],"Sandali na lang
 Maari bang pagbigyan
 Aalis na nga
@@ -1898,8 +1983,26 @@ Pero salamat na rin at nagtagpo
 Torete, torete, torete ako
 Torete, torete, torete sa 'yo
 
-(Repeat refrain)"
-50,145996581,Marco's Theme - Saglit,Moira Dela Torre,[14],['Pop'],
+(Repeat refrain)",
+50,145996581,Marco's Theme - Saglit,Moira Dela Torre,[14],['Pop'],"Malayo man ang distansya
+'Di man marinig
+Ang boses mong aking nakasanayan
+Pipikit nalang muna
+At papagalingin
+Ang mga mata sa kaluluha
+At hihinga ng malalim
+At papakalmahin ang patalim
+Tapos na ang laban
+
+Salamat sa saglit
+Salamat sa sakit
+Ako'y 'di magsisisi
+Kahit 'di ka na sa akin
+Kung bukas man ako ay lilingon
+
+...
+
+",MusixMatch
 51,78263444,Ferris Wheel,Yeng Constantino,"[14, 10]","['Pop', 'Singer/Songwriter']","Meron siyang di nalalaman sa akin
 Takot man ako sa heights
 Walang magagawa dahil nandito na
@@ -1930,7 +2033,7 @@ Sa piling mo ay nalulula
 Unti-unti ring nasasanay
 Sa piling mo ay nalulula
 Ngunit parang ayoko na yatang bumaba
-Bumaba, bumaba, bumaba"
+Bumaba, bumaba, bumaba",
 52,78264198,Una't Huling Pag-Ibig,Yeng Constantino,"[14, 10]","['Pop', 'Singer/Songwriter']","Ikaw ang una't huling
 Pag-ibig ng buhay ko
 Kaytagal mang naghintay
@@ -1954,8 +2057,28 @@ Sinlinaw ng langit na bughaw
 Hanggang sa dulo ako at ikaw
 Iginuhit na ng tadhana
 Na tayong dalawa ay maging isa
-Una't huling pagibig ko"
-53,130181220,Sa'yo,KZ Tandingan,[14],['Pop'],
+Una't huling pagibig ko",
+53,130181220,Sa'yo,KZ Tandingan,[14],['Pop'],"Kayrami bang nagpapalipad sa hangin
+Ngunit ni isa, walang kasing katulad mo
+Kung tumama tingin sa akin pa'no sasabihin
+Pagkakataon ay huwag palipasin
+Ikaw ay aking paiibigin, ohh
+
+Tila may bumubulong sa damdamin, ohh
+Ako'y sa'yo, para sa'yo
+Ikaw lang talaga'ng panaginip
+Doon ako'y samahan mo
+Habang puso ko ay umaawit
+Sa'yo, sa'yo, sa'yo
+
+Masyado na ba akong nahahalata
+Obvious na obvious, natataranta
+Pinagpapawisan at nakanganga
+'Di makatitig sa'yong mga mata
+
+...
+
+",MusixMatch
 54,114708988,Mahirap Magmahal Ng Syota Ng Iba (Live),Yeng Constantino,[14],['Pop'],"Mahirap talagang magmahal ng syota ng iba
 Hindi mo mabisita kahit okey sa kanya
 Mahirap oh mahirap talaga
@@ -1981,7 +2104,7 @@ Oh sakit ng ulo maniwala ka
 Ngunit kahit ano pang sabihin nila
 Iwanan siya'y di ko magagawa
 Iwanan siya'y di ko magagawa
-Iwanan siya'y di ko magagawa"
+Iwanan siya'y di ko magagawa",
 55,114797565,Hahanapin Kita,Yeng Constantino,[14],['Pop'],"Hahanapin kita
 Kahit san napunta
 Kung ikaw ang sagot
@@ -2028,7 +2151,7 @@ Kahit pa ang harapin
 Hahanapin kita ahhh...
 Hahanapin kita ahhh...
 Hahanapin kita ahhh...
-Hahanapin kita ahhh..."
+Hahanapin kita ahhh...",
 56,180870401,Dulo,Sarah Geronimo,[14],['Pop'],"Da da da ra dam da da ra dam da da ra dam
 Da da da ra dam da da ra dam da da ra dam
 Nakatingin sa malayo
@@ -2084,8 +2207,24 @@ Narating na ba?
 Narating na ba natin ang Dulo?
 Ang Dulo, Ang Dulo...
 Da da da ra dam da da ra dam da da ra dam
-Da da da ra dam da da ra dam da da ra dam"
-57,115357746,O Inday - Isang Munting Harana Ni Gardo Sa Maid Ni Mr. Lim,Parokya Ni Edgar,[14],['Pop'],
+Da da da ra dam da da ra dam da da ra dam",
+57,115357746,O Inday - Isang Munting Harana Ni Gardo Sa Maid Ni Mr. Lim,Parokya Ni Edgar,[14],['Pop'],"Isang munting harana ni Gardo
+Sa maid ni Mr. Lim
+
+Meron kakaibang nadarama
+Kapag nakita kay anong saya
+Sa tuwing iirap ang iyong mga mata
+Lumiliwanag ang mundo sayong ganda
+
+Kay tamis ng yong mga ngiti
+Pang-komercial ng Datu Puti
+At kahit na ang ngipin mo'y medjo sungki
+Ang yong halik ang syang minimithi
+
+Oh, Inday ako ay nabighani
+...
+
+",MusixMatch
 58,115357739,Lagi Mong Tatandaan,Parokya Ni Edgar,[14],['Pop'],"Lagi Mong Tatandaan
 (Parokya ni Edgar)
 
@@ -2138,7 +2277,7 @@ gagawin lahat ng paraan upang makamtan ka
 at hindi niya kakayanin na ikaw mawala
 
 Basta't lagi mong tatandaan
-na pag umibig ang isang lalake ay handa itong hamakin ang lahat gagawin lahat paraan upang makamtan ka at hindi niya kakayanin na ika'y mawala sa kaniya"
+na pag umibig ang isang lalake ay handa itong hamakin ang lahat gagawin lahat paraan upang makamtan ka at hindi niya kakayanin na ika'y mawala sa kaniya",
 59,167996035,Hugot,Regine Velasquez,[14],['Pop'],"Bakit bigla ka na lang naglaho
 Ni walang pasabi
 Di ko man lang natanong
@@ -2193,7 +2332,7 @@ Di ko na mababago
 Itinakda ng panahon
 Isang buntong hininga't
 Isang malalim na hugot
-Hugot."
+Hugot.",
 60,152663476,May Forever,Ysabelle Cuevas,[14],['Pop'],"Nagsimula ang lahat sa pag titig
 Na tumagal lagpas sa isang segundo
 Isip ko'y umiikot sa'yo
@@ -2259,7 +2398,7 @@ May forever
 sa lahat ng 'to
 Ba't kaya tayo wala
 lalalalalallalalalalala...
-la la la la la la la la la la la la la"
+la la la la la la la la la la la la la",
 61,40717243,Tao,Sarah Geronimo,[14],['Pop'],"Tulad ng isang ibon
 Tao ay lumilipad
 Pangarap ang tanging nais
@@ -2291,7 +2430,7 @@ Sa mundong makasalanan
 Tulad ng isang ibon
 Tao rin ay namamatay
 Pangarap ang tanging nais
-Makarating sa kabilang buhay"
+Makarating sa kabilang buhay",
 62,147582714,Dasal,Yeng Constantino,"[14, 20]","['Pop', 'Alternative']","Ang daming tanong sa aking isipan
 Na 'di alam kung saan huhugutin ang sagot
 Sa libu-libong mga bagay kumakatok
@@ -2336,7 +2475,7 @@ Kumakatok
 (Sa aking isipan, ikaw lang ang kailangan)
 Sa iyong pinto
 (Sa aking isipan, ikaw lang ang kailangan)
-Yakapin mo ang puso ko"
+Yakapin mo ang puso ko",
 63,147582711,Kulang,Yeng Constantino,[14],['Pop'],"Iniisip mo na 'di ka, hindi ka sasapat
 Dahil sa gusto niyang babae, 'di ka, 'di ka makatapat
 Balingkinitang katawan
@@ -2389,7 +2528,7 @@ Wala sayong kulang
 Kulang
 May makakakita sa tunay mong ganda
 Basta alam mo sa loob ng puso
-Wala sayong kulang"
+Wala sayong kulang",
 64,19894410,Messiah,Yeng Constantino,[14],['Pop'],"Pasensya na di ako makangiti
 Umiinit ang ulo palagi
 Di kita maintindihan
@@ -2420,7 +2559,7 @@ Papalayain ka..
 Sasagipin kita
 Kung kaya ko lang sana
 Pero di ako Messiah
-Pero di ako Messiah"
+Pero di ako Messiah",
 65,115357747,Ngayong Wala Ka Na,Parokya Ni Edgar,[14],['Pop'],"
 
 Hindi na masarap mag ice cream
@@ -2470,7 +2609,7 @@ Ayoko nang magbanda
 Ngayong wala ka na
 Ayoko nang kumanta
 Ngayong wala ka na
-"
+",
 66,45216307,Salamat Po,Parokya Ni Edgar,"[1133, 1257, 14]","['Pop/Rock', 'Original Pilipino Music', 'Pop']","Masarap tumunganga
 Halika na
 Parang blessing kung wala kang
@@ -2499,7 +2638,7 @@ Alam konang ikaw ay totoo
 Kung sino man kayo
 Kung nasan man kayo
 Kung sino man kayo
-Salamat po"
+Salamat po",
 67,148619116,Hingang Malalim,Sarah Geronimo,[14],['Pop'],"
 
 Tahimik ang aking paligid
@@ -2545,7 +2684,7 @@ Kailangan mo nang huminto
 Parating na ang dapit-hapon
 Manalangin, mag-pahinga, pumikit
 Hingang malalim
-"
+",
 68,115357735,Friendzone Mo Mukha Mo,Parokya Ni Edgar,[14],['Pop'],"Meron akong gusto sayo
 Pasensya na ngunit yan ang totoo
 At di yun magbabago kahit na itago ko
@@ -2616,7 +2755,7 @@ Pasensya na ngunit yan ang totoo
 At di yun magbabago kahit na itago ko
 Kaya mas mabuti ng malaman mo
 
-Mas mabuti ng malaman mo."
+Mas mabuti ng malaman mo.",
 69,45423381,Abot Langit,Silent Sanctuary,"[1256, 14]","['Pinoy Pop', 'Pop']","Lumiwanag bagong araw
 Dahan dahang natutunaw
 Ang aking damdamin
@@ -2637,7 +2776,7 @@ Lahat ng kulang napuno
 Binuhay mo ang natulog kong puso
 Di akalain manunumbalik kung pano mag mahal
 Kung pano masabik natuyo ang luha
-Dahil na jan ka na"
+Dahil na jan ka na",
 70,155470122,Tahimik (Radio Edit),Yeng Constantino,[14],['Pop'],"English Translation Below
 
 Tagalog
@@ -2704,8 +2843,18 @@ Instead of hearing from you that
 You can't love someone like me
 My love will just keep quiet
 For you
-I will just keep quiet"
-71,43965905,Payapang Daigdig,Regine Velasquez,"[14, 8]","['Pop', 'Holiday']",
+I will just keep quiet",
+71,43965905,Payapang Daigdig,Regine Velasquez,"[14, 8]","['Pop', 'Holiday']","Ang gabi'y payapa, lahat ay tahimik
+Pati mga tala sa bughaw na langit
+
+Kay hinhin ng hangin, waring umiibig
+Sa kapayapaan ng buong daigdig
+
+Payapang panahon ay diwa ng buhay
+Biyaya ng Diyos sa sangkatauhan
+...
+
+",MusixMatch
 72,85191126,Kahit Di Mo Sabihin(full length),Juris,[14],['Pop'],"Kahit di mo sabihin
 Aking napapansin
 Di na kita pipilitin
@@ -2747,8 +2896,21 @@ Walang magagawa kung ayaw mo na
 Paano na
 Di ko kayang mag-isa
 Paano na
-Di ko kayang mag-isa"
-73,114769656,'Pag Napagod Ang Puso,Erik Santos,[14],['Pop'],
+Di ko kayang mag-isa",
+73,114769656,'Pag Napagod Ang Puso,Erik Santos,[14],['Pop'],"Pag Napagod Na Ang Puso – Erik Santos
+
+Di nga ba't halos tayo nang dalawa
+Bigla kang nag iba
+Mula nung dumating sya
+At kahit napilitan at ikaw ay layuan
+Kalian man ay hinding hindi kita iniwan
+
+Ilang ulit muna syang iniyakan
+Masakit sa akin na makita kang nasasaktan
+At pag napagod na ang puso mo nandito lang ako
+...
+
+",MusixMatch
 74,114547735,Prom,Ebe Dancel feat. Yeng Constantino,[14],['Pop'],"Nanginginig na mga kamay
 puso kong hindi mapalagay
 pwede ba kitang tabihan
@@ -2794,7 +2956,7 @@ bibitaaaaaw...
 Para bang wala tayong katabi
 At tayo'y sumayaw (At tayo'y sumayaw)
 Na parang di na tayo
-bibitaaaaaw... bibitaaaaaaaw... bibitaaaaaw. ooooh ooh"
+bibitaaaaaw... bibitaaaaaaaw... bibitaaaaaw. ooooh ooh",
 75,137574770,Huling Harana,Christian Bautista,[14],['Pop'],"Wala na yata talagang makitang pag-asa
 Wala na ring oras para isalba
 Ang pag-ibig na dati atin ngayon ay alaala
@@ -2820,7 +2982,7 @@ Hindi mo na kailangang mag-isip at maawa
 Alam ko naman na hindi ka na hindi na masaya
 Kaya ito ang huli ito nang aking huling
 Ito ang huli ito nang aking huling
-Harana…"
+Harana…",
 76,121598755,'Di Na Kita Mahal,Hazel Faith feat. Michael Pangilinan,[14],['Pop'],"Mmm
 Hohh
 Mmm
@@ -2873,7 +3035,7 @@ Sarado na (Sarado na)
 Sarado, sarado na
 Sarado na, hoh-hoh
 Mmm, 'di na kita mahal ('Di na kita mahal)
-Masaya na ako"
+Masaya na ako",
 77,15566113,Kahit Konti,Yeng Constantino,[14],['Pop'],"Maari bang, maari bang umusog-usog ng konti
 Hatihati dahil masyadong masikip ang upuan
 At kung iyong kausapin, ako nama'y hindi maselan
@@ -2900,7 +3062,7 @@ Subalit kung tutuusin, iisa ang dahilan
 Kaibigan, ayaw nilang umusog ng kahit konti
 At kung iyong kausapin, ako nama'y hindi maselan
 At payag matabihan umusog lang
-Kahit konti"
+Kahit konti",
 78,167996025,Bakit Ako Mahihiya,Regine Velasquez,[14],['Pop'],"
 
 Bakit ako mahihiya?
@@ -2932,7 +3094,7 @@ Ang syang tanging aliw sa buhay
 Pagkat kita'y minamahal
 
 Pagkat kita'y minamahal
-"
+",
 79,160704209,Paano Ba Ang Magmahal,Erik Santos feat. Yeng Constantino,[14],['Pop'],"Heto na naman ako
 Nag-aabang ng bago sa istorya ko
 Paulit-ulit na lang
@@ -2997,7 +3159,7 @@ Umiiyak na lang palagi
 Lagi na lang di maaari
 Umiiyak na lang palagi
 Lagi na lang di maaari
-Ngunit ayaw lumisan."
+Ngunit ayaw lumisan.",
 80,147582712,Pagpaparaya,Yeng Constantino,[14],['Pop'],"Sasayangin pa ba ang oras
 Hahawakan pa ba ang yong kamay
 Meron maliwanag na oras
@@ -3024,7 +3186,7 @@ Wag na natin paasahin pa
 Kung di rin natin kayang paninidigan humingin
 Na lang ng tawad sa hanganan at tuluyan
 Na tayong magpaalam at tuluyan
-Na tayong magpaalam"
+Na tayong magpaalam",
 81,115357745,Ulan,Parokya Ni Edgar,[14],['Pop'],"
 
 Nagsimula ng bumuhos ang ulan
@@ -3077,7 +3239,7 @@ May tama na nga ba ako? Oh! Oh!
 May tama na nga ba ako? Oh woh oh! [x3]
 
 May tama na nga ba?
-"
+",
 82,148480429,Bulong,December Avenue,[14],['Pop'],"Hindi masabi ang nararamdaman
 Hindi makalapit sadyang nanginginig na lang
 Mga kamay na sabik sa piling mo
@@ -3108,7 +3270,7 @@ Ikaw ang ilaw sa dilim at ang liwanag ng mga bituin
 
 Ng mga bituin
 Ng mga bituin
-Ng mga bituin"
+Ng mga bituin",
 83,84398325,Tala,Sarah Geronimo,[14],['Pop'],"Tala, tala, tala...
 Ang ningning ng mga tala'y nakikita ko sa'yong mga mata
 Tala, tala, tala...
@@ -3170,7 +3332,7 @@ Ang ningning ng yong mga mata'y nahanap ko sa mga tala
 Ohhh... (Ohhh...) Ohhh... (Ohhh...)
 Ang ningning ng mga tala'y nakita ko sa'yong mga mata...
 Nakita ko sa'yong mga mata.
-Ang ningning ng yong mga mata'y nahanap ko sa mga tala..."
+Ang ningning ng yong mga mata'y nahanap ko sa mga tala...",
 84,180870396,Kilometro,Sarah Geronimo,[14],['Pop'],"Gagawin ko ang lahat upang sa huli, sa huli
 Sa huli ay tayo
 Kung kailangan kong tahakin ang kilome, kilome
@@ -3231,7 +3393,7 @@ Kilome, kilome, kilometrong layo
 Woo... Oh...
 Kilome, kilome, kilometrong layo
 Oh... Woo... Oh... Ahh...
-Kilome, kilome, kilometrong layo"
+Kilome, kilome, kilometrong layo",
 85,167662811,Huling Sandali (Tayo Sa Huling Buwan Ng Taon Official Soundtrack),December Avenue,[14],['Pop'],"Hindi mapigil ang bugso ng aking puso
 Sa tuwing ako'y papalapit sa'yo
 Maaari bang hingin ang iyong kamay
@@ -3276,9 +3438,46 @@ Na hindi na para sa 'tin
 Kahit sandali, patawarin ang pusong 'di tumigil
 Para sating dal'wa
 Ang maling pagkakataon
-Na ika'y magiging akin"
-86,159958290,Itutulog Na Lang,The Juans,[14],['Pop'],
-87,164828865,Magkunwari ('Di Man Tayo) [TODA One I Love Official Soundtrack],December Avenue,[14],['Pop'],
+Na ika'y magiging akin",
+86,159958290,Itutulog Na Lang,The Juans,[14],['Pop'],"Itutulog na lang
+Ang lungkot na nadarama
+Itutulog na lang
+Bigat na dinadala
+
+Gabi-gabi
+Hindi mapakali
+Hinahanap-hanap ang iyong lambing
+Hinahanap-hanap ka sa 'king tabi
+
+Paano na?
+Sa isip, 'di mawala
+Mga sandali na ikaw ay kasama
+Bawat sandali ay nais kang makita
+
+Itutulog na lang
+Ang lungkot na nadarama
+Itutulog na lang
+...
+
+",MusixMatch
+87,164828865,Magkunwari ('Di Man Tayo) [TODA One I Love Official Soundtrack],December Avenue,[14],['Pop'],"Kumusta na?
+Hindi mo ba nakikitang wala akong mabibigay sa'yo
+Kundi ang pusong nangungulila
+At hindi susuko kahit anong sabihin mo
+
+Isipin man nilang ito'y mali
+Basta't nandito ka sa'king tabi
+
+'Di man tayo ay magkunwari
+Sabihin man nilang pag-ibig natin ay mali
+Hindi man tayo ay magkunwari
+Baka sakali lang, sabihin mong ako'y mahal mo rin
+
+Halika na
+Hindi ko kakayaning mag-isa
+...
+
+",MusixMatch
 88,160011873,Kung Ako Na Lang Sana,December Avenue,[14],['Pop'],"Heto ka na naman kumakatok saking pintuan
 Muling naghahanap ng makakausap
 At heto naman ako nakikinig sa mga kwento mong paulit-ulit lang
@@ -3317,7 +3516,7 @@ Kung ako na lang sana ang 'yong minahal
 'Di ka na muling luluha pa
 'Di ka na mangangailangan pang humanap ng iba
 Narito ang puso ko naghihintay lamang sayo
-Kung ako na lang sana"
+Kung ako na lang sana",
 89,151523213,Paalam,Silent Sanctuary,[14],['Pop'],"Paalam na sa ating
 Pag-ibig na minsa'y pinag-isa
 Paalam na sa mga pangakong
@@ -3356,7 +3555,7 @@ Paalam na sa mga pangakong
 Paalam na (Paalam na)
 Paalam na (Paalam na)
 Paalam na (Paalam na)
-Paalam na (Paalam na)"
+Paalam na (Paalam na)",
 90,43136043,Sino Nga Ba Siya,Sarah Geronimo,[14],['Pop'],"'Di ko inisip na mawawala ka pa
 Akala ko'y panghabang-buhay na kapiling ka
 Lahat na yata 'binigay para sa 'yo
@@ -3389,7 +3588,7 @@ At pag-ibig ay 'binigay sa'yo
 Sino nga ba siya't iniwan mo
 Liniwan mong bigo ang tulad ko
 May pagkukulang ba ako't
-Nagagawang saktan ang puso ko..."
+Nagagawang saktan ang puso ko...",
 91,72465125,Susan,Mayonnaise,"[20, 14]","['Alternative', 'Pop']","
 
 Susan
@@ -3420,7 +3619,7 @@ Di na ko aasa pang muli (sa'yo)
 Di na ko aasa pang muli (sa'yo)
 Di na ko aasa pang muli (sa'yo)
 Sa'yo
-"
+",
 92,43329172,"Hindi Na Magbabago (From ""Kahit Puso'y Masugatan"") (Remastered)",Erik Santos,[14],['Pop'],"Hindi mapaliwanag ng makilala ka
 May binulong ang hangin nagsasabing ikaw na nga
 Ang ngayon at ang bukas
@@ -3442,8 +3641,21 @@ Tila yata kulang ang bilang ng bituin
 Galing ka sa langit nahulog sa akin
 Kahit pa bumuhos ang ulan
 Mananatiling nararamdaman
-Hindi magbabago ang puso ko"
-93,116062255,Ilang Pasko Pa Ba,Juris,"[1080, 14]","['Christmas', 'Pop']",
+Hindi magbabago ang puso ko",
+93,116062255,Ilang Pasko Pa Ba,Juris,"[1080, 14]","['Christmas', 'Pop']","Pasko nanaman
+At parang kailan lang
+Kasa-kasabay na naglalakad sa daan
+Mag-kahawak ang kamay
+Tila ayaw na tayong mag-hiwalay
+Ngayo'y ala-ala na lang
+Pasko nanaman
+Hinahanap-hanap pa rin kita
+Pasko nanaman
+Hindi ka ba ngayo'y nag-iisa?
+Ako ba'y iniisip mo pa?
+...
+
+",MusixMatch
 94,114724404,Patuloy Ang Pangarap - Alternate Version of Minus One,Angeline Quinto,[14],['Pop'],"'Di pa rin makapaniwala
 Sa lahat ng nangyayari
 Pangarap parang kailan lang
@@ -3465,8 +3677,20 @@ Nagbigay ng kalakasan upang marating ang isang pangap akoy naniniwal ako ay lili
 Kahit saan, kahit kailan
 Alam kong ako'y patungo
 Sa marami pang tagumpay
-Patuloy ang Pangarap..."
-95,114769653,"Sana Naman, Sana Na Nga",Erik Santos,[14],['Pop'],
+Patuloy ang Pangarap...",
+95,114769653,"Sana Naman, Sana Na Nga",Erik Santos,[14],['Pop'],"I.
+Alam kung minamahal mo ako ng buong tapat
+Inaamin na nagkulang at ginawa ay di dapat
+Sinaktan ng puso mong sa akin ay sadyang tapat
+Ngayon nangungulila sa iyong halik at yakap
+
+II.
+Sana naman, sana naman ikaw ang kapiling
+Sana naman, sana naman ako ay pansinin
+Alam kung mayroong ng ibang iniibig
+...
+
+",MusixMatch
 96,114769649,Takbo Ng Mundo,Erik Santos,[14],['Pop'],"
 
 Minsan kung alin ang di mo ninanais
@@ -3513,7 +3737,7 @@ Di malulumpo sa bigat ng binubuhat
 At masungit ka uulit ka kahit ulit-ulit pang madapa
 Di papatalo tuloy ang takbo ng mundo
 Tuloy ang takbo ng mundo
-"
+",
 97,130181219,Halik Na Lang,KZ Tandingan,[14],['Pop'],"Akala ko din noong una
 Malabo mangyari
 Pero tama pala sila
@@ -3544,7 +3768,7 @@ Wala na yung kakilala ko sa simula
 Ngayon, ang mahigpit na yakap
 Ay yakap na lang
 At ang matamis na halik
-Ay halik na lang"
+Ay halik na lang",
 98,114193484,Tanging Ligaya Ko,Michael Pangilinan,[14],['Pop'],"Nung una tayong nagkita, ako'y nabighani na
 Kala ko ika'y suplada, hindi pala
 Isang araw bigla tayong nagkakuwentuhan
@@ -3579,7 +3803,7 @@ Mundo man ay maglaho walang ibang hiniling
 Kundi ang makapiling ka
 Walang ibang gustong makasama
 Inaalay ko ang buhay ko para sa'yo
-Ikaw ang tanging ligaya ko"
+Ikaw ang tanging ligaya ko",
 99,116158452,"Wag Ka Nang Umiyak (From ""The Trial"")",KZ Tandingan,[14],['Pop'],"Wag ka nang umiyak, sa mundong pabago-bago
 pag-ibig ko ay totoo
 ako ang iyong bangka, kung magalit man ang alon
@@ -3613,7 +3837,7 @@ Kapit ka sa akin
 Kumapit ka sa akin
 Hindi kita bibitawan
 Hindi kita pababayaan
-Hindi kita pababayaan"
+Hindi kita pababayaan",
 100,114724401,Panghabang Panahon - Minus One,Angeline Quinto,[14],['Pop'],"HINDI KO NA NAMALAYAN
 ANG PAGLIPAS NG PANAHON
 PARANG KAILAN LANG
@@ -3646,8 +3870,17 @@ ANG KAMAY NG ORASAN
 PANGARAP KO NA ANG BAWAT SANDALI AY
 PANGHABANG PANAHON
 PANGARAP KO NA ANG BAWAT SANDALI AY
-PANGHABANG PANAHON..."
-101,115754452,Pananagutan,Gary Valenciano,[14],['Pop'],
+PANGHABANG PANAHON...",
+101,115754452,Pananagutan,Gary Valenciano,[14],['Pop'],"Walang sinuman ang nabubuhay para sa sarili lamang
+Walang sinuman ang namamatay para sa sarili lamang
+Tayong lahat ay may pananagutan sa isa't-isa
+Tayong lahat ay tinipon ng Diyos na kapiling nya
+
+Sa ating pagmamahalan at paglilingkod sa kaninuman
+Tayo'y ang magdadala ng balita ng kaligtasan
+...
+
+",MusixMatch
 102,15566115,"Banal Na Aso, Santong Kabayo",Yeng Constantino,[14],['Pop'],"Kaharap ko sa dyip ang isang ale
 Nagrorosaryo mata niya’y nakapikit
 Pumara sa may kumbento
@@ -3682,7 +3915,7 @@ Banal na aso, santong kabayo
 Natatawa ako hihihihi
 Banal na aso, santong kabayo
 Natatawa ako hihihihi
-Sa ‘yo"
+Sa ‘yo",
 103,45423383,Sama-Sama,Silent Sanctuary,[14],['Pop'],"Kumpeto na ba ang dadalhin?
 Magdouble check baka may kailangan pang bitbitin
 Konti na lang at tayo'y babyahe na
@@ -3723,7 +3956,7 @@ Sayaw sa tag-araw
 Walang humpay hanggang umaga
 Sama-sama
 Sama-sama
-Sama-sama..."
+Sama-sama...",
 104,40717246,Malayo Pa Ang Umaga,Sarah Geronimo,[14],['Pop'],"Malayo pa ang umaga
 Kahit sa dilim
 Naghihintay pa rin
@@ -3745,8 +3978,28 @@ Ang pag-asa na walang
 Landas
 Kailan ba darating ang bukas para sa'kin?
 Malayo pa ang umaga
-(Repeat Ref)"
-105,137574771,Luna,Christian Bautista,[14],['Pop'],
+(Repeat Ref)",
+105,137574771,Luna,Christian Bautista,[14],['Pop'],"Mahal kita ngunit mahal mo siya
+Hindi na ba sadyang mag-iiba
+Ang pag-ibig mong
+Dati ko pang inaasam
+Ang tibok ng puso ko sana'y pakinggan
+
+Kung minsan ba'y
+Iyong nadarama
+Pag-ibig kong mas higit sa kanya
+Pwede bang kahit saglit
+Ay malimutan siya
+Kahit sandali lamang
+Ay maging akin ka
+
+Kelan kaya
+Kita makakayakap
+Kelan kaya
+Ako makakahanap
+...
+
+",MusixMatch
 106,147582707,Bakasyonista,Yeng Constantino,[14],['Pop'],"Naaalala ko pa ang sabik na nadarama
 'Pag sasapit na ang mayo, alam kung nandito ka
 Magbabakasyon, makikita ka na
@@ -3777,7 +4030,7 @@ Pasa sa'yo, hanggang ngayo'y ikaw pa rin
 Hindi pa rin nagbabago aking pagtingin
 Mula noong tayo ay bata pa
 Hindi pa rin naglalaho aking damdamin
-Pasa sa'yo, hanggang ngayo'y ikaw pa rin"
+Pasa sa'yo, hanggang ngayo'y ikaw pa rin",
 107,164570735,Ligaya?,This Band,[14],['Pop'],"La la
 La la la la la la
 O kay bilis naman
@@ -3817,7 +4070,7 @@ Ngunit maling sumabit pa
 Konsensya ko ngayon ako'y binabalot na
 Pwede bang bawiin
 Pwede bang humiling
-Sana itong mundo'y ako'y patawarin"
+Sana itong mundo'y ako'y patawarin",
 108,15566108,Mahirap Magmahal Ng Syota Ng Iba,Yeng Constantino,[14],['Pop'],"Mahirap talagang magmahal ng syota ng iba
 Hindi mo mabisita kahit okey sa kanya
 Mahirap oh mahirap talaga
@@ -3843,8 +4096,22 @@ Oh sakit ng ulo maniwala ka
 Ngunit kahit ano pang sabihin nila
 Iwanan siya'y di ko magagawa
 Iwanan siya'y di ko magagawa
-Iwanan siya'y di ko magagawa"
-109,116062254,Paskong Puno Ng Kasiyahan,Juris,"[1080, 14]","['Christmas', 'Pop']",
+Iwanan siya'y di ko magagawa",
+109,116062254,Paskong Puno Ng Kasiyahan,Juris,"[1080, 14]","['Christmas', 'Pop']","I.
+Mahal halika at balikan
+Simula ng ating pagtitinginan
+Di ba pasko noong tayo'y nagkaka-unawaan
+Ang higpit ng hawak sa iyong mga kamay
+Ay pagmamahalan pag-ibig man ay masusubukan
+
+Ngunit tiyak na ito'y malalampasan
+II.
+Ikaw ang nais kasama
+Ngayong pasko'y ipagdiriwang na
+May ngiting masisilayan
+...
+
+",MusixMatch
 110,123571745,"Sana Ikaw (From ""Guns And Roses"")",Erik Santos,[14],['Pop'],"*Originally Performed by Piolo Pascual*
 Ikaw ay dumating bigla
 Sa aking mundo
@@ -3873,7 +4140,7 @@ Sa damdamin
 At aking isipan
 Iguguhit kita sa alaala
 Pagkat tayo ay hanggang
-Panaginip lamang"
+Panaginip lamang",
 111,114708995,"Banal Na Aso, Santong Kabayo (Live)",Yeng Constantino,[14],['Pop'],"Kaharap ko sa dyip ang isang ale
 Nagrorosaryo mata niya’y nakapikit
 Pumara sa may kumbento
@@ -3908,7 +4175,7 @@ Banal na aso, santong kabayo
 Natatawa ako hihihihi
 Banal na aso, santong kabayo
 Natatawa ako hihihihi
-Sa ‘yo"
+Sa ‘yo",
 112,85191122,Kahit Di Mo Sabihin,Juris,[14],['Pop'],"Kahit di mo sabihin
 Aking napapansin
 Di na kita pipilitin
@@ -3950,7 +4217,7 @@ Walang magagawa kung ayaw mo na
 Paano na
 Di ko kayang mag-isa
 Paano na
-Di ko kayang mag-isa"
+Di ko kayang mag-isa",
 113,85615082,Sa'yo - Orchestral Version,Silent Sanctuary,[14],['Pop'],"Minsan oo minsan hindi
 minsan tama minsan mali
 umaabante umaatras
@@ -3993,7 +4260,7 @@ dahil handa akong ibigin ka
 kung maging tayo
 kung maging tayo
 kung maging tayo
-sa'yo na ang puso ko"
+sa'yo na ang puso ko",
 114,114193483,Tag-Araw Tag-Ulan,Michael Pangilinan,[14],['Pop'],"Tag-araw, sa may dagat namasyal
 At pagdilim, sa may baybay humimlay
 At naglakad, sabay sa pagsabog ng alon
@@ -4014,7 +4281,7 @@ Nakamtan ko ang pagmamahal mo, sinta
 Ngunit bakit sa ulan ay naglaho?
 'Sing lamig ng gabi ang mga halik mo
 Ni wala ng apoy titig mo sa akin
-Naglalaho ba ang pagmamahal mo, sinta?"
+Naglalaho ba ang pagmamahal mo, sinta?",
 115,151986482,Bitaw Na,This Band,[14],['Pop'],"Laging galit, kada saglit
 Sumasakit, pumapait
 Ang turing mo di na bago
@@ -4054,7 +4321,7 @@ Sige bitaw kung di ikaw
 Ang susuyo pag ako'y
 Nalulungkot iyong limot
 Pangako mo
-Ako'y habang buhay mo"
+Ako'y habang buhay mo",
 116,150531716,Tampisaw,This Band,[14],['Pop'],"Nakatingin sa kalye
 Ambagal pa ng byahe
 Patungo sa ating tagpuan
@@ -4117,8 +4384,20 @@ At kung tayo'y lalagnatin
 Tumakbo palayo
 Taas kamay at hawak mo
 Makikisilong din naman
-O' mag—magkukwentuhan tayo"
-117,115754450,Kailangan Ko'y Ikaw,Gary Valenciano,[14],['Pop'],
+O' mag—magkukwentuhan tayo",
+117,115754450,Kailangan Ko'y Ikaw,Gary Valenciano,[14],['Pop'],"Kailangan ko'y ikaw
+Dito sa piling ko
+Kailangan kong madama
+Ang pag-ibig mo
+
+Sa bawat oras na
+Di ka nakikita
+Para bang kay bigat
+Ng nadarama
+
+...
+
+",MusixMatch
 118,54694190,Dahil Sa'yo Himig Ng Aking Gitara,HALE,[14],['Pop'],"
 
 Nakikiusap, may pangungusap
@@ -4137,7 +4416,7 @@ Pero umiwas ka
 
 Nang dahil sa'yo sa himig ng aking gitara
 Nang dahil sa'yo ako ay malaya na
-"
+",
 119,114658204,Langis at Tubig,Juris,[14],['Pop'],"Tubig at langis
 Ang katayuan nati'y yan ang kawangis
 Pilitin mang magsama'y may mahahapis
@@ -4168,7 +4447,7 @@ Ang dusa sa ligaya sa ating daigdig
 May dasal ba akong hindi niya narinig
 Papel natin sa pag-ibig
 Ako'y langis ika'y tubig...
-Ako'y langis ika'y tubig..."
+Ako'y langis ika'y tubig...",
 120,123571752,"May Bukas Pa (From ""May Bukas Pa"")",Erik Santos,[14],['Pop'],"
 
 Huwag damdamin ang kasawian
@@ -4200,7 +4479,7 @@ Ang iyong pagdaramdam
 Idalangin mo sa Maykapal
 Na sa puso mo ay mawala nang lubusan
 Na sa puso mo ay mawala nang lubusan
-"
+",
 121,45423379,Sa'yo (Orchestra Version),Silent Sanctuary,"[1256, 14]","['Pinoy Pop', 'Pop']","Minsan oo minsan hindi
 minsan tama minsan mali
 umaabante umaatras
@@ -4243,7 +4522,7 @@ dahil handa akong ibigin ka
 kung maging tayo
 kung maging tayo
 kung maging tayo
-sa'yo na ang puso ko"
+sa'yo na ang puso ko",
 122,160219382,Kahit Sa Panaginip,December Avenue feat. Khalil Ramos,[14],['Pop'],"
 
 Bakit di ko mapigilan ang sakit?
@@ -4283,7 +4562,7 @@ Ooh ohh
 Sa panaginip na lang
 Ooh ohh
 Sa panaginip na lang
-"
+",
 123,169903186,Paano Kung,Juris,"[14, 20]","['Pop', 'Alternative']","Hindi ko yata kayang makita kang nahihirapan na
 Pagmamahalan natin di ko alam kung sa'n
 Saan pa papunta
@@ -4312,7 +4591,7 @@ Paano kung ang puso ko'y napagod na
 Hindi ka pa ba susuko
 Hanggang dito na lang ang kaya ko
 Ipaglalaban mo pa ba o kailangan mong sumuko
-Sa ating dalawa"
+Sa ating dalawa",
 124,160748072,Ako'Y Isang Pinoy,KZ Tandingan,[14],['Pop'],"Ako'y isang Pinoy sa puso't diwa
 Pinoy na isinilang sa ating bansa
 Ako'y hindi sanay sa wikang mga banyaga
@@ -4348,8 +4627,29 @@ Pinoy ako sa isip ko't puso ko't diwa
 Sa puso't diwa ako ay pinoy
 Ako'y isang pinoy
 Pinoy ako sa isip ko't puso ko't diwa
-Sa puso't diwa ako ay pinoy..."
-125,159958287,Panaginip,The Juans,[14],['Pop'],
+Sa puso't diwa ako ay pinoy...",
+125,159958287,Panaginip,The Juans,[14],['Pop'],"Dinala mo ako
+Sa mundong 'di magulo
+Araw-araw masaya
+Walang pinoproblema
+
+Ngunit bakit ganito?
+Sabihin mo kung ayaw mo
+Ang isip ko'y gulong-gulo
+Ika'y babalik, lalayo
+
+Panaginip
+Araw at gabi, ikaw ang nasa isip
+Panaginip
+Palayain mo ako
+Gusto nang magising
+
+Unan ko ang 'yong balikat
+Kasama hanggang araw ay sumikat
+Unti-unting lumalabo
+...
+
+",MusixMatch
 126,84302730,Magkasama,The Juans,[14],['Pop'],"Na na na na na
 na na na na na na
 
@@ -4376,7 +4676,7 @@ heto na heto na di na palalampasin pa
 Magkasama tayong dalawa
 di na bibitawan ang mga kamay
 At mula ngayon
-Lilipas ang mga araw na tayo'y magkahawak, magkasama tayong dalawa"
+Lilipas ang mga araw na tayo'y magkahawak, magkasama tayong dalawa",
 127,123571755,"Muntik Na Kitang Minahal (From ""Muntik Na Kitang Minahal"")",Erik Santos,[14],['Pop'],"May sikreto akong sasabihin sa 'yo
 Mayroong nangyaring hindi mo alam
 Ito'y isang lihim itinagong kay tagal
@@ -4413,7 +4713,7 @@ Muntik na kitang minahal
 Hanggang ang puso mo'y napagod
 Sa paghihintay kay tagal
 Saka ko lang naisip
-Muntik na kitang minahal"
+Muntik na kitang minahal",
 128,114797564,Babay,Yeng Constantino,[14],['Pop'],"
 
 Parang bula nawala ng biglaan
@@ -4473,7 +4773,7 @@ Andali kayang magsabe ng babay
 Babay
 Babay
 Andali kayang magsabe ng babay
-"
+",
 129,73106501,Masanay Ka Muna,Silent Sanctuary,"[1256, 14]","['Pinoy Pop', 'Pop']","Lumapit ka sa akin
 Meron kang sasabihin
 Marami kang mga tanong
@@ -4512,7 +4812,7 @@ Mainit na samahan
 Hangga't naghihintay
 Lalong matibay
 Repeat Chorus 2X
-Masanay ka muna sa wala"
+Masanay ka muna sa wala",
 130,42006812,Hanggang Kailan Kita Mamahalin,Erik Santos,[14],['Pop'],"Lagi pa ring nagtatanong
 Bakit ikaw pa rin ang mahal
 Sa haba ng panahon
@@ -4550,7 +4850,7 @@ Sa 'yong pagbabalik
 Hanggang kailan kita mamahalin?
 Hanggang kailan?
 Hanggang kailan
-. kita mamahalin?"
+. kita mamahalin?",
 131,87670078,9 To Sawa,Sponge Cola,[14],['Pop'],"Mukhang mapapabilis
 Nanaman ang paglakad
 Sa mga papeles mo
@@ -4586,7 +4886,7 @@ Wala kang katulad
 Mula rito hanggang sa abot-tanaw ko
 Kung tayo'y mapalad lahat areglado
 Pati promotion mo
-Pati promotion mo"
+Pati promotion mo",
 132,148844168,Tayo Pa Rin,Kyla,[14],['Pop'],"
 
 Ilang ulit ng tayo ay nagkalayo
@@ -4643,7 +4943,7 @@ Tayo pa rin habang panahon
 
 Sakin' sayo kahit ano pang mangyari
 Tayo at tayo...
-"
+",
 133,40717237,Doon Lang,Sarah Geronimo,[14],['Pop'],"Kung natapos ko ang aking pag-aaral
 Disin sana'y mayron na akong dangal
 Na ihaharap sa'yo at ipagyayabang
@@ -4670,8 +4970,26 @@ Doon ay kaya kong ipunin lahat ng bituin
 Doon ay kaya kong igapos ihip ng hangin
 Doon ay kaya kong pagbawal buhos ng ulan
 Sa panaginip lang kita mahahagkan t'wina
-Doon lang"
-134,181767821,Wala Na Ang Init,Pusakalye feat. This Band,[14],['Pop'],
+Doon lang",
+134,181767821,Wala Na Ang Init,Pusakalye feat. This Band,[14],['Pop'],"'Di ako ang para sa 'yo
+Tadhana lang ang nagtagpo
+Tadhana rin ang naglayo
+
+Kay sakit mang tanggapin
+Na 'di ako ang papalarin
+Na makakasama mo sa habangbuhay
+
+Isisigaw na lang sa mga bituin at
+Aawit na lang ng 'sang panalangin
+Ang pagsamo ko sa langit sana ay dalhin
+Ng apoy ng pag-ibig mo para sa 'kin
+
+Oh, woah
+
+Ako ang para sa 'yo
+...
+
+",MusixMatch
 135,42006797,Langit,Erik Santos,[14],['Pop'],"I
 Lumilipad sa ulap ang puso ko
 Umiibig sa’yo, kay sarap sa piling mo
@@ -4707,7 +5025,7 @@ Ngayon’y ika’y kasama lupa’y parang langit na
 Parang langit, parang nasa langit na
 Parang langit, parang nasa langit na
 Parang langit, parang nasa langit na
-Dadalhin kita sa langit!"
+Dadalhin kita sa langit!",
 136,90500150,Nakaraang Pasko,Christian Bautista,[14],['Pop'],"
 
 Naglalakbay ang aking isip
@@ -4750,7 +5068,7 @@ Noon
 (Isipin ko lang)
 (Kapiling ka na)
 Sa tamis ng ating suyuan
-"
+",
 137,166630012,Nais,Erik Santos,[14],['Pop'],"Nais kong makarating
 Sa dulo ng bahaghari
 Kasama ka't tayo ay hihiling
@@ -4791,7 +5109,7 @@ Oh oh oh oh
 Oh oh oh oh
 Oh oh
 Sa'yo, sa'yo
-Ikaw lang ang nais ko"
+Ikaw lang ang nais ko",
 138,114764634,Sana Ngayong Pasko (Karaoke Version),Juris,[14],['Pop'],"Pasko na naman
 Ngunit wala ka pa
 Hanggang kailan kaya
@@ -4839,7 +5157,7 @@ Muling makita ka
 At makasama ka
 Sa araw ng Pasko
 
-Sana ngayong Pasko..."
+Sana ngayong Pasko...",
 139,123571746,"Hindi Na Magbabago (From ""Kahit Puso'Y Masugatan"")",Erik Santos,[14],['Pop'],"Hindi mapaliwanag ng makilala ka
 May binulong ang hangin nagsasabing ikaw na nga
 Ang ngayon at ang bukas
@@ -4861,7 +5179,7 @@ Tila yata kulang ang bilang ng bituin
 Galing ka sa langit nahulog sa akin
 Kahit pa bumuhos ang ulan
 Mananatiling nararamdaman
-Hindi magbabago ang puso ko"
+Hindi magbabago ang puso ko",
 140,160558561,'Di Ko Kaya,Erik Santos feat. Jaya,[14],['Pop'],"I
 Kung mahal
 Bakit 'di mo maunawaan
@@ -4888,7 +5206,7 @@ Repeat chorus
 Bridge:
 Sana ay pagbigyan ang paki-usap ko
 Naririto ako sumasamo muling buksan ang 'yong puso...
-Repeat chorus"
+Repeat chorus",
 141,148619117,Duyan,Sarah Geronimo,[14],['Pop'],"
 
 Parang may ulap sa 'king mga paa
@@ -4944,7 +5262,7 @@ Wala na kong nanaisin pa kundi ang makapiling ka
 At umugoy sabay sa indayog ng duyan mo
 
 Oh duyan mo...
-"
+",
 142,147582713,OK Na 'ko Pag Nawala Ka,Yeng Constantino,[14],['Pop'],"Madalas mo akong tinatanong
 Paano kung hindi na tayo magtagal?
 Alam mong hindi naman ako sira
@@ -5004,7 +5322,7 @@ Ako ay matutulala, lala, lala, lala, lala
 Ako ay matutulala, lala, lala, lala, lala
 Ako ay matutulala, lala, lala, lala, lala
 Ako ay matutulala, lala, lala, lala, lala
-Ako ay matutulala"
+Ako ay matutulala",
 143,84302656,Wag Ka Nang Umiyak (Theme from FPJ's Ang Probinsyano),Gary Valenciano,[14],['Pop'],"Wag ka nang umiyak
 sa mundong pabago-bago
 Pag-ibig ko ay totoo
@@ -5039,7 +5357,7 @@ Kapit ka sa akin, kumapit ka sa akin
 Di kita bibitawan
 Di kita pababayaan
 Hindi kita pababayaan
-Huwag ka ng umiyak"
+Huwag ka ng umiyak",
 144,131016107,Nitong Pusong Ito,Tj Monterde,[14],['Pop'],"Bisyo ko na
 Mamahalin kang lubos
 Kahit di mo makita ang inaalay sa'yo
@@ -5091,7 +5409,7 @@ Nitong pusong 'to
 Maghihintay
 Laging lagi sa'yo
 Ikaw ang mahal
-Nitong pusong ito"
+Nitong pusong ito",
 145,114769657,Lupa Man Ay Langit Na Rin,Erik Santos,[14],['Pop'],"Nakita ko ang tunay na pag-asa
 Natagpuan ang tunay na pigaya
 Mahal naming Panginoon ako'y sumasamba
@@ -5113,7 +5431,7 @@ Sa puso at aking damdamin dinggin
 Dinggin ang papuri ang bawat dalangin
 Dahil sayo lupa man ay langit na rin
 Dahil sayo lupa man ay langit na rin
-Dahil sayo lupa man ay langt na rin"
+Dahil sayo lupa man ay langt na rin",
 146,19894417,'Di Pa Huli,Yeng Constantino,[14],['Pop'],"Kapag namatay na ang ilaw
 At ang natira ay ikaw
 Maraming tanong sa sarili
@@ -5154,7 +5472,7 @@ Hindi ka ba nanghihinayang (2x)
 Hindi pa ba sapat sayo’y maging tapat
 Ang dami kong sinasabi
 Laging humihiling na sana’y mahimbing
-Sanay hindi pa huli ang lahat"
+Sanay hindi pa huli ang lahat",
 147,151353150,Alon,HALE,[14],['Pop'],"Ayoko nang mapagod
 Mga lumipas na ala-ala
 Hampas ng alon sa ilalim ng mga tala
@@ -5208,7 +5526,7 @@ Paikot-ikot
 
 O, kay bilis ng panahon
 Isang iglap, isang taon
-Tumatakbo ang bawat saglit"
+Tumatakbo ang bawat saglit",
 148,85599324,Nasaan Ka Na,Callalily,[14],['Pop'],"
 
 Sa bawat umaga sakin pag gising
@@ -5251,8 +5569,18 @@ Nasaan kana?
 Nasaan kana?
 Nasaan kana?
 Nasaan kana?
-"
-149,123571740,"Ikaw (From ""Ina, Kapatid, Anak"")",Erik Santos,[14],['Pop'],
+",
+149,123571740,"Ikaw (From ""Ina, Kapatid, Anak"")",Erik Santos,[14],['Pop'],"Ikaw ang bigay ng Maykapal
+Tugon sa aking dasal
+Upang sa lahat ng panahon
+Bawat pagkakataon
+Ang ibigin ko'y ikaw
+
+Ikaw ang tanglaw sa'king mundo
+Kabiyak nitong puso ko
+...
+
+",MusixMatch
 150,153193711,Pagbigyang Muli,Erik Santos feat. Regine Velasquez,[14],['Pop'],"Muli ay 'yong pagbigyan
 ako'y nagkamali
 Muli ay 'yong patawarin
@@ -5306,7 +5634,7 @@ Sa'yo lang ang pag-ibig ko
 Magtiwalang muli, ito na ang huling pagkakamali
 Pag-ibig ko'y muling tanggapin
 Muling tanggapin...
-Muling tanggapin..."
+Muling tanggapin...",
 151,4191816,Kahit Pa,HALE,"[1133, 14]","['Pop/Rock', 'Pop']","Muling lalapit
 sa liwanag sa paligid
 At ang tinig
@@ -5340,7 +5668,7 @@ Ikaw at ikaw pa rin
 (Repeat)
 At kahit pa ikaw lang at
 At kahit pa ikaw lang at
-At kahit pa ikaw lang at ako"
+At kahit pa ikaw lang at ako",
 152,130181221,Mahal Ko O Mahal Ako,KZ Tandingan,[14],['Pop'],"Dalawa kayo sa buhay ko
 At ako ngayon ay kailangan nang mamili
 Isa lang ang maaari
@@ -5395,7 +5723,7 @@ Isip ba o ang puso ko
 Nalilito litong litong lito
 Litong litong lito
 Sinong pipiliin ko
-Mahal ko o mahal ako"
+Mahal ko o mahal ako",
 153,180870302,Kahit Ayaw Mo Na,This Band,[14],['Pop'],"Kahit ikaw ay magalit
 Sayo lang lalapit
 Sayo lang aawit
@@ -5456,7 +5784,7 @@ Pero pinag isipan mo ba?
 
 Kahit ikaw ay magalit
 Sayo lang lalapit
-Sayo lang aawit"
+Sayo lang aawit",
 154,78283709,Iyong-Iyo,Tj Monterde,[14],['Pop'],"
 
 Di na kayang isipin
@@ -5495,7 +5823,7 @@ Ang puso kong ito
 Maghihintay sa'yo
 Hindi na magbabago
 Iyong iyo
-"
+",
 155,85599327,SMB,Callalily,[14],['Pop'],"
 
 Malalim na ang gabi
@@ -5525,7 +5853,7 @@ Diyos na ang bahala
 Saksi mga bituin, hindi ka man maging akin
 
 Ang tanging hiling, makita ang ngiti sa'yong mata
-"
+",
 156,12421154,Now and Forever,Kyla,[14],['Pop'],"
 
 Kapag sinabing magpakailanman
@@ -5543,7 +5871,7 @@ Araw gabi ikaw ay hahagkan
 Magkulang man ang panahon hinding-hindi kita tatalikdan
 Now and forever ngayon at kailanman
 ...
-"
+",
 157,62503458,Bakit Ba Ganyan,MYMP,[14],['Pop'],"
 
 Bakit ba ganyan, ang ibig ko'y lagi kang pagmasdan
@@ -5561,7 +5889,7 @@ Kung ikaw ay nakatawa
 Ewan ko, bakit ba ganyan, damdamin ay di maintindihan
 Kailangan ang pag-ibig mo dahil sa ako'y nagmamahal sa ‘yo
 Magmula nang kita ay makilala
-"
+",
 158,147582708,Ako Muna,Yeng Constantino,[14],['Pop'],"Minsan, parang di pag-ibig ang sagot
 Kahit na, sa pag-iisa ay nababagot
 Aanhin, ko ang paghahanap ng magmamahal
@@ -5599,8 +5927,16 @@ Mabuti pang mag-isa
 Nang di ko sa iba lungkot sinisisi
 Kailangan ko lang
 Ako muna
-Ako muna"
-159,114658211,Sa'Yo Lamang,Juris,[14],['Pop'],
+Ako muna",
+159,114658211,Sa'Yo Lamang,Juris,[14],['Pop'],"Puso koy binihag mo
+Sa tamis ng pagsuyo
+Tanggapin yaring alay
+Akoy iyo habangbuhay
+Anhin pa ang kayamanan
+Luho at karangalan
+...
+
+",MusixMatch
 160,113493739,Naririnig Mo Ba,Julie Anne San Jose,[14],['Pop'],"Parang kailan lang
 Ay labis na akong nasaktan
 Pinilit makalimutan ang nakaraan
@@ -5647,8 +5983,30 @@ Hinahanap-hanap ng aking pusong ligaw ang pagmamahal na tunay at karapatdapat
 Pwede bang ikaw nalang ang papawi sa mga luha
 Marahil na ikaw ang tibok ng puso
 Naririnig mo ba?
-ohhhhb"
-161,159958286,Umaga,The Juans,[14],['Pop'],
+ohhhhb",
+161,159958286,Umaga,The Juans,[14],['Pop'],"Huwag kang bibitaw
+Huwag kang aayaw
+Hayaan mo, lilipas din ang gabing ito
+Huwag mawawala
+Ngiti sa'yong mukha
+Matatapos din itong panahong kay gulo
+
+Huwag mong iisipin
+Lagi na lang ganito, magulo
+Lahat ay gagawin ko
+Para sa'yo
+Sa huli ay tayo
+
+Darating din ang umaga
+Umagang puno ng pag-asa
+Hinding-hindi ka na mag-iisa
+Huwag aalis sa 'king piling
+Umaga ay tiyak na darating
+
+Huwag kang lalayo
+...
+
+",MusixMatch
 162,113493747,Naririnig Mo Ba (Acoustic Version),Julie Anne San Jose,[14],['Pop'],"Parang kailan lang
 Ay labis na akong nasaktan
 Pinilit makalimutan ang nakaraan
@@ -5695,7 +6053,7 @@ Hinahanap-hanap ng aking pusong ligaw ang pagmamahal na tunay at karapatdapat
 Pwede bang ikaw nalang ang papawi sa mga luha
 Marahil na ikaw ang tibok ng puso
 Naririnig mo ba?
-ohhhhb"
+ohhhhb",
 163,152889803,Kahit Anong Bagyo,Julie Anne San Jose,[14],['Pop'],"
 
 Kahit ano pa ang ating pinagdaanan
@@ -5732,7 +6090,7 @@ Magpakailanman
 Oh oh oh
 Oh oh oh
 Magpakailanman
-"
+",
 164,153536208,Tayong Dalawa,Julie Anne San Jose,[14],['Pop'],"Pano ang iyong pangako
 Kung ikaw ay malayo
 Sana'y dika magbago
@@ -5756,8 +6114,36 @@ Pusong ito ay hanap ka parang baliw parang tanga
 Naghihintay lang ba ko sa wala?
 Andyan pa ba ang yong nadarama? Meron paba? O meron ka ng iba?
 Tayong dalawa, tayong dalawa, oh.
-Tayong dalawa. Tayong dalawa.oh..."
-165,128106482,Gusto Ko (Pagsundo),Up Dharma Down,[14],['Pop'],
+Tayong dalawa. Tayong dalawa.oh...",
+165,128106482,Gusto Ko (Pagsundo),Up Dharma Down,[14],['Pop'],"Dahan dahang nagbabagong
+Hugis ng mundong
+Ating ginagalawan
+
+Ako'y paparito
+Ika'y paparoon
+Di na natutulad sa buhay
+Natin noon
+
+Mamumulat ang matang
+Paalis ka na pala
+Hindi mapigil na isiping
+May nagbago nang talaga
+
+Ngunit sa kabila ng lahat ng to
+Ikaw parin ang nais makasama ko
+
+Oh
+Ito na nga ba'y pang habangbuhay
+
+Uh oh
+Walang pagpapanggap
+Totoo at tunay
+
+Kung nais mong ako
+Ang makasama mo
+...
+
+",MusixMatch
 166,85599328,Sa'n Ako Magsisimula,Callalily,[14],['Pop'],"
 
 Kanina pag gising ko
@@ -5800,7 +6186,7 @@ Sa dami ng taon bigla nalang nawala
 Sabihin mo sa akin, san ako magsisimula?
 Ilang milyong alaalang hindi na mabubura
 Sabihin mo sa akin san ako magsisimula
-"
+",
 167,34827325,Kung Saan Ka Masaya,Daniel Padilla,[14],['Pop'],"Nasaan ka man aking mahal
 Ako'y nandito lamang
 Habang panahon magtatagal
@@ -5840,7 +6226,7 @@ Basta't ika'y nasa king tabi
 Araw gabi at parati
 Kung saan ka man masaya
 Saan ka man masaya
-Kung san ka man masaya..."
+Kung san ka man masaya...",
 168,124226568,Reyna Ng Puso Ko,Daniel Padilla,[14],['Pop'],"Nabighani, nabighani sa binibini walang kasing gara
 Busibusilak ngunit palaban ginagalak na makilala ka (woh woh woh)
 Ako'y iyong nabihag (woh woh woh)
@@ -5860,8 +6246,20 @@ Aking kamahalan wag mangamba akong bahala sa iyo taga pag-silbi ng magdamagan di
 Wala ng mas hihigit pa dito sa reyna ng puso kooooooo
 
 Aking kamahalan wag mangamba akong bahala sa iyo taga pag-silbi ng magdamagan dito sa 'ting kastilyo, ipaglalaban (oh woh oh) pagmamahalan
-Wala ng mas hihigit pa dito sa reyna ng puso ko. (Ahhh)"
-169,104493080,Wala Nang Pwedeng Magmahal Sa'Yo - Stalker Song,Itchyworms,[14],['Pop'],
+Wala ng mas hihigit pa dito sa reyna ng puso ko. (Ahhh)",
+169,104493080,Wala Nang Pwedeng Magmahal Sa'Yo - Stalker Song,Itchyworms,[14],['Pop'],"Napanood kita kanina sa loob ng TV
+Sabi mo, ""Hello"" sa akin, ako ay nabighani
+Sabi mo ay babalik ka pagkatapos ng commercial
+Kay tagal kong naghintay, muntik na 'kong magpakamatay
+
+Nasa'n ka man pag-ibig ko, walang hanggan
+Hanggang sa dulo, forever tayo
+Nasa'n ka man mag-ingat ka, ako'y nand'yan
+Wala nang pwedeng magmahal sa 'yo kundi ako
+
+...
+
+",MusixMatch
 170,72679849,'Di Ba Halata,Toni Gonzaga,[14],['Pop'],"Sa t'wing tayo ay magkikita na
 Magkabilang pisngi mo'y namuma
 Kapag kinakausap, tila bumibilis
@@ -5924,7 +6322,7 @@ Damdamin kong may himig ng pag-ibig sana rin tignan
 Ang puso kahit silip lang
 'Di mo ba pakikinggan
 Damdamin kong may himig ng pag-ibig sana rin tignan
-Ang puso kahit silip lang"
+Ang puso kahit silip lang",
 171,85514098,Kailangan Kita - Acoustic Version,Sponge Cola,[14],['Pop'],"Sana ay iyong naririnig
 Pusong ikaw lang ang pinipintig
 Tanging ikaw lang ang ligaya
@@ -5965,7 +6363,7 @@ Kailangan kita
 Sana pagdilat ko
 Ika'y nandito na
 Iyo bang naririnig
-Pusong ikaw lang ang pinipintig?"
+Pusong ikaw lang ang pinipintig?",
 172,72465115,Pag Wala Ka,Mayonnaise,"[20, 14]","['Alternative', 'Pop']","
 
 Masaya ako kapag wala ka
@@ -6011,9 +6409,33 @@ Masaya ako kapag wala ka
 'Pag wala ka
 
 Masaya, masaya
-"
-173,72465123,Malala,Mayonnaise,"[20, 14]","['Alternative', 'Pop']",
-174,114769650,Sana Ikaw Naman,Erik Santos,[14],['Pop'],
+",
+173,72465123,Malala,Mayonnaise,"[20, 14]","['Alternative', 'Pop']","Isang babala
+May tao na masama
+May bahid na malagim
+Daldalhin ka niya sa dilim
+
+Mahuhulog ka, mahuhulog ka
+...
+
+",MusixMatch
+174,114769650,Sana Ikaw Naman,Erik Santos,[14],['Pop'],"Parang 'di ko kaya 'to
+Habang ikaw ay masaya
+Ako nama'y kay lungkot
+Mali bang sabihin 'di kayang tanggapin
+Ba't 'di mo ramdam ang sakit?
+
+Sana'y ikaw naman
+Sana'y maramdaman mo ring masaktan
+Umiyak sa gabi, tiisin ang hapdi
+Sana'y danasin mo rin ang mga pighati
+Sana'y ikaw naman
+Sana'y iwanan ka niya sa iba magmahal
+Tulad din ng ginawa mo sa akin
+Sana'y ikaw naman
+...
+
+",MusixMatch
 175,40717233,Panalangin,Sarah Geronimo,[14],['Pop'],"Panalangin ko sa habang buhay
 Makapiling ka Makasama ka
 Yan ang panalangin ko
@@ -6048,7 +6470,7 @@ Mawala ka sa 'king piling
 Mahal ko iyong dinggin
 Panalangin ko sa habang buhay
 Makapiling ka Makasama ka
-Yan ang panalangin ko"
+Yan ang panalangin ko",
 176,94598294,Tampuhan,Mark Carpio,[14],['Pop'],"Sino nga ba sa'ting dalawa
 Ang aamin na mali
 O ang tigas walang imik
@@ -6092,8 +6514,24 @@ Pansinin mo ang aking lambing
 Kaya't huwag ka ng mainis sakin
 At sana ako ay dinggin
 Na huwag ka namang magtampo sana'y
-Pansinin mo ang aking lambing"
-177,84297634,Anak Ng (OFW Blues),BamBoo,[14],['Pop'],
+Pansinin mo ang aking lambing",
+177,84297634,Anak Ng (OFW Blues),BamBoo,[14],['Pop'],"Sa loob ng 'yong ngiti, tumatagos, tumitindi ang 'yong tinig
+Sabi ni ina, huwag na mag-alala, buhay ay pabago-bago
+Regalong padala, nakabalot sa limot, oh
+Kung alam, mo lang ang tanging gusto ko lang ay makapiling ka
+Kung alam, mo lang ang tanging gusto ko lang ay makapiling ka
+
+Dahil miss na miss kita
+Kay tagal mo ng wala
+Miss na miss na miss na miss kita
+Uuwi ka na ba?
+
+Walang kasing tamis, pagbabalik tanaw sa dati-rati
+Laro sa'yong bintiw sa pang-gabi, nood lang ng TV
+Ang sabi mo itay, mag-aral nang makakamit ang minimithi
+...
+
+",MusixMatch
 178,34044030,Maaari Ba,Sarah Geronimo,[14],['Pop'],"‘Di ko kayang tiisin
 Wala ka sa paningin
 ‘Di kayang wala ka sa ‘king piling
@@ -6123,7 +6561,7 @@ Maari bang ito’y dinggin
 Aking hinihiling
 Nag-iisang pangarap ko
 Ako’y ibigin mo…
-Maging laman ng puso mo…"
+Maging laman ng puso mo…",
 179,129962223,"Alapaap (From ""Dear Other Self"")",Yeng Constantino feat. Harana,[14],['Pop'],"May isang umaga, na tayo'y magsasama
 Haya at halina sa alapaap
 O, anong sarap, haa...
@@ -6165,7 +6603,7 @@ Gusto mo bang (gusto mo bang)
 Gusto mo bang (gusto mo bang)
 Gusto mo bang (gusto mo bang)
 Gusto mo bang (gusto mo bang)
-Sumama?"
+Sumama?",
 180,84398324,Sabi Mo Sa Akin,Sarah Geronimo,[14],['Pop'],"
 
 Puso ko'y inuulan
@@ -6236,7 +6674,7 @@ Kaya pa 'wag kang bumitaw
 Bumitaw...
 
 Umaapaw sa tulay ang baha sa kada away
-"
+",
 181,85599321,Iintindihin Ko,Callalily,[14],['Pop'],"
 
 Wala na yata pag-asa
@@ -6264,7 +6702,7 @@ Kung kailangan mo nang lumayo
 Iintindihin ko
 Kung bitawan man ang puso ko
 Iintindihin ko
-"
+",
 182,148844170,Pangarap Na Dumating,Kyla,[14],['Pop'],"
 
 Kung alam ko lang dati pa
@@ -6309,7 +6747,7 @@ Ngunit hindi pala para sa'kin
 At ang yakap mo ay tila ulap na aking nakamit
 Ngunit naglaho na sa paningin
 Oh...
-"
+",
 183,171669592,Dear Ate Charo,Juris,[14],['Pop'],"Dear Ate Charo pano ba 'to
 'Di ko alam kung 'san ako magsisimula
 Sa kwento ng buhay ko
@@ -6373,7 +6811,7 @@ Dear Ate Charo
 Dear Ate Charo
 Dear Ate Charo
 Dear Ate Charo
-Dear Ate Charo"
+Dear Ate Charo",
 184,123789360,Ako Na Lang,Angeline Quinto,"[52, 14]","['Karaoke', 'Pop']","
 
 kung may masasaktan, ako na lang
@@ -6404,7 +6842,7 @@ tanong ng isip ay hanggang kailan
 sigaw ng puso ay walang hanggan
 hindi ako nag-iisa sa puso mo
 pero ikaw sinisigaw nito
-"
+",
 185,114658207,Akala Mo,Juris,[14],['Pop'],"
 
 Akala mo hindi ko nakita
@@ -6442,7 +6880,7 @@ Akala mo hindi ko napansin
 Akala mo gano'n lang yon
 Alam ko ‘yon kahit noon
 Akala mo hindi ko napansin
-"
+",
 186,130181218,Sa Aking Mga Kamay,KZ Tandingan,[14],['Pop'],"Ako'y umibig ng wagas sa isang lalaking may balbas
 Matipuno ang katawan mga salitang binibigkas
 Mabulaklak at matamis, nakahanda na magtiis
@@ -6487,8 +6925,25 @@ Parusang walang hinto
 Ako'y sadya nga bang bigo
 Sa kulungan nagmistulang bihag ng 'yong kasakiman
 Pagtitiwala na nakasampay, gumagapos sa'king kamay
-Nakagapos ang aking kamay"
-187,113336869,Ipagpatuloy Mo Galing Ng Pilipino (MOOPHS Remix),Gary Valenciano,[14],['Pop'],
+Nakagapos ang aking kamay",
+187,113336869,Ipagpatuloy Mo Galing Ng Pilipino (MOOPHS Remix),Gary Valenciano,[14],['Pop'],"Mula pa man noon
+Saksi ang kasaysayan
+Galing 'di maitatangging taglay
+Lungkot at hinagpis
+Patuloy mong tiniis
+Sa ibang bansa'y iyong pinaghusayan
+
+Ano man ang pagdaanan
+Kahit na anong hidwaan
+Tatapusin ng panalo
+Ang lahat ng laban
+Yan ang Pilipino!
+
+Ipagpatuloy mo, galing ng Pilipino
+Galing ng ating lahi, nasa palad mo
+...
+
+",MusixMatch
 188,116128795,Langit Na Naman,Daniel Padilla,[14],['Pop'],"Wala nang iba para sa akin
 Maging sa panaginip ikaw ang nais makapiling
 Di pagpapalit kahit kay Angel Locsin
@@ -6509,7 +6964,7 @@ Ito'y ay aking uulit-ulitin wala nang iba para sa akin
 Pag naisip ka (langit na naman)
 Maamoy ka lang (langit na naman)
 Sa bawat halik (langit na naman)
-Pag kapiling ka (langit na naman)"
+Pag kapiling ka (langit na naman)",
 189,114685022,Bakit Ba Minamahal Kita (Acoustic Version),Angeline Quinto,[14],['Pop'],"Nakatulala, di alam ang gagawin
 Di ko maintindihan kung tayo pa rin
 Nalilito sa mga sinabi mo
@@ -6551,7 +7006,7 @@ At parang bulag akong umaasa
 Bakit ba minamahal kita
 
 Bakit ba mahal kita
-Mahal na mahal kita"
+Mahal na mahal kita",
 190,100417645,Pusong Ligaw,Michael Pangilinan,[14],['Pop'],"
 
 Di kita malimutan
@@ -6587,7 +7042,7 @@ Pag ibig mo ang hanap ng pusong ligaw
 Mula noon, bukas at kailanman
 Mula noon, bukas at kailanman
 Mula noon, bukas at kailanman
-"
+",
 191,114685021,Tanging Ikaw,Angeline Quinto,[14],['Pop'],"Wala na ngang ibang hahanapin pa mahal
 Ako ay umiibig sa'yo woh oh oh
 Tanging ikaw tanging ikaw
@@ -6622,7 +7077,7 @@ Ang tanging laman ng puso't isip ko oh
 Wala na ngang ibang hahanapin pa mahal
 Ako ay umiibig sa'yo woh oh oh
 Tanging ikaw tanging ikaw
-Ang tanging laman ng puso't isip ko oh"
+Ang tanging laman ng puso't isip ko oh",
 192,88508585,Sa Isip Ko,Sarah Geronimo,[14],['Pop'],"Alam kong meron ng iba
 Sa kilos mo'y na dararama
 Mukhang ako ay kinalimutan mo na
@@ -6648,7 +7103,7 @@ Sa isip ko'y walang iba
 Mananatiling ikaw ang kapiling
 Kahit sa isip ko lang lamang
 Mananatiling ikaw ang kapiling
-Kahit sa isip ko lang lamang"
+Kahit sa isip ko lang lamang",
 193,114797571,Pag-Ibig,Yeng Constantino,[14],['Pop'],"Ang pag-ibig, hindi parang cellphone
 Kapag naluma, papalitan
 Ang pag-ibig, hindi parang damit
@@ -6699,7 +7154,7 @@ Kahit na tupakin ka, iintindihin kita
 Panghabang buhay ang pag-ibig ko sa 'yo o sinta
 Kahit na may kasalanan ka, iiyak ako pero papatawarin kita
 Aham... Aaham... Aaaham... Aaham..
-Aham... Aaham... Aaaham... Aaham.."
+Aham... Aaham... Aaaham... Aaham..",
 194,114724390,Wag Mo Akong Iwan Mag Isa,Angeline Quinto,[14],['Pop'],"Aalis ka na naman
 At ako'y iiwan mo
 Lagi kang nagmamadaling magpaalam
@@ -6732,7 +7187,7 @@ Ngayon dahil wala ka
 Di tuloy mapigilan
 Ang pag-alinlangan
 Sa puso mo
-Ako pa rin bang talaga"
+Ako pa rin bang talaga",
 195,84193775,Muli,Kyla,[14],['Pop'],"Kung magkikita tayong muli
 Paano kaya
 Ako ba'y magdra-drama
@@ -6775,7 +7230,7 @@ Kung magkikita tayong muli
 Ayoko na
 Kaya't huwag kang mag-alala
 Di na ako aasa
-Magkita man tayong muli"
+Magkita man tayong muli",
 196,42006822,Muling Buksan Ang Puso,Erik Santos,[14],['Pop'],"Walang hindi man lang dumanas kailanman
 Magmahal nang tapat at 'di man lamang nasaktan
 'Yan ay sadyang bahagi ng karanasan
@@ -6798,7 +7253,7 @@ Ang kapalit nito ay ligaya ngang totoo
 'Di ba't bawat tao ay may kani-kaniyang paraiso
 
 Kung nasaktan ka man, 'yan din ay magdaraan
-Puso'y muling buksan at sa pagmamahal mo ilaan"
+Puso'y muling buksan at sa pagmamahal mo ilaan",
 197,88508592,Bakit Pa Ba?,Sarah Geronimo,[14],['Pop'],"Nagpapa-alam ka
 Dahil mayroon kang iba
 Ang pagkakamali 'di makita
@@ -6841,7 +7296,7 @@ Na labis na nagmamahal
 Ang pag-ibig para sa 'yo
 Na alay ko
 Bakit ako ngayo'y iiwan mo...
-Ooh..."
+Ooh...",
 198,114658210,Dahil Sa 'Yo,Juris,[14],['Pop'],"
 
 Di koninaakalang darating ka sa buhay ko at
@@ -6871,7 +7326,7 @@ Mundo isipin mo may kaibigan kanagmamahalsayo
 Dahil sayo natutong magbigkas ang labi ko
 Dahil sayo sumasaya ang mga araw ko dahil sayo may kaibigan akong totoo
 Dahil sayo natutong magmahal ang puso ko ang puso ko
-"
+",
 199,116128787,Sana S'ya Na,Daniel Padilla,[14],['Pop'],"Do rot do do do rot dot do
 Do rot do do do rot dot do
 Do rot do do do rot dot do
@@ -6933,7 +7388,7 @@ Sana sya na mismo
 Do rot do do do rot dot do
 Do rot do do do rot dot do
 Do rot do do do rot dot do
-Do rot do do do rot dot do"
+Do rot do do do rot dot do",
 200,114724389,Panghabang Panahon,Angeline Quinto,[14],['Pop'],"HINDI KO NA NAMALAYAN
 ANG PAGLIPAS NG PANAHON
 PARANG KAILAN LANG
@@ -6966,7 +7421,7 @@ ANG KAMAY NG ORASAN
 PANGARAP KO NA ANG BAWAT SANDALI AY
 PANGHABANG PANAHON
 PANGARAP KO NA ANG BAWAT SANDALI AY
-PANGHABANG PANAHON..."
+PANGHABANG PANAHON...",
 201,176471701,Karera,Tj Monterde,[14],['Pop'],"
 
 Hindi naman siguro
@@ -7029,7 +7484,7 @@ Sa buong distansya
 
 Hindi naman siguro
 Kailangang dere-deretso
-"
+",
 202,160044238,Magkalayo,Mayonnaise feat. Näise,[14],['Pop'],"
 
 Sana minsan lang mangyari
@@ -7073,7 +7528,7 @@ At ngayon na ikaw at ako
 'Di na tayo magkalayo
 Dito ka sa'king mundo
 Ikaw lang iniisip ko
-"
+",
 203,40717228,Handog,Sarah Geronimo,[14],['Pop'],"Parang kailan lang
 Ang mga pangarap ko'y kay hirap abutin
 Dahil sa inyo
@@ -7099,7 +7554,7 @@ Kahit man lang isang awitin
 Tatanda at lilipas din ako
 Nguni't mayroong awiting
 Iiwanan sa inyong ala-ala
-Dahil, minsan, tayo'y nagkasama"
+Dahil, minsan, tayo'y nagkasama",
 204,72543804,Dito Na Lang,Kyla,[14],['Pop'],"
 
 Dito na lang, di ko kaya
@@ -7128,7 +7583,7 @@ Kung kaya ko lang sabihing di masakit
 Kung kaya ko lang sabihing hanggang sa muli
 Kung kaya ko lang isiping magbabalik ka pa rin
 Ngunit di na, hanggang dito na lang
-"
+",
 205,34044029,Tayo,Sarah Geronimo,[14],['Pop'],"Nasubukan mo na bang ipagpalit
 Nakalimutan o kaya nasantabi
 Nasabihan ng mismo ka
@@ -7174,10 +7629,45 @@ Sa 'tin na umibig at laging dehado
 ‘Wag magpapatalo
 Tayo, tayo, tayo
 Sa 'tin na umibig at laging dehado
-'Wag magpapatalo tayo"
-206,115754455,Kapalaran,Gary Valenciano,[14],['Pop'],
-207,115754449,Huwag Ka Lang Mawawala,Gary Valenciano,[14],['Pop'],
-208,85514091,Singapore Sling - Dahil Kilala Na Kita,Sponge Cola,[14],['Pop'],
+'Wag magpapatalo tayo",
+206,115754455,Kapalaran,Gary Valenciano,[14],['Pop'],"Bakit ba ganyan?
+Ang buhay ng tao
+Mayrong mayaman
+May api sa mundo
+
+Kapalaran
+Kung hanapin
+Di matagpuan
+At kung minsa'y
+Lumalapit
+Ng di mo alam
+
+...
+
+",MusixMatch
+207,115754449,Huwag Ka Lang Mawawala,Gary Valenciano,[14],['Pop'],"Sumubok na akong umibig
+At magbigay ng tunay na pagmamahal
+Ngunit kami ay nagkalayo
+Pagkat hindi kami magkasundo
+Eto ka bagong magmamahal
+Nangangako na tayo ay magtatagal
+Pano ba ang dapat kong gawin
+...
+
+",MusixMatch
+208,85514091,Singapore Sling - Dahil Kilala Na Kita,Sponge Cola,[14],['Pop'],"Aahh Ahh Ahh Ahh Ahh Ahh
+Aahh Ahh Ahh Ahh Ahh Ahh
+
+Gitna ng tabang at tamis
+Kaya't hinagpis na hinahanap-hanap
+Binabalik-balikan, inaasam-asam
+Bawat hudyat ng lambing
+Buka ng bibig, sayo'y hinihintay
+Naghahandang lumipad, naghahandang bumitaw
+
+...
+
+",MusixMatch
 209,86029896,Paraan (Acoustic Version),Mayonnaise,[14],['Pop'],"Nasira ang lahat ng plano ko
 Hindi ko alam kung pano babangon mula sa kalsada mula sa tulay ng hagupit
 Ilang taon nakong ganito
@@ -7201,7 +7691,7 @@ Minsan lang matakot sa isang katulad mo
 Hindi ko kasi alam ang diskarte sa taong bato
 Badtrip lang talaga bakit bako ganito
 Sayo lang, sayo lang
-Sana malaman ng araw at ng buwan gagawan ko lagi ng paraan, gagawan ko lagi ng paraan"
+Sana malaman ng araw at ng buwan gagawan ko lagi ng paraan, gagawan ko lagi ng paraan",
 210,34827334,Nasa Iyo Na Ang Lahat (Acoustic Version),Daniel Padilla,[14],['Pop'],"Nasa 'yo na ang lahat
 Minamahal kita 'pagkat
 Nasa 'yo na ang lahat
@@ -7276,7 +7766,7 @@ Oh Oh Oh Ohh Ohhh
 Na-nasa 'yo na ang lahat
 Oh Oh Oh Ohh Ohhh
 Na-nasa 'yo na ang lahat
-Nasa 'yo na ang lahat..."
+Nasa 'yo na ang lahat...",
 211,72465121,Ayaw Mo Na Sa Akin,Mayonnaise,"[20, 14]","['Alternative', 'Pop']","
 
 'Wag ka na munang makulit
@@ -7298,7 +7788,7 @@ Ayaw mo na sa akin darling, 'di ko kaya yon
 Ayaw mo na sa akin baby, 'di ko kaya yon
 'Di ko kaya yon
 ...
-"
+",
 212,114724392,Patuloy Ang Pangarap - Alternate Version,Angeline Quinto,[14],['Pop'],"'Di pa rin makapaniwala
 Sa lahat ng nangyayari
 Pangarap parang kailan lang
@@ -7320,10 +7810,75 @@ Nagbigay ng kalakasan upang marating ang isang pangap akoy naniniwal ako ay lili
 Kahit saan, kahit kailan
 Alam kong ako'y patungo
 Sa marami pang tagumpay
-Patuloy ang Pangarap..."
-213,166445365,Ikaw Na Yata,Chlara,[14],['Pop'],
-214,144006899,"Bakit, Pt. 2 (Live)",Mayonnaise,"[21, 14]","['Rock', 'Pop']",
-215,116232132,"Ipagpatuloy Mo, Galing Ng Pilipino",Gary Valenciano,[14],['Pop'],
+Patuloy ang Pangarap...",
+213,166445365,Ikaw Na Yata,Chlara,[14],['Pop'],"'Di ko maintindihan
+Bakit bigla na lang pumipintig
+Mag-isa ang puso ko
+Kada ika'y nandyan para bang gumagaan ang pagtingin ko sa mundo
+
+Idadaan na lang sa biro
+At pipilitin pang itago
+At natatakot ipaalam sayo ang binubulong
+Ng puso kong
+
+Ikaw na yata
+Sinisigaw ng damdamin
+Ikaw na yata
+Magbubuo sa aking puso na
+Inakala kong wala ng pag-asa
+...
+
+",MusixMatch
+214,144006899,"Bakit, Pt. 2 (Live)",Mayonnaise,"[21, 14]","['Rock', 'Pop']","PLumuha kang nag-iisa, nakadungaw sa buwan.
+Lumilipad ang isip ko, nakasabit sa ulap.
+
+Ngunit bakit, pinilit,
+Kung ayaw ko'ng masaktan?
+
+Sinabi ko sa kanya
+Na 'di pa rin nililikha
+Ang tulad kong parang timang
+Na 'di pa rin maintindihan.
+
+...
+
+",MusixMatch
+215,116232132,"Ipagpatuloy Mo, Galing Ng Pilipino",Gary Valenciano,[14],['Pop'],"Mula pa man noon
+Saksi ang kasaysayan
+Galing 'di maitatangging taglayLungkot at hinagpis
+Patuloy mong tiniis
+Sa ibang bansa'y iyong pinaghusayan
+Pre-Ano man ang pagdaanan
+Kahit na anong hidwaan
+Tatapusin ng panalo
+Ang lahat ng laban
+Yan ang Pilipino!
+
+Ipagpatuloy mo, galing ng Pilipino
+Galing ng ating lahi, nasa palad mo
+
+Ipagpatuloy mo, galing ng Pilipino
+Galing mong natatangi, pagyamanin mo
+
+Oh oh oh...
+Angking galing, ipagpatuloy mo!
+
+II.
+Kaya hangang ngayon,
+Ano mang larangan
+Lagi mong pinagtatagumpayan
+
+Galing na 'yong taglay,
+Sipag at karunungan
+Ating taas noong pagiingatan
+
+Pre-Ano man ang pagdaanan
+Kahit na anong hidwaan
+Tatapusin ng panalo
+Ang lahat ng laban
+...
+
+",MusixMatch
 216,88508588,Nag-iisang Ikaw,Sarah Geronimo,[14],['Pop'],"
 
 Araw-araw na lang
@@ -7382,7 +7937,7 @@ Ay laging ikaw
 Nasa t'wina'y nagtatanaw
 Sa aking puso'y may tinatangi
 Ang nag-iisang ikaw
-"
+",
 217,148619111,Sandata,Sarah Geronimo,[14],['Pop'],"Hmmm... ohhhh oh oh
 Napapaligiran ng kung anu-ano kagulu-gulu-gulu-guluhan
 Hindi alam kung san ang ating patutungahan
@@ -7414,7 +7969,7 @@ Ako ay iyo
 Giliw, di na magbabago bumaliktad man ang mundo ako ay iyo
 Giliw, di na magbabago bumaliktad man ang mundo ako ay iyo
 Giliw, di na magbabago bumaliktad man ang mundo ako ay iyo
-Giliw, di na magbabago bumaliktad man ang mundo ako ay iyo"
+Giliw, di na magbabago bumaliktad man ang mundo ako ay iyo",
 218,151158750,Kunwari (Acoustic Version),Sponge Cola,[14],['Pop'],"Tayo na namang dalawa
 Walang sali-salita, pinagtagpo ng tadhana
 Magkasamang nag-iisa
@@ -7446,8 +8001,25 @@ Oh, ako ba sa iyo'y walang pag-asa?
 Puso ay laging nasasaktan
 Hanggang kunwari na lang ba ako aasa?
 Hanggang kunwari...
-Hanggang kunwari..."
-219,85514093,Segundo / Dragonfly,Sponge Cola,[14],['Pop'],
+Hanggang kunwari...",
+219,85514093,Segundo / Dragonfly,Sponge Cola,[14],['Pop'],"Parang butil ng buhangin di gaanong napapansin
+Pag inipon ang tinapon ay panghihinayangan din
+Palibhasa nakatunganga huli ng naisip ko
+Ang inaaksaya ko pala ay halagan ginto
+Walumpu't anim na libo apat na raan
+Ang nasa palad ko
+Walumpu't anim na libo apat na raan
+Pano ko gagamitin to
+Parang hangin dumaan at naglaho
+Salamat sa diyos bukas may panibago
+Walumpu't anim na libo apat na raang segundo
+Di ko na sasayangin to
+Bakit minsan parang kulang
+Minsan ang bagal ng takbo
+Pwede ba na huminto lang
+...
+
+",MusixMatch
 220,41822170,Patuloy Ang Pangarap (brian cua club diva radio edit),Angeline Quinto,[14],['Pop'],"'Di pa rin makapaniwala
 Sa lahat ng nangyayari
 Pangarap parang kailan lang
@@ -7469,7 +8041,7 @@ Nagbigay ng kalakasan upang marating ang isang pangap akoy naniniwal ako ay lili
 Kahit saan, kahit kailan
 Alam kong ako'y patungo
 Sa marami pang tagumpay
-Patuloy ang Pangarap..."
+Patuloy ang Pangarap...",
 221,150973264,Walang Kapalit,Julie Anne San Jose,[14],['Pop'],"Ohhhhohh ohhohhh
 Ohhhhohh ohhohhh
 'Di makatulog, naglalaro ang isip
@@ -7502,8 +8074,25 @@ Mas marami ang tanong kesa sagot Ohhhhhh ohohh ohh
 Ilang mang panahon...
 Ang puso ko'y magmamahal parin magmamahal ng walang kapalit
 Ohhhhohh ohhohhh
-Ohhhhohh ohhohhh"
-222,36243786,"Aiza's Composers' Medley (Live): Muntik Na Kitang Minahal / Pakisabi Na Lang / Palagay Ko, Mahal Kita",Aiza Seguerra,[14],['Pop'],
+Ohhhhohh ohhohhh",
+222,36243786,"Aiza's Composers' Medley (Live): Muntik Na Kitang Minahal / Pakisabi Na Lang / Palagay Ko, Mahal Kita",Aiza Seguerra,[14],['Pop'],"May sekreto ako, sasabihin sa'yo
+Mayroong nangyaring hindi mo alam
+Ito'y isang lihim, itingong kay tagal
+Muntik na kitang minahal
+Hindi ko noon makayang ipadama sa'yo ang nararamdaman ng pusong ito at hanggan ngayon ay naalala pa
+Muntik na kitang minahal
+Ngayon ay aaminin ko na
+Na sana nga ay tayong dalawa
+Bawat tanong moy iniwasan ko
+Akala ang pag-ibig mo'y hindi totoo
+Di ko alam kung ano ang nangyari
+Damdamin ko sayo'y hindi ko nasabi
+Hanggang ang puso mo'y napagod
+Sa paghihintay kay tagal
+Saka ko lang naisip
+...
+
+",MusixMatch
 223,91498194,Tuwing Umuulan At Kapiling Ka,Aiza Seguerra feat. Ryan Cayabyab,[14],['Pop'],"Pagmasdan ang ulan unti-unting pumapatak
 Sa mga halama't mga bulaklak Pagmasdan ang dilim unti-unting bumabalot Sa buong paligid t'wing umuulan Kasabay ng ulan bumubuhos ang iyong ganda Kasabay ng hanging kumakanta
 Maaari bang huwag ka nang Sa piling ko'y lumisan pa
@@ -7524,7 +8113,7 @@ Damdamin ko'y humihiyaw sa tuwa Tuwing umuulan at kapiling ka La la la... Maaari
 Mahagkan ka't maiduyan pa
 Sa tubig at ulan lamang ang saksi
 
-REPEAT 1 REPEAT 2 La la... Ooh hey..."
+REPEAT 1 REPEAT 2 La la... Ooh hey...",
 224,203457482,Leon - Acoustic,Kamikazee,[14],['Pop'],"Bahagyang susulyap
 Sa likod kumikislap
 Liwanag na yumayakap
@@ -7581,7 +8170,7 @@ Tayo ay iisa
 (Tayo ay iisa)
 (Ikaw ang aking tadhana)
 (Kapirasong langit ko sa lupa)
-(Tayo ay iisa)"
+(Tayo ay iisa)",
 225,203457473,Cahaya - Acoustic,Kamikazee,[14],['Pop'],"(Sa huli, ikaw ang tunay na pag-ibig)
 (Sa huli, ikaw lamang ang iisipin)
 (Sa huli, pagdating ng panahon)
@@ -7640,7 +8229,7 @@ Iyong maiintindihan, sa huli
 
 Kung hindi man ngayon
 Darating din ang panahon
-Mauunawaan din ang lahat"
+Mauunawaan din ang lahat",
 226,159958288,Hindi Tayo Pwede,The Juans,[14],['Pop'],"Pilit nating iniwasan
 Ganitong mga tanungan
 At kahit di sigurado
@@ -7694,7 +8283,7 @@ Ang mga puso'y huwag nating pahirapan
 Suko na sa labpan
 Hindi tayo pwede
 
-Hindi tayo pwede"
+Hindi tayo pwede",
 227,157243816,Hindi Na Nga,This Band,[14],['Pop'],"Ang lahat ay nagbabago
 Ganon din ang puso ko
 Di alam kung paano aamin
@@ -7777,7 +8366,7 @@ Hindi na nga mahal
 Hindi ka na mahal
 
 Ang lahat ay nagbabago
-Ganon din ang puso ko"
+Ganon din ang puso ko",
 228,114193488,Bakit Ba Ikaw,Michael Pangilinan,[14],['Pop'],"Mula ng aking masilayan
 Tinataglay mong kagandahan
 Di na maawat ang pusong sa'yo ay magmahal
@@ -7820,8 +8409,26 @@ Tunay na mahal ka na
 Sanay hayaan mong ibigin kita ah ah ahaha
 Maghihintay pa rin... at aasa
 Oh wooh wo
-Hmmmm"
-229,159958289,Hatid,The Juans,[14],['Pop'],
+Hmmmm",
+229,159958289,Hatid,The Juans,[14],['Pop'],"Sa pagitan ng simula't katapusan
+Matagal ko nang pinag-iisipan
+Bago mo ako tuluyang iwanan
+Ihahatid kita
+
+Kung mayroon akong natutunan
+Sa dami ng ating pinag-awayan
+'Yan ay wala akong dapat patunayan
+Ihahatid kita
+
+Naisip ko rin namang umalis na ng tuluyan
+Pero hindi tamang ikaw ay iwanan nang walang paalam
+Alang-alang sa pinagsamahan
+Ihahatid kita
+
+Do'n sa lugar kung saan ka magiging masaya
+...
+
+",MusixMatch
 230,152025381,Lumalapit,The Juans,[14],['Pop'],"Bakit ba nagka ganito?
 Ang gulo-gulo ng mundo.
 Sa kasalanan ko, posible pa bang mapatawad mo?
@@ -7838,7 +8445,7 @@ Sa kamalian ko, posible pa bang ako'y matanggap mo?
 Lumalapit lumalapit sa'yo,
 Sana ako't patawarin mo.
 Lumalapit lumalapit sa'yo,
-Pagkakataon ang kailangan ko."
+Pagkakataon ang kailangan ko.",
 231,178281108,Nang Iwan,This Band,[14],['Pop'],"
 
 Nagtataka, natatakot, nalulungkot, nag-iisa
@@ -7905,10 +8512,58 @@ Bakit ba binuhos panahon ko sa iyo (Ohh, bakit ba binuhos)
 Ngayon ako'y nahihirapan...
 Ang sakit-sakit isipin
 Na ako'y iyong iniwan...
-"
-232,152674627,Intombi,Sjava,"[14, 18]","['Pop', 'Hip Hop/Rap']",
-233,123789362,Babalikang Muli - Adaptation of Namidaga Kimio Wasurenai,Angeline Quinto,"[52, 14]","['Karaoke', 'Pop']",
-234,116062258,Mas Maligayang Pasko,Juris,"[1080, 14]","['Christmas', 'Pop']",
+",
+232,152674627,Intombi,Sjava,"[14, 18]","['Pop', 'Hip Hop/Rap']","Auuw gege la'gege ntombi za mgegele
+Awkho soka ladla kahle imbhani ekhaya
+(Za shelwi Intombi wee nfana)
+Intombi ishelwa nga manga
+Ng'the an'gsi Isghebengu
+Ng'the ang'phuzi, ang'bhemi
+Intombi ishelwa nga manga
+Ng'the ang'si Isghebengu mina sisi
+Ang'phuzi, ang'bhemi
+Uthi uya ng'faka? Noma uya ng'khipha?
+Ma ung'khipha ung'khiphe ek'hluphekeni, ung'fake entlizweni yakho
+Uthi uya ng'faka? Noma uya ng'khipha?
+Ma ung'faka ung'fake entlizweni yakho, ung'khiphe ek'hluphekeni
+Wee ntombi a ume lapho (nayi inkulumisano)
+Miss'wa imina, umisswa uMendo (umshato okhulumayo)
+Eish
+Ng'the yaz ng'lahle inumber yami (okwami kwe zangca)
+...
+
+",MusixMatch
+233,123789362,Babalikang Muli - Adaptation of Namidaga Kimio Wasurenai,Angeline Quinto,"[52, 14]","['Karaoke', 'Pop']","Pinilit kong limutin ka,
+Nang iwan mong bigo ang puso ko,
+Nilimot na kita sa buhay kong mag-isa
+Ngunit bakit ngayo'y ikaw pa rin ang hinahanap ko
+
+()
+Babalik kang muli
+Mga araw at sandali
+Kahit wala ka saking piling
+Iniibig kita
+Yan ang sigaw ng puso ko
+San ka man naroroon pa
+
+Una palang nakita ka
+...
+
+",MusixMatch
+234,116062258,Mas Maligayang Pasko,Juris,"[1080, 14]","['Christmas', 'Pop']","I.
+Matindi ang trapik abala at naghahabol
+Ang lahat na yata ng mga tao nasa mall
+At nagsisiksikan para bang magagahol
+
+Walang nagbibigayan, nagkabuholbuhol
+II.
+Pagod na ang isip, katawan at ang bulsa
+
+Paano kakayanin na ito ay mapagkasya
+Munting nakayanan ay magustuhan sana kahit di mamahalin pagpasiyensiyahan mo na
+...
+
+",MusixMatch
 235,123991287,Nasayang Lang,The Juans,[14],['Pop'],"Sabi mo ikaw at ako
 Bagay tayo sa buong mundo
 Ngunit ngayon nalaman kong
@@ -7945,7 +8600,7 @@ Ngunit ngayon nalaman kong
 Wala ka na
 Nasayang lang
 
-Nasayang, nasayang lang..."
+Nasayang, nasayang lang...",
 236,130181213,Imposible,KZ Tandingan,[14],['Pop'],"
 
 Nanahimik ako dito, nagkakape naka de-kwatro
@@ -7988,7 +8643,7 @@ Parang ayoko na, ah ayoko na ata, ayoko na nga, ayoko na ata, ayoko na nga
 Ayoko na ata, ayoko na nga sayo...
 Imposible, imposible ang hinihiling mo...
 Imposible, imposible ang hinihiling mo...
-"
+",
 237,87670075,Kailangan Kita,Sponge Cola,[14],['Pop'],"Sana ay iyong naririnig
 Pusong ikaw lang ang pinipintig
 Tanging ikaw lang ang ligaya
@@ -8029,7 +8684,7 @@ Kailangan kita
 Sana pagdilat ko
 Ika'y nandito na
 Iyo bang naririnig
-Pusong ikaw lang ang pinipintig?"
+Pusong ikaw lang ang pinipintig?",
 238,115754447,Wag Ka Nang Umiyak,Gary Valenciano,[14],['Pop'],"Wag ka nang umiyak
 sa mundong pabago-bago
 Pag-ibig ko ay totoo
@@ -8064,7 +8719,7 @@ Kapit ka sa akin, kumapit ka sa akin
 Di kita bibitawan
 Di kita pababayaan
 Hindi kita pababayaan
-Huwag ka ng umiyak"
+Huwag ka ng umiyak",
 239,177471343,Natatangi,John Roa,[14],['Pop'],"Ako'y nasasabik sapagkat
 Eto na 'yung sagot sa 'king katanungan
 Kaya kahit saan mapadpad
@@ -8112,7 +8767,7 @@ Pero 'di ko makuha sa iba ang pagibig na
 Ikaw lang ang natatanging may taglay
 (Natatangi‚ natatangi)
 Ikaw lang ang natatanging may taglay
-(Natatangi, natatangi)"
+(Natatangi, natatangi)",
 240,114797572,Sandata,Yeng Constantino,[14],['Pop'],"Wag mong iiwas ang mata
 Dahil nakikita ko na
 Merong bumabagabag na naman
@@ -8158,8 +8813,21 @@ Ako ang sandata
 Ako ang sandata ah ah ha ah ah ha,
 
 
-"
-241,83424190,Paano Na Kaya,Aiza Seguerra,[14],['Pop'],
+",
+241,83424190,Paano Na Kaya,Aiza Seguerra,[14],['Pop'],"Nais kong malaman niya
+'Yan lang ang nag-iisang pangarap ko
+Di ko kayang simulan
+Paki sabi na lang
+Paki sabi na lang na mahal ko siya
+Paki sabing 'wag siyang mag-alala
+Alam kong ito'y malabo
+Ganun pa man paki sabi na lang
+Sana ay malaman niya
+Kahit na nasasaktan ang puso ko (kahit na nasasaktan ako)
+Wala na 'kong maisip na mas madali pang paraan
+...
+
+",MusixMatch
 242,144006900,Tayo Na Lang Dalawa (Live),Mayonnaise,"[21, 14]","['Rock', 'Pop']","Hindi ko maintindihan.
 Parang wala namang ppuntahan.
 Ayoko na ng ganito.
@@ -8207,11 +8875,69 @@ Ayaw mo ba talaga?
 Ayaw mo lang talaga.
 Ayaw mo nang magsama.
 Ayaw mo lang talaga.
-Gusto mo kasi dalawa"
-243,53787559,Kung Ako Na Lang Sana,Martin Nievera,"[23, 14, 1256]","['Vocal', 'Pop', 'Pinoy Pop']",
-244,194907102,Paasa (T.A.N.G.A.),Yeng Constantino,[14],['Pop'],
-245,79434501,Di Na Matatanggap,Kris Lawrence,[14],['Pop'],
-246,142333787,Siya Na Nga Kaya (Dyesebel Love Theme),Julie Anne San Jose,[14],['Pop'],
+Gusto mo kasi dalawa",
+243,53787559,Kung Ako Na Lang Sana,Martin Nievera,"[23, 14, 1256]","['Vocal', 'Pop', 'Pinoy Pop']","Hito nanaman
+Kumakatok saking pintuan
+Muling nag hahanap ng
+Makakausap.
+...
+At hito naman
+Ako nakikinig sa mga
+Kwento mong paulit ulit lang
+Tiniis kahit nasasaktan
+
+Ewan ko bakit ba?
+...
+
+",MusixMatch
+244,194907102,Paasa (T.A.N.G.A.),Yeng Constantino,[14],['Pop'],"Ah ah
+Ah ah
+Hehe
+Akala ko, may ibig sabihin
+Ang pag-like mo sa status ko sa Facebook
+Nag-rereply ka rin sa Twitter
+Akala ko, ayun na
+
+Pero nakita ko kahapon
+May pinost kang iba
+May kasama kang maganda
+Ang sabi mo sa akin, kaibigan mo lang siya
+
+Ang hirap palang maging T.A.N.G.A.
+Ang hirap palang maging T.A.N.G.A.
+
+Pinapaasa mo lang ako kasi alam mo na crush kita
+Oo na, crush kita
+Pambihira, oh nu'ng dati pa
+May patanong-tanong ka pa
+Kung sino 'yung nasa Facebook status ko
+...
+
+",MusixMatch
+245,79434501,Di Na Matatanggap,Kris Lawrence,[14],['Pop'],"Kung sasabihin di na mahal
+At wala na sa'yong pakialam
+Matatanggap mo ba kung mawawala sayo
+Pag-ibig at pagsuyo ko
+Pagod na ang puso kong maghintay
+Ako na lang ba ang nagmamahal
+Alam kong wala na akong halaga para sayo
+Mas mabuti na 'koy lumayo
+
+...
+
+",MusixMatch
+246,142333787,Siya Na Nga Kaya (Dyesebel Love Theme),Julie Anne San Jose,[14],['Pop'],"Bakit puso ko'y biglang kumaba
+Noong una pang nakita siya
+Hindi mapakali, hindi makahinga
+Siya na ba, siya na nga, kaya
+
+Malayo man siya sa akin ngayon
+Darating din ang tamang panahon
+Mundo para sa aming dalawa
+Siya na nga, sana siya na nga
+...
+
+",MusixMatch
 247,151399530,Superhero Mo (Victor Magtanggol Theme Song),Ex Battalion feat. Alden Richards,[14],['Pop'],"
 
 Handa 'kong ibigaylahat ng yaman sa mundo
@@ -8318,7 +9044,7 @@ Handa akong makipaglaban para lang sa iyong gusto
 Handa ako na sumugal, handang mamatay para sa iyo kung kailangan
 Ako ang superhero mo, handa kang ipaglaban
 [x2]
-"
+",
 248,139158468,Istorya,The Juans,[14],['Pop'],"Sa istorya
 Na tumatakbo sa aking isipan
 Ikaw ay nariyan
@@ -8363,8 +9089,21 @@ Nasa'n na?
 Nasa'n na?
 Sabi mo hindi ka bibitiw
 Pero nasa'n na?
-Dito sa istorya"
-249,78290833,Move On,Sponge Cola feat. Jane Oineza,[14],['Pop'],
+Dito sa istorya",
+249,78290833,Move On,Sponge Cola feat. Jane Oineza,[14],['Pop'],"Kamusta ka?
+Ilang araw ka nang nakahiga
+Subsob sa unan ang iyong mukha
+Damdamin mo'y parang nakadapa
+Ang puso mo'y tila
+Tulog ka pa ba?
+Hapon ka daw lagi kung magising
+Barkada mo'y medyo napapraning
+Sobrang kalat na nang iyong dating
+Lagi ka nga lang daw sabog
+Kalimutan na natin ang nakaraan
+...
+
+",MusixMatch
 250,83424202,Minsan Minahal Ay Ako,Aiza Seguerra,[14],['Pop'],"
 
 Ano na lang 'yung 'sang sandali
@@ -8402,7 +9141,7 @@ Iyo sanang matandaan bago tuluyang lumisan
 Na minsan ang minahal ay ako
 Iyo sanang matandaan bago tuluyang lumisan
 Na minsan ang minahal ay ako
-"
+",
 251,115754448,Hanggang Sa Dulo Ng Walang Hanggan,Gary Valenciano,[14],['Pop'],"Hanggang sa dulo ng walang hanggan
 Hanggang matapos ang kailan pa man
 Ikaw ang s’yang mamahalin
@@ -8425,8 +9164,44 @@ Walang hanggan
 Maging hanggang sa dulo ng
 Maging hanggang sa dulo ng
 Maging hanggang sa dulo ng
-Walang hanggan...walang hanggan!"
-252,59201323,Para Sa'yo,RPM,[14],['Pop'],
+Walang hanggan...walang hanggan!",
+252,59201323,Para Sa'yo,RPM,[14],['Pop'],"Ooh ooh ooh oh
+Ooh ooh ooh oh
+Ooh ooh ooh oh whoa
+Ooh ooh ooh oh
+Ooh ooh ooh oh
+Ooh ooh ooh oh whoa
+
+Baby ko, penge ng konting oras mo
+Para lang mapakita, halika, pakinggan mo
+Maraming pogi d'yaan
+Merong mayaman at sikat
+Marami ring pa-machong nagkalat
+
+Ako ay simple lang at gwapo
+Nagmamahal sa'yo
+
+Para sa'yo yo yo yo yo
+(It's all for you)
+Para sa'yo yo yo yo yo
+(It's all for you)
+Para sa'yo yo yo yo yo
+(It's all for you)
+Para sa'yo, ang puso ko
+Para sa'yo
+
+Grabe 'to ang kapal ng mukha mo noh?
+Akala mo kung sino, si Piolo? Mangarap ka noh!
+Ngunit nahuli mo na kahit marami pang iba
+Naglalaway ka pa rin sa akin
+
+Sige na nga aaminin ko na
+Na-iinlove ako sa'yo
+
+Para sa'yo yo yo yo yo
+...
+
+",MusixMatch
 253,194907099,Alaala,Yeng Constantino,[14],['Pop'],"Alaala, alaala, alaala, alaala
 Araw-araw ay naghihintay sa'yo
 Dala-dala ang pangarap na hindi nabuo
@@ -8469,8 +9244,31 @@ Kanina pa ako nag-iisa
 Nasaan ka na ba?
 Samahan mo naman ako
 Sinta
-Alaala, alaala, alaala, alaala"
-254,19564865,Saranghae,Sabrina,[14],['Pop'],
+Alaala, alaala, alaala, alaala",
+254,19564865,Saranghae,Sabrina,[14],['Pop'],"Dahil sa piling mo laging
+Kaysaya ng aking puso
+Para bang ako'y nasa langit na
+Ang paligid kayligaya
+
+Kung ito ay panaginip ay
+Ayoko nang magising
+Ang pag-ibig ko'y patuloy at
+Aaminin ko sa'yo saranghae
+
+Gusto ko mang gawin ang
+Pagpigil sa damdamin ay
+Napakahirap nga naman
+
+Pag nakakasama ka
+Lalo lang akong nangangamba
+Ba't di ko masabi na
+Lagi kang nasa isipan ko
+At huwag ka sanang Lalayo
+
+Dahil sa piling mo laging
+...
+
+",MusixMatch
 255,85191121,Minsan Lang Kitang Iibigin,Juris,[14],['Pop'],"Mahal, pangako sa iyo
 Hindi magbabago
 Ikaw lang ang iibigin ko
@@ -8493,7 +9291,7 @@ Minsan lang kitang iibigin
 Minsan lang kitang mamahalin
 Ang pagmamahal sa’yo’y walang hangganan
 Dahil ang minsan, ay magpakailanman
-Dahil ang minsan, ay magpakailanman"
+Dahil ang minsan, ay magpakailanman",
 256,116128791,Ewan,Daniel Padilla,[14],['Pop'],"Hindi ko alam kung bakit ka ganyan
 Mahirap kausapin at di pa namamansin
 Di mo ba alam ako’y nasasaktan
@@ -8514,7 +9312,7 @@ Lalala Lalala
 Mahal kita, mahal kita, hindi ito bola
 Ngumiti ka man lang sana ako’y nasa langit na
 Mahal kita, mahal kita, hindi ito bola
-Sumagot ka naman ‘wag lang... ewan"
+Sumagot ka naman ‘wag lang... ewan",
 257,83424196,Limang Dipang Tao,Aiza Seguerra,[14],['Pop'],"
 
 Limang dipang taong nagtutulakan
@@ -8559,7 +9357,7 @@ Para mama sasakay po, limang dipang taong nagtutulakan
 Para mama sasakay po, limang dipang taong naguunahan
 Para na sabi, para na sabi, para mama, para na diyan sa tabi
 Para na sabi, para na sabi, para mama, para na diyan sa tabi
-"
+",
 258,114724398,Mahiwaga,Angeline Quinto,[14],['Pop'],"Ilang ulit mo bang itinatanong sakin
 Kung hanggang saan
 Hanggang saan, hanggang kalian
@@ -8601,7 +9399,7 @@ Di ko magagawang lumayo sayong piling
 Hanggang may pag-ibig
 Laging isisigaw, tanging ikaw
 Hanggang may pag-ibig
-Laging isisigaw tanging ikaw..."
+Laging isisigaw tanging ikaw...",
 259,85191119,Magkaibang Mundo,Juris,[14],['Pop'],"I
 Mula sa malayo galing ang pag-ibig ko
 Kay tagal ko rin tinago lihim na iniingatan ko
@@ -8615,7 +9413,7 @@ Hindi na itatago, lihim na iniingatan ko
 Dahil sa takot, dahil sa kaba. Dahil baka ikaw ay mawala
 Parang kay lapit, ngunit magkalayo ang magkaiba nating mundo
 Sana’y marinig pa rin ang sigaw ng damdamin
-Mga bagay na ‘di kayang sabihin. (2X)"
+Mga bagay na ‘di kayang sabihin. (2X)",
 260,186859658,'Di Sapat Pero Tapat,This Band,"[34, 14]","['Music', 'Pop']","
 
 Bakit 'di mo pa aminin
@@ -8667,7 +9465,7 @@ At bago mo 'ko palayain
 Mahal, 'wag mo akong limutin
 'Di man ako naging sapat
 Pero ako'y naging tapat sa puso mo
-"
+",
 261,116079368,Kung Pwede Lang,Sabrina,[14],['Pop'],"Verse 1:
 Hindi ka maalis sa isip ko
 Pinipilit 'di isipin pero nandito
@@ -8737,8 +9535,16 @@ Itutuwid ating landas
 Hindi ka lang mawala
 Sa piling ko
 Sa piling ko...
-Kung pwede lang..."
-262,116062257,Paskong Wala Ka,Juris,"[1080, 14]","['Christmas', 'Pop']",
+Kung pwede lang...",
+262,116062257,Paskong Wala Ka,Juris,"[1080, 14]","['Christmas', 'Pop']","I.
+Giliw ko kung wala ka
+Paano na kaya ako
+Kung na sanay ng kasama ka sa darating na pasko
+Ang lambing ng iyong tinig ang siyang tanging himig ko
+Pangarap ko ngayong pasko ay ang kalinga mo
+...
+
+",MusixMatch
 263,42514284,Prinsesa,Daniel Padilla,"[52, 14]","['Karaoke', 'Pop']","Nakaupo siya sa isang madilim ng sulok
 Ewan ko ba kung bakit
 Sa libo libong babaeng nandoon
@@ -8787,7 +9593,7 @@ Pangako kong habang buhay
 Kitang pagsisilbihan
 O aking prinsesa ahh...
 Prinsesa, prinsesa, prinsesa
-Prinsesa, prinsesa, prinsesa, prinsesa"
+Prinsesa, prinsesa, prinsesa, prinsesa",
 264,87670077,Iyong Iyong Iyo,Sponge Cola,[14],['Pop'],"Hirap talikuran ng
 Gan'tong pighati
 Lunas sa iyong lungkot
@@ -8827,7 +9633,7 @@ Ikaw at ako
 Ikaw at ako
 Ikaw
 At
-Ako"
+Ako",
 265,72465117,Paraan,Mayonnaise,"[20, 14]","['Alternative', 'Pop']","Nasira ang lahat ng plano ko
 Hindi ko alam kung pano babangon mula sa kalsada mula sa tulay ng hagupit
 Ilang taon nakong ganito
@@ -8851,7 +9657,7 @@ Minsan lang matakot sa isang katulad mo
 Hindi ko kasi alam ang diskarte sa taong bato
 Badtrip lang talaga bakit bako ganito
 Sayo lang, sayo lang
-Sana malaman ng araw at ng buwan gagawan ko lagi ng paraan, gagawan ko lagi ng paraan"
+Sana malaman ng araw at ng buwan gagawan ko lagi ng paraan, gagawan ko lagi ng paraan",
 266,86029893,Paraan (Demo),Mayonnaise,[14],['Pop'],"Nasira ang lahat ng plano ko
 Hindi ko alam kung pano babangon mula sa kalsada mula sa tulay ng hagupit
 Ilang taon nakong ganito
@@ -8875,7 +9681,7 @@ Minsan lang matakot sa isang katulad mo
 Hindi ko kasi alam ang diskarte sa taong bato
 Badtrip lang talaga bakit bako ganito
 Sayo lang, sayo lang
-Sana malaman ng araw at ng buwan gagawan ko lagi ng paraan, gagawan ko lagi ng paraan"
+Sana malaman ng araw at ng buwan gagawan ko lagi ng paraan, gagawan ko lagi ng paraan",
 267,146472890,Mahal Parin Kita,Daryl Ong,[14],['Pop'],"Kamusta ka
 Ako pa ba'y naiisip pa
 Kay tagal na rin nang muling nakita ka
@@ -8908,7 +9714,7 @@ Mahal pa rin kita
 Mahal pa rin kita
 Mahal pa rin kita
 Kahit na sa hangin na lamang
-Sasambitin"
+Sasambitin",
 268,83793849,Singsing,Jireh Lim,[14],['Pop'],"
 
 Mahal ko pakinggan mo
@@ -8925,7 +9731,7 @@ Maaaring bang maging
 Kabiyak ng puso mo ng puso ko
 Ikaw lang ang nais ko
 Makapiling sa hirap at ginhawa
-"
+",
 269,65920011,Salamat Sa Pananakit Mo,J Rice,[14],['Pop'],"Lahat tayoy alam ang pag-ibig
 At dahil sayo
 Natutunan ko
@@ -8985,7 +9791,7 @@ Salamat sa iyo
 Salamat
 Salamat
 Salamat
-Salamat sa iyo"
+Salamat sa iyo",
 270,78283710,Mabuti Pa Sila,Tj Monterde,[14],['Pop'],"
 
 Mabuti pa ang mga surot, laging mayrong masisiksikan
@@ -9023,7 +9829,7 @@ Ang aking luma na computer, mayron pa ring compatible
 Mabuti pa sila, mabuti pa sila
 Di tulad kong lagi na lang nag-iisa
 Di tulad kong lagi lagi na lang nag-iisa, nag-iisa
-"
+",
 271,83424188,Kahit Ika'y Panaginip Lang,Aiza Seguerra,[14],['Pop'],"
 
 Hating gabi, gising pa't naghihintay
@@ -9050,8 +9856,17 @@ Kahit na di na gumising pa
 Huwag lang malayo sa piling mo
 Iniibig kahit ika'y panaginip lang
 Iniibig kahit ika'y panaginip lang
-"
-272,160745639,Ayoko Na,Brianna,[14],['Pop'],
+",
+272,160745639,Ayoko Na,Brianna,[14],['Pop'],"Ayoko na, hindi ko na talaga kaya
+Wala naman tayong napapala
+Sa mga binibitawang salita
+At sa paulit-ulit na mga maling ginagawa
+
+Ayoko na, hindi na ako maniniwala na kaya pa
+Parang hindi nadadala
+...
+
+",MusixMatch
 273,114721575,Wag Ka Nang Umiyak,KZ Tandingan,"[52, 14]","['Karaoke', 'Pop']","Wag ka nang umiyak, sa mundong pabago-bago
 pag-ibig ko ay totoo
 ako ang iyong bangka, kung magalit man ang alon
@@ -9085,7 +9900,7 @@ Kapit ka sa akin
 Kumapit ka sa akin
 Hindi kita bibitawan
 Hindi kita pababayaan
-Hindi kita pababayaan"
+Hindi kita pababayaan",
 274,177471344,Itutuloy,John Roa,[14],['Pop'],"Ano mang bundok
 Ay handa kong akyatin
 Tuktok lang ay marating
@@ -9153,8 +9968,19 @@ Hindi ako titigil
 Ga'no man kalayo
 Handa kong dumayo
 At kahit na matalo
-Hindi ako susuko"
-275,53787566,Ayoko Na Sana,Martin Nievera,"[23, 14, 1256]","['Vocal', 'Pop', 'Pinoy Pop']",
+Hindi ako susuko",
+275,53787566,Ayoko Na Sana,Martin Nievera,"[23, 14, 1256]","['Vocal', 'Pop', 'Pinoy Pop']","Sinabi ko na sa aking sarili
+Na 'di na iibig pang muli
+Nasaktan ng minsan pilit kong iiwasan
+Ang iyong ngiti.
+
+Ayoko na sanang magmahal
+Ayoko na sanang umibig pa
+Ayoko na sanang masaktan
+Ang puso kong laging nagdurusa
+...
+
+",MusixMatch
 276,83424204,Kay Ganda Ng Ating Musika,Aiza Seguerra,[14],['Pop'],"
 
 Magmula no'ng ako'y natutong umawit
@@ -9193,7 +10019,7 @@ At sa habang buhay awitin natin
 Kay ganda ng ating musika
 Kay ganda ng ating musika
 Ito ay atin, sariling atin
-"
+",
 277,72679850,Kahit Na (Remix),Toni Gonzaga,[14],['Pop'],"Hindi alam kung bakit ako'y nahuhulog, hulog sa'yo
 Hindi alam kung bakit ako'y nahuhulog, hulog sa'yo
 
@@ -9253,7 +10079,7 @@ Sabi ng barkada (paki nila)
 Wag na lang daw sana (mahal kita)
 Ngunit sabi ng puso'y oo, oo
 Hindi alam kung bakit ako'y nahuhulog, hulog sa'yo
-(Hoy, pangit... love you)"
+(Hoy, pangit... love you)",
 278,151359327,Maghintay,Julie Anne San Jose,[14],['Pop'],"
 
 Darating ba
@@ -9307,7 +10133,7 @@ Na maghintay
 
 Sa'yo
 Maghihintay sa'yo
-"
+",
 279,72465120,Porta,Mayonnaise,"[20, 14]","['Alternative', 'Pop']","
 
 Isang umagang nakangiti
@@ -9343,7 +10169,7 @@ Wag kanang mangangamba
 Di kita pababayaan
 Kahit na nagtatampo kapa
 Di ako magsasawa
-"
+",
 280,125448806,Ang Pag-ibig Ko'y Ikaw,Angeline Quinto,[14],['Pop'],"
 
 Hanap ng puso ko
@@ -9376,7 +10202,7 @@ Yakapin ka
 Hanggang ang buhay ko ay pumanaw
 Pag ibig ko'y ikaw
 Pag ibig ko'y ikaw...
-"
+",
 281,113324761,Kung Pwede Lang (Acoustic),Sabrina,[14],['Pop'],"Verse 1:
 Hindi ka maalis sa isip ko
 Pinipilit 'di isipin pero nandito
@@ -9446,8 +10272,16 @@ Itutuwid ating landas
 Hindi ka lang mawala
 Sa piling ko
 Sa piling ko...
-Kung pwede lang..."
-282,113336865,Minsan Lang Kita Iibigin,Gary Valenciano,[14],['Pop'],
+Kung pwede lang...",
+282,113336865,Minsan Lang Kita Iibigin,Gary Valenciano,[14],['Pop'],"Mahal pangako sa iyo, hindi magbabago
+Ikaw lang ang iibigin ko
+Kahit ikaw ay lumayo at masaktan ako
+Asahan na di maglalaho
+
+Ang pag-ibig ko'y alay sayo lamang
+...
+
+",MusixMatch
 283,114658205,Hanggang Wakas,Juris,[14],['Pop'],"Kay tagal kong naghanap ng isang katulad mo
 Katuparan ng pangarap ang ako'y mahalin mo
 Katangi-tangi kang handog ng Maykapal sa akin
@@ -9473,7 +10307,7 @@ Kahit na alam ko na mawawala ka
 Asahan mong pag-ibig ko'y wagas
 Tayong dalawa hanggang wakas
 Asahan mong pag-ibig ko'y wagas
-Tayong dalawa hanggang wakas"
+Tayong dalawa hanggang wakas",
 284,114658206,Sa Isip Ko,Juris,[14],['Pop'],"Alam kong mayron ng iba, sa kilos mo'y nadarama
 Mukhang ako ay kinalimutan ko na, Wala ng masasabi
 'di ba, kapit mo'y kay lamig na, pati halik mo'y wala ng gana
@@ -9486,7 +10320,7 @@ Bawat hakbang palayo ka, walang linaw na babalik pa
 Maagaw ka man ng iba sa akin pag-ibig ko'y patuloy pa rin
 Sa isip ko'y yakap ka pa, sa isip ko'y walang iba
 Mananatiling ikaw ang kapiling, kahit sa isip ko na lamang
-Mananatiling ikaw ang kapiling, kahit sa isip ko na lamang"
+Mananatiling ikaw ang kapiling, kahit sa isip ko na lamang",
 285,123789363,Kung Sakali Man,Angeline Quinto,"[52, 14]","['Karaoke', 'Pop']","Heto na naman ako
 Nananaginip nang gising
 Iniisip ang ating kahapong nakalipas
@@ -9523,7 +10357,7 @@ Pipilitin ang sarili na maging masaya
 At kung sakaling ika'y babalik
 Ako'y nandito lang
 Kung sakali man
-Ako'y nandito lang..."
+Ako'y nandito lang...",
 286,137574769,Kapit,Christian Bautista,[14],['Pop'],"Wala na bang natitirang pagmamahal
 Kung dapat nang lumisan ba't nagtatagal
 
@@ -9567,7 +10401,7 @@ Hanggang sa dulo ikaw lang at ako
 'Wag kang bibitaw kapit (sa akin)
 Di susuko kakapit ('yan ang tangi kong hiling)
 'wag kang bibitaw kakapit sa iyo(kapit, kapit kapit)
-Hanggang sa dulo (kapit)"
+Hanggang sa dulo (kapit)",
 287,86029892,Pag Wala Ka (Demo),Mayonnaise,[14],['Pop'],"
 
 Masaya ako kapag wala ka
@@ -9613,7 +10447,7 @@ Masaya ako kapag wala ka
 'Pag wala ka
 
 Masaya, masaya
-"
+",
 288,114724403,Sana Ngayon Lang Ang Kahapon - Minus One,Angeline Quinto,[14],['Pop'],"Araw-gabi umaasa na sana'y masulyapan
 Hanggang ngayon lagi paring nagtatanong
 Bakit ako iniwan
@@ -9639,7 +10473,7 @@ Sana ay magbalik ang ating kahapon
 Maibabalik pa ba ang nakaraan
 Kung maaari lang sana baguhin at aking pigilan
 Sana... Sana'y ngayon lang ang kahapon
-Ngayon lang ang kahapon (3x)"
+Ngayon lang ang kahapon (3x)",
 289,72679848,Oh Boy,Toni Gonzaga,[14],['Pop'],"Oh boy ba't ganon ang feeling
 You're just too good to be true
 'Sang tingin. And my heart goes pumpin like boom boom
@@ -9660,7 +10494,7 @@ Ooh You make me feel high at nababaliw
 I just wanna stay like nababaliw tonight
 (Make me feel like) Make me feel so young tonight
 (Make me feel like) Bring my fairy tale to life
-(Make me feel like) Pag kapiling ka ay langit na"
+(Make me feel like) Pag kapiling ka ay langit na",
 290,148844171,Huling Muli,Kyla,[14],['Pop'],"
 
 Parang ang lungkot lang ng walang hanggan
@@ -9700,8 +10534,18 @@ Magpaalam din
 Sulitin ang nalalabing sandali
 Kung ito na ang huling muli
 Parang ang lungkot lang ng walang hanggan
-"
-291,77086502,Kahit Na,Martin Nievera,[14],['Pop'],
+",
+291,77086502,Kahit Na,Martin Nievera,[14],['Pop'],"Kahit na ikaw pa ay lumisan
+Halik mo'y di ko na malilimutan
+Lalo na't ikaw pa lang ang minahal
+Sa simula't katapusan, ikaw lamang
+Ang nagbigay kahulugan sa king buhay
+
+Kahit na ikaw pa ay lumimot
+Mundo ko'y tutuloy sa pag-ikot
+...
+
+",MusixMatch
 292,151353147,Simula Hanggang Huli,HALE,[14],['Pop'],"Walang iwanan
 Hanggang matapos ang ulan
 Hanggang matapos ang gabi
@@ -9746,7 +10590,7 @@ Ako'y sayo simula hanggang huli
 Walang iwanan
 Walang iwanan
 Walang iwanan
-Walang ."
+Walang .",
 293,205180510,Pangalawang Bitaw,The Juans,[14],['Pop'],"Hirap isipin
 Ang hirap aminin
 'Di na alam ang gagawin
@@ -9788,7 +10632,7 @@ Oras na para iwasan
 Mga nakasanayan
 Nahihirapan nang makagalaw
 Oras na para bumitaw
-Pangalawang bitaw"
+Pangalawang bitaw",
 294,173918531,Imposible,KZ Tandingan feat. Shanti Dope,[14],['Pop'],"
 
 Nanahimik ako dito, nagkakape naka de-kwatro
@@ -9831,7 +10675,7 @@ Parang ayoko na, ah ayoko na ata, ayoko na nga, ayoko na ata, ayoko na nga
 Ayoko na ata, ayoko na nga sayo...
 Imposible, imposible ang hinihiling mo...
 Imposible, imposible ang hinihiling mo...
-"
+",
 295,116159495,Bitter Song,Callalily feat. Maysh Baay,[14],['Pop'],"Di ako bitter
 Kung akala mo'y nasasaktan
 Sa sinabi mong forever
@@ -9881,7 +10725,7 @@ Nung sabihin kong ayoko na
 Cause now I am stronger
 Better kung wala ka na
 Better kung wala ka na
-Better kung wala ka na"
+Better kung wala ka na",
 296,146162702,Trio,IMAGO,[14],['Pop'],"
 
 Saan napadala
@@ -9922,9 +10766,42 @@ Inangkin mo na ang hindi sayo
 Saan na ba napadala
 Di na mangangarap pa
 [x4]
-"
-297,86029897,San Ka Galing Kagabi (Bonus Track),Mayonnaise,[14],['Pop'],
-298,157224822,Alam Na,IMAGO,[14],['Pop'],
+",
+297,86029897,San Ka Galing Kagabi (Bonus Track),Mayonnaise,[14],['Pop'],"Kung kailan tayo nagtapo, biglang binawi
+Kung kailan tayo nagsama, biglang nadali
+Sana maulit ang lahat, ang mga nangyari
+Sana maulit ang lahat, 'wag mo nang bawiin
+
+Sino ang kalaban mo at bakit ka galit?
+'Di rin pala tayo magkasama sa huli
+Sino ang kasama mo at bakit ka galit?
+Kung hindi ikaw ang mapapasa'kin
+
+...
+
+",MusixMatch
+298,157224822,Alam Na,IMAGO,[14],['Pop'],"Mapaglarong lumilipad
+Ang utak ko'y 'di nakikinig
+Pinagmamasdan ang lahat ng bagay
+Sa iyong paligid
+
+'Di mo ba alam
+Ang nasa isip ko
+Ang lahat-lahat ng bagay na iniwan mo
+'Di mo ba alam
+Ang nasa isip ko
+Dadayuhin ka hanggang sa dulo ng mundo
+
+Aaminin ko ako'y nagkakalat ng walang saysay noon
+Ngayon ako'y nagpipilit umupa ng pagkakataon
+Na malambing ka
+Na mayakap ka
+
+'Di mo ba alam
+Ang nasa isip ko
+...
+
+",MusixMatch
 299,115120515,Kung Tayo'Y Magkakalayo,Gary Valenciano,"[14, 23]","['Pop', 'Vocal']","Kung tayo’y magkakalayo
 Ang tanging iisipin ko
 Walang masayang na sandali
@@ -9941,4 +10818,4 @@ Sa paghihirap na dulot ko sa buhay mo
 Kung tayo’y magkakalayo
 At kahit mayroon ka nang iba
 Ikaw pa rin ang buhay ko kahit ika’y malayo na
-Ikaw pa rin ang buhay ko kahit ika’y malayo na"
+Ikaw pa rin ang buhay ko kahit ika’y malayo na",
